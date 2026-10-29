@@ -13,6 +13,15 @@ The questions it exists to answer:
 Everything here is derived from the Spotify API via
 [`spotify_player`](https://github.com/aome510/spotify-player). Nothing is hand-maintained.
 
+## Setup
+
+Copy `.env.example` to `.env` and fill in your Spotify user ID. `.env` is
+gitignored and is the only place any identifier of mine is stored.
+
+```sh
+cp .env.example .env
+```
+
 ## Exports
 
 | Script | Output | Notes |
@@ -34,9 +43,14 @@ minutes. The listing does carry each playlist's `snapshot_id`, and that value
 matches the one inside the playlist payload, so a cached copy stays valid until
 the snapshot changes. A warm run takes about five seconds.
 
+Only my own playlists are fetched or kept. Of 111 playlists in the account, 41
+belong to Spotify or to other people; those describe an algorithm's taste or a
+friend's, not mine, so they are filtered out before anything is written to disk.
+
 `cache/playlists/<id>.json` holds the whole payload rather than just the artist
 names, because rebuilding costs five minutes and a cache trimmed to today's
-question makes tomorrow's expensive.
+question makes tomorrow's expensive. The owner field is dropped on the way in,
+so no user ID — mine or anyone else's — reaches the cache.
 
 The cache is committed, which is deliberate. Spotify exposes no "last modified"
 or "last played" date for a playlist, so the commit dates on these files are the
@@ -57,11 +71,7 @@ Four signals disagree about what a favourite is, and none is trustworthy alone.
 | Playlist tracks | 0.15 | How many tracks in total. |
 | Followed | 0.10 | Deliberate, but binary and cheap: you follow once and forget. |
 
-Three decisions matter more than the weights:
-
-**Only my own playlists count.** 41 of 111 playlists are Spotify's or other
-people's. Artists in those reflect an algorithm's taste or a friend's, so the
-score is built from the playlists I own.
+Two decisions matter more than the weights:
 
 **Spread and volume are counted separately.** 52 tracks across 14 playlists means
 something different from 54 tracks across 5 — one is an artist I keep reaching
@@ -79,8 +89,8 @@ W_LIKED=0.5 W_TOP=0.3 W_SPREAD=0.1 W_TRACKS=0.05 W_FOLLOWED=0.05 ./bin/favourite
 ```
 
 `MIN_TRACKS` (default 3) sets how many playlist appearances an artist needs to
-appear at all, absent any other signal. Of the 7,012 artists in my playlists,
-4,238 appear exactly once; without a floor the ranking is mostly noise.
+appear at all, absent any other signal. Of the 5,331 artists in my playlists,
+3,261 appear exactly once; without a floor the ranking is mostly noise.
 
 ## Data in here
 
@@ -90,9 +100,9 @@ Committed data is Spotify metadata: artist names, track names, album names,
 playlist names and playlist IDs. Playlist names do incidentally carry first names
 of friends and family.
 
-Playlist owner display names are stripped at fetch time — only the opaque owner
-ID is kept, because the ranking needs it to tell my playlists from everyone
-else's.
+**No usernames or user IDs are stored.** Other people's playlists are never
+fetched, and the owner field is dropped from my own before they are cached. My
+own user ID lives in `.env`, which is gitignored.
 
 **No credentials are ever committed.** `spotify_player` keeps its OAuth token
 outside this repository, and nothing here reads or copies it.

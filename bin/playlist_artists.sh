@@ -5,6 +5,10 @@ root="$(cd "$(dirname "$0")/.." && pwd)"
 cache="$root/cache/playlists"
 out="$root/playlist_artists.md"
 
+# shellcheck source=/dev/null
+[ -f "$root/.env" ] && . "$root/.env"
+: "${SPOTIFY_USER_ID:?not set — copy .env.example to .env and fill it in}"
+
 force=0
 if [ "${1:-}" = "--force" ]; then
   force=1
@@ -15,8 +19,9 @@ fi
 
 mkdir -p "$cache"
 
-listing=$(spotify_player get key user-playlists)
-ids=$(jq -r '.[].id' <<< "$listing" | sort)
+mine=$(spotify_player get key user-playlists |
+  jq --arg me "$SPOTIFY_USER_ID" '[.[] | select(.owner[1] == $me) | {id, snapshot_id}]')
+ids=$(jq -r '.[].id' <<< "$mine" | sort)
 
 fetched=0
 reused=0
@@ -29,10 +34,10 @@ while IFS=$'\t' read -r id snapshot; do
   fi
   # Stage then move: an interrupted fetch must not leave a file that later passes the snapshot check.
   spotify_player get item -i "$id" playlist |
-    jq '.playlist |= (. + {owner_id: .owner[1]} | del(.owner))' > "$file.tmp"
+    jq 'del(.playlist.owner, .playlist.owner_id)' > "$file.tmp"
   mv "$file.tmp" "$file"
   fetched=$((fetched + 1))
-done < <(jq -r '.[] | [.id, .snapshot_id] | @tsv' <<< "$listing")
+done < <(jq -r '.[] | [.id, .snapshot_id] | @tsv' <<< "$mine")
 
 pruned=0
 for file in "$cache"/*.json; do

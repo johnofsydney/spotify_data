@@ -4,7 +4,6 @@ set -euo pipefail
 root="$(cd "$(dirname "$0")/.." && pwd)"
 out="$root/favourite_artists.md"
 
-owner="${SPOTIFY_USER_ID:-REDACTED}"
 
 w_liked="${W_LIKED:-0.30}"
 w_top="${W_TOP:-0.25}"
@@ -24,8 +23,8 @@ counted() {
 liked=$(counted "$root/liked_tracks_artists.md")
 top=$(counted "$top_file")
 followed=$(jq -Rn '[inputs | select(length > 0)]' "$root/followed_artists.md")
-playlists=$(jq -s --arg owner "$owner" '
-  [.[] | select(.playlist.owner_id == $owner) | . as $p
+playlists=$(jq -s '
+  [.[] | . as $p
        | .tracks[].artists[].name | {name: ., pl: $p.playlist.id}]
   | group_by(.name)
   | map({key: .[0].name,
