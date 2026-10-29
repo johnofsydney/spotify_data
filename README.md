@@ -65,13 +65,20 @@ Four signals disagree about what a favourite is, and none is trustworthy alone.
 
 | Signal | Weight | What it means |
 | --- | --- | --- |
-| Liked tracks | 0.30 | A deliberate, per-track endorsement. The most honest signal. |
-| Top tracks | 0.25 | What Spotify says I actually play — but only ever 50 tracks, so it sees a narrow slice. |
-| Playlist spread | 0.20 | How many *different* playlists an artist appears in. |
-| Playlist tracks | 0.15 | How many tracks in total. |
-| Followed | 0.10 | Deliberate, but binary and cheap: you follow once and forget. |
+| Top tracks | 0.25 | What I actually play. Spotify returns a short-term window, so this is the only signal that reflects *now* rather than a decision made years ago. Only ever 50 tracks, so it sees a narrow slice. |
+| Liked tracks | 0.22 | A deliberate, per-track endorsement — but I don't use likes much, so this signal is thinner than it looks. |
+| Dedicated playlist | 0.20 | Whether I built a playlist for this artist alone. The most deliberate statement of fandom in the data. |
+| Playlist spread | 0.15 | How many *different* playlists an artist appears in. |
+| Playlist tracks | 0.10 | How many tracks in total. |
+| Followed | 0.08 | Deliberate, but binary and cheap: you follow once and forget. |
 
-Two decisions matter more than the weights:
+Three decisions matter more than the weights:
+
+**A dedicated playlist counts for a lot.** An artist who is more than half of a
+playlist of five or more tracks gets the `dedicated` flag. I have fourteen such
+playlists, mostly named `BO <artist>`, and building one is a clearer statement
+than any number of likes. Detection is by share, not by the naming convention,
+so it keeps working if I stop using the `BO` prefix.
 
 **Spread and volume are counted separately.** 52 tracks across 14 playlists means
 something different from 54 tracks across 5 — one is an artist I keep reaching
@@ -88,9 +95,21 @@ Every weight is an environment variable, so the model can be argued with:
 W_LIKED=0.5 W_TOP=0.3 W_SPREAD=0.1 W_TRACKS=0.05 W_FOLLOWED=0.05 ./bin/favourite_artists.sh
 ```
 
+`DED_SHARE` (0.5) and `DED_SIZE` (5) set what counts as a dedicated playlist.
 `MIN_TRACKS` (default 3) sets how many playlist appearances an artist needs to
 appear at all, absent any other signal. Of the 5,331 artists in my playlists,
 3,261 appear exactly once; without a floor the ranking is mostly noise.
+
+### Per-playlist weights
+
+`playlist_weights.json` gives every playlist a weight, default `1.0`, applied to
+both its track and spread contributions. `0` excludes a playlist entirely, so a
+blacklist and a whitelist are both just weights.
+
+It exists because playlists are not equal evidence. `Starred`, `My Shazam
+Tracks` and `Liked from Radio` are capture buckets rather than curation, and a
+playlist I have not opened in years still counts in full — Spotify exposes no
+date to decay it by.
 
 ## Data in here
 
