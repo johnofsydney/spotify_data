@@ -42,6 +42,7 @@
 31x  If These Trees Could Talk
 31x  Mogwai
 30x  All Them Witches
+30x  The Church
 29x  Above & Beyond
 29x  Arcade Fire
 29x  Elder
@@ -87,7 +88,6 @@
 20x  Leftfield
 20x  October Drift
 20x  Pixies
-20x  The Church
 20x  The Cure
 20x  The Dandy Warhols
 20x  The Stone Roses
@@ -195,6 +195,7 @@
 11x  Black Mountain
 11x  Chris Bekker
 11x  Columbia Mills
+11x  Dappled Cities
 11x  Deerhunter
 11x  Devin Townsend
 11x  Erki Pärnoja

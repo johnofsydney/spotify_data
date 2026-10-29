@@ -1,0 +1,9 @@
+# Credentials — never commit.
+.env
+*.token
+*credentials*
+*secret*
+
+# Local scratch.
+*.tmp
+.DS_Store

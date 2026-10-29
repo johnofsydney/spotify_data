@@ -1,1 +1,877 @@
-{"playlist":{"id":"37i9dQZF1Fcozn7SffRy8V","collaborative":false,"name":"Concerts Near You","owner":["REDACTED","REDACTED"],"desc":"Find artists touring near you, for you. Updates every Wednesday.","current_folder_id":0,"snapshot_id":"AAAAAAAAAAAWl21/jQegSg3cNEOzbUMJ"},"tracks":[{"id":"4zFqXe8Qv20ArWnBgmj167","name":"Strata","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"album":{"id":"4mfX9k6ESpTZbahuoguR42","release_date":"2026-05-29","name":"Through Zero","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"typ":"album","added_at":0},"duration":{"secs":648,"nanos":400000000},"explicit":false},{"id":"2BdgbJnOLYVjDfR6eBbxQ4","name":"On and On","artists":[{"id":"3uAWPonHw80gRQRUjhdW5a","name":"Grace Cummings"}],"album":{"id":"0Miml9HQozHwxubdIFXOQs","release_date":"2024-04-05","name":"Ramona","artists":[{"id":"3uAWPonHw80gRQRUjhdW5a","name":"Grace Cummings"}],"typ":"album","added_at":0},"duration":{"secs":232,"nanos":931000000},"explicit":false},{"id":"5OoxfZXbINjTED0TIzr4z5","name":"Dead Eyes of London","artists":[{"id":"16PcI6JjJuUfPlsX8Ffvfl","name":"Uncle Acid & The Deadbeats"}],"album":{"id":"54cXC8kAS5Gk5caZMxcYmG","release_date":"2010","name":"Vol 1","artists":[{"id":"16PcI6JjJuUfPlsX8Ffvfl","name":"Uncle Acid & The Deadbeats"}],"typ":"album","added_at":0},"duration":{"secs":243,"nanos":720000000},"explicit":false},{"id":"4AX3HUxF377bqmKfqC0s2N","name":"No Promises","artists":[{"id":"3IUisqn0mluZR0LITs8Sqk","name":"ICEHOUSE"}],"album":{"id":"6VSHcaLDYJIv5dIu5nkuOS","release_date":"2015-04-28","name":"Modern Girls - Original Motion Picture Soundtrack","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":222,"nanos":200000000},"explicit":false},{"id":"79FPdsekcDp7RWK1IzClbr","name":"Human","artists":[{"id":"1aX2dmV8XoHYCOQRxjPESG","name":"The Human League"}],"album":{"id":"6RKJu77xXDgTqGWCEmzMll","release_date":"1986-01-01","name":"Crash","artists":[{"id":"1aX2dmV8XoHYCOQRxjPESG","name":"The Human League"}],"typ":"album","added_at":0},"duration":{"secs":265,"nanos":293000000},"explicit":false},{"id":"14H2fE4WEdkEem0kjVeODT","name":"Phantom of the Opera - 2015 Remaster","artists":[{"id":"6mdiAmATAx73kdxrNrnlao","name":"Iron Maiden"}],"album":{"id":"3DNeMApEMCo4IDXNMYnlFi","release_date":"1980","name":"Iron Maiden (2015 Remaster)","artists":[{"id":"6mdiAmATAx73kdxrNrnlao","name":"Iron Maiden"}],"typ":"album","added_at":0},"duration":{"secs":441,"nanos":466000000},"explicit":false},{"id":"3BWQqRRyBklbYLQjyT6waU","name":"Eyes, Lungs, Arms & Mind","artists":[{"id":"58HjcrZgkKUaldPPK7BuDX","name":"Khan"}],"album":{"id":"28qugPX0f8bKESOgEscAPt","release_date":"2023-02-28","name":"Creatures","artists":[{"id":"58HjcrZgkKUaldPPK7BuDX","name":"Khan"}],"typ":"album","added_at":0},"duration":{"secs":467,"nanos":423000000},"explicit":false},{"id":"2TugrDKkd55mfVOMVZsfO8","name":"who’s your boyfriend","artists":[{"id":"5b5bt4mZQpJMoCRbiQ7diH","name":"Royel Otis"}],"album":{"id":"4sKaRStL8BDpRkNss42nhX","release_date":"2025-08-21","name":"hickey","artists":[{"id":"5b5bt4mZQpJMoCRbiQ7diH","name":"Royel Otis"}],"typ":"album","added_at":0},"duration":{"secs":173,"nanos":426000000},"explicit":false},{"id":"32fkbMi7XlY85c9AGXyvhl","name":"41","artists":[{"id":"29Wmfm1CojrjQ3aQP0FI65","name":"All Them Witches"}],"album":{"id":"7j6skpqor6kgLs7NoPCC0j","release_date":"2020-09-04","name":"Nothing as the Ideal","artists":[{"id":"29Wmfm1CojrjQ3aQP0FI65","name":"All Them Witches"}],"typ":"album","added_at":0},"duration":{"secs":320,"nanos":350000000},"explicit":false},{"id":"4W6JVMAInvZodDQ6mxuu5C","name":"For All Time - Extended Mix","artists":[{"id":"5gTVJRQmuS88nOhhdHqErL","name":"Jody Wisternoff"},{"id":"7rvEbSgDUGKTgzZskdbeEN","name":"Hendrik Burkhard"}],"album":{"id":"1w4AvL51OWxQImDhYqxlNY","release_date":"2018-01-12","name":"For All Time","artists":[{"id":"5gTVJRQmuS88nOhhdHqErL","name":"Jody Wisternoff"}],"typ":"single","added_at":0},"duration":{"secs":464,"nanos":879000000},"explicit":false},{"id":"71k4sshCYFqhylkuHTKqa5","name":"Exactly How You Are","artists":[{"id":"1ououJVWgWsHWMYDLvT7sH","name":"Ball Park Music"}],"album":{"id":"6dABktMUhysiIxooUBw0Cd","release_date":"2018-02-16","name":"GOOD MOOD","artists":[{"id":"1ououJVWgWsHWMYDLvT7sH","name":"Ball Park Music"}],"typ":"album","added_at":0},"duration":{"secs":216,"nanos":379000000},"explicit":true},{"id":"2nfHtKszA0Ae7vQJXbARp7","name":"Another Riff For The Good Times","artists":[{"id":"5Dyfxq0ZrFjjeFBdSNxDbo","name":"YOTTO"}],"album":{"id":"4ACy5ync0g9C1cgphs8YMG","release_date":"2020-07-07","name":"Another Riff For The Good Times / Daydreaming","artists":[{"id":"5Dyfxq0ZrFjjeFBdSNxDbo","name":"YOTTO"}],"typ":"single","added_at":0},"duration":{"secs":228,"nanos":843000000},"explicit":false},{"id":"4XrMvzjUo1uNvwoYW5RzGq","name":"Just Dumb","artists":[{"id":"2NqgE99Ll5vOTvmbN7O2R6","name":"Boy & Bear"}],"album":{"id":"5IOotiQzNP366lAZxXM5J2","release_date":"2015-10-09","name":"Limit Of Love","artists":[{"id":"2NqgE99Ll5vOTvmbN7O2R6","name":"Boy & Bear"}],"typ":"album","added_at":0},"duration":{"secs":313,"nanos":867000000},"explicit":false},{"id":"3iCtQTGdCYxyaoogp4noUU","name":"Monsters","artists":[{"id":"6abfAcMcC3hYJcaxzLeiCW","name":"All India Radio"}],"album":{"id":"5UltYQyHUlwUIjdY0XEabM","release_date":"2018-04-25","name":"Space","artists":[{"id":"6abfAcMcC3hYJcaxzLeiCW","name":"All India Radio"}],"typ":"album","added_at":0},"duration":{"secs":244,"nanos":172000000},"explicit":false},{"id":"1KKAzCSZ7tS4KWDqG6uxVA","name":"Let There Be Love - 2002 Digital Remaster","artists":[{"id":"6hN9F0iuULZYWXppob22Aj","name":"Simple Minds"}],"album":{"id":"2O5Qb4CQBTkN7UIvFBTCsq","release_date":"1991-04-08","name":"Real Life","artists":[{"id":"6hN9F0iuULZYWXppob22Aj","name":"Simple Minds"}],"typ":"album","added_at":0},"duration":{"secs":309,"nanos":426000000},"explicit":false},{"id":"1IgGwEIQkA7wEo1ewvxVsN","name":"If We Ever","artists":[{"id":"01PnN11ovfen6xUOHfNpn3","name":"Overmono"},{"id":"0bxHci3JIhhKA53n8rH3tT","name":"High Contrast"}],"album":{"id":"3s4UEFmRloMlo251IVJN1e","release_date":"2025-08-26","name":"If We Ever","artists":[{"id":"01PnN11ovfen6xUOHfNpn3","name":"Overmono"},{"id":"0bxHci3JIhhKA53n8rH3tT","name":"High Contrast"}],"typ":"single","added_at":0},"duration":{"secs":209,"nanos":850000000},"explicit":false},{"id":"0LuiDD5ODM004hhf8CIlrN","name":"Getting Away (From This World)","artists":[{"id":"5ydii9WwX1NPG6k5lrAb6m","name":"Ratcat"}],"album":{"id":"2Y6H1ghU2PG77JuuXUqwd5","release_date":"2001-09-03","name":"Blind Love/Tingles","artists":[{"id":"5ydii9WwX1NPG6k5lrAb6m","name":"Ratcat"}],"typ":"album","added_at":0},"duration":{"secs":319,"nanos":333000000},"explicit":false},{"id":"3fsOBwBwxBB4j1IFhh3s9V","name":"Once Upon the Cross","artists":[{"id":"2K3GorTixXKAiwe2t9lO89","name":"Deicide"}],"album":{"id":"0ZfJEIY1iOasgnt67JleR7","release_date":"1995-01-01","name":"Once Upon The Cross","artists":[{"id":"2K3GorTixXKAiwe2t9lO89","name":"Deicide"}],"typ":"album","added_at":0},"duration":{"secs":214,"nanos":773000000},"explicit":false},{"id":"7omimI35WE3ajP92f7PvdL","name":"Pink Smoke","artists":[{"id":"0YUqHKQEwFgGaDVSaHTS55","name":"Quivers"}],"album":{"id":"3CX4gAUP3aiJYr01gVBzAf","release_date":"2024-08-09","name":"Oyster Cuts","artists":[{"id":"0YUqHKQEwFgGaDVSaHTS55","name":"Quivers"}],"typ":"album","added_at":0},"duration":{"secs":267,"nanos":553000000},"explicit":false},{"id":"4djHuoHnH3bEKf5tbviToI","name":"Run Away","artists":[{"id":"3vbKDsSS70ZX9D2OcvbZmS","name":"Beck"}],"album":{"id":"6gP36h0Cv8vTiBmdbHO3qI","release_date":"2026-09-18","name":"Ride Lonesome","artists":[{"id":"3vbKDsSS70ZX9D2OcvbZmS","name":"Beck"}],"typ":"album","added_at":0},"duration":{"secs":219,"nanos":29000000},"explicit":false},{"id":"1ez4uWPnJwYufNhYTLVsJr","name":"Soldier Side","artists":[{"id":"5eAWCfyUhZtHHtBdNk56l1","name":"System Of A Down"}],"album":{"id":"3QxX3NbWyLlLG6lP1xveL3","release_date":"2005-11-22","name":"Hypnotize","artists":[{"id":"5eAWCfyUhZtHHtBdNk56l1","name":"System Of A Down"}],"typ":"album","added_at":0},"duration":{"secs":220,"nanos":266000000},"explicit":false},{"id":"0uZ0Ec6FkEwHGRhrtvcJAo","name":"Stone Over Water","artists":[{"id":"0YrtvWJMgSdVrk3SfNjTbx","name":"Death Cab for Cutie"}],"album":{"id":"4D1zUsXw30DbfOqY1gVsfT","release_date":"2026-06-05","name":"I Built You A Tower","artists":[{"id":"0YrtvWJMgSdVrk3SfNjTbx","name":"Death Cab for Cutie"}],"typ":"album","added_at":0},"duration":{"secs":194,"nanos":225000000},"explicit":false},{"id":"1sA1DhT0bLyeICf8NalPS7","name":"Aperture","artists":[{"id":"6KImCVD70vtIoJWnq6nGn3","name":"Harry Styles"}],"album":{"id":"69BqE1V8Bzb9GCyeP1fFeR","release_date":"2026-03-06","name":"Kiss All The Time. Disco, Occasionally.","artists":[{"id":"6KImCVD70vtIoJWnq6nGn3","name":"Harry Styles"}],"typ":"album","added_at":0},"duration":{"secs":311,"nanos":733000000},"explicit":false},{"id":"7tJi6GDPUK9PgIA44dLWtn","name":"Reminiscence","artists":[{"id":"7E3BRXV9ZbCt5lQTCXMTia","name":"Ólafur Arnalds"},{"id":"0d6alfZHUx3xoRnPjkTL7Q","name":"Alice Sara Ott"}],"album":{"id":"3e9ZZe5qexHd61X9ucUNxh","release_date":"2015-03-13","name":"The Chopin Project","artists":[{"id":"7E3BRXV9ZbCt5lQTCXMTia","name":"Ólafur Arnalds"},{"id":"0d6alfZHUx3xoRnPjkTL7Q","name":"Alice Sara Ott"}],"typ":"album","added_at":0},"duration":{"secs":268,"nanos":146000000},"explicit":false},{"id":"1mtQ5G6gB3UHI2BGTuTV3Y","name":"Hit The Sky","artists":[{"id":"3btzEQD6sugImIHPMRgkwV","name":"Wolf Alice"}],"album":{"id":"2UUqr2awy2IK0vODe7Hb6i","release_date":"2026-08-21","name":"The Clearing (B Sides)","artists":[{"id":"3btzEQD6sugImIHPMRgkwV","name":"Wolf Alice"}],"typ":"album","added_at":0},"duration":{"secs":159,"nanos":906000000},"explicit":false},{"id":"7am7xXvyon8NvZTaLN3DGb","name":"Also Sprach The King Of Euro-Disco","artists":[{"id":"4GMP7hq7VXDmFiQ3KgiNtY","name":"Ed Kuepper"}],"album":{"id":"68NIVw7pQz4d8U3HxspNBu","release_date":"2021-05-28","name":"Singles '86 - '96","artists":[{"id":"4GMP7hq7VXDmFiQ3KgiNtY","name":"Ed Kuepper"}],"typ":"album","added_at":0},"duration":{"secs":201,"nanos":213000000},"explicit":false},{"id":"0Ln5tJyLX5qusquBOtq7wf","name":"Fire","artists":[{"id":"11wRdbnoYqRddKBrpHt4Ue","name":"Kasabian"}],"album":{"id":"2DHGeuRTttjurZDb0pSjx6","release_date":"2009","name":"West Ryder Pauper Lunatic Asylum","artists":[{"id":"11wRdbnoYqRddKBrpHt4Ue","name":"Kasabian"}],"typ":"album","added_at":0},"duration":{"secs":252,"nanos":279000000},"explicit":false},{"id":"5sHnbnL8ipoA0lcXmmDxvv","name":"Do You Like It","artists":[{"id":"6zKENpFrMgdaWF87sfnmWF","name":"Skunkhour"}],"album":{"id":"1UV6VyG48n3rTHEe9PW0XJ","release_date":"1994-09-18","name":"Skunkhour","artists":[{"id":"6zKENpFrMgdaWF87sfnmWF","name":"Skunkhour"}],"typ":"album","added_at":0},"duration":{"secs":314,"nanos":733000000},"explicit":false},{"id":"3zEN0ii6s4DHHBpnTp3RP7","name":"We Are The People","artists":[{"id":"67hb7towEyKvt5Z8Bx306c","name":"Empire Of The Sun"}],"album":{"id":"5B6XfyHHYawyLkEvNvhSPh","release_date":"2008-10-03","name":"Walking On A Dream (10th Anniversary Edition)","artists":[{"id":"67hb7towEyKvt5Z8Bx306c","name":"Empire Of The Sun"}],"typ":"album","added_at":0},"duration":{"secs":267,"nanos":373000000},"explicit":false},{"id":"1EGYTwqNjRgi4kpMOi00d4","name":"Revealed - Remastered","artists":[{"id":"2XTff332rrZaE1rBM47Krp","name":"Blank & Jones"},{"id":"73RfKk8YdbdXckjcMBCAd4","name":"Steve Kilbey"}],"album":{"id":"3BeS6qvK2yvaf0qBEkQeai","release_date":"2005-09-26","name":"Relax Edition 2","artists":[{"id":"2XTff332rrZaE1rBM47Krp","name":"Blank & Jones"}],"typ":"album","added_at":0},"duration":{"secs":357,"nanos":13000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "37i9dQZF1Fcozn7SffRy8V",
+    "collaborative": false,
+    "name": "Concerts Near You",
+    "desc": "Find artists touring near you, for you. Updates every Wednesday.",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAAAAAAAAWl21/jQegSg3cNEOzbUMJ",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "4zFqXe8Qv20ArWnBgmj167",
+      "name": "Strata",
+      "artists": [
+        {
+          "id": "1687IqXRdWmbRshgn194tT",
+          "name": "Elder"
+        }
+      ],
+      "album": {
+        "id": "4mfX9k6ESpTZbahuoguR42",
+        "release_date": "2026-05-29",
+        "name": "Through Zero",
+        "artists": [
+          {
+            "id": "1687IqXRdWmbRshgn194tT",
+            "name": "Elder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 648,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2BdgbJnOLYVjDfR6eBbxQ4",
+      "name": "On and On",
+      "artists": [
+        {
+          "id": "3uAWPonHw80gRQRUjhdW5a",
+          "name": "Grace Cummings"
+        }
+      ],
+      "album": {
+        "id": "0Miml9HQozHwxubdIFXOQs",
+        "release_date": "2024-04-05",
+        "name": "Ramona",
+        "artists": [
+          {
+            "id": "3uAWPonHw80gRQRUjhdW5a",
+            "name": "Grace Cummings"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 232,
+        "nanos": 931000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5OoxfZXbINjTED0TIzr4z5",
+      "name": "Dead Eyes of London",
+      "artists": [
+        {
+          "id": "16PcI6JjJuUfPlsX8Ffvfl",
+          "name": "Uncle Acid & The Deadbeats"
+        }
+      ],
+      "album": {
+        "id": "54cXC8kAS5Gk5caZMxcYmG",
+        "release_date": "2010",
+        "name": "Vol 1",
+        "artists": [
+          {
+            "id": "16PcI6JjJuUfPlsX8Ffvfl",
+            "name": "Uncle Acid & The Deadbeats"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 243,
+        "nanos": 720000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4AX3HUxF377bqmKfqC0s2N",
+      "name": "No Promises",
+      "artists": [
+        {
+          "id": "3IUisqn0mluZR0LITs8Sqk",
+          "name": "ICEHOUSE"
+        }
+      ],
+      "album": {
+        "id": "6VSHcaLDYJIv5dIu5nkuOS",
+        "release_date": "2015-04-28",
+        "name": "Modern Girls - Original Motion Picture Soundtrack",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "79FPdsekcDp7RWK1IzClbr",
+      "name": "Human",
+      "artists": [
+        {
+          "id": "1aX2dmV8XoHYCOQRxjPESG",
+          "name": "The Human League"
+        }
+      ],
+      "album": {
+        "id": "6RKJu77xXDgTqGWCEmzMll",
+        "release_date": "1986-01-01",
+        "name": "Crash",
+        "artists": [
+          {
+            "id": "1aX2dmV8XoHYCOQRxjPESG",
+            "name": "The Human League"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 265,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "14H2fE4WEdkEem0kjVeODT",
+      "name": "Phantom of the Opera - 2015 Remaster",
+      "artists": [
+        {
+          "id": "6mdiAmATAx73kdxrNrnlao",
+          "name": "Iron Maiden"
+        }
+      ],
+      "album": {
+        "id": "3DNeMApEMCo4IDXNMYnlFi",
+        "release_date": "1980",
+        "name": "Iron Maiden (2015 Remaster)",
+        "artists": [
+          {
+            "id": "6mdiAmATAx73kdxrNrnlao",
+            "name": "Iron Maiden"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 441,
+        "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3BWQqRRyBklbYLQjyT6waU",
+      "name": "Eyes, Lungs, Arms & Mind",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "28qugPX0f8bKESOgEscAPt",
+        "release_date": "2023-02-28",
+        "name": "Creatures",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 467,
+        "nanos": 423000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2TugrDKkd55mfVOMVZsfO8",
+      "name": "who’s your boyfriend",
+      "artists": [
+        {
+          "id": "5b5bt4mZQpJMoCRbiQ7diH",
+          "name": "Royel Otis"
+        }
+      ],
+      "album": {
+        "id": "4sKaRStL8BDpRkNss42nhX",
+        "release_date": "2025-08-21",
+        "name": "hickey",
+        "artists": [
+          {
+            "id": "5b5bt4mZQpJMoCRbiQ7diH",
+            "name": "Royel Otis"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 173,
+        "nanos": 426000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "32fkbMi7XlY85c9AGXyvhl",
+      "name": "41",
+      "artists": [
+        {
+          "id": "29Wmfm1CojrjQ3aQP0FI65",
+          "name": "All Them Witches"
+        }
+      ],
+      "album": {
+        "id": "7j6skpqor6kgLs7NoPCC0j",
+        "release_date": "2020-09-04",
+        "name": "Nothing as the Ideal",
+        "artists": [
+          {
+            "id": "29Wmfm1CojrjQ3aQP0FI65",
+            "name": "All Them Witches"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 320,
+        "nanos": 350000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4W6JVMAInvZodDQ6mxuu5C",
+      "name": "For All Time - Extended Mix",
+      "artists": [
+        {
+          "id": "5gTVJRQmuS88nOhhdHqErL",
+          "name": "Jody Wisternoff"
+        },
+        {
+          "id": "7rvEbSgDUGKTgzZskdbeEN",
+          "name": "Hendrik Burkhard"
+        }
+      ],
+      "album": {
+        "id": "1w4AvL51OWxQImDhYqxlNY",
+        "release_date": "2018-01-12",
+        "name": "For All Time",
+        "artists": [
+          {
+            "id": "5gTVJRQmuS88nOhhdHqErL",
+            "name": "Jody Wisternoff"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 464,
+        "nanos": 879000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "71k4sshCYFqhylkuHTKqa5",
+      "name": "Exactly How You Are",
+      "artists": [
+        {
+          "id": "1ououJVWgWsHWMYDLvT7sH",
+          "name": "Ball Park Music"
+        }
+      ],
+      "album": {
+        "id": "6dABktMUhysiIxooUBw0Cd",
+        "release_date": "2018-02-16",
+        "name": "GOOD MOOD",
+        "artists": [
+          {
+            "id": "1ououJVWgWsHWMYDLvT7sH",
+            "name": "Ball Park Music"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 216,
+        "nanos": 379000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "2nfHtKszA0Ae7vQJXbARp7",
+      "name": "Another Riff For The Good Times",
+      "artists": [
+        {
+          "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+          "name": "YOTTO"
+        }
+      ],
+      "album": {
+        "id": "4ACy5ync0g9C1cgphs8YMG",
+        "release_date": "2020-07-07",
+        "name": "Another Riff For The Good Times / Daydreaming",
+        "artists": [
+          {
+            "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+            "name": "YOTTO"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 228,
+        "nanos": 843000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4XrMvzjUo1uNvwoYW5RzGq",
+      "name": "Just Dumb",
+      "artists": [
+        {
+          "id": "2NqgE99Ll5vOTvmbN7O2R6",
+          "name": "Boy & Bear"
+        }
+      ],
+      "album": {
+        "id": "5IOotiQzNP366lAZxXM5J2",
+        "release_date": "2015-10-09",
+        "name": "Limit Of Love",
+        "artists": [
+          {
+            "id": "2NqgE99Ll5vOTvmbN7O2R6",
+            "name": "Boy & Bear"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 313,
+        "nanos": 867000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3iCtQTGdCYxyaoogp4noUU",
+      "name": "Monsters",
+      "artists": [
+        {
+          "id": "6abfAcMcC3hYJcaxzLeiCW",
+          "name": "All India Radio"
+        }
+      ],
+      "album": {
+        "id": "5UltYQyHUlwUIjdY0XEabM",
+        "release_date": "2018-04-25",
+        "name": "Space",
+        "artists": [
+          {
+            "id": "6abfAcMcC3hYJcaxzLeiCW",
+            "name": "All India Radio"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 244,
+        "nanos": 172000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1KKAzCSZ7tS4KWDqG6uxVA",
+      "name": "Let There Be Love - 2002 Digital Remaster",
+      "artists": [
+        {
+          "id": "6hN9F0iuULZYWXppob22Aj",
+          "name": "Simple Minds"
+        }
+      ],
+      "album": {
+        "id": "2O5Qb4CQBTkN7UIvFBTCsq",
+        "release_date": "1991-04-08",
+        "name": "Real Life",
+        "artists": [
+          {
+            "id": "6hN9F0iuULZYWXppob22Aj",
+            "name": "Simple Minds"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 309,
+        "nanos": 426000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1IgGwEIQkA7wEo1ewvxVsN",
+      "name": "If We Ever",
+      "artists": [
+        {
+          "id": "01PnN11ovfen6xUOHfNpn3",
+          "name": "Overmono"
+        },
+        {
+          "id": "0bxHci3JIhhKA53n8rH3tT",
+          "name": "High Contrast"
+        }
+      ],
+      "album": {
+        "id": "3s4UEFmRloMlo251IVJN1e",
+        "release_date": "2025-08-26",
+        "name": "If We Ever",
+        "artists": [
+          {
+            "id": "01PnN11ovfen6xUOHfNpn3",
+            "name": "Overmono"
+          },
+          {
+            "id": "0bxHci3JIhhKA53n8rH3tT",
+            "name": "High Contrast"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 209,
+        "nanos": 850000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0LuiDD5ODM004hhf8CIlrN",
+      "name": "Getting Away (From This World)",
+      "artists": [
+        {
+          "id": "5ydii9WwX1NPG6k5lrAb6m",
+          "name": "Ratcat"
+        }
+      ],
+      "album": {
+        "id": "2Y6H1ghU2PG77JuuXUqwd5",
+        "release_date": "2001-09-03",
+        "name": "Blind Love/Tingles",
+        "artists": [
+          {
+            "id": "5ydii9WwX1NPG6k5lrAb6m",
+            "name": "Ratcat"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 319,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3fsOBwBwxBB4j1IFhh3s9V",
+      "name": "Once Upon the Cross",
+      "artists": [
+        {
+          "id": "2K3GorTixXKAiwe2t9lO89",
+          "name": "Deicide"
+        }
+      ],
+      "album": {
+        "id": "0ZfJEIY1iOasgnt67JleR7",
+        "release_date": "1995-01-01",
+        "name": "Once Upon The Cross",
+        "artists": [
+          {
+            "id": "2K3GorTixXKAiwe2t9lO89",
+            "name": "Deicide"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 214,
+        "nanos": 773000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7omimI35WE3ajP92f7PvdL",
+      "name": "Pink Smoke",
+      "artists": [
+        {
+          "id": "0YUqHKQEwFgGaDVSaHTS55",
+          "name": "Quivers"
+        }
+      ],
+      "album": {
+        "id": "3CX4gAUP3aiJYr01gVBzAf",
+        "release_date": "2024-08-09",
+        "name": "Oyster Cuts",
+        "artists": [
+          {
+            "id": "0YUqHKQEwFgGaDVSaHTS55",
+            "name": "Quivers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 267,
+        "nanos": 553000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4djHuoHnH3bEKf5tbviToI",
+      "name": "Run Away",
+      "artists": [
+        {
+          "id": "3vbKDsSS70ZX9D2OcvbZmS",
+          "name": "Beck"
+        }
+      ],
+      "album": {
+        "id": "6gP36h0Cv8vTiBmdbHO3qI",
+        "release_date": "2026-09-18",
+        "name": "Ride Lonesome",
+        "artists": [
+          {
+            "id": "3vbKDsSS70ZX9D2OcvbZmS",
+            "name": "Beck"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 219,
+        "nanos": 29000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ez4uWPnJwYufNhYTLVsJr",
+      "name": "Soldier Side",
+      "artists": [
+        {
+          "id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "System Of A Down"
+        }
+      ],
+      "album": {
+        "id": "3QxX3NbWyLlLG6lP1xveL3",
+        "release_date": "2005-11-22",
+        "name": "Hypnotize",
+        "artists": [
+          {
+            "id": "5eAWCfyUhZtHHtBdNk56l1",
+            "name": "System Of A Down"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 220,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0uZ0Ec6FkEwHGRhrtvcJAo",
+      "name": "Stone Over Water",
+      "artists": [
+        {
+          "id": "0YrtvWJMgSdVrk3SfNjTbx",
+          "name": "Death Cab for Cutie"
+        }
+      ],
+      "album": {
+        "id": "4D1zUsXw30DbfOqY1gVsfT",
+        "release_date": "2026-06-05",
+        "name": "I Built You A Tower",
+        "artists": [
+          {
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 194,
+        "nanos": 225000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1sA1DhT0bLyeICf8NalPS7",
+      "name": "Aperture",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles"
+        }
+      ],
+      "album": {
+        "id": "69BqE1V8Bzb9GCyeP1fFeR",
+        "release_date": "2026-03-06",
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "artists": [
+          {
+            "id": "6KImCVD70vtIoJWnq6nGn3",
+            "name": "Harry Styles"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 311,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7tJi6GDPUK9PgIA44dLWtn",
+      "name": "Reminiscence",
+      "artists": [
+        {
+          "id": "7E3BRXV9ZbCt5lQTCXMTia",
+          "name": "Ólafur Arnalds"
+        },
+        {
+          "id": "0d6alfZHUx3xoRnPjkTL7Q",
+          "name": "Alice Sara Ott"
+        }
+      ],
+      "album": {
+        "id": "3e9ZZe5qexHd61X9ucUNxh",
+        "release_date": "2015-03-13",
+        "name": "The Chopin Project",
+        "artists": [
+          {
+            "id": "7E3BRXV9ZbCt5lQTCXMTia",
+            "name": "Ólafur Arnalds"
+          },
+          {
+            "id": "0d6alfZHUx3xoRnPjkTL7Q",
+            "name": "Alice Sara Ott"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 268,
+        "nanos": 146000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1mtQ5G6gB3UHI2BGTuTV3Y",
+      "name": "Hit The Sky",
+      "artists": [
+        {
+          "id": "3btzEQD6sugImIHPMRgkwV",
+          "name": "Wolf Alice"
+        }
+      ],
+      "album": {
+        "id": "2UUqr2awy2IK0vODe7Hb6i",
+        "release_date": "2026-08-21",
+        "name": "The Clearing (B Sides)",
+        "artists": [
+          {
+            "id": "3btzEQD6sugImIHPMRgkwV",
+            "name": "Wolf Alice"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 159,
+        "nanos": 906000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7am7xXvyon8NvZTaLN3DGb",
+      "name": "Also Sprach The King Of Euro-Disco",
+      "artists": [
+        {
+          "id": "4GMP7hq7VXDmFiQ3KgiNtY",
+          "name": "Ed Kuepper"
+        }
+      ],
+      "album": {
+        "id": "68NIVw7pQz4d8U3HxspNBu",
+        "release_date": "2021-05-28",
+        "name": "Singles '86 - '96",
+        "artists": [
+          {
+            "id": "4GMP7hq7VXDmFiQ3KgiNtY",
+            "name": "Ed Kuepper"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 201,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0Ln5tJyLX5qusquBOtq7wf",
+      "name": "Fire",
+      "artists": [
+        {
+          "id": "11wRdbnoYqRddKBrpHt4Ue",
+          "name": "Kasabian"
+        }
+      ],
+      "album": {
+        "id": "2DHGeuRTttjurZDb0pSjx6",
+        "release_date": "2009",
+        "name": "West Ryder Pauper Lunatic Asylum",
+        "artists": [
+          {
+            "id": "11wRdbnoYqRddKBrpHt4Ue",
+            "name": "Kasabian"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 252,
+        "nanos": 279000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5sHnbnL8ipoA0lcXmmDxvv",
+      "name": "Do You Like It",
+      "artists": [
+        {
+          "id": "6zKENpFrMgdaWF87sfnmWF",
+          "name": "Skunkhour"
+        }
+      ],
+      "album": {
+        "id": "1UV6VyG48n3rTHEe9PW0XJ",
+        "release_date": "1994-09-18",
+        "name": "Skunkhour",
+        "artists": [
+          {
+            "id": "6zKENpFrMgdaWF87sfnmWF",
+            "name": "Skunkhour"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 314,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3zEN0ii6s4DHHBpnTp3RP7",
+      "name": "We Are The People",
+      "artists": [
+        {
+          "id": "67hb7towEyKvt5Z8Bx306c",
+          "name": "Empire Of The Sun"
+        }
+      ],
+      "album": {
+        "id": "5B6XfyHHYawyLkEvNvhSPh",
+        "release_date": "2008-10-03",
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "artists": [
+          {
+            "id": "67hb7towEyKvt5Z8Bx306c",
+            "name": "Empire Of The Sun"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 267,
+        "nanos": 373000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1EGYTwqNjRgi4kpMOi00d4",
+      "name": "Revealed - Remastered",
+      "artists": [
+        {
+          "id": "2XTff332rrZaE1rBM47Krp",
+          "name": "Blank & Jones"
+        },
+        {
+          "id": "73RfKk8YdbdXckjcMBCAd4",
+          "name": "Steve Kilbey"
+        }
+      ],
+      "album": {
+        "id": "3BeS6qvK2yvaf0qBEkQeai",
+        "release_date": "2005-09-26",
+        "name": "Relax Edition 2",
+        "artists": [
+          {
+            "id": "2XTff332rrZaE1rBM47Krp",
+            "name": "Blank & Jones"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 357,
+        "nanos": 13000000
+      },
+      "explicit": false
+    }
+  ]
+}

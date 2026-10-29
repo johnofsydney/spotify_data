@@ -1,1 +1,1785 @@
-{"playlist":{"id":"3dbiFMkw7L0zNNYkj1CG6b","collaborative":false,"name":"EDM Various","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAASvhKm9Vmlri5+WLQOtheR7MlT5ML"},"tracks":[{"id":"72JhMUXqYbx6SkVJnMSRRE","name":"Justify","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"2QPrQ3ZY94VWT8fzXGySBi","release_date":"2007","name":"Trilogy","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":228,"nanos":986000000},"explicit":false},{"id":"5UeaCqG1ioDfguTuilW5ud","name":"Made Of Glass","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"2QPrQ3ZY94VWT8fzXGySBi","release_date":"2007","name":"Trilogy","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":260,"nanos":333000000},"explicit":false},{"id":"0j7pbNh9nQFUXc2H5Do9Vm","name":"After The Flame","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"7rGolR4QAfYw6hsMeOoscE","release_date":"2004-05-24","name":"No Silence","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":362,"nanos":706000000},"explicit":false},{"id":"3WrByDYjX33LHLLgyzH3Hj","name":"IntenCity","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"23Nh8VJoM4KVSEdhsVED8f","release_date":"2004","name":"No Silence","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":326,"nanos":213000000},"explicit":false},{"id":"3C23LnZptJmMkRGeh8ZrvU","name":"Ecstasy","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"7rGolR4QAfYw6hsMeOoscE","release_date":"2004-05-24","name":"No Silence","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":261,"nanos":93000000},"explicit":false},{"id":"5n5xrOdzFloDRe3cWUocrx","name":"Marrakech","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"7rGolR4QAfYw6hsMeOoscE","release_date":"2004-05-24","name":"No Silence","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":262,"nanos":173000000},"explicit":false},{"id":"368n4cMs6s5EnhDfyEX0Pf","name":"Collides With Beauty","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"7rGolR4QAfYw6hsMeOoscE","release_date":"2004-05-24","name":"No Silence","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":349,"nanos":0},"explicit":false},{"id":"5F0exOcdlC3u7xtra65eGz","name":"I Don't Wanna Stop","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"4FlawxFd7DeyoeKKPWNxfM","release_date":"2005-06-13","name":"Seven Years","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":214,"nanos":213000000},"explicit":false},{"id":"5xEDzccMhMvHKpjIoynOI1","name":"I Don't Wanna Stop","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"0JrszUSGMgCmSvEpjGum91","release_date":"2005-10-12","name":"Seven Years (1998-2005)","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":214,"nanos":213000000},"explicit":false},{"id":"0odWmTjaVQpgruRdeFJvUI","name":"You're Not Alone","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"0JrszUSGMgCmSvEpjGum91","release_date":"2005-10-12","name":"Seven Years (1998-2005)","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":210,"nanos":586000000},"explicit":false},{"id":"7IeleEHkqQRUuzPW2M8jk5","name":"Hold You","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"4FlawxFd7DeyoeKKPWNxfM","release_date":"2005-06-13","name":"Seven Years","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":208,"nanos":293000000},"explicit":false},{"id":"6F20oBVT2faUB7ZQeNrVK2","name":"Renegade","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"2QPrQ3ZY94VWT8fzXGySBi","release_date":"2007","name":"Trilogy","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":338,"nanos":66000000},"explicit":false},{"id":"4i7HBxo9a4EHgXVUaacHHN","name":"Beautiful Worlds","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"2QPrQ3ZY94VWT8fzXGySBi","release_date":"2007","name":"Trilogy","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":309,"nanos":520000000},"explicit":false},{"id":"6zEZtSvPcY6WsUGqqgm8h9","name":"Feel Alive","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"2QPrQ3ZY94VWT8fzXGySBi","release_date":"2007","name":"Trilogy","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":226,"nanos":306000000},"explicit":false},{"id":"4CkQiW6QKUFbcuWKuIc3mx","name":"For An Angel - Radio Edit","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"2kUuPkL4CiQSBbLkTUmbhq","release_date":"2013-06-28","name":"Trance Anthems Top 60","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":231,"nanos":706000000},"explicit":false},{"id":"5zJyyUuUaxd34mQDEKocrE","name":"Touched By Heaven","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"2DQQv0iTz13XcxArfuRGXy","release_date":"2017-10-20","name":"From Then On","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":449,"nanos":240000000},"explicit":false},{"id":"4aUSVLWDjuIyhYVMZ0hJpN","name":"Stronger Together","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"02mCfqP1IsUWZpH02knEbM","name":"Pierre Pienaar"}],"album":{"id":"2DQQv0iTz13XcxArfuRGXy","release_date":"2017-10-20","name":"From Then On","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":453,"nanos":33000000},"explicit":false},{"id":"3aS5reOG1d7b49WCY2Hhg2","name":"Crush","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"7AFqUugFPGvjaJZ7W0mx9K","name":"Second Sun"}],"album":{"id":"3NWl1If3ceSVzJEaLvlNWx","release_date":"2003","name":"Reflections","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":466,"nanos":70000000},"explicit":false},{"id":"7KxcWHug9EZmXYRcE1y51T","name":"1998 - Extended Mix","artists":[{"id":"5suoHSdDiYsjikHNVdYYKe","name":"Binary Finary"}],"album":{"id":"6yp67msJDZJIkki3TGzhmq","release_date":"1998-08-10","name":"1998","artists":[{"id":"5suoHSdDiYsjikHNVdYYKe","name":"Binary Finary"}],"typ":"single","added_at":0},"duration":{"secs":479,"nanos":16000000},"explicit":false},{"id":"1URGVyteSpKhBBaxzQQbYj","name":"1998 - Paul van Dyk Extended Remix","artists":[{"id":"5suoHSdDiYsjikHNVdYYKe","name":"Binary Finary"},{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"6yp67msJDZJIkki3TGzhmq","release_date":"1998-08-10","name":"1998","artists":[{"id":"5suoHSdDiYsjikHNVdYYKe","name":"Binary Finary"}],"typ":"single","added_at":0},"duration":{"secs":588,"nanos":546000000},"explicit":false},{"id":"72lRA680a5ZWu0l14phseH","name":"1998 - Paul van Dyk Remix","artists":[{"id":"5suoHSdDiYsjikHNVdYYKe","name":"Binary Finary"},{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"6yp67msJDZJIkki3TGzhmq","release_date":"1998-08-10","name":"1998","artists":[{"id":"5suoHSdDiYsjikHNVdYYKe","name":"Binary Finary"}],"typ":"single","added_at":0},"duration":{"secs":210,"nanos":960000000},"explicit":false},{"id":"0ZcJZSx8cZndVwZrudIFy9","name":"1998","artists":[{"id":"5suoHSdDiYsjikHNVdYYKe","name":"Binary Finary"}],"album":{"id":"6yp67msJDZJIkki3TGzhmq","release_date":"1998-08-10","name":"1998","artists":[{"id":"5suoHSdDiYsjikHNVdYYKe","name":"Binary Finary"}],"typ":"single","added_at":0},"duration":{"secs":233,"nanos":906000000},"explicit":false},{"id":"1pUFYb9peWkK8m1WCKNRjp","name":"God Is a DJ","artists":[{"id":"5T4UKHhr4HGIC0VzdZQtAE","name":"Faithless"}],"album":{"id":"2Vcq2BbEjHFdfodZ8hlcZL","release_date":"2005-08-30","name":"Forever Faithless - The Greatest Hits","artists":[{"id":"5T4UKHhr4HGIC0VzdZQtAE","name":"Faithless"}],"typ":"compilation","added_at":0},"duration":{"secs":208,"nanos":506000000},"explicit":false},{"id":"3Uz0ldOBR4RpxB30DjD84J","name":"For an Angel - E-Werk Club Mix","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"0O2dXIZUYvZHMulwwcsj2d","release_date":"2018-03-30","name":"Dave Pearce Trance Anthems","artists":[{"id":"1wy9wBZoo7Rg6IgnOKXiyx","name":"Dave Pearce"}],"typ":"album","added_at":0},"duration":{"secs":464,"nanos":759000000},"explicit":false},{"id":"6HdbqnDaUsYvPnimaNmtee","name":"Seven Days and One Week - Club Mix","artists":[{"id":"1Jz17Vwjc2WYOT2MfYG5GO","name":"BBE"}],"album":{"id":"3xCR5Ld0s2k0rK15PnaN98","release_date":"2012-08-03","name":"The Greatest Trance Tracks of All Times","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":504,"nanos":921000000},"explicit":false},{"id":"37cBl8fwzakLH8I0lduqpP","name":"Flaming June - BT and PvD Mix","artists":[{"id":"64MoFdq8ORI3V98AR5SPWL","name":"BT"},{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"1PTiFmQklW8PBzUnxm1pP6","release_date":"2015-11-17","name":"Classic Dance","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":225,"nanos":400000000},"explicit":false},{"id":"4EXWVpO54XLmZ2BFQaBRgA","name":"Symphony - Original Mix","artists":[{"id":"2MYN7OKnlCiZ0wrwp2A1ox","name":"Hybrid"}],"album":{"id":"7yr5srWjj4a2AIGLrZ2ynu","release_date":"2005-06-18","name":"Symphony","artists":[{"id":"2MYN7OKnlCiZ0wrwp2A1ox","name":"Hybrid"}],"typ":"single","added_at":0},"duration":{"secs":740,"nanos":600000000},"explicit":false},{"id":"2VsZhbdf5vLWrv5zcHyNHe","name":"The Silence","artists":[{"id":"0hVSR2SYX6nK7UpBEwz8Bi","name":"Mike Koglin"}],"album":{"id":"3A8z2xljP4zZDHkn0xQ9eI","release_date":"2009-05-01","name":"The Silence","artists":[{"id":"0hVSR2SYX6nK7UpBEwz8Bi","name":"Mike Koglin"}],"typ":"single","added_at":0},"duration":{"secs":475,"nanos":880000000},"explicit":false},{"id":"0DsY4Z7CfTTQikwjb0rxY9","name":"No Other Love","artists":[{"id":"2KIBGrcPu0znk6aY8MgvtW","name":"Blue Amazon"},{"id":"0Z7herZq7CWeltbEm0apE0","name":"Vicky Webb"}],"album":{"id":"59Vu7V6AdYq1LVDgra7Y4A","release_date":"2011-08-29","name":"The Best Of Blue Amazon: The Hybrid","artists":[{"id":"2KIBGrcPu0znk6aY8MgvtW","name":"Blue Amazon"}],"typ":"compilation","added_at":0},"duration":{"secs":759,"nanos":449000000},"explicit":false},{"id":"5QdrFgxmSV1L9SUznB6Fo5","name":"Café Del Mar - Three 'N One Remix","artists":[{"id":"0sElgscu7tp38PM1MtsUz7","name":"Energy 52"}],"album":{"id":"1PvdrzUmuC1sehUaLOMkjQ","release_date":"2008-01-01","name":"A State Of Trance Classics, Vol.3","artists":[{"id":"0SfsnGyD8FpIN4U4WCkBZ5","name":"Armin van Buuren"}],"typ":"compilation","added_at":0},"duration":{"secs":522,"nanos":757000000},"explicit":false},{"id":"0EYLCkhKvF2V2F2wYY6RNJ","name":"Home - Extended Mix","artists":[{"id":"7h6r54f4n9PtgfWIDqhsmM","name":"Chakra"},{"id":"4nb1tQbYZYqvr50cdTqek5","name":"The Space Brothers"}],"album":{"id":"37S5dRfzSeZmvMyRUP64Eb","release_date":"2009-02-09","name":"Lustral Presents Trance Classics","artists":[{"id":"0dkFacPMrWkrQzjjhcMHb7","name":"Lustral"},{"id":"4nb1tQbYZYqvr50cdTqek5","name":"The Space Brothers"}],"typ":"album","added_at":0},"duration":{"secs":489,"nanos":531000000},"explicit":false},{"id":"08o7qFwvXmZoBZW8NlDbSJ","name":"Domination - Mururoa Mix","artists":[{"id":"3HghjRl8Mo6OJWG0WElY2z","name":"Way Out West"}],"album":{"id":"0mBQyQfW2Mba0lfUGNM5hP","release_date":"1997","name":"Way Out West","artists":[{"id":"3HghjRl8Mo6OJWG0WElY2z","name":"Way Out West"}],"typ":"album","added_at":0},"duration":{"secs":521,"nanos":360000000},"explicit":false},{"id":"4jG3xWpmZWOHYsnsPRXe1i","name":"Dreaming - Lange Remix","artists":[{"id":"0lBn2JE9uxCxlEhITJ8nuX","name":"Ruff Driverz"}],"album":{"id":"2DwKwsfUmyjK5NI67sywDm","release_date":"1999","name":"In-Fidelity","artists":[{"id":"0lBn2JE9uxCxlEhITJ8nuX","name":"Ruff Driverz"}],"typ":"album","added_at":0},"duration":{"secs":541,"nanos":533000000},"explicit":false},{"id":"6Sy9BUbgFse0n0LPA5lwy5","name":"Sandstorm","artists":[{"id":"0LhHRmSd1EYM5QdNeNnCoQ","name":"Darude"}],"album":{"id":"0Xks5v0dve8Gh2tRHIekjo","release_date":"2001-01-01","name":"Before the Storm, Special Edition","artists":[{"id":"0LhHRmSd1EYM5QdNeNnCoQ","name":"Darude"}],"typ":"album","added_at":0},"duration":{"secs":225,"nanos":493000000},"explicit":false},{"id":"6cnM7voHnNJXfnQxZfbJmM","name":"Out Of The Blue (Radio Edit)","artists":[{"id":"2ZpwFriFFPaGFC4qYQQJ1i","name":"System F"}],"album":{"id":"4Oyt5aiMUWnucYlb55QQXN","release_date":"2010-02-22","name":"Out Of The Blue Remastered","artists":[{"id":"2ZpwFriFFPaGFC4qYQQJ1i","name":"System F"}],"typ":"album","added_at":0},"duration":{"secs":234,"nanos":186000000},"explicit":false},{"id":"4wtR6HB3XekEengMX17cpc","name":"Children","artists":[{"id":"2YVF0Ou5zIc4mpgtLIlGN0","name":"Robert Miles"}],"album":{"id":"5vwm8dEf7xGTqUAas8zGdC","release_date":"1996-07-11","name":"Children (Dance Vault Mixes)","artists":[{"id":"2YVF0Ou5zIc4mpgtLIlGN0","name":"Robert Miles"}],"typ":"single","added_at":0},"duration":{"secs":243,"nanos":266000000},"explicit":false},{"id":"2ON8lLpItiuminClCH9CxE","name":"Not over Yet - Perfecto Edit","artists":[{"id":"1DlbW0TOOja6uqR4CHAaeg","name":"Grace"}],"album":{"id":"41Vv7GOiSTiKl4g0nyYhl9","release_date":"2015-03-11","name":"THE BEST EVER: 90s Dance","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":258,"nanos":903000000},"explicit":false},{"id":"0tByinfZ8q8vzSPpFVGgHM","name":"Encore une fois - Future Breeze Edit","artists":[{"id":"5XTxV2ifoYkmNb13Gb6cKz","name":"Sash!"}],"album":{"id":"0tdQwuPtNzEWk9PwpYi4vc","release_date":"2015-12-25","name":"Dave Pearce 90s Dance Anthems","artists":[{"id":"1wy9wBZoo7Rg6IgnOKXiyx","name":"Dave Pearce"}],"typ":"album","added_at":0},"duration":{"secs":228,"nanos":613000000},"explicit":false},{"id":"5Vh9T9b7t7764fDEWMd9Fs","name":"Flaming June","artists":[{"id":"64MoFdq8ORI3V98AR5SPWL","name":"BT"}],"album":{"id":"7LkeNAcWSToYuUjuasAFMh","release_date":"1997","name":"ESCM","artists":[{"id":"64MoFdq8ORI3V98AR5SPWL","name":"BT"}],"typ":"album","added_at":0},"duration":{"secs":505,"nanos":333000000},"explicit":false},{"id":"5JgJ1fo6bUr2eHUkhhawfv","name":"Echoes","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"2rr6J8CvcI3egBMmFr1PTR","name":"James Cottle"}],"album":{"id":"4qlgzddJg9ugLKoqNW31oF","release_date":"2018-12-07","name":"Music Rescues Me","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":417,"nanos":391000000},"explicit":false},{"id":"79l5F7rkOb9crgoK81SyOn","name":"Music Rescues Me - Pvd Club Mix","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"2tbxcCCM7A71cmkzuB8lyH","name":"Plumb"}],"album":{"id":"4qlgzddJg9ugLKoqNW31oF","release_date":"2018-12-07","name":"Music Rescues Me","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":430,"nanos":264000000},"explicit":false},{"id":"3nFpivQOzgapIXq1v1B2r8","name":"Aurora","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"7lF2WmukgrCZa5pxW6q1IE","name":"Steve Dekay"}],"album":{"id":"4qlgzddJg9ugLKoqNW31oF","release_date":"2018-12-07","name":"Music Rescues Me","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":352,"nanos":406000000},"explicit":false},{"id":"6iSAZ6cbr8mTbGabjoK8Ip","name":"Lost Angels","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"2kXNmosFXvLLeUX6GWGxvC","name":"Delta One"}],"album":{"id":"4qlgzddJg9ugLKoqNW31oF","release_date":"2018-12-07","name":"Music Rescues Me","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":330,"nanos":373000000},"explicit":false},{"id":"17pKBF6PSmtlRxIgdTAkVn","name":"Ecstasy - Morten Granau Remix","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"},{"id":"49loZrPArxoDvk5XKyugw0","name":"Morten Granau"}],"album":{"id":"5ahhRsmmxoz1w1oE5XcyJT","release_date":"2018-12-21","name":"Ecstasy (Morten Granau Remix)","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"},{"id":"49loZrPArxoDvk5XKyugw0","name":"Morten Granau"}],"typ":"single","added_at":0},"duration":{"secs":350,"nanos":487000000},"explicit":false},{"id":"34bvj4hyJyfdKbd3EWbO0s","name":"Dirty Epic - Remastered","artists":[{"id":"1PXHzxRDiLnjqNrRn2Xbsa","name":"Underworld"}],"album":{"id":"3WQpmFc7GonmzN40EjbbKY","release_date":"1994-01-24","name":"Dubnobasswithmyheadman (20th Anniversary Remaster)","artists":[{"id":"1PXHzxRDiLnjqNrRn2Xbsa","name":"Underworld"}],"typ":"album","added_at":0},"duration":{"secs":595,"nanos":578000000},"explicit":false},{"id":"6KFKfokV7dPreN7BXNUjPY","name":"Sputnik - Plugger Remix","artists":[{"id":"6VsiDFMZJlJ053P1uO4A6h","name":"Public Service Broadcasting"}],"album":{"id":"4OS9p53WyezrI6r8llHjom","release_date":"2015-11-20","name":"SPUTNIK / KOROLEV","artists":[{"id":"6VsiDFMZJlJ053P1uO4A6h","name":"Public Service Broadcasting"}],"typ":"single","added_at":0},"duration":{"secs":455,"nanos":369000000},"explicit":false},{"id":"0hsG1GL81PCrCzFbKaVcXw","name":"Clearest Blue","artists":[{"id":"3CjlHNtplJyTf9npxaPl5w","name":"CHVRCHES"}],"album":{"id":"6nsk6T7ceOvkBbro8agEv7","release_date":"2015-09-25","name":"Every Open Eye","artists":[{"id":"3CjlHNtplJyTf9npxaPl5w","name":"CHVRCHES"}],"typ":"album","added_at":0},"duration":{"secs":233,"nanos":762000000},"explicit":false},{"id":"1rToUrnowFb88N2Z4Kjyau","name":"Offshore","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"album":{"id":"201vsPXufpD68a7bulnr5O","release_date":"2007","name":"Offshore","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"typ":"single","added_at":0},"duration":{"secs":268,"nanos":600000000},"explicit":false},{"id":"3VLyBkus3ZiHqNQkNSlodq","name":"We Are Alive","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"0PhFrwkE9TyaE6sHO83Kgv","release_date":"2000","name":"Out There and Back","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":390,"nanos":506000000},"explicit":false},{"id":"75dtuLXf7uNtQNAGMDIM7k","name":"Duality","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"1LFQklxSuHVGySOXITOMS7","release_date":"2020-02-14","name":"Duality","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"single","added_at":0},"duration":{"secs":218,"nanos":540000000},"explicit":false},{"id":"2NNgACKAjnBaqWc233BBKY","name":"No Ordinary Morning - The Thrillseekers Remix","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"},{"id":"1RYDKWzJnJtbTPYNsDswD5","name":"The Thrillseekers"}],"album":{"id":"4IqAFXnkQLJdrTCg56vGiC","release_date":"2020-05-08","name":"Behind The Sun (2020 Anniversary Mixes)","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"typ":"album","added_at":0},"duration":{"secs":266,"nanos":548000000},"explicit":false},{"id":"2wfCQ6PMioxyLQsUmUbYGZ","name":"See The Sun - Aurosonic Remix","artists":[{"id":"20IiZT2AHU5GwnzncwJX6S","name":"Matt Darey"},{"id":"1oTc5uL1Jrp1VwqdJrW7TT","name":"Kate Louise Smith"},{"id":"24Pyk5epPtvgwDf8GQRYXj","name":"Urban Astronauts"},{"id":"1UkK91RiLw3FonVedbAVA1","name":"Aurosonic"}],"album":{"id":"5dkfznpKkMtwTOkzneHpBT","release_date":"2010-02-22","name":"Trance World, Vol. 9","artists":[{"id":"1YuNQvsvOsMBm0ahbxB8qM","name":"Orjan Nilsen"}],"typ":"compilation","added_at":0},"duration":{"secs":207,"nanos":502000000},"explicit":false},{"id":"3gfdCoMtjeKoA3bi3zxJro","name":"Luminous Spaces","artists":[{"id":"7yxi31szvlbwvKq9dYOmFI","name":"Jon Hopkins"},{"id":"5eitAUlYmlha3LLWg7aBn5","name":"Kelly Lee Owens"}],"album":{"id":"7E1ug6ydBki9DydefZzG9F","release_date":"2019-12-05","name":"Luminous Spaces","artists":[{"id":"7yxi31szvlbwvKq9dYOmFI","name":"Jon Hopkins"},{"id":"5eitAUlYmlha3LLWg7aBn5","name":"Kelly Lee Owens"}],"typ":"single","added_at":0},"duration":{"secs":431,"nanos":453000000},"explicit":false},{"id":"5EZnkKNbuL9vKPOgDC4AJa","name":"Till The Sky Falls Down - Extended Mix","artists":[{"id":"1xT5p0VBpnZDrvVSjX9sri","name":"Dash Berlin"}],"album":{"id":"6Xa3MJHIQeXVtiB4ai1ai4","release_date":"2009-09-11","name":"The New Daylight (Extended Versions)","artists":[{"id":"1xT5p0VBpnZDrvVSjX9sri","name":"Dash Berlin"}],"typ":"album","added_at":0},"duration":{"secs":514,"nanos":275000000},"explicit":false},{"id":"6m4TBYavg7u3XucxpD2MVK","name":"Covered In Gold - PvD Club Mix","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"4N2lZcytbZifGelhVEpMeK","name":"Bo Bruce"}],"album":{"id":"24Y30Tdt5hjVbM42XhCr5A","release_date":"2020-08-28","name":"Guiding Light","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":400,"nanos":68000000},"explicit":false},{"id":"1Tu9pNTOWRw8Qi5CFhcW5y","name":"One Perfect Sunrise","artists":[{"id":"3csPCeXsj2wezyvkRFzvmV","name":"Orbital"}],"album":{"id":"3TMHURIU3sNpS2iv362VYH","release_date":"2004-06-21","name":"Blue Album","artists":[{"id":"3csPCeXsj2wezyvkRFzvmV","name":"Orbital"}],"typ":"album","added_at":0},"duration":{"secs":524,"nanos":866000000},"explicit":false},{"id":"7fF965xC5lsUue9KexRbI3","name":"Let U Go","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"0vmacE7hsaPakOq4prw49Z","release_date":"2002-01-28","name":"Dedicated","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":234,"nanos":600000000},"explicit":false},{"id":"27tYOeyhHiQ6tpf1xJpYP1","name":"Feel Alive","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"0lzUwZgk995U284gk1z2lp","release_date":"2007-04-27","name":"Trilogy (Deluxe)","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":226,"nanos":306000000},"explicit":false},{"id":"0mm8LTZCU3sGQzmnIVYI4j","name":"Solar","artists":[{"id":"3ChjGRo4LfuJy7uXo0uQG5","name":"Rafael Osmo"}],"album":{"id":"7tePZYIwIBQBpUGagaBCHO","release_date":"2023-08-04","name":"Solar","artists":[{"id":"3ChjGRo4LfuJy7uXo0uQG5","name":"Rafael Osmo"}],"typ":"single","added_at":0},"duration":{"secs":199,"nanos":680000000},"explicit":false},{"id":"02fuCqZynEdc5YLj3Q5i2E","name":"Scattered Minds","artists":[{"id":"0zgmzl8NLEOsqYNOQcSmAA","name":"Lange"},{"id":"3ChjGRo4LfuJy7uXo0uQG5","name":"Rafael Osmo"}],"album":{"id":"5UrfUxY5ovpOzM5zR03yMu","release_date":"2023-12-15","name":"Scattered Minds","artists":[{"id":"0zgmzl8NLEOsqYNOQcSmAA","name":"Lange"},{"id":"3ChjGRo4LfuJy7uXo0uQG5","name":"Rafael Osmo"}],"typ":"single","added_at":0},"duration":{"secs":259,"nanos":846000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "3dbiFMkw7L0zNNYkj1CG6b",
+    "collaborative": false,
+    "name": "EDM Various",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAASvhKm9Vmlri5+WLQOtheR7MlT5ML",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "72JhMUXqYbx6SkVJnMSRRE",
+      "name": "Justify",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "2QPrQ3ZY94VWT8fzXGySBi",
+        "release_date": "2007",
+        "name": "Trilogy",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 228,
+        "nanos": 986000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5UeaCqG1ioDfguTuilW5ud",
+      "name": "Made Of Glass",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "2QPrQ3ZY94VWT8fzXGySBi",
+        "release_date": "2007",
+        "name": "Trilogy",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 260,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0j7pbNh9nQFUXc2H5Do9Vm",
+      "name": "After The Flame",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "7rGolR4QAfYw6hsMeOoscE",
+        "release_date": "2004-05-24",
+        "name": "No Silence",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 362,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3WrByDYjX33LHLLgyzH3Hj",
+      "name": "IntenCity",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "23Nh8VJoM4KVSEdhsVED8f",
+        "release_date": "2004",
+        "name": "No Silence",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 326,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3C23LnZptJmMkRGeh8ZrvU",
+      "name": "Ecstasy",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "7rGolR4QAfYw6hsMeOoscE",
+        "release_date": "2004-05-24",
+        "name": "No Silence",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 261,
+        "nanos": 93000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5n5xrOdzFloDRe3cWUocrx",
+      "name": "Marrakech",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "7rGolR4QAfYw6hsMeOoscE",
+        "release_date": "2004-05-24",
+        "name": "No Silence",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 262,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "368n4cMs6s5EnhDfyEX0Pf",
+      "name": "Collides With Beauty",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "7rGolR4QAfYw6hsMeOoscE",
+        "release_date": "2004-05-24",
+        "name": "No Silence",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 349,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "5F0exOcdlC3u7xtra65eGz",
+      "name": "I Don't Wanna Stop",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "4FlawxFd7DeyoeKKPWNxfM",
+        "release_date": "2005-06-13",
+        "name": "Seven Years",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 214,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5xEDzccMhMvHKpjIoynOI1",
+      "name": "I Don't Wanna Stop",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "0JrszUSGMgCmSvEpjGum91",
+        "release_date": "2005-10-12",
+        "name": "Seven Years (1998-2005)",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 214,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0odWmTjaVQpgruRdeFJvUI",
+      "name": "You're Not Alone",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "0JrszUSGMgCmSvEpjGum91",
+        "release_date": "2005-10-12",
+        "name": "Seven Years (1998-2005)",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 210,
+        "nanos": 586000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7IeleEHkqQRUuzPW2M8jk5",
+      "name": "Hold You",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "4FlawxFd7DeyoeKKPWNxfM",
+        "release_date": "2005-06-13",
+        "name": "Seven Years",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 208,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6F20oBVT2faUB7ZQeNrVK2",
+      "name": "Renegade",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "2QPrQ3ZY94VWT8fzXGySBi",
+        "release_date": "2007",
+        "name": "Trilogy",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 338,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4i7HBxo9a4EHgXVUaacHHN",
+      "name": "Beautiful Worlds",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "2QPrQ3ZY94VWT8fzXGySBi",
+        "release_date": "2007",
+        "name": "Trilogy",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 309,
+        "nanos": 520000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6zEZtSvPcY6WsUGqqgm8h9",
+      "name": "Feel Alive",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "2QPrQ3ZY94VWT8fzXGySBi",
+        "release_date": "2007",
+        "name": "Trilogy",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 226,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4CkQiW6QKUFbcuWKuIc3mx",
+      "name": "For An Angel - Radio Edit",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "2kUuPkL4CiQSBbLkTUmbhq",
+        "release_date": "2013-06-28",
+        "name": "Trance Anthems Top 60",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 231,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5zJyyUuUaxd34mQDEKocrE",
+      "name": "Touched By Heaven",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "2DQQv0iTz13XcxArfuRGXy",
+        "release_date": "2017-10-20",
+        "name": "From Then On",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 449,
+        "nanos": 240000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4aUSVLWDjuIyhYVMZ0hJpN",
+      "name": "Stronger Together",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        },
+        {
+          "id": "02mCfqP1IsUWZpH02knEbM",
+          "name": "Pierre Pienaar"
+        }
+      ],
+      "album": {
+        "id": "2DQQv0iTz13XcxArfuRGXy",
+        "release_date": "2017-10-20",
+        "name": "From Then On",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 453,
+        "nanos": 33000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3aS5reOG1d7b49WCY2Hhg2",
+      "name": "Crush",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        },
+        {
+          "id": "7AFqUugFPGvjaJZ7W0mx9K",
+          "name": "Second Sun"
+        }
+      ],
+      "album": {
+        "id": "3NWl1If3ceSVzJEaLvlNWx",
+        "release_date": "2003",
+        "name": "Reflections",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 466,
+        "nanos": 70000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7KxcWHug9EZmXYRcE1y51T",
+      "name": "1998 - Extended Mix",
+      "artists": [
+        {
+          "id": "5suoHSdDiYsjikHNVdYYKe",
+          "name": "Binary Finary"
+        }
+      ],
+      "album": {
+        "id": "6yp67msJDZJIkki3TGzhmq",
+        "release_date": "1998-08-10",
+        "name": "1998",
+        "artists": [
+          {
+            "id": "5suoHSdDiYsjikHNVdYYKe",
+            "name": "Binary Finary"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 479,
+        "nanos": 16000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1URGVyteSpKhBBaxzQQbYj",
+      "name": "1998 - Paul van Dyk Extended Remix",
+      "artists": [
+        {
+          "id": "5suoHSdDiYsjikHNVdYYKe",
+          "name": "Binary Finary"
+        },
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "6yp67msJDZJIkki3TGzhmq",
+        "release_date": "1998-08-10",
+        "name": "1998",
+        "artists": [
+          {
+            "id": "5suoHSdDiYsjikHNVdYYKe",
+            "name": "Binary Finary"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 588,
+        "nanos": 546000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "72lRA680a5ZWu0l14phseH",
+      "name": "1998 - Paul van Dyk Remix",
+      "artists": [
+        {
+          "id": "5suoHSdDiYsjikHNVdYYKe",
+          "name": "Binary Finary"
+        },
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "6yp67msJDZJIkki3TGzhmq",
+        "release_date": "1998-08-10",
+        "name": "1998",
+        "artists": [
+          {
+            "id": "5suoHSdDiYsjikHNVdYYKe",
+            "name": "Binary Finary"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 210,
+        "nanos": 960000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ZcJZSx8cZndVwZrudIFy9",
+      "name": "1998",
+      "artists": [
+        {
+          "id": "5suoHSdDiYsjikHNVdYYKe",
+          "name": "Binary Finary"
+        }
+      ],
+      "album": {
+        "id": "6yp67msJDZJIkki3TGzhmq",
+        "release_date": "1998-08-10",
+        "name": "1998",
+        "artists": [
+          {
+            "id": "5suoHSdDiYsjikHNVdYYKe",
+            "name": "Binary Finary"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 233,
+        "nanos": 906000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1pUFYb9peWkK8m1WCKNRjp",
+      "name": "God Is a DJ",
+      "artists": [
+        {
+          "id": "5T4UKHhr4HGIC0VzdZQtAE",
+          "name": "Faithless"
+        }
+      ],
+      "album": {
+        "id": "2Vcq2BbEjHFdfodZ8hlcZL",
+        "release_date": "2005-08-30",
+        "name": "Forever Faithless - The Greatest Hits",
+        "artists": [
+          {
+            "id": "5T4UKHhr4HGIC0VzdZQtAE",
+            "name": "Faithless"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 208,
+        "nanos": 506000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3Uz0ldOBR4RpxB30DjD84J",
+      "name": "For an Angel - E-Werk Club Mix",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "0O2dXIZUYvZHMulwwcsj2d",
+        "release_date": "2018-03-30",
+        "name": "Dave Pearce Trance Anthems",
+        "artists": [
+          {
+            "id": "1wy9wBZoo7Rg6IgnOKXiyx",
+            "name": "Dave Pearce"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 464,
+        "nanos": 759000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6HdbqnDaUsYvPnimaNmtee",
+      "name": "Seven Days and One Week - Club Mix",
+      "artists": [
+        {
+          "id": "1Jz17Vwjc2WYOT2MfYG5GO",
+          "name": "BBE"
+        }
+      ],
+      "album": {
+        "id": "3xCR5Ld0s2k0rK15PnaN98",
+        "release_date": "2012-08-03",
+        "name": "The Greatest Trance Tracks of All Times",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 504,
+        "nanos": 921000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "37cBl8fwzakLH8I0lduqpP",
+      "name": "Flaming June - BT and PvD Mix",
+      "artists": [
+        {
+          "id": "64MoFdq8ORI3V98AR5SPWL",
+          "name": "BT"
+        },
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "1PTiFmQklW8PBzUnxm1pP6",
+        "release_date": "2015-11-17",
+        "name": "Classic Dance",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 225,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4EXWVpO54XLmZ2BFQaBRgA",
+      "name": "Symphony - Original Mix",
+      "artists": [
+        {
+          "id": "2MYN7OKnlCiZ0wrwp2A1ox",
+          "name": "Hybrid"
+        }
+      ],
+      "album": {
+        "id": "7yr5srWjj4a2AIGLrZ2ynu",
+        "release_date": "2005-06-18",
+        "name": "Symphony",
+        "artists": [
+          {
+            "id": "2MYN7OKnlCiZ0wrwp2A1ox",
+            "name": "Hybrid"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 740,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2VsZhbdf5vLWrv5zcHyNHe",
+      "name": "The Silence",
+      "artists": [
+        {
+          "id": "0hVSR2SYX6nK7UpBEwz8Bi",
+          "name": "Mike Koglin"
+        }
+      ],
+      "album": {
+        "id": "3A8z2xljP4zZDHkn0xQ9eI",
+        "release_date": "2009-05-01",
+        "name": "The Silence",
+        "artists": [
+          {
+            "id": "0hVSR2SYX6nK7UpBEwz8Bi",
+            "name": "Mike Koglin"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 475,
+        "nanos": 880000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0DsY4Z7CfTTQikwjb0rxY9",
+      "name": "No Other Love",
+      "artists": [
+        {
+          "id": "2KIBGrcPu0znk6aY8MgvtW",
+          "name": "Blue Amazon"
+        },
+        {
+          "id": "0Z7herZq7CWeltbEm0apE0",
+          "name": "Vicky Webb"
+        }
+      ],
+      "album": {
+        "id": "59Vu7V6AdYq1LVDgra7Y4A",
+        "release_date": "2011-08-29",
+        "name": "The Best Of Blue Amazon: The Hybrid",
+        "artists": [
+          {
+            "id": "2KIBGrcPu0znk6aY8MgvtW",
+            "name": "Blue Amazon"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 759,
+        "nanos": 449000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5QdrFgxmSV1L9SUznB6Fo5",
+      "name": "Café Del Mar - Three 'N One Remix",
+      "artists": [
+        {
+          "id": "0sElgscu7tp38PM1MtsUz7",
+          "name": "Energy 52"
+        }
+      ],
+      "album": {
+        "id": "1PvdrzUmuC1sehUaLOMkjQ",
+        "release_date": "2008-01-01",
+        "name": "A State Of Trance Classics, Vol.3",
+        "artists": [
+          {
+            "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+            "name": "Armin van Buuren"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 522,
+        "nanos": 757000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0EYLCkhKvF2V2F2wYY6RNJ",
+      "name": "Home - Extended Mix",
+      "artists": [
+        {
+          "id": "7h6r54f4n9PtgfWIDqhsmM",
+          "name": "Chakra"
+        },
+        {
+          "id": "4nb1tQbYZYqvr50cdTqek5",
+          "name": "The Space Brothers"
+        }
+      ],
+      "album": {
+        "id": "37S5dRfzSeZmvMyRUP64Eb",
+        "release_date": "2009-02-09",
+        "name": "Lustral Presents Trance Classics",
+        "artists": [
+          {
+            "id": "0dkFacPMrWkrQzjjhcMHb7",
+            "name": "Lustral"
+          },
+          {
+            "id": "4nb1tQbYZYqvr50cdTqek5",
+            "name": "The Space Brothers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 489,
+        "nanos": 531000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "08o7qFwvXmZoBZW8NlDbSJ",
+      "name": "Domination - Mururoa Mix",
+      "artists": [
+        {
+          "id": "3HghjRl8Mo6OJWG0WElY2z",
+          "name": "Way Out West"
+        }
+      ],
+      "album": {
+        "id": "0mBQyQfW2Mba0lfUGNM5hP",
+        "release_date": "1997",
+        "name": "Way Out West",
+        "artists": [
+          {
+            "id": "3HghjRl8Mo6OJWG0WElY2z",
+            "name": "Way Out West"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 521,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4jG3xWpmZWOHYsnsPRXe1i",
+      "name": "Dreaming - Lange Remix",
+      "artists": [
+        {
+          "id": "0lBn2JE9uxCxlEhITJ8nuX",
+          "name": "Ruff Driverz"
+        }
+      ],
+      "album": {
+        "id": "2DwKwsfUmyjK5NI67sywDm",
+        "release_date": "1999",
+        "name": "In-Fidelity",
+        "artists": [
+          {
+            "id": "0lBn2JE9uxCxlEhITJ8nuX",
+            "name": "Ruff Driverz"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 541,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Sy9BUbgFse0n0LPA5lwy5",
+      "name": "Sandstorm",
+      "artists": [
+        {
+          "id": "0LhHRmSd1EYM5QdNeNnCoQ",
+          "name": "Darude"
+        }
+      ],
+      "album": {
+        "id": "0Xks5v0dve8Gh2tRHIekjo",
+        "release_date": "2001-01-01",
+        "name": "Before the Storm, Special Edition",
+        "artists": [
+          {
+            "id": "0LhHRmSd1EYM5QdNeNnCoQ",
+            "name": "Darude"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 225,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6cnM7voHnNJXfnQxZfbJmM",
+      "name": "Out Of The Blue (Radio Edit)",
+      "artists": [
+        {
+          "id": "2ZpwFriFFPaGFC4qYQQJ1i",
+          "name": "System F"
+        }
+      ],
+      "album": {
+        "id": "4Oyt5aiMUWnucYlb55QQXN",
+        "release_date": "2010-02-22",
+        "name": "Out Of The Blue Remastered",
+        "artists": [
+          {
+            "id": "2ZpwFriFFPaGFC4qYQQJ1i",
+            "name": "System F"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4wtR6HB3XekEengMX17cpc",
+      "name": "Children",
+      "artists": [
+        {
+          "id": "2YVF0Ou5zIc4mpgtLIlGN0",
+          "name": "Robert Miles"
+        }
+      ],
+      "album": {
+        "id": "5vwm8dEf7xGTqUAas8zGdC",
+        "release_date": "1996-07-11",
+        "name": "Children (Dance Vault Mixes)",
+        "artists": [
+          {
+            "id": "2YVF0Ou5zIc4mpgtLIlGN0",
+            "name": "Robert Miles"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 243,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2ON8lLpItiuminClCH9CxE",
+      "name": "Not over Yet - Perfecto Edit",
+      "artists": [
+        {
+          "id": "1DlbW0TOOja6uqR4CHAaeg",
+          "name": "Grace"
+        }
+      ],
+      "album": {
+        "id": "41Vv7GOiSTiKl4g0nyYhl9",
+        "release_date": "2015-03-11",
+        "name": "THE BEST EVER: 90s Dance",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 258,
+        "nanos": 903000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0tByinfZ8q8vzSPpFVGgHM",
+      "name": "Encore une fois - Future Breeze Edit",
+      "artists": [
+        {
+          "id": "5XTxV2ifoYkmNb13Gb6cKz",
+          "name": "Sash!"
+        }
+      ],
+      "album": {
+        "id": "0tdQwuPtNzEWk9PwpYi4vc",
+        "release_date": "2015-12-25",
+        "name": "Dave Pearce 90s Dance Anthems",
+        "artists": [
+          {
+            "id": "1wy9wBZoo7Rg6IgnOKXiyx",
+            "name": "Dave Pearce"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 228,
+        "nanos": 613000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Vh9T9b7t7764fDEWMd9Fs",
+      "name": "Flaming June",
+      "artists": [
+        {
+          "id": "64MoFdq8ORI3V98AR5SPWL",
+          "name": "BT"
+        }
+      ],
+      "album": {
+        "id": "7LkeNAcWSToYuUjuasAFMh",
+        "release_date": "1997",
+        "name": "ESCM",
+        "artists": [
+          {
+            "id": "64MoFdq8ORI3V98AR5SPWL",
+            "name": "BT"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 505,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5JgJ1fo6bUr2eHUkhhawfv",
+      "name": "Echoes",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        },
+        {
+          "id": "2rr6J8CvcI3egBMmFr1PTR",
+          "name": "James Cottle"
+        }
+      ],
+      "album": {
+        "id": "4qlgzddJg9ugLKoqNW31oF",
+        "release_date": "2018-12-07",
+        "name": "Music Rescues Me",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 417,
+        "nanos": 391000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "79l5F7rkOb9crgoK81SyOn",
+      "name": "Music Rescues Me - Pvd Club Mix",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        },
+        {
+          "id": "2tbxcCCM7A71cmkzuB8lyH",
+          "name": "Plumb"
+        }
+      ],
+      "album": {
+        "id": "4qlgzddJg9ugLKoqNW31oF",
+        "release_date": "2018-12-07",
+        "name": "Music Rescues Me",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 430,
+        "nanos": 264000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3nFpivQOzgapIXq1v1B2r8",
+      "name": "Aurora",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        },
+        {
+          "id": "7lF2WmukgrCZa5pxW6q1IE",
+          "name": "Steve Dekay"
+        }
+      ],
+      "album": {
+        "id": "4qlgzddJg9ugLKoqNW31oF",
+        "release_date": "2018-12-07",
+        "name": "Music Rescues Me",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 352,
+        "nanos": 406000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6iSAZ6cbr8mTbGabjoK8Ip",
+      "name": "Lost Angels",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        },
+        {
+          "id": "2kXNmosFXvLLeUX6GWGxvC",
+          "name": "Delta One"
+        }
+      ],
+      "album": {
+        "id": "4qlgzddJg9ugLKoqNW31oF",
+        "release_date": "2018-12-07",
+        "name": "Music Rescues Me",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 330,
+        "nanos": 373000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "17pKBF6PSmtlRxIgdTAkVn",
+      "name": "Ecstasy - Morten Granau Remix",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        },
+        {
+          "id": "49loZrPArxoDvk5XKyugw0",
+          "name": "Morten Granau"
+        }
+      ],
+      "album": {
+        "id": "5ahhRsmmxoz1w1oE5XcyJT",
+        "release_date": "2018-12-21",
+        "name": "Ecstasy (Morten Granau Remix)",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          },
+          {
+            "id": "49loZrPArxoDvk5XKyugw0",
+            "name": "Morten Granau"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 350,
+        "nanos": 487000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "34bvj4hyJyfdKbd3EWbO0s",
+      "name": "Dirty Epic - Remastered",
+      "artists": [
+        {
+          "id": "1PXHzxRDiLnjqNrRn2Xbsa",
+          "name": "Underworld"
+        }
+      ],
+      "album": {
+        "id": "3WQpmFc7GonmzN40EjbbKY",
+        "release_date": "1994-01-24",
+        "name": "Dubnobasswithmyheadman (20th Anniversary Remaster)",
+        "artists": [
+          {
+            "id": "1PXHzxRDiLnjqNrRn2Xbsa",
+            "name": "Underworld"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 595,
+        "nanos": 578000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6KFKfokV7dPreN7BXNUjPY",
+      "name": "Sputnik - Plugger Remix",
+      "artists": [
+        {
+          "id": "6VsiDFMZJlJ053P1uO4A6h",
+          "name": "Public Service Broadcasting"
+        }
+      ],
+      "album": {
+        "id": "4OS9p53WyezrI6r8llHjom",
+        "release_date": "2015-11-20",
+        "name": "SPUTNIK / KOROLEV",
+        "artists": [
+          {
+            "id": "6VsiDFMZJlJ053P1uO4A6h",
+            "name": "Public Service Broadcasting"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 455,
+        "nanos": 369000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0hsG1GL81PCrCzFbKaVcXw",
+      "name": "Clearest Blue",
+      "artists": [
+        {
+          "id": "3CjlHNtplJyTf9npxaPl5w",
+          "name": "CHVRCHES"
+        }
+      ],
+      "album": {
+        "id": "6nsk6T7ceOvkBbro8agEv7",
+        "release_date": "2015-09-25",
+        "name": "Every Open Eye",
+        "artists": [
+          {
+            "id": "3CjlHNtplJyTf9npxaPl5w",
+            "name": "CHVRCHES"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 233,
+        "nanos": 762000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1rToUrnowFb88N2Z4Kjyau",
+      "name": "Offshore",
+      "artists": [
+        {
+          "id": "5GxyeQagayzZOg4UwffQlD",
+          "name": "Chicane"
+        }
+      ],
+      "album": {
+        "id": "201vsPXufpD68a7bulnr5O",
+        "release_date": "2007",
+        "name": "Offshore",
+        "artists": [
+          {
+            "id": "5GxyeQagayzZOg4UwffQlD",
+            "name": "Chicane"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 268,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3VLyBkus3ZiHqNQkNSlodq",
+      "name": "We Are Alive",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "0PhFrwkE9TyaE6sHO83Kgv",
+        "release_date": "2000",
+        "name": "Out There and Back",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 390,
+        "nanos": 506000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "75dtuLXf7uNtQNAGMDIM7k",
+      "name": "Duality",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "1LFQklxSuHVGySOXITOMS7",
+        "release_date": "2020-02-14",
+        "name": "Duality",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 218,
+        "nanos": 540000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2NNgACKAjnBaqWc233BBKY",
+      "name": "No Ordinary Morning - The Thrillseekers Remix",
+      "artists": [
+        {
+          "id": "5GxyeQagayzZOg4UwffQlD",
+          "name": "Chicane"
+        },
+        {
+          "id": "1RYDKWzJnJtbTPYNsDswD5",
+          "name": "The Thrillseekers"
+        }
+      ],
+      "album": {
+        "id": "4IqAFXnkQLJdrTCg56vGiC",
+        "release_date": "2020-05-08",
+        "name": "Behind The Sun (2020 Anniversary Mixes)",
+        "artists": [
+          {
+            "id": "5GxyeQagayzZOg4UwffQlD",
+            "name": "Chicane"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 266,
+        "nanos": 548000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2wfCQ6PMioxyLQsUmUbYGZ",
+      "name": "See The Sun - Aurosonic Remix",
+      "artists": [
+        {
+          "id": "20IiZT2AHU5GwnzncwJX6S",
+          "name": "Matt Darey"
+        },
+        {
+          "id": "1oTc5uL1Jrp1VwqdJrW7TT",
+          "name": "Kate Louise Smith"
+        },
+        {
+          "id": "24Pyk5epPtvgwDf8GQRYXj",
+          "name": "Urban Astronauts"
+        },
+        {
+          "id": "1UkK91RiLw3FonVedbAVA1",
+          "name": "Aurosonic"
+        }
+      ],
+      "album": {
+        "id": "5dkfznpKkMtwTOkzneHpBT",
+        "release_date": "2010-02-22",
+        "name": "Trance World, Vol. 9",
+        "artists": [
+          {
+            "id": "1YuNQvsvOsMBm0ahbxB8qM",
+            "name": "Orjan Nilsen"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 207,
+        "nanos": 502000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3gfdCoMtjeKoA3bi3zxJro",
+      "name": "Luminous Spaces",
+      "artists": [
+        {
+          "id": "7yxi31szvlbwvKq9dYOmFI",
+          "name": "Jon Hopkins"
+        },
+        {
+          "id": "5eitAUlYmlha3LLWg7aBn5",
+          "name": "Kelly Lee Owens"
+        }
+      ],
+      "album": {
+        "id": "7E1ug6ydBki9DydefZzG9F",
+        "release_date": "2019-12-05",
+        "name": "Luminous Spaces",
+        "artists": [
+          {
+            "id": "7yxi31szvlbwvKq9dYOmFI",
+            "name": "Jon Hopkins"
+          },
+          {
+            "id": "5eitAUlYmlha3LLWg7aBn5",
+            "name": "Kelly Lee Owens"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 431,
+        "nanos": 453000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5EZnkKNbuL9vKPOgDC4AJa",
+      "name": "Till The Sky Falls Down - Extended Mix",
+      "artists": [
+        {
+          "id": "1xT5p0VBpnZDrvVSjX9sri",
+          "name": "Dash Berlin"
+        }
+      ],
+      "album": {
+        "id": "6Xa3MJHIQeXVtiB4ai1ai4",
+        "release_date": "2009-09-11",
+        "name": "The New Daylight (Extended Versions)",
+        "artists": [
+          {
+            "id": "1xT5p0VBpnZDrvVSjX9sri",
+            "name": "Dash Berlin"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 514,
+        "nanos": 275000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6m4TBYavg7u3XucxpD2MVK",
+      "name": "Covered In Gold - PvD Club Mix",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        },
+        {
+          "id": "4N2lZcytbZifGelhVEpMeK",
+          "name": "Bo Bruce"
+        }
+      ],
+      "album": {
+        "id": "24Y30Tdt5hjVbM42XhCr5A",
+        "release_date": "2020-08-28",
+        "name": "Guiding Light",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 400,
+        "nanos": 68000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Tu9pNTOWRw8Qi5CFhcW5y",
+      "name": "One Perfect Sunrise",
+      "artists": [
+        {
+          "id": "3csPCeXsj2wezyvkRFzvmV",
+          "name": "Orbital"
+        }
+      ],
+      "album": {
+        "id": "3TMHURIU3sNpS2iv362VYH",
+        "release_date": "2004-06-21",
+        "name": "Blue Album",
+        "artists": [
+          {
+            "id": "3csPCeXsj2wezyvkRFzvmV",
+            "name": "Orbital"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 524,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7fF965xC5lsUue9KexRbI3",
+      "name": "Let U Go",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "0vmacE7hsaPakOq4prw49Z",
+        "release_date": "2002-01-28",
+        "name": "Dedicated",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "27tYOeyhHiQ6tpf1xJpYP1",
+      "name": "Feel Alive",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "0lzUwZgk995U284gk1z2lp",
+        "release_date": "2007-04-27",
+        "name": "Trilogy (Deluxe)",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 226,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0mm8LTZCU3sGQzmnIVYI4j",
+      "name": "Solar",
+      "artists": [
+        {
+          "id": "3ChjGRo4LfuJy7uXo0uQG5",
+          "name": "Rafael Osmo"
+        }
+      ],
+      "album": {
+        "id": "7tePZYIwIBQBpUGagaBCHO",
+        "release_date": "2023-08-04",
+        "name": "Solar",
+        "artists": [
+          {
+            "id": "3ChjGRo4LfuJy7uXo0uQG5",
+            "name": "Rafael Osmo"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 199,
+        "nanos": 680000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "02fuCqZynEdc5YLj3Q5i2E",
+      "name": "Scattered Minds",
+      "artists": [
+        {
+          "id": "0zgmzl8NLEOsqYNOQcSmAA",
+          "name": "Lange"
+        },
+        {
+          "id": "3ChjGRo4LfuJy7uXo0uQG5",
+          "name": "Rafael Osmo"
+        }
+      ],
+      "album": {
+        "id": "5UrfUxY5ovpOzM5zR03yMu",
+        "release_date": "2023-12-15",
+        "name": "Scattered Minds",
+        "artists": [
+          {
+            "id": "0zgmzl8NLEOsqYNOQcSmAA",
+            "name": "Lange"
+          },
+          {
+            "id": "3ChjGRo4LfuJy7uXo0uQG5",
+            "name": "Rafael Osmo"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 259,
+        "nanos": 846000000
+      },
+      "explicit": false
+    }
+  ]
+}

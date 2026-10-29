@@ -1,1 +1,1393 @@
-{"playlist":{"id":"2h9ivj7Ig7EUoZpvvR0r8a","collaborative":false,"name":"When You're Young And In Love","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAACY0fdeekH/IUp+j91e+6v+KQOhHW"},"tracks":[{"id":"3URfKi5DOvUaJMuTuT8osm","name":"When You're Young And In Love","artists":[{"id":"0MponVSpW81oLvJZ53vYZH","name":"The Marvelettes"}],"album":{"id":"10PshaiGlvqUfdADKJXbTV","release_date":"1967-01-01","name":"The Marvelettes","artists":[{"id":"0MponVSpW81oLvJZ53vYZH","name":"The Marvelettes"}],"typ":"album","added_at":0},"duration":{"secs":159,"nanos":533000000},"explicit":false},{"id":"6tGldcIJJwByOYCjJglMAs","name":"There's No Other Like My Baby","artists":[{"id":"7rewR1TVjhisjI6gauUamf","name":"The Crystals"}],"album":{"id":"11ho9FxQbJjMbQn1P1yWpm","release_date":"2011-02-22","name":"Da Doo Ron Ron: The Very Best of The Crystals","artists":[{"id":"7rewR1TVjhisjI6gauUamf","name":"The Crystals"}],"typ":"compilation","added_at":0},"duration":{"secs":149,"nanos":906000000},"explicit":false},{"id":"6ahGhgMNCBXB6HosAebksf","name":"Losing You - Mono Version","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"album":{"id":"6t4BECovfkgGTrtbqmTlZf","release_date":"1988-01-01","name":"The Silver Collection","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"typ":"compilation","added_at":0},"duration":{"secs":180,"nanos":666000000},"explicit":false},{"id":"4V6ZLk1IHdG00qu3B4m8Y9","name":"Baby, I Love You","artists":[{"id":"7CyeXFnOrfC1N6z4naIpgo","name":"The Ronettes"}],"album":{"id":"3vLFWR3fLqfY82WGvaLuyV","release_date":"2011-02-22","name":"Be My Baby: The Very Best of The Ronettes","artists":[{"id":"7CyeXFnOrfC1N6z4naIpgo","name":"The Ronettes"}],"typ":"compilation","added_at":0},"duration":{"secs":171,"nanos":480000000},"explicit":false},{"id":"6IR9UL1j0lAi2QaKP4CQoW","name":"Please Stay","artists":[{"id":"1PByAXvcWN91nfYuyatk3W","name":"The Cryin Shames"}],"album":{"id":"4lWjuwwU3h82oVwwoK0nqQ","release_date":"2024-04-12","name":"Please Stay (Joe Meek's Tea Chest Tapes)","artists":[{"id":"1PByAXvcWN91nfYuyatk3W","name":"The Cryin Shames"}],"typ":"album","added_at":0},"duration":{"secs":194,"nanos":813000000},"explicit":false},{"id":"3im4hrqpF3MW0uTtwuNHxZ","name":"Soul Time - Single Version","artists":[{"id":"4GO3ufZJ7YsEnQ3PiML2Dg","name":"Shirley Ellis"}],"album":{"id":"4m7PZF4kH6K7JKOp2vlf3d","release_date":"2007-07-02","name":"The Northern Soul Story Vol.1: The Twisted Wheel","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":158,"nanos":66000000},"explicit":false},{"id":"6WFsELGC7rYxCptwEC2lv3","name":"Seven Days Too Long","artists":[{"id":"7ot74oYptdmYydjyDmcLzg","name":"Chuck Wood"}],"album":{"id":"2QczhQjz4fqF4lUnySqbXX","release_date":"2017-09-04","name":"Northern Soul Classics","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":141,"nanos":360000000},"explicit":false},{"id":"47Lwy01msY7erJSYfQ5p0Y","name":"Easily Persuaded","artists":[{"id":"1Pe5hlKMCTULjosqZ6KanP","name":"Martha Reeves & The Vandellas"}],"album":{"id":"2LVHRojdrMALUMJpXX4aFJ","release_date":"1970","name":"Natural Resources","artists":[{"id":"1Pe5hlKMCTULjosqZ6KanP","name":"Martha Reeves & The Vandellas"}],"typ":"album","added_at":0},"duration":{"secs":163,"nanos":973000000},"explicit":false},{"id":"3ET4J0rPJ4uzgf0cQzGGsN","name":"Ain't No Sun Since You've Been Gone","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"album":{"id":"08W4d8uMIQvJg0nlwR1rBN","release_date":"1968-11-22","name":"Dusty... Definitely (Expanded Edtion)","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"typ":"album","added_at":0},"duration":{"secs":166,"nanos":106000000},"explicit":false},{"id":"5P6O4yi0sZ4JUOJAlmZvxM","name":"(I Was) Born To Cry - Remastered 1991","artists":[{"id":"15FyiY3ChN0QRspHIQYq0W","name":"Dion"}],"album":{"id":"4XCCPbgyV1L06tIZmQYFwu","release_date":"2005-01-01","name":"The Best Of Dion & The Belmonts","artists":[{"id":"2loYllWFfoWpoxC5YrJKc4","name":"Dion & The Belmonts"}],"typ":"compilation","added_at":0},"duration":{"secs":147,"nanos":560000000},"explicit":false},{"id":"0AQLp2cUSdwdjQCsfd00EY","name":"Stoned Love","artists":[{"id":"57bUPid8xztkieZfS7OlEV","name":"The Supremes"}],"album":{"id":"23s2StHCeb3zO0B95ZDN2R","release_date":"2008-01-01","name":"The Story Of The Supremes","artists":[{"id":"57bUPid8xztkieZfS7OlEV","name":"The Supremes"}],"typ":"compilation","added_at":0},"duration":{"secs":177,"nanos":346000000},"explicit":false},{"id":"1BLb9uIQ6MYsFVBU0lAQuK","name":"Take Me In Your Arms (Rock Me A Little While) - Single Version","artists":[{"id":"71pUA2TXf3JHUPUgsjLtuL","name":"Kim Weston"}],"album":{"id":"3UlS0RxUdxiPmEXacqJDRf","release_date":"2005-10-01","name":"The Motown Anthology","artists":[{"id":"71pUA2TXf3JHUPUgsjLtuL","name":"Kim Weston"}],"typ":"compilation","added_at":0},"duration":{"secs":170,"nanos":493000000},"explicit":false},{"id":"1LeWIs2hP2r5yOQnVuYoI5","name":"Ain't No Mountain High Enough","artists":[{"id":"3koiLjNrgRTNbOwViDipeA","name":"Marvin Gaye"},{"id":"75jNCko3SnEMI5gwGqrbb8","name":"Tammi Terrell"}],"album":{"id":"67Eq3nfl1km9s5ig76Cc8B","release_date":"1967-08-29","name":"United","artists":[{"id":"3koiLjNrgRTNbOwViDipeA","name":"Marvin Gaye"},{"id":"75jNCko3SnEMI5gwGqrbb8","name":"Tammi Terrell"}],"typ":"album","added_at":0},"duration":{"secs":151,"nanos":666000000},"explicit":false},{"id":"7d1ustAIlXG7ht5Q4IOv7s","name":"It's The Same Old Song","artists":[{"id":"7fIvjotigTGWqjIz6EP1i4","name":"Four Tops"}],"album":{"id":"2jvkMPydCpLWwRothqJU1O","release_date":"1965-11-13","name":"Four Tops - Second Album","artists":[{"id":"7fIvjotigTGWqjIz6EP1i4","name":"Four Tops"}],"typ":"album","added_at":0},"duration":{"secs":166,"nanos":400000000},"explicit":false},{"id":"4AoLWdtnYuomZqTsCHqokh","name":"Too Many Fish In The Sea - Single Version","artists":[{"id":"0MponVSpW81oLvJZ53vYZH","name":"The Marvelettes"}],"album":{"id":"1pjFUrcV77wbRBNpTRMlRc","release_date":"2008-01-01","name":"The Definitive Collection","artists":[{"id":"0MponVSpW81oLvJZ53vYZH","name":"The Marvelettes"}],"typ":"compilation","added_at":0},"duration":{"secs":148,"nanos":80000000},"explicit":false},{"id":"65v2O61k8E9lZ1teQFvy8F","name":"Nowhere To Run","artists":[{"id":"1Pe5hlKMCTULjosqZ6KanP","name":"Martha Reeves & The Vandellas"}],"album":{"id":"1euz2VK3QEItULCCyhoDo6","release_date":"2001-01-01","name":"Motown Gold","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":176,"nanos":866000000},"explicit":false},{"id":"576JCJvB0XkPa5PIai3LZu","name":"Hit And Run","artists":[{"id":"5LP4nRFZbdswDSBbCYP4gH","name":"Rose Batiste"}],"album":{"id":"1x6I4OVVnsZGTSBznVw9WY","release_date":"2010-09-20","name":"The Stars Of Northern Soul Volume 1","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":191,"nanos":640000000},"explicit":false},{"id":"6wX5xUGvnQNLFX8rHb4cPX","name":"Number One In Your Heart","artists":[{"id":"0XWqijhdSQS02cmqiRcehT","name":"Herbie Goins & The Night-Timers"}],"album":{"id":"2QczhQjz4fqF4lUnySqbXX","release_date":"2017-09-04","name":"Northern Soul Classics","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":164,"nanos":786000000},"explicit":false},{"id":"6HDL3KJRhLxESQ8EyJnyEk","name":"Cool Jerk","artists":[{"id":"2AYmrUFn1ATSfFSx3B4tvb","name":"The Capitols"}],"album":{"id":"2QczhQjz4fqF4lUnySqbXX","release_date":"2017-09-04","name":"Northern Soul Classics","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":166,"nanos":746000000},"explicit":false},{"id":"40PMVuYhxzVKhCQ2jzOHvl","name":"Till The End","artists":[{"id":"0CUpzKPDfIVzYqMn47jiV3","name":"Curtis Harding"}],"album":{"id":"3Can2qB9S1pOcElpkfExB1","release_date":"2017-10-27","name":"Face Your Fear","artists":[{"id":"0CUpzKPDfIVzYqMn47jiV3","name":"Curtis Harding"}],"typ":"album","added_at":0},"duration":{"secs":191,"nanos":533000000},"explicit":false},{"id":"3zYQ1KXzqBWRsxIqdVMoYF","name":"Need Your Love","artists":[{"id":"0CUpzKPDfIVzYqMn47jiV3","name":"Curtis Harding"}],"album":{"id":"3Can2qB9S1pOcElpkfExB1","release_date":"2017-10-27","name":"Face Your Fear","artists":[{"id":"0CUpzKPDfIVzYqMn47jiV3","name":"Curtis Harding"}],"typ":"album","added_at":0},"duration":{"secs":177,"nanos":200000000},"explicit":false},{"id":"2mmOWnCb3CSb379F8p5lzT","name":"Will You Love Me Tomorrow","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"album":{"id":"5OiDy9gOFbwBjiXSzdq6O5","release_date":"1993-01-01","name":"Blue For You","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"typ":"compilation","added_at":0},"duration":{"secs":157,"nanos":933000000},"explicit":false},{"id":"3I2zrjGgwvWMMPHY8KYWv2","name":"I Only Want To Be With You","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"album":{"id":"2714kLaXmSq9xrky4aKH4O","release_date":"2000-01-01","name":"Classic Dusty Springfield - The Universal Masters Collection","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"typ":"compilation","added_at":0},"duration":{"secs":158,"nanos":760000000},"explicit":false},{"id":"4Cxa9AWDusLnX7fxZrkLfp","name":"Soul Time - Single Version","artists":[{"id":"4GO3ufZJ7YsEnQ3PiML2Dg","name":"Shirley Ellis"}],"album":{"id":"1e5GWj2QMByTH63cp8WOU4","release_date":"2011-04-22","name":"The Best Of The Northern Soul Story","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":162,"nanos":160000000},"explicit":false},{"id":"1MA9StLzlFftLbuqOmoWij","name":"Cathy's Clown","artists":[{"id":"4ACplpEqD6JIVgKrafauzs","name":"The Everly Brothers"}],"album":{"id":"3wWjXsqngYcPmd4hQzjNAD","release_date":"1962-06-01","name":"The Golden Hits of The Everly Brothers","artists":[{"id":"4ACplpEqD6JIVgKrafauzs","name":"The Everly Brothers"}],"typ":"compilation","added_at":0},"duration":{"secs":144,"nanos":13000000},"explicit":false},{"id":"1OppEieGNdItZbE14gLBEv","name":"You Can't Hurry Love","artists":[{"id":"57bUPid8xztkieZfS7OlEV","name":"The Supremes"}],"album":{"id":"5fpOmAuZaVyEXPlQ4oOqJ6","release_date":"1966-08-25","name":"The Supremes A' Go-Go (Expanded Edition)","artists":[{"id":"57bUPid8xztkieZfS7OlEV","name":"The Supremes"}],"typ":"compilation","added_at":0},"duration":{"secs":167,"nanos":933000000},"explicit":false},{"id":"1TQrSFGj9IFgfPH5H8mwUV","name":"Then He Kissed Me","artists":[{"id":"7rewR1TVjhisjI6gauUamf","name":"The Crystals"}],"album":{"id":"2sBETeYC1DE6nmjAux2pR0","release_date":"2013-05-23","name":"Unchained Melody: The Very Best Golden Oldies of the 60s with the Beach Boys, The Righteous Brothers, The Ronettes, Martha and the Vandellas, And More","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":157,"nanos":117000000},"explicit":false},{"id":"0QeeVcFYQPpqO4KHeOrzPK","name":"Nothing But A Heartache","artists":[{"id":"3Hra0KQr00Pe9oqmQdVtvp","name":"The Flirtations"}],"album":{"id":"67UoZsODIDU1g4gN1uJmSk","release_date":"1998-01-01","name":"The Northern Soul Scene","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":161,"nanos":906000000},"explicit":false},{"id":"6vcG9EgeqJUSmmF65lxUm6","name":"One Fine Day","artists":[{"id":"05sIdEkXAYDbDDdv3T56Oj","name":"The Chiffons"}],"album":{"id":"1WvYZcG9v3WzzNNkwpreGq","release_date":"2004-10-02","name":"The Chiffons Absolutely The Best!","artists":[{"id":"05sIdEkXAYDbDDdv3T56Oj","name":"The Chiffons"}],"typ":"compilation","added_at":0},"duration":{"secs":128,"nanos":199000000},"explicit":false},{"id":"27bw4i8LnECzVlbMZ4kFHw","name":"Cathy's Clown - 2007 Remaster","artists":[{"id":"4ACplpEqD6JIVgKrafauzs","name":"The Everly Brothers"}],"album":{"id":"4Nro0nGcWVybv8cZXmSU4P","release_date":"1960-10","name":"A Date with The Everly Brothers","artists":[{"id":"4ACplpEqD6JIVgKrafauzs","name":"The Everly Brothers"}],"typ":"album","added_at":0},"duration":{"secs":145,"nanos":933000000},"explicit":false},{"id":"53p1SzTC0sBH9HAPD8MOOu","name":"Gimme Some Lovin'","artists":[{"id":"1cHFz6lrt7KAsBV8j2Ny1g","name":"The Blues Brothers"}],"album":{"id":"4cO51KBYsdsbmSZleoNEGH","release_date":"1980","name":"The Blues Brothers Original Motion Picture Soundtrack","artists":[{"id":"1cHFz6lrt7KAsBV8j2Ny1g","name":"The Blues Brothers"}],"typ":"album","added_at":0},"duration":{"secs":187,"nanos":693000000},"explicit":false},{"id":"7rGOWzo4evAQQ2FzrSKp0B","name":"Tell Him - Single Version","artists":[{"id":"2GF1B0GIaFrLFLdfH6ufRO","name":"The Exciters"}],"album":{"id":"1i2c4K7HnASzLOo6cagJVg","release_date":"2012-01-01","name":"Tell Him","artists":[{"id":"2GF1B0GIaFrLFLdfH6ufRO","name":"The Exciters"}],"typ":"album","added_at":0},"duration":{"secs":156,"nanos":160000000},"explicit":false},{"id":"5KIzAUDxPywD92KxP2b6dx","name":"Telstar - Remastered","artists":[{"id":"3SblTU11ZKURsHhWGwPpt9","name":"The Tornados"}],"album":{"id":"0fmwJUxR9eESIt4ceHmXeO","release_date":"2014-12-29","name":"Telstar and More (Remastered)","artists":[{"id":"3SblTU11ZKURsHhWGwPpt9","name":"The Tornados"}],"typ":"album","added_at":0},"duration":{"secs":197,"nanos":276000000},"explicit":false},{"id":"40Rro9UmViQe4gMa1vzkbL","name":"Stand by Me","artists":[{"id":"5N1ZVlbnBfKibmEQuSlUjO","name":"Jessie Hock"}],"album":{"id":"3UtyGhZ2KIYYgh1XCJ1PWH","release_date":"2015-09-20","name":"Sixties Music: Best Soul, Classic Rock, R&B Songs & Ballads. 60's Music Greatest Hits","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":182,"nanos":466000000},"explicit":false},{"id":"0651FOAfvX33QIjpYL4F95","name":"My Girl","artists":[{"id":"3RwQ26hR2tJtA8F9p2n7jG","name":"The Temptations"}],"album":{"id":"5XRokkSOBv3h6WnPyzitst","release_date":"2008-01-01","name":"Favorites","artists":[{"id":"3RwQ26hR2tJtA8F9p2n7jG","name":"The Temptations"}],"typ":"compilation","added_at":0},"duration":{"secs":163,"nanos":0},"explicit":false},{"id":"2lzbKVKSUVeb01ytbHA8PS","name":"Stand By Me","artists":[{"id":"3plJVWt88EqjvtuB4ZDRV3","name":"Ben E. King"}],"album":{"id":"0Yk5DkDnqOtzPuBzTs6fti","release_date":"1986-11-04","name":"Stand By Me [Original Motion Picture Soundtrack]","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":174,"nanos":800000000},"explicit":false},{"id":"2YEL7oERMj7nAJGjoAV9Hs","name":"You Never Can Tell","artists":[{"id":"293zczrfYafIItmnmM3coR","name":"Chuck Berry"}],"album":{"id":"5lEtfFvXRKv11z3uaUqnqd","release_date":"1964","name":"St. Louis to Liverpool","artists":[{"id":"293zczrfYafIItmnmM3coR","name":"Chuck Berry"}],"typ":"album","added_at":0},"duration":{"secs":161,"nanos":500000000},"explicit":false},{"id":"63VN1yQ8RcKMUVX4KMRsBy","name":"Get Down with It","artists":[{"id":"4xls23Ye9WR9yy3yYMpAMm","name":"Little Richard"}],"album":{"id":"3XJdo12CbRAzzG58QbzKkk","release_date":"1966","name":"Get Down With It!: The OKeh Sessions","artists":[{"id":"4xls23Ye9WR9yy3yYMpAMm","name":"Little Richard"}],"typ":"album","added_at":0},"duration":{"secs":194,"nanos":640000000},"explicit":false},{"id":"5Absh0SFkQCD0tZKJUFBtX","name":"I'm A Man","artists":[{"id":"3i9hP422d2KMjaupTzBNVS","name":"The Spencer Davis Group"}],"album":{"id":"11jfbJzLcCXOv1R70CosnO","release_date":"2017-09-15","name":"The Vietnam War - A Film By Ken Burns & Lynn Novick (The Soundtrack)","artists":[{"id":"0veKrpvEQNcJS8ay4Lg1Q9","name":"The Vietnam War on PBS"}],"typ":"compilation","added_at":0},"duration":{"secs":175,"nanos":471000000},"explicit":false},{"id":"7dJOzrQCtj5aGDYv5wsdXo","name":"Cherry, Cherry Coupe (Stereo)","artists":[{"id":"3oDbviiivRWhXwIE8hxkVV","name":"The Beach Boys"}],"album":{"id":"3LlY8r7KsFaDNAQsd1IGot","release_date":"1963-10-07","name":"Little Deuce Coupe (Mono & Stereo)","artists":[{"id":"3oDbviiivRWhXwIE8hxkVV","name":"The Beach Boys"}],"typ":"album","added_at":0},"duration":{"secs":110,"nanos":155000000},"explicit":false},{"id":"7fW1OwQPexk5OWCj7CSpqU","name":"Fun, Fun, Fun - Remastered 2001","artists":[{"id":"3oDbviiivRWhXwIE8hxkVV","name":"The Beach Boys"}],"album":{"id":"1G8AfOjrE0FO9w1gfemIy1","release_date":"1964-03-02","name":"Shut Down, Vol. 2 (Remastered)","artists":[{"id":"3oDbviiivRWhXwIE8hxkVV","name":"The Beach Boys"}],"typ":"album","added_at":0},"duration":{"secs":125,"nanos":400000000},"explicit":false},{"id":"73RGpQg8Cxtly4QuHtNiOd","name":"Town Called Malice","artists":[{"id":"2P560DaOMNDUACoH8ZhOCR","name":"The Jam"}],"album":{"id":"50d9Hx8o4z7XooQItBG9nH","release_date":"2006-06-05","name":"The Jam Story","artists":[{"id":"2P560DaOMNDUACoH8ZhOCR","name":"The Jam"}],"typ":"compilation","added_at":0},"duration":{"secs":172,"nanos":866000000},"explicit":false},{"id":"4ySbMLgFkeGPErd0GAdSti","name":"Da Doo Ron Ron (When He Walked Me Home)","artists":[{"id":"7rewR1TVjhisjI6gauUamf","name":"The Crystals"}],"album":{"id":"020ep2kmPRC8tgh95hMP2i","release_date":"2011-02-22","name":"Wall of Sound: The Very Best of Phil Spector 1961-1966","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":140,"nanos":120000000},"explicit":false},{"id":"6w5j6CHKVppZRanO9Z0Mhd","name":"A Fine, Fine Boy","artists":[{"id":"391oLRVmoTkumiN79HkTWu","name":"Darlene Love"}],"album":{"id":"020ep2kmPRC8tgh95hMP2i","release_date":"2011-02-22","name":"Wall of Sound: The Very Best of Phil Spector 1961-1966","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":165,"nanos":746000000},"explicit":false},{"id":"2UUSG19I7Yshi75bzdIs9l","name":"My World Is Empty Without You - Stereo Version","artists":[{"id":"57bUPid8xztkieZfS7OlEV","name":"The Supremes"}],"album":{"id":"206gQh3Ea4NL1zWMUekxVr","release_date":"1966-02-18","name":"I Hear A Symphony: Expanded Edition","artists":[{"id":"57bUPid8xztkieZfS7OlEV","name":"The Supremes"}],"typ":"album","added_at":0},"duration":{"secs":157,"nanos":26000000},"explicit":false},{"id":"5gwvsIrTVL4F76tn9xEhQ3","name":"Come And Get These Memories","artists":[{"id":"1Pe5hlKMCTULjosqZ6KanP","name":"Martha Reeves & The Vandellas"}],"album":{"id":"6jOw3nHWwnbF7eKW9yxfY4","release_date":"1963","name":"Come And Get These Memories","artists":[{"id":"1Pe5hlKMCTULjosqZ6KanP","name":"Martha Reeves & The Vandellas"}],"typ":"album","added_at":0},"duration":{"secs":143,"nanos":666000000},"explicit":false},{"id":"6tvQKl37z17y5kHtczWo16","name":"Last Call","artists":[{"id":"1rHh0AI30JhKrbzKIFjFNd","name":"Jr. Walker & The All Stars"}],"album":{"id":"5zFjEP5qKjqonWTmBewAf1","release_date":"1966-01-01","name":"Road Runner","artists":[{"id":"1rHh0AI30JhKrbzKIFjFNd","name":"Jr. Walker & The All Stars"}],"typ":"compilation","added_at":0},"duration":{"secs":141,"nanos":840000000},"explicit":false},{"id":"3VgrSJEKBRT3xmwzpaxxEF","name":"(Love Is Like A) Heat Wave","artists":[{"id":"1Pe5hlKMCTULjosqZ6KanP","name":"Martha Reeves & The Vandellas"}],"album":{"id":"2GxwwKxtwDZkc9qX15YqKK","release_date":"1963","name":"Heat Wave","artists":[{"id":"1Pe5hlKMCTULjosqZ6KanP","name":"Martha Reeves & The Vandellas"}],"typ":"album","added_at":0},"duration":{"secs":163,"nanos":53000000},"explicit":false},{"id":"4T7KB2dRMyQ6G7Ws1LEirm","name":"Too Many Fish In The Sea - Single Version","artists":[{"id":"0MponVSpW81oLvJZ53vYZH","name":"The Marvelettes"}],"album":{"id":"5hC8XmSW4sGzeAc5Lx9i62","release_date":"2008-01-01","name":"The Definitive Collection","artists":[{"id":"0MponVSpW81oLvJZ53vYZH","name":"The Marvelettes"}],"typ":"compilation","added_at":0},"duration":{"secs":148,"nanos":80000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "2h9ivj7Ig7EUoZpvvR0r8a",
+    "collaborative": false,
+    "name": "When You're Young And In Love",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAACY0fdeekH/IUp+j91e+6v+KQOhHW",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "3URfKi5DOvUaJMuTuT8osm",
+      "name": "When You're Young And In Love",
+      "artists": [
+        {
+          "id": "0MponVSpW81oLvJZ53vYZH",
+          "name": "The Marvelettes"
+        }
+      ],
+      "album": {
+        "id": "10PshaiGlvqUfdADKJXbTV",
+        "release_date": "1967-01-01",
+        "name": "The Marvelettes",
+        "artists": [
+          {
+            "id": "0MponVSpW81oLvJZ53vYZH",
+            "name": "The Marvelettes"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 159,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6tGldcIJJwByOYCjJglMAs",
+      "name": "There's No Other Like My Baby",
+      "artists": [
+        {
+          "id": "7rewR1TVjhisjI6gauUamf",
+          "name": "The Crystals"
+        }
+      ],
+      "album": {
+        "id": "11ho9FxQbJjMbQn1P1yWpm",
+        "release_date": "2011-02-22",
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "artists": [
+          {
+            "id": "7rewR1TVjhisjI6gauUamf",
+            "name": "The Crystals"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 149,
+        "nanos": 906000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6ahGhgMNCBXB6HosAebksf",
+      "name": "Losing You - Mono Version",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "6t4BECovfkgGTrtbqmTlZf",
+        "release_date": "1988-01-01",
+        "name": "The Silver Collection",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 180,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4V6ZLk1IHdG00qu3B4m8Y9",
+      "name": "Baby, I Love You",
+      "artists": [
+        {
+          "id": "7CyeXFnOrfC1N6z4naIpgo",
+          "name": "The Ronettes"
+        }
+      ],
+      "album": {
+        "id": "3vLFWR3fLqfY82WGvaLuyV",
+        "release_date": "2011-02-22",
+        "name": "Be My Baby: The Very Best of The Ronettes",
+        "artists": [
+          {
+            "id": "7CyeXFnOrfC1N6z4naIpgo",
+            "name": "The Ronettes"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 171,
+        "nanos": 480000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6IR9UL1j0lAi2QaKP4CQoW",
+      "name": "Please Stay",
+      "artists": [
+        {
+          "id": "1PByAXvcWN91nfYuyatk3W",
+          "name": "The Cryin Shames"
+        }
+      ],
+      "album": {
+        "id": "4lWjuwwU3h82oVwwoK0nqQ",
+        "release_date": "2024-04-12",
+        "name": "Please Stay (Joe Meek's Tea Chest Tapes)",
+        "artists": [
+          {
+            "id": "1PByAXvcWN91nfYuyatk3W",
+            "name": "The Cryin Shames"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 194,
+        "nanos": 813000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3im4hrqpF3MW0uTtwuNHxZ",
+      "name": "Soul Time - Single Version",
+      "artists": [
+        {
+          "id": "4GO3ufZJ7YsEnQ3PiML2Dg",
+          "name": "Shirley Ellis"
+        }
+      ],
+      "album": {
+        "id": "4m7PZF4kH6K7JKOp2vlf3d",
+        "release_date": "2007-07-02",
+        "name": "The Northern Soul Story Vol.1: The Twisted Wheel",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 158,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6WFsELGC7rYxCptwEC2lv3",
+      "name": "Seven Days Too Long",
+      "artists": [
+        {
+          "id": "7ot74oYptdmYydjyDmcLzg",
+          "name": "Chuck Wood"
+        }
+      ],
+      "album": {
+        "id": "2QczhQjz4fqF4lUnySqbXX",
+        "release_date": "2017-09-04",
+        "name": "Northern Soul Classics",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 141,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "47Lwy01msY7erJSYfQ5p0Y",
+      "name": "Easily Persuaded",
+      "artists": [
+        {
+          "id": "1Pe5hlKMCTULjosqZ6KanP",
+          "name": "Martha Reeves & The Vandellas"
+        }
+      ],
+      "album": {
+        "id": "2LVHRojdrMALUMJpXX4aFJ",
+        "release_date": "1970",
+        "name": "Natural Resources",
+        "artists": [
+          {
+            "id": "1Pe5hlKMCTULjosqZ6KanP",
+            "name": "Martha Reeves & The Vandellas"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 163,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3ET4J0rPJ4uzgf0cQzGGsN",
+      "name": "Ain't No Sun Since You've Been Gone",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "08W4d8uMIQvJg0nlwR1rBN",
+        "release_date": "1968-11-22",
+        "name": "Dusty... Definitely (Expanded Edtion)",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5P6O4yi0sZ4JUOJAlmZvxM",
+      "name": "(I Was) Born To Cry - Remastered 1991",
+      "artists": [
+        {
+          "id": "15FyiY3ChN0QRspHIQYq0W",
+          "name": "Dion"
+        }
+      ],
+      "album": {
+        "id": "4XCCPbgyV1L06tIZmQYFwu",
+        "release_date": "2005-01-01",
+        "name": "The Best Of Dion & The Belmonts",
+        "artists": [
+          {
+            "id": "2loYllWFfoWpoxC5YrJKc4",
+            "name": "Dion & The Belmonts"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 147,
+        "nanos": 560000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0AQLp2cUSdwdjQCsfd00EY",
+      "name": "Stoned Love",
+      "artists": [
+        {
+          "id": "57bUPid8xztkieZfS7OlEV",
+          "name": "The Supremes"
+        }
+      ],
+      "album": {
+        "id": "23s2StHCeb3zO0B95ZDN2R",
+        "release_date": "2008-01-01",
+        "name": "The Story Of The Supremes",
+        "artists": [
+          {
+            "id": "57bUPid8xztkieZfS7OlEV",
+            "name": "The Supremes"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 177,
+        "nanos": 346000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1BLb9uIQ6MYsFVBU0lAQuK",
+      "name": "Take Me In Your Arms (Rock Me A Little While) - Single Version",
+      "artists": [
+        {
+          "id": "71pUA2TXf3JHUPUgsjLtuL",
+          "name": "Kim Weston"
+        }
+      ],
+      "album": {
+        "id": "3UlS0RxUdxiPmEXacqJDRf",
+        "release_date": "2005-10-01",
+        "name": "The Motown Anthology",
+        "artists": [
+          {
+            "id": "71pUA2TXf3JHUPUgsjLtuL",
+            "name": "Kim Weston"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 170,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1LeWIs2hP2r5yOQnVuYoI5",
+      "name": "Ain't No Mountain High Enough",
+      "artists": [
+        {
+          "id": "3koiLjNrgRTNbOwViDipeA",
+          "name": "Marvin Gaye"
+        },
+        {
+          "id": "75jNCko3SnEMI5gwGqrbb8",
+          "name": "Tammi Terrell"
+        }
+      ],
+      "album": {
+        "id": "67Eq3nfl1km9s5ig76Cc8B",
+        "release_date": "1967-08-29",
+        "name": "United",
+        "artists": [
+          {
+            "id": "3koiLjNrgRTNbOwViDipeA",
+            "name": "Marvin Gaye"
+          },
+          {
+            "id": "75jNCko3SnEMI5gwGqrbb8",
+            "name": "Tammi Terrell"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 151,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7d1ustAIlXG7ht5Q4IOv7s",
+      "name": "It's The Same Old Song",
+      "artists": [
+        {
+          "id": "7fIvjotigTGWqjIz6EP1i4",
+          "name": "Four Tops"
+        }
+      ],
+      "album": {
+        "id": "2jvkMPydCpLWwRothqJU1O",
+        "release_date": "1965-11-13",
+        "name": "Four Tops - Second Album",
+        "artists": [
+          {
+            "id": "7fIvjotigTGWqjIz6EP1i4",
+            "name": "Four Tops"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4AoLWdtnYuomZqTsCHqokh",
+      "name": "Too Many Fish In The Sea - Single Version",
+      "artists": [
+        {
+          "id": "0MponVSpW81oLvJZ53vYZH",
+          "name": "The Marvelettes"
+        }
+      ],
+      "album": {
+        "id": "1pjFUrcV77wbRBNpTRMlRc",
+        "release_date": "2008-01-01",
+        "name": "The Definitive Collection",
+        "artists": [
+          {
+            "id": "0MponVSpW81oLvJZ53vYZH",
+            "name": "The Marvelettes"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 148,
+        "nanos": 80000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "65v2O61k8E9lZ1teQFvy8F",
+      "name": "Nowhere To Run",
+      "artists": [
+        {
+          "id": "1Pe5hlKMCTULjosqZ6KanP",
+          "name": "Martha Reeves & The Vandellas"
+        }
+      ],
+      "album": {
+        "id": "1euz2VK3QEItULCCyhoDo6",
+        "release_date": "2001-01-01",
+        "name": "Motown Gold",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 176,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "576JCJvB0XkPa5PIai3LZu",
+      "name": "Hit And Run",
+      "artists": [
+        {
+          "id": "5LP4nRFZbdswDSBbCYP4gH",
+          "name": "Rose Batiste"
+        }
+      ],
+      "album": {
+        "id": "1x6I4OVVnsZGTSBznVw9WY",
+        "release_date": "2010-09-20",
+        "name": "The Stars Of Northern Soul Volume 1",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 640000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6wX5xUGvnQNLFX8rHb4cPX",
+      "name": "Number One In Your Heart",
+      "artists": [
+        {
+          "id": "0XWqijhdSQS02cmqiRcehT",
+          "name": "Herbie Goins & The Night-Timers"
+        }
+      ],
+      "album": {
+        "id": "2QczhQjz4fqF4lUnySqbXX",
+        "release_date": "2017-09-04",
+        "name": "Northern Soul Classics",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 164,
+        "nanos": 786000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6HDL3KJRhLxESQ8EyJnyEk",
+      "name": "Cool Jerk",
+      "artists": [
+        {
+          "id": "2AYmrUFn1ATSfFSx3B4tvb",
+          "name": "The Capitols"
+        }
+      ],
+      "album": {
+        "id": "2QczhQjz4fqF4lUnySqbXX",
+        "release_date": "2017-09-04",
+        "name": "Northern Soul Classics",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 746000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "40PMVuYhxzVKhCQ2jzOHvl",
+      "name": "Till The End",
+      "artists": [
+        {
+          "id": "0CUpzKPDfIVzYqMn47jiV3",
+          "name": "Curtis Harding"
+        }
+      ],
+      "album": {
+        "id": "3Can2qB9S1pOcElpkfExB1",
+        "release_date": "2017-10-27",
+        "name": "Face Your Fear",
+        "artists": [
+          {
+            "id": "0CUpzKPDfIVzYqMn47jiV3",
+            "name": "Curtis Harding"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3zYQ1KXzqBWRsxIqdVMoYF",
+      "name": "Need Your Love",
+      "artists": [
+        {
+          "id": "0CUpzKPDfIVzYqMn47jiV3",
+          "name": "Curtis Harding"
+        }
+      ],
+      "album": {
+        "id": "3Can2qB9S1pOcElpkfExB1",
+        "release_date": "2017-10-27",
+        "name": "Face Your Fear",
+        "artists": [
+          {
+            "id": "0CUpzKPDfIVzYqMn47jiV3",
+            "name": "Curtis Harding"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 177,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2mmOWnCb3CSb379F8p5lzT",
+      "name": "Will You Love Me Tomorrow",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "5OiDy9gOFbwBjiXSzdq6O5",
+        "release_date": "1993-01-01",
+        "name": "Blue For You",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 157,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3I2zrjGgwvWMMPHY8KYWv2",
+      "name": "I Only Want To Be With You",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "2714kLaXmSq9xrky4aKH4O",
+        "release_date": "2000-01-01",
+        "name": "Classic Dusty Springfield - The Universal Masters Collection",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 158,
+        "nanos": 760000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Cxa9AWDusLnX7fxZrkLfp",
+      "name": "Soul Time - Single Version",
+      "artists": [
+        {
+          "id": "4GO3ufZJ7YsEnQ3PiML2Dg",
+          "name": "Shirley Ellis"
+        }
+      ],
+      "album": {
+        "id": "1e5GWj2QMByTH63cp8WOU4",
+        "release_date": "2011-04-22",
+        "name": "The Best Of The Northern Soul Story",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 162,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1MA9StLzlFftLbuqOmoWij",
+      "name": "Cathy's Clown",
+      "artists": [
+        {
+          "id": "4ACplpEqD6JIVgKrafauzs",
+          "name": "The Everly Brothers"
+        }
+      ],
+      "album": {
+        "id": "3wWjXsqngYcPmd4hQzjNAD",
+        "release_date": "1962-06-01",
+        "name": "The Golden Hits of The Everly Brothers",
+        "artists": [
+          {
+            "id": "4ACplpEqD6JIVgKrafauzs",
+            "name": "The Everly Brothers"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 144,
+        "nanos": 13000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1OppEieGNdItZbE14gLBEv",
+      "name": "You Can't Hurry Love",
+      "artists": [
+        {
+          "id": "57bUPid8xztkieZfS7OlEV",
+          "name": "The Supremes"
+        }
+      ],
+      "album": {
+        "id": "5fpOmAuZaVyEXPlQ4oOqJ6",
+        "release_date": "1966-08-25",
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "artists": [
+          {
+            "id": "57bUPid8xztkieZfS7OlEV",
+            "name": "The Supremes"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 167,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1TQrSFGj9IFgfPH5H8mwUV",
+      "name": "Then He Kissed Me",
+      "artists": [
+        {
+          "id": "7rewR1TVjhisjI6gauUamf",
+          "name": "The Crystals"
+        }
+      ],
+      "album": {
+        "id": "2sBETeYC1DE6nmjAux2pR0",
+        "release_date": "2013-05-23",
+        "name": "Unchained Melody: The Very Best Golden Oldies of the 60s with the Beach Boys, The Righteous Brothers, The Ronettes, Martha and the Vandellas, And More",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 157,
+        "nanos": 117000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0QeeVcFYQPpqO4KHeOrzPK",
+      "name": "Nothing But A Heartache",
+      "artists": [
+        {
+          "id": "3Hra0KQr00Pe9oqmQdVtvp",
+          "name": "The Flirtations"
+        }
+      ],
+      "album": {
+        "id": "67UoZsODIDU1g4gN1uJmSk",
+        "release_date": "1998-01-01",
+        "name": "The Northern Soul Scene",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 161,
+        "nanos": 906000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6vcG9EgeqJUSmmF65lxUm6",
+      "name": "One Fine Day",
+      "artists": [
+        {
+          "id": "05sIdEkXAYDbDDdv3T56Oj",
+          "name": "The Chiffons"
+        }
+      ],
+      "album": {
+        "id": "1WvYZcG9v3WzzNNkwpreGq",
+        "release_date": "2004-10-02",
+        "name": "The Chiffons Absolutely The Best!",
+        "artists": [
+          {
+            "id": "05sIdEkXAYDbDDdv3T56Oj",
+            "name": "The Chiffons"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 128,
+        "nanos": 199000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "27bw4i8LnECzVlbMZ4kFHw",
+      "name": "Cathy's Clown - 2007 Remaster",
+      "artists": [
+        {
+          "id": "4ACplpEqD6JIVgKrafauzs",
+          "name": "The Everly Brothers"
+        }
+      ],
+      "album": {
+        "id": "4Nro0nGcWVybv8cZXmSU4P",
+        "release_date": "1960-10",
+        "name": "A Date with The Everly Brothers",
+        "artists": [
+          {
+            "id": "4ACplpEqD6JIVgKrafauzs",
+            "name": "The Everly Brothers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 145,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "53p1SzTC0sBH9HAPD8MOOu",
+      "name": "Gimme Some Lovin'",
+      "artists": [
+        {
+          "id": "1cHFz6lrt7KAsBV8j2Ny1g",
+          "name": "The Blues Brothers"
+        }
+      ],
+      "album": {
+        "id": "4cO51KBYsdsbmSZleoNEGH",
+        "release_date": "1980",
+        "name": "The Blues Brothers Original Motion Picture Soundtrack",
+        "artists": [
+          {
+            "id": "1cHFz6lrt7KAsBV8j2Ny1g",
+            "name": "The Blues Brothers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 187,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7rGOWzo4evAQQ2FzrSKp0B",
+      "name": "Tell Him - Single Version",
+      "artists": [
+        {
+          "id": "2GF1B0GIaFrLFLdfH6ufRO",
+          "name": "The Exciters"
+        }
+      ],
+      "album": {
+        "id": "1i2c4K7HnASzLOo6cagJVg",
+        "release_date": "2012-01-01",
+        "name": "Tell Him",
+        "artists": [
+          {
+            "id": "2GF1B0GIaFrLFLdfH6ufRO",
+            "name": "The Exciters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 156,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5KIzAUDxPywD92KxP2b6dx",
+      "name": "Telstar - Remastered",
+      "artists": [
+        {
+          "id": "3SblTU11ZKURsHhWGwPpt9",
+          "name": "The Tornados"
+        }
+      ],
+      "album": {
+        "id": "0fmwJUxR9eESIt4ceHmXeO",
+        "release_date": "2014-12-29",
+        "name": "Telstar and More (Remastered)",
+        "artists": [
+          {
+            "id": "3SblTU11ZKURsHhWGwPpt9",
+            "name": "The Tornados"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 197,
+        "nanos": 276000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "40Rro9UmViQe4gMa1vzkbL",
+      "name": "Stand by Me",
+      "artists": [
+        {
+          "id": "5N1ZVlbnBfKibmEQuSlUjO",
+          "name": "Jessie Hock"
+        }
+      ],
+      "album": {
+        "id": "3UtyGhZ2KIYYgh1XCJ1PWH",
+        "release_date": "2015-09-20",
+        "name": "Sixties Music: Best Soul, Classic Rock, R&B Songs & Ballads. 60's Music Greatest Hits",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 182,
+        "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0651FOAfvX33QIjpYL4F95",
+      "name": "My Girl",
+      "artists": [
+        {
+          "id": "3RwQ26hR2tJtA8F9p2n7jG",
+          "name": "The Temptations"
+        }
+      ],
+      "album": {
+        "id": "5XRokkSOBv3h6WnPyzitst",
+        "release_date": "2008-01-01",
+        "name": "Favorites",
+        "artists": [
+          {
+            "id": "3RwQ26hR2tJtA8F9p2n7jG",
+            "name": "The Temptations"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 163,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "2lzbKVKSUVeb01ytbHA8PS",
+      "name": "Stand By Me",
+      "artists": [
+        {
+          "id": "3plJVWt88EqjvtuB4ZDRV3",
+          "name": "Ben E. King"
+        }
+      ],
+      "album": {
+        "id": "0Yk5DkDnqOtzPuBzTs6fti",
+        "release_date": "1986-11-04",
+        "name": "Stand By Me [Original Motion Picture Soundtrack]",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 174,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2YEL7oERMj7nAJGjoAV9Hs",
+      "name": "You Never Can Tell",
+      "artists": [
+        {
+          "id": "293zczrfYafIItmnmM3coR",
+          "name": "Chuck Berry"
+        }
+      ],
+      "album": {
+        "id": "5lEtfFvXRKv11z3uaUqnqd",
+        "release_date": "1964",
+        "name": "St. Louis to Liverpool",
+        "artists": [
+          {
+            "id": "293zczrfYafIItmnmM3coR",
+            "name": "Chuck Berry"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 161,
+        "nanos": 500000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "63VN1yQ8RcKMUVX4KMRsBy",
+      "name": "Get Down with It",
+      "artists": [
+        {
+          "id": "4xls23Ye9WR9yy3yYMpAMm",
+          "name": "Little Richard"
+        }
+      ],
+      "album": {
+        "id": "3XJdo12CbRAzzG58QbzKkk",
+        "release_date": "1966",
+        "name": "Get Down With It!: The OKeh Sessions",
+        "artists": [
+          {
+            "id": "4xls23Ye9WR9yy3yYMpAMm",
+            "name": "Little Richard"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 194,
+        "nanos": 640000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Absh0SFkQCD0tZKJUFBtX",
+      "name": "I'm A Man",
+      "artists": [
+        {
+          "id": "3i9hP422d2KMjaupTzBNVS",
+          "name": "The Spencer Davis Group"
+        }
+      ],
+      "album": {
+        "id": "11jfbJzLcCXOv1R70CosnO",
+        "release_date": "2017-09-15",
+        "name": "The Vietnam War - A Film By Ken Burns & Lynn Novick (The Soundtrack)",
+        "artists": [
+          {
+            "id": "0veKrpvEQNcJS8ay4Lg1Q9",
+            "name": "The Vietnam War on PBS"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 175,
+        "nanos": 471000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7dJOzrQCtj5aGDYv5wsdXo",
+      "name": "Cherry, Cherry Coupe (Stereo)",
+      "artists": [
+        {
+          "id": "3oDbviiivRWhXwIE8hxkVV",
+          "name": "The Beach Boys"
+        }
+      ],
+      "album": {
+        "id": "3LlY8r7KsFaDNAQsd1IGot",
+        "release_date": "1963-10-07",
+        "name": "Little Deuce Coupe (Mono & Stereo)",
+        "artists": [
+          {
+            "id": "3oDbviiivRWhXwIE8hxkVV",
+            "name": "The Beach Boys"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 110,
+        "nanos": 155000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7fW1OwQPexk5OWCj7CSpqU",
+      "name": "Fun, Fun, Fun - Remastered 2001",
+      "artists": [
+        {
+          "id": "3oDbviiivRWhXwIE8hxkVV",
+          "name": "The Beach Boys"
+        }
+      ],
+      "album": {
+        "id": "1G8AfOjrE0FO9w1gfemIy1",
+        "release_date": "1964-03-02",
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "artists": [
+          {
+            "id": "3oDbviiivRWhXwIE8hxkVV",
+            "name": "The Beach Boys"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 125,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "73RGpQg8Cxtly4QuHtNiOd",
+      "name": "Town Called Malice",
+      "artists": [
+        {
+          "id": "2P560DaOMNDUACoH8ZhOCR",
+          "name": "The Jam"
+        }
+      ],
+      "album": {
+        "id": "50d9Hx8o4z7XooQItBG9nH",
+        "release_date": "2006-06-05",
+        "name": "The Jam Story",
+        "artists": [
+          {
+            "id": "2P560DaOMNDUACoH8ZhOCR",
+            "name": "The Jam"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 172,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4ySbMLgFkeGPErd0GAdSti",
+      "name": "Da Doo Ron Ron (When He Walked Me Home)",
+      "artists": [
+        {
+          "id": "7rewR1TVjhisjI6gauUamf",
+          "name": "The Crystals"
+        }
+      ],
+      "album": {
+        "id": "020ep2kmPRC8tgh95hMP2i",
+        "release_date": "2011-02-22",
+        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 140,
+        "nanos": 120000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6w5j6CHKVppZRanO9Z0Mhd",
+      "name": "A Fine, Fine Boy",
+      "artists": [
+        {
+          "id": "391oLRVmoTkumiN79HkTWu",
+          "name": "Darlene Love"
+        }
+      ],
+      "album": {
+        "id": "020ep2kmPRC8tgh95hMP2i",
+        "release_date": "2011-02-22",
+        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 165,
+        "nanos": 746000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2UUSG19I7Yshi75bzdIs9l",
+      "name": "My World Is Empty Without You - Stereo Version",
+      "artists": [
+        {
+          "id": "57bUPid8xztkieZfS7OlEV",
+          "name": "The Supremes"
+        }
+      ],
+      "album": {
+        "id": "206gQh3Ea4NL1zWMUekxVr",
+        "release_date": "1966-02-18",
+        "name": "I Hear A Symphony: Expanded Edition",
+        "artists": [
+          {
+            "id": "57bUPid8xztkieZfS7OlEV",
+            "name": "The Supremes"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 157,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5gwvsIrTVL4F76tn9xEhQ3",
+      "name": "Come And Get These Memories",
+      "artists": [
+        {
+          "id": "1Pe5hlKMCTULjosqZ6KanP",
+          "name": "Martha Reeves & The Vandellas"
+        }
+      ],
+      "album": {
+        "id": "6jOw3nHWwnbF7eKW9yxfY4",
+        "release_date": "1963",
+        "name": "Come And Get These Memories",
+        "artists": [
+          {
+            "id": "1Pe5hlKMCTULjosqZ6KanP",
+            "name": "Martha Reeves & The Vandellas"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 143,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6tvQKl37z17y5kHtczWo16",
+      "name": "Last Call",
+      "artists": [
+        {
+          "id": "1rHh0AI30JhKrbzKIFjFNd",
+          "name": "Jr. Walker & The All Stars"
+        }
+      ],
+      "album": {
+        "id": "5zFjEP5qKjqonWTmBewAf1",
+        "release_date": "1966-01-01",
+        "name": "Road Runner",
+        "artists": [
+          {
+            "id": "1rHh0AI30JhKrbzKIFjFNd",
+            "name": "Jr. Walker & The All Stars"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 141,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3VgrSJEKBRT3xmwzpaxxEF",
+      "name": "(Love Is Like A) Heat Wave",
+      "artists": [
+        {
+          "id": "1Pe5hlKMCTULjosqZ6KanP",
+          "name": "Martha Reeves & The Vandellas"
+        }
+      ],
+      "album": {
+        "id": "2GxwwKxtwDZkc9qX15YqKK",
+        "release_date": "1963",
+        "name": "Heat Wave",
+        "artists": [
+          {
+            "id": "1Pe5hlKMCTULjosqZ6KanP",
+            "name": "Martha Reeves & The Vandellas"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 163,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4T7KB2dRMyQ6G7Ws1LEirm",
+      "name": "Too Many Fish In The Sea - Single Version",
+      "artists": [
+        {
+          "id": "0MponVSpW81oLvJZ53vYZH",
+          "name": "The Marvelettes"
+        }
+      ],
+      "album": {
+        "id": "5hC8XmSW4sGzeAc5Lx9i62",
+        "release_date": "2008-01-01",
+        "name": "The Definitive Collection",
+        "artists": [
+          {
+            "id": "0MponVSpW81oLvJZ53vYZH",
+            "name": "The Marvelettes"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 148,
+        "nanos": 80000000
+      },
+      "explicit": false
+    }
+  ]
+}

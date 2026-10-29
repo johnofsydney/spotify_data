@@ -1,1 +1,41 @@
-{"playlist":{"id":"5meMB032USqM3MKTgbr29F","collaborative":false,"name":"March '20","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAAoZi0INib5VyLGg2CxYjjSyElboL"},"tracks":[{"id":"0O2qmK8bOwcrXaV2duFqdN","name":"QSO","artists":[{"id":"0SM7BCNlqN8I8Gr41smSXj","name":"Yuri Gagarin (SWE)"}],"album":{"id":"77Q60woQ1bumlfK9Tr7j1t","release_date":"2020-01-31","name":"The Outskirts of Reality","artists":[{"id":"0SM7BCNlqN8I8Gr41smSXj","name":"Yuri Gagarin (SWE)"}],"typ":"single","added_at":0},"duration":{"secs":605,"nanos":349000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "5meMB032USqM3MKTgbr29F",
+    "collaborative": false,
+    "name": "March '20",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAAoZi0INib5VyLGg2CxYjjSyElboL",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "0O2qmK8bOwcrXaV2duFqdN",
+      "name": "QSO",
+      "artists": [
+        {
+          "id": "0SM7BCNlqN8I8Gr41smSXj",
+          "name": "Yuri Gagarin (SWE)"
+        }
+      ],
+      "album": {
+        "id": "77Q60woQ1bumlfK9Tr7j1t",
+        "release_date": "2020-01-31",
+        "name": "The Outskirts of Reality",
+        "artists": [
+          {
+            "id": "0SM7BCNlqN8I8Gr41smSXj",
+            "name": "Yuri Gagarin (SWE)"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 605,
+        "nanos": 349000000
+      },
+      "explicit": false
+    }
+  ]
+}

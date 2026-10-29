@@ -1,1 +1,629 @@
-{"playlist":{"id":"0THYxMFl0GO9kiXIwDQvM7","collaborative":false,"name":"Sabbath","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAF6wapC6bxNbyEkjIE+yqL11+WiCZ"},"tracks":[{"id":"6KmJMlyPp0rPR7LloToCaF","name":"Black Sabbath - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3OmnatFgQ8o1DlYLp9EpNJ","release_date":"1970-02-13","name":"Black Sabbath","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":380,"nanos":400000000},"explicit":false},{"id":"02VKxjok07ypt3oFlGRjmH","name":"The Wizard - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3OmnatFgQ8o1DlYLp9EpNJ","release_date":"1970-02-13","name":"Black Sabbath","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":262,"nanos":493000000},"explicit":false},{"id":"5JYanX4zPe3uX3nShgE0qR","name":"Behind the Wall of Sleep - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3OmnatFgQ8o1DlYLp9EpNJ","release_date":"1970-02-13","name":"Black Sabbath","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":217,"nanos":66000000},"explicit":false},{"id":"3XclwoQxz4p6Dl7VUf90KW","name":"N.I.B. - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3OmnatFgQ8o1DlYLp9EpNJ","release_date":"1970-02-13","name":"Black Sabbath","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":366,"nanos":173000000},"explicit":false},{"id":"6TYQRlRci6AkVrN9a5C7ne","name":"War Pigs - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"4kA2o0L3tz9vFKJetiFUJI","release_date":"1970-09-18","name":"Paranoid","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":475,"nanos":0},"explicit":false},{"id":"3Jnxngdff0lVu2rza1GVx6","name":"Paranoid - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"4kA2o0L3tz9vFKJetiFUJI","release_date":"1970-09-18","name":"Paranoid","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":167,"nanos":720000000},"explicit":false},{"id":"4zgHtuasZkiZu1caZwxF5P","name":"Planet Caravan - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"4kA2o0L3tz9vFKJetiFUJI","release_date":"1970-09-18","name":"Paranoid","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":269,"nanos":240000000},"explicit":false},{"id":"755bvJDSA3LNcNuFgBT9LK","name":"Iron Man - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"4kA2o0L3tz9vFKJetiFUJI","release_date":"1970-09-18","name":"Paranoid","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":354,"nanos":213000000},"explicit":false},{"id":"1bJ5FuncHc6wyDHBvJ0xF6","name":"Sweet Leaf - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"24fNwoIq4NLDf4ARJYAFN9","release_date":"1971-07-21","name":"Master of Reality","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":302,"nanos":933000000},"explicit":false},{"id":"079j6LwNuB2sn81TkVl8js","name":"After Forever - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"24fNwoIq4NLDf4ARJYAFN9","release_date":"1971-07-21","name":"Master of Reality","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":324,"nanos":346000000},"explicit":false},{"id":"7thjLpTP9JgsMgRSW3Ft6f","name":"Embryo - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"24fNwoIq4NLDf4ARJYAFN9","release_date":"1971-07-21","name":"Master of Reality","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":28,"nanos":240000000},"explicit":false},{"id":"0ElAcOj8tudMA6X6KZ7SMO","name":"Children of the Grave - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"24fNwoIq4NLDf4ARJYAFN9","release_date":"1971-07-21","name":"Master of Reality","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":315,"nanos":893000000},"explicit":false},{"id":"09EQqFGUTJW6X4NksMPM0O","name":"Into the Void - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"24fNwoIq4NLDf4ARJYAFN9","release_date":"1971-07-21","name":"Master of Reality","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":371,"nanos":120000000},"explicit":false},{"id":"0aqHkYkm55l9mI8xKoe8Lg","name":"Supernaut - 2020 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"4oAF2ZHk17Vh7qCqlSDCJ5","release_date":"1972-09-25","name":"Vol. 4 (2021 Remaster)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":271,"nanos":306000000},"explicit":false},{"id":"2O4XzDeZkSf805B78neFaG","name":"Under the Sun / Every Day Comes and Goes - 2021 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"4oAF2ZHk17Vh7qCqlSDCJ5","release_date":"1972-09-25","name":"Vol. 4 (2021 Remaster)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":350,"nanos":893000000},"explicit":false},{"id":"29KYPEsbcMcVKnd6iyu6Q5","name":"Sabbath Bloody Sabbath (2009 Remaster)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"6tjx1ACkf4cYyFuhkyqz2A","release_date":"1973-12-01","name":"Sabbath Bloody Sabbath","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":344,"nanos":600000000},"explicit":false},{"id":"1ZzqTaeA2pmnxK2uXPU61S","name":"Spiral Architect (2009 Remaster)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"6tjx1ACkf4cYyFuhkyqz2A","release_date":"1973-12-01","name":"Sabbath Bloody Sabbath","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":328,"nanos":893000000},"explicit":false},{"id":"37Y1feezGuGVCe0kTBbKjg","name":"Hole in the Sky - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3VSOzRDe4dNrjcCYEeLz9b","release_date":"1975-07-28","name":"Sabotage","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":239,"nanos":773000000},"explicit":false},{"id":"1Vb3gPjEpJ6eOPL7Mjs4Ka","name":"Don't Start (Too Late) - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3VSOzRDe4dNrjcCYEeLz9b","release_date":"1975-07-28","name":"Sabotage","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":49,"nanos":493000000},"explicit":false},{"id":"5ycQsfTMPFfexQ6Teu5EjV","name":"Symptom of the Universe - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3VSOzRDe4dNrjcCYEeLz9b","release_date":"1975-07-28","name":"Sabotage","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":389,"nanos":306000000},"explicit":false},{"id":"5LtvYKo2Ar3pxmvBiDukiK","name":"The Writ - 2009 Remaster","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3VSOzRDe4dNrjcCYEeLz9b","release_date":"1975-07-28","name":"Sabotage","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":524,"nanos":400000000},"explicit":false},{"id":"07bmStuZhMqJ0S5Z1IAqIS","name":"Back Street Kids (2009 Remaster)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"6YRSguBqTTkCNMFprOLVo8","release_date":"1976-09-25","name":"Technical Ecstasy","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":227,"nanos":813000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "0THYxMFl0GO9kiXIwDQvM7",
+    "collaborative": false,
+    "name": "Sabbath",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAF6wapC6bxNbyEkjIE+yqL11+WiCZ",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "6KmJMlyPp0rPR7LloToCaF",
+      "name": "Black Sabbath - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3OmnatFgQ8o1DlYLp9EpNJ",
+        "release_date": "1970-02-13",
+        "name": "Black Sabbath",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 380,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "02VKxjok07ypt3oFlGRjmH",
+      "name": "The Wizard - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3OmnatFgQ8o1DlYLp9EpNJ",
+        "release_date": "1970-02-13",
+        "name": "Black Sabbath",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 262,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5JYanX4zPe3uX3nShgE0qR",
+      "name": "Behind the Wall of Sleep - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3OmnatFgQ8o1DlYLp9EpNJ",
+        "release_date": "1970-02-13",
+        "name": "Black Sabbath",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 217,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3XclwoQxz4p6Dl7VUf90KW",
+      "name": "N.I.B. - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3OmnatFgQ8o1DlYLp9EpNJ",
+        "release_date": "1970-02-13",
+        "name": "Black Sabbath",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 366,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6TYQRlRci6AkVrN9a5C7ne",
+      "name": "War Pigs - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "4kA2o0L3tz9vFKJetiFUJI",
+        "release_date": "1970-09-18",
+        "name": "Paranoid",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 475,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "3Jnxngdff0lVu2rza1GVx6",
+      "name": "Paranoid - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "4kA2o0L3tz9vFKJetiFUJI",
+        "release_date": "1970-09-18",
+        "name": "Paranoid",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 167,
+        "nanos": 720000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4zgHtuasZkiZu1caZwxF5P",
+      "name": "Planet Caravan - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "4kA2o0L3tz9vFKJetiFUJI",
+        "release_date": "1970-09-18",
+        "name": "Paranoid",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 269,
+        "nanos": 240000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "755bvJDSA3LNcNuFgBT9LK",
+      "name": "Iron Man - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "4kA2o0L3tz9vFKJetiFUJI",
+        "release_date": "1970-09-18",
+        "name": "Paranoid",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 354,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1bJ5FuncHc6wyDHBvJ0xF6",
+      "name": "Sweet Leaf - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "24fNwoIq4NLDf4ARJYAFN9",
+        "release_date": "1971-07-21",
+        "name": "Master of Reality",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 302,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "079j6LwNuB2sn81TkVl8js",
+      "name": "After Forever - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "24fNwoIq4NLDf4ARJYAFN9",
+        "release_date": "1971-07-21",
+        "name": "Master of Reality",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 324,
+        "nanos": 346000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7thjLpTP9JgsMgRSW3Ft6f",
+      "name": "Embryo - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "24fNwoIq4NLDf4ARJYAFN9",
+        "release_date": "1971-07-21",
+        "name": "Master of Reality",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 28,
+        "nanos": 240000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ElAcOj8tudMA6X6KZ7SMO",
+      "name": "Children of the Grave - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "24fNwoIq4NLDf4ARJYAFN9",
+        "release_date": "1971-07-21",
+        "name": "Master of Reality",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 315,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "09EQqFGUTJW6X4NksMPM0O",
+      "name": "Into the Void - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "24fNwoIq4NLDf4ARJYAFN9",
+        "release_date": "1971-07-21",
+        "name": "Master of Reality",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 371,
+        "nanos": 120000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0aqHkYkm55l9mI8xKoe8Lg",
+      "name": "Supernaut - 2020 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "4oAF2ZHk17Vh7qCqlSDCJ5",
+        "release_date": "1972-09-25",
+        "name": "Vol. 4 (2021 Remaster)",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 271,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2O4XzDeZkSf805B78neFaG",
+      "name": "Under the Sun / Every Day Comes and Goes - 2021 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "4oAF2ZHk17Vh7qCqlSDCJ5",
+        "release_date": "1972-09-25",
+        "name": "Vol. 4 (2021 Remaster)",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 350,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "29KYPEsbcMcVKnd6iyu6Q5",
+      "name": "Sabbath Bloody Sabbath (2009 Remaster)",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "6tjx1ACkf4cYyFuhkyqz2A",
+        "release_date": "1973-12-01",
+        "name": "Sabbath Bloody Sabbath",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 344,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ZzqTaeA2pmnxK2uXPU61S",
+      "name": "Spiral Architect (2009 Remaster)",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "6tjx1ACkf4cYyFuhkyqz2A",
+        "release_date": "1973-12-01",
+        "name": "Sabbath Bloody Sabbath",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 328,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "37Y1feezGuGVCe0kTBbKjg",
+      "name": "Hole in the Sky - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3VSOzRDe4dNrjcCYEeLz9b",
+        "release_date": "1975-07-28",
+        "name": "Sabotage",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 239,
+        "nanos": 773000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Vb3gPjEpJ6eOPL7Mjs4Ka",
+      "name": "Don't Start (Too Late) - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3VSOzRDe4dNrjcCYEeLz9b",
+        "release_date": "1975-07-28",
+        "name": "Sabotage",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 49,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5ycQsfTMPFfexQ6Teu5EjV",
+      "name": "Symptom of the Universe - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3VSOzRDe4dNrjcCYEeLz9b",
+        "release_date": "1975-07-28",
+        "name": "Sabotage",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 389,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5LtvYKo2Ar3pxmvBiDukiK",
+      "name": "The Writ - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3VSOzRDe4dNrjcCYEeLz9b",
+        "release_date": "1975-07-28",
+        "name": "Sabotage",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 524,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "07bmStuZhMqJ0S5Z1IAqIS",
+      "name": "Back Street Kids (2009 Remaster)",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "6YRSguBqTTkCNMFprOLVo8",
+        "release_date": "1976-09-25",
+        "name": "Technical Ecstasy",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 227,
+        "nanos": 813000000
+      },
+      "explicit": false
+    }
+  ]
+}

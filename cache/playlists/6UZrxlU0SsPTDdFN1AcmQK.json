@@ -1,1 +1,209 @@
-{"playlist":{"id":"6UZrxlU0SsPTDdFN1AcmQK","collaborative":false,"name":"SL The National ","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAACAGT23wQdBfPEAGxcnx12ou2HHtQ"},"tracks":[{"id":"7KYhsEA6Y7CVP2AtxtV8HS","name":"Blame The Young","artists":[{"id":"3uP1cpcy1q0stG3utL7tZS","name":"October Drift"}],"album":{"id":"1gVW6HLWoI7zxbuCtqWTX6","release_date":"2024-09-27","name":"Blame The Young","artists":[{"id":"3uP1cpcy1q0stG3utL7tZS","name":"October Drift"}],"typ":"album","added_at":0},"duration":{"secs":272,"nanos":752000000},"explicit":false},{"id":"7DPQwyMQADl9Y8oSvSVpfg","name":"Let Me Down Easy","artists":[{"id":"142YBUGmLWCJigFLzgguf8","name":"Gang of Youths"}],"album":{"id":"0leVOEw8L2TnAfLGwkFnab","release_date":"2017-08-18","name":"Go Farther In Lightness","artists":[{"id":"142YBUGmLWCJigFLzgguf8","name":"Gang of Youths"}],"typ":"album","added_at":0},"duration":{"secs":319,"nanos":346000000},"explicit":true},{"id":"0S6WA5gA0hk0vYxXRoSOJf","name":"the angel of 8th ave.","artists":[{"id":"142YBUGmLWCJigFLzgguf8","name":"Gang of Youths"}],"album":{"id":"54g9Q7VZdJYNrmEsx93gHV","release_date":"2022-02-25","name":"angel in realtime.","artists":[{"id":"142YBUGmLWCJigFLzgguf8","name":"Gang of Youths"}],"typ":"album","added_at":0},"duration":{"secs":239,"nanos":810000000},"explicit":true},{"id":"1CGfdiuxAVIyUpOYDXcUys","name":"Do Not Let Your Spirit Wane","artists":[{"id":"142YBUGmLWCJigFLzgguf8","name":"Gang of Youths"}],"album":{"id":"0leVOEw8L2TnAfLGwkFnab","release_date":"2017-08-18","name":"Go Farther In Lightness","artists":[{"id":"142YBUGmLWCJigFLzgguf8","name":"Gang of Youths"}],"typ":"album","added_at":0},"duration":{"secs":453,"nanos":466000000},"explicit":true},{"id":"2y9KcZvNwOd6kEddz9YjLT","name":"Wallflower","artists":[{"id":"3uP1cpcy1q0stG3utL7tZS","name":"October Drift"}],"album":{"id":"1gVW6HLWoI7zxbuCtqWTX6","release_date":"2024-09-27","name":"Blame The Young","artists":[{"id":"3uP1cpcy1q0stG3utL7tZS","name":"October Drift"}],"typ":"album","added_at":0},"duration":{"secs":207,"nanos":152000000},"explicit":false},{"id":"2TqQMPjKGzaZUcuLBCkuL2","name":"Bonnet Of Pins","artists":[{"id":"27jRNjIvlUcGN7FBRDnqhp","name":"Matt Berninger"}],"album":{"id":"7a2Z3UzPx9HHbRgsJbytdz","release_date":"2025-05-30","name":"Get Sunk","artists":[{"id":"27jRNjIvlUcGN7FBRDnqhp","name":"Matt Berninger"}],"typ":"album","added_at":0},"duration":{"secs":287,"nanos":293000000},"explicit":false},{"id":"1TF8mSG5YHyaS4o3NeBSAo","name":"Munich","artists":[{"id":"6e9wIFWhBPHLE9bXK8gtBI","name":"Editors"}],"album":{"id":"13NKtscRQRvQAXR4fY7kO5","release_date":"2005-01-01","name":"The Back Room","artists":[{"id":"6e9wIFWhBPHLE9bXK8gtBI","name":"Editors"}],"typ":"album","added_at":0},"duration":{"secs":226,"nanos":426000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "6UZrxlU0SsPTDdFN1AcmQK",
+    "collaborative": false,
+    "name": "SL The National ",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAACAGT23wQdBfPEAGxcnx12ou2HHtQ",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "7KYhsEA6Y7CVP2AtxtV8HS",
+      "name": "Blame The Young",
+      "artists": [
+        {
+          "id": "3uP1cpcy1q0stG3utL7tZS",
+          "name": "October Drift"
+        }
+      ],
+      "album": {
+        "id": "1gVW6HLWoI7zxbuCtqWTX6",
+        "release_date": "2024-09-27",
+        "name": "Blame The Young",
+        "artists": [
+          {
+            "id": "3uP1cpcy1q0stG3utL7tZS",
+            "name": "October Drift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 272,
+        "nanos": 752000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7DPQwyMQADl9Y8oSvSVpfg",
+      "name": "Let Me Down Easy",
+      "artists": [
+        {
+          "id": "142YBUGmLWCJigFLzgguf8",
+          "name": "Gang of Youths"
+        }
+      ],
+      "album": {
+        "id": "0leVOEw8L2TnAfLGwkFnab",
+        "release_date": "2017-08-18",
+        "name": "Go Farther In Lightness",
+        "artists": [
+          {
+            "id": "142YBUGmLWCJigFLzgguf8",
+            "name": "Gang of Youths"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 319,
+        "nanos": 346000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "0S6WA5gA0hk0vYxXRoSOJf",
+      "name": "the angel of 8th ave.",
+      "artists": [
+        {
+          "id": "142YBUGmLWCJigFLzgguf8",
+          "name": "Gang of Youths"
+        }
+      ],
+      "album": {
+        "id": "54g9Q7VZdJYNrmEsx93gHV",
+        "release_date": "2022-02-25",
+        "name": "angel in realtime.",
+        "artists": [
+          {
+            "id": "142YBUGmLWCJigFLzgguf8",
+            "name": "Gang of Youths"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 239,
+        "nanos": 810000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "1CGfdiuxAVIyUpOYDXcUys",
+      "name": "Do Not Let Your Spirit Wane",
+      "artists": [
+        {
+          "id": "142YBUGmLWCJigFLzgguf8",
+          "name": "Gang of Youths"
+        }
+      ],
+      "album": {
+        "id": "0leVOEw8L2TnAfLGwkFnab",
+        "release_date": "2017-08-18",
+        "name": "Go Farther In Lightness",
+        "artists": [
+          {
+            "id": "142YBUGmLWCJigFLzgguf8",
+            "name": "Gang of Youths"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 453,
+        "nanos": 466000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "2y9KcZvNwOd6kEddz9YjLT",
+      "name": "Wallflower",
+      "artists": [
+        {
+          "id": "3uP1cpcy1q0stG3utL7tZS",
+          "name": "October Drift"
+        }
+      ],
+      "album": {
+        "id": "1gVW6HLWoI7zxbuCtqWTX6",
+        "release_date": "2024-09-27",
+        "name": "Blame The Young",
+        "artists": [
+          {
+            "id": "3uP1cpcy1q0stG3utL7tZS",
+            "name": "October Drift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 207,
+        "nanos": 152000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2TqQMPjKGzaZUcuLBCkuL2",
+      "name": "Bonnet Of Pins",
+      "artists": [
+        {
+          "id": "27jRNjIvlUcGN7FBRDnqhp",
+          "name": "Matt Berninger"
+        }
+      ],
+      "album": {
+        "id": "7a2Z3UzPx9HHbRgsJbytdz",
+        "release_date": "2025-05-30",
+        "name": "Get Sunk",
+        "artists": [
+          {
+            "id": "27jRNjIvlUcGN7FBRDnqhp",
+            "name": "Matt Berninger"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 287,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1TF8mSG5YHyaS4o3NeBSAo",
+      "name": "Munich",
+      "artists": [
+        {
+          "id": "6e9wIFWhBPHLE9bXK8gtBI",
+          "name": "Editors"
+        }
+      ],
+      "album": {
+        "id": "13NKtscRQRvQAXR4fY7kO5",
+        "release_date": "2005-01-01",
+        "name": "The Back Room",
+        "artists": [
+          {
+            "id": "6e9wIFWhBPHLE9bXK8gtBI",
+            "name": "Editors"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 226,
+        "nanos": 426000000
+      },
+      "explicit": false
+    }
+  ]
+}

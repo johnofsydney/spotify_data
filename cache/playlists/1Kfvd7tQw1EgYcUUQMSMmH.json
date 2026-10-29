@@ -1,1 +1,181 @@
-{"playlist":{"id":"1Kfvd7tQw1EgYcUUQMSMmH","collaborative":false,"name":"BO Sabbath","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAANvLX3vZ+cGjAepxJ3pKEbgNO0mii"},"tracks":[{"id":"0qkm99RLAyoLBqWDc4fCF1","name":"Supernaut","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3iRW4cZOM90lX9Rtc2Qglh","release_date":"1972-09-25","name":"Vol. 4 (2009 Remastered Version)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":271,"nanos":120000000},"explicit":false},{"id":"6N6x5fAIHL0BVYz9h53nH7","name":"Under the Sun / Every Day Comes and Goes","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"3iRW4cZOM90lX9Rtc2Qglh","release_date":"1972-09-25","name":"Vol. 4 (2009 Remastered Version)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":352,"nanos":253000000},"explicit":false},{"id":"3tBpWEYYV6TK3PdkY8GLer","name":"Hole in the Sky","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"2hurj4babJXt1cIxmYFqqo","release_date":"1975-07-28","name":"Sabotage (2009 Remastered Version)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":240,"nanos":226000000},"explicit":false},{"id":"7vE1qmmpaWt6Z5caFGBObe","name":"Symptom of the Universe","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"2hurj4babJXt1cIxmYFqqo","release_date":"1975-07-28","name":"Sabotage (2009 Remastered Version)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":388,"nanos":400000000},"explicit":false},{"id":"62d21VxoTAwM0Id0DXUr8h","name":"Megalomania","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"2hurj4babJXt1cIxmYFqqo","release_date":"1975-07-28","name":"Sabotage (2009 Remastered Version)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":582,"nanos":280000000},"explicit":false},{"id":"3boEfHCx42xJYpfQl4NUDc","name":"The Writ","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"album":{"id":"2hurj4babJXt1cIxmYFqqo","release_date":"1975-07-28","name":"Sabotage (2009 Remastered Version)","artists":[{"id":"5M52tdBnJaKSvOpJGz8mfZ","name":"Black Sabbath"}],"typ":"album","added_at":0},"duration":{"secs":524,"nanos":120000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "1Kfvd7tQw1EgYcUUQMSMmH",
+    "collaborative": false,
+    "name": "BO Sabbath",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAANvLX3vZ+cGjAepxJ3pKEbgNO0mii",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "0qkm99RLAyoLBqWDc4fCF1",
+      "name": "Supernaut",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3iRW4cZOM90lX9Rtc2Qglh",
+        "release_date": "1972-09-25",
+        "name": "Vol. 4 (2009 Remastered Version)",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 271,
+        "nanos": 120000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6N6x5fAIHL0BVYz9h53nH7",
+      "name": "Under the Sun / Every Day Comes and Goes",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "3iRW4cZOM90lX9Rtc2Qglh",
+        "release_date": "1972-09-25",
+        "name": "Vol. 4 (2009 Remastered Version)",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 352,
+        "nanos": 253000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3tBpWEYYV6TK3PdkY8GLer",
+      "name": "Hole in the Sky",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "2hurj4babJXt1cIxmYFqqo",
+        "release_date": "1975-07-28",
+        "name": "Sabotage (2009 Remastered Version)",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 240,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7vE1qmmpaWt6Z5caFGBObe",
+      "name": "Symptom of the Universe",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "2hurj4babJXt1cIxmYFqqo",
+        "release_date": "1975-07-28",
+        "name": "Sabotage (2009 Remastered Version)",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 388,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "62d21VxoTAwM0Id0DXUr8h",
+      "name": "Megalomania",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "2hurj4babJXt1cIxmYFqqo",
+        "release_date": "1975-07-28",
+        "name": "Sabotage (2009 Remastered Version)",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 582,
+        "nanos": 280000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3boEfHCx42xJYpfQl4NUDc",
+      "name": "The Writ",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "2hurj4babJXt1cIxmYFqqo",
+        "release_date": "1975-07-28",
+        "name": "Sabotage (2009 Remastered Version)",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 524,
+        "nanos": 120000000
+      },
+      "explicit": false
+    }
+  ]
+}

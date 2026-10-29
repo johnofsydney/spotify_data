@@ -1,1 +1,905 @@
-{"playlist":{"id":"2Gr6khQQz0HOH82fzT8vjA","collaborative":false,"name":"Ibiza Euphoria: Mixed By Matt Darey","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAJwVrCzTLSu+FFejX9Ei6+RaBMTfG"},"tracks":[{"id":"1Tz10EYl3RFRItgJU8bJWu","name":"Seven Cities - Solarstone's Atlantis Mix","artists":[{"id":"1PfOXooPSLQhOTNZGrXM90","name":"Solarstone"},{"id":"7eJRumzcr8tEQBi3JqyWjU","name":"Andy Bury"}],"album":{"id":"4GpHU6W6cPUa8tIk8EwBbY","release_date":"1999-06-04","name":"Seven Cities","artists":[{"id":"1PfOXooPSLQhOTNZGrXM90","name":"Solarstone"}],"typ":"album","added_at":0},"duration":{"secs":211,"nanos":333000000},"explicit":false},{"id":"0wnBedwQDPcyXzitB8Yvkr","name":"Everyday","artists":[{"id":"25fXoLpROrtnNtQ1ifr8oN","name":"Agnelli & Nelson"}],"album":{"id":"4rrJaNjSH961yFQD0DvfbU","release_date":"2011-05-09","name":"Hudson Street","artists":[{"id":"25fXoLpROrtnNtQ1ifr8oN","name":"Agnelli & Nelson"}],"typ":"album","added_at":0},"duration":{"secs":417,"nanos":306000000},"explicit":false},{"id":"0wiloryIyGu6IJay76redv","name":"Madagascar - Ferry Corsten Remix","artists":[{"id":"42edDgjfmvA5cRKsF1KH5a","name":"Art Of Trance"},{"id":"2ohlvFf9PBsDELdRstPtlP","name":"Ferry Corsten"}],"album":{"id":"2cWcu5iCXuCzw7cuZD34Ky","release_date":"2009-03-30","name":"Madagascar (Remixes)","artists":[{"id":"42edDgjfmvA5cRKsF1KH5a","name":"Art Of Trance"}],"typ":"single","added_at":0},"duration":{"secs":361,"nanos":133000000},"explicit":false},{"id":"7ybN359mFqfx2q3BoPUDVW","name":"Red Sun Rising","artists":[{"id":"2NCerM6sPl0bsa2XzOKrTY","name":"Lost Witness"}],"album":{"id":"1HMHx8bdpq7CLPePiBvbTU","release_date":"2011-04-18","name":"Red Sun Rising","artists":[{"id":"2NCerM6sPl0bsa2XzOKrTY","name":"Lost Witness"}],"typ":"single","added_at":0},"duration":{"secs":436,"nanos":939000000},"explicit":false},{"id":"1CgbwsrNDlFrRuk2ebQ7zr","name":"9Pm (Till I Come)","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"4DfD9bqzlfSbEf5kWgufPk","release_date":"1999-04-26","name":"Movin' Melodies","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":193,"nanos":880000000},"explicit":false},{"id":"7upwkIntm2IildrQjCjNCo","name":"Liberation - Ferry Corsten Radio Edit","artists":[{"id":"20IiZT2AHU5GwnzncwJX6S","name":"Matt Darey"},{"id":"3fX4ESsQJXkOXSGW4FsB1c","name":"Marcella Woods"},{"id":"2ohlvFf9PBsDELdRstPtlP","name":"Ferry Corsten"}],"album":{"id":"5LXXKp3JN1liPw3PUMTxMh","release_date":"2013-06-14","name":"Trance Top 1000 - Selection 004","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":187,"nanos":840000000},"explicit":false},{"id":"2tvfx0m01wqJX6V7q2juff","name":"Cream - Paul Van Dyk Short Cut","artists":[{"id":"2XTff332rrZaE1rBM47Krp","name":"Blank & Jones"},{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"3ySdR1LidkSF2CaBPz0mp2","release_date":"1999-08-19","name":"Cream (All Mixes)","artists":[{"id":"2XTff332rrZaE1rBM47Krp","name":"Blank & Jones"}],"typ":"single","added_at":0},"duration":{"secs":217,"nanos":431000000},"explicit":false},{"id":"0ou0DZjTQPf1Tx3ja8vfLU","name":"Happiness Happening - Lange Remix","artists":[{"id":"2NCerM6sPl0bsa2XzOKrTY","name":"Lost Witness"},{"id":"0zgmzl8NLEOsqYNOQcSmAA","name":"Lange"}],"album":{"id":"3HfYOQb0MhTtvzUKEKk61m","release_date":"2019-05-31","name":"Vocal Trance Hits - The Anthems","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":215,"nanos":480000000},"explicit":false},{"id":"3faEHHzS7ApaU7wPY3HPOt","name":"Pulsar","artists":[{"id":"0MNSDAOCHF7f2ZfAYxZ9bp","name":"Mauro Picotto"}],"album":{"id":"2maj2TsGWh6GxRxQ8mjhLz","release_date":"2014-07-25","name":"A State Of Trance Classics, Vol. 9","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":184,"nanos":373000000},"explicit":false},{"id":"5da8yR2UWxZcRC1Eh2Zk4d","name":"The Awakening - Quake Radio Edit","artists":[{"id":"20L5MecnuNujUE6imrfK0Q","name":"YORK"},{"id":"6PytpCLLu3iY5kXYQq6Dxd","name":"Quake"}],"album":{"id":"7naYpLtycgqKS809tmtK3s","release_date":"1998","name":"The Awakening (Part 1)","artists":[{"id":"20L5MecnuNujUE6imrfK0Q","name":"YORK"}],"typ":"single","added_at":0},"duration":{"secs":213,"nanos":793000000},"explicit":false},{"id":"3bVZ7nEuN5EnjNwmzhegAB","name":"Shudder / King of Snake","artists":[{"id":"1PXHzxRDiLnjqNrRn2Xbsa","name":"Underworld"}],"album":{"id":"4qOA2JupYTQ8KGxnoRMeWG","release_date":"2011-02-21","name":"Biutiful","artists":[{"id":"4W3fa7tiXGVXl3KilbACqt","name":"Gustavo Santaolalla"}],"typ":"album","added_at":0},"duration":{"secs":208,"nanos":680000000},"explicit":false},{"id":"26YmyWco9m3Ssqhkq2F05x","name":"Gamemaster - Signum's 1999 Remix","artists":[{"id":"20IiZT2AHU5GwnzncwJX6S","name":"Matt Darey"},{"id":"5Yc0I2tQYUqltpkc1jXT3A","name":"Lost Tribe"},{"id":"3UJW5QFKMNUAE4rcW3j9WZ","name":"Signum"}],"album":{"id":"5wgHkqOGXxsfc60PYgye1s","release_date":"2013-07-19","name":"Trance Top 1000 - Selection 006","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":467,"nanos":272000000},"explicit":false},{"id":"5JOWaJ5tKQj6O0ZcfhZeOa","name":"Diving Faces - Tom Wax & Jan Jakarta Remix","artists":[{"id":"0cljqRBWiEmXSI4vXvMFl7","name":"Liquid Child"}],"album":{"id":"0sv5OhnW2QeyeZgBJOGy2I","release_date":"2007-07-10","name":"Diving Faces","artists":[{"id":"0cljqRBWiEmXSI4vXvMFl7","name":"Liquid Child"}],"typ":"single","added_at":0},"duration":{"secs":422,"nanos":853000000},"explicit":false},{"id":"1EAxDiugDns3MDRYENPjko","name":"Gouryella - Radio Edit","artists":[{"id":"1JKDQ9CDwfLKUrhO6KYaki","name":"Gouryella"}],"album":{"id":"0qRJZ8hAlDxAVrnJpzqL6O","release_date":"2011-12-19","name":"Gouryella","artists":[{"id":"1JKDQ9CDwfLKUrhO6KYaki","name":"Gouryella"}],"typ":"single","added_at":0},"duration":{"secs":222,"nanos":911000000},"explicit":false},{"id":"4oAJpmiYVXdTz25sTGgtOC","name":"Come With Me - Qattara Vocal Mix","artists":[{"id":"7Frav715BsTfvCljEvzvQn","name":"Qattara"}],"album":{"id":"7GS0WevLfjXdNZotvgGzZ5","release_date":"1997","name":"Come With Me","artists":[{"id":"7Frav715BsTfvCljEvzvQn","name":"Qattara"}],"typ":"single","added_at":0},"duration":{"secs":565,"nanos":994000000},"explicit":false},{"id":"4qWKqaTPkpjRmrKjkDuHb4","name":"Saltwater","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"},{"id":"3ZvmmlF8EMEpnnK90jfuJv","name":"Moya Brennan"}],"album":{"id":"4HA4lHmngXl9auznchWqlf","release_date":"2008-10-06","name":"The Best Of Chicane 1996 - 2009","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"typ":"compilation","added_at":0},"duration":{"secs":202,"nanos":533000000},"explicit":false},{"id":"0UPEd4mCeP7oZVRLsXUIal","name":"Invisible - Tilt's Supernatural Dub","artists":[{"id":"6nX27cZEY7eiAlGFZ01jCd","name":"Tilt"}],"album":{"id":"6EWGz2MT3xrMftS7wgWvAz","release_date":"2002-05-20","name":"Missing Pieces EP Disc 1","artists":[{"id":"6nX27cZEY7eiAlGFZ01jCd","name":"Tilt"}],"typ":"album","added_at":0},"duration":{"secs":540,"nanos":586000000},"explicit":false},{"id":"5mdsjiIqGwxWUd8vYD3hXF","name":"Strings For Yasmin","artists":[{"id":"1a5l3fWnzmaK7gDD2IkbHq","name":"Tin Tin Out"}],"album":{"id":"73szSOWkAGSVZiGTjxVBRk","release_date":"1998-01-01","name":"Always","artists":[{"id":"1a5l3fWnzmaK7gDD2IkbHq","name":"Tin Tin Out"}],"typ":"album","added_at":0},"duration":{"secs":317,"nanos":266000000},"explicit":false},{"id":"08LZlzEHU63nbrutt2D1qs","name":"Carte Blanche - Extended Mix","artists":[{"id":"1DT2WEMQmEJ3yRmTaqzrXd","name":"Veracocha"}],"album":{"id":"1HiMgrHPVQOgyFhh8IuwHz","release_date":"1999-05-01","name":"Carte Blanche","artists":[{"id":"1DT2WEMQmEJ3yRmTaqzrXd","name":"Veracocha"}],"typ":"single","added_at":0},"duration":{"secs":424,"nanos":973000000},"explicit":false},{"id":"6OuW3ziXqXXwV5bgErlBrF","name":"Universal Nation 2003","artists":[{"id":"2Xy6YLSsHR6TdBUFm5bnLR","name":"Push"}],"album":{"id":"7x1YqbT3S0DiaGrOixmkRR","release_date":"2011-11-08","name":"Electric Eclipse","artists":[{"id":"2Xy6YLSsHR6TdBUFm5bnLR","name":"Push"},{"id":"5pIoRptQUs4hYWCUZ8bAFG","name":"Globe"},{"id":"79a8sYrF1qZ39tuNlWO0a8","name":"Tranquilo"}],"typ":"album","added_at":0},"duration":{"secs":543,"nanos":106000000},"explicit":false},{"id":"6to5yiUNguaBKImMHruRR8","name":"Not over yet '99 - Extended","artists":[{"id":"1DlbW0TOOja6uqR4CHAaeg","name":"Grace"},{"id":"5MO2kbaGGA2a8kL4c9qqHq","name":"Paul Oakenfold"}],"album":{"id":"2P3GrMALjeCYAbFvuFFsFH","release_date":"1999","name":"Not Over Yet '99 (feat. Grace)","artists":[{"id":"3Q9P0SbpaP9xsBtLUVK0Be","name":"Planet Perfecto"}],"typ":"single","added_at":0},"duration":{"secs":585,"nanos":508000000},"explicit":false},{"id":"6eYjUe4LXsV5u76ymGObqS","name":"Synaesthesia - En-Motion Remix","artists":[{"id":"1RYDKWzJnJtbTPYNsDswD5","name":"The Thrillseekers"},{"id":"3GX1gYiJiHmVTOdCMyjukl","name":"En-Motion"}],"album":{"id":"40FjILzRvfgSP8Y70c5G6j","release_date":"1999-12-21","name":"Synaesthesia","artists":[{"id":"1RYDKWzJnJtbTPYNsDswD5","name":"The Thrillseekers"}],"typ":"single","added_at":0},"duration":{"secs":241,"nanos":520000000},"explicit":false},{"id":"30MF9t0WNnxsAZ23mIz6rg","name":"Breathe - Radio Edit","artists":[{"id":"42edDgjfmvA5cRKsF1KH5a","name":"Art Of Trance"},{"id":"4tmvH1mdQEmU8RbbVAXcGL","name":"Caroline Lavelle"}],"album":{"id":"0jPtqwPE0pnn0SQuTNuG5Q","release_date":"2017-05-12","name":"Trance High - Fidelity","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":228,"nanos":106000000},"explicit":false},{"id":"3uxC9yUfLVtdgqHNT4NOJ6","name":"Everytime - Mike Koglin Mix - Classic Bonus Tracks","artists":[{"id":"0dkFacPMrWkrQzjjhcMHb7","name":"Lustral"},{"id":"4nb1tQbYZYqvr50cdTqek5","name":"The Space Brothers"},{"id":"0hVSR2SYX6nK7UpBEwz8Bi","name":"Mike Koglin"}],"album":{"id":"7CcRpjmvlD6ZaBrSRNJUYd","release_date":"2011-06-03","name":"Everytime","artists":[{"id":"0dkFacPMrWkrQzjjhcMHb7","name":"Lustral"},{"id":"4nb1tQbYZYqvr50cdTqek5","name":"The Space Brothers"}],"typ":"single","added_at":0},"duration":{"secs":502,"nanos":331000000},"explicit":false},{"id":"76mh0rcSJpNhoCCqazptWm","name":"Xpander","artists":[{"id":"6u4jLGLPuarS3i2XWHVxoS","name":"Sasha"}],"album":{"id":"2xnwMwLUMQOquTnjLOuh6Q","release_date":"1999-07-05","name":"The Xpander E.P.","artists":[{"id":"6u4jLGLPuarS3i2XWHVxoS","name":"Sasha"}],"typ":"single","added_at":0},"duration":{"secs":690,"nanos":373000000},"explicit":false},{"id":"6jDvscqRub9IMPgioTzq3C","name":"Feeling It Too - Original 12\" Mix","artists":[{"id":"5FShO6AHYIm40jE4ze5hc3","name":"The 3 Jays"}],"album":{"id":"3zzUkaolNEfc3g9f7DueCp","release_date":"2014-08-19","name":"Feeling It Too","artists":[{"id":"5FShO6AHYIm40jE4ze5hc3","name":"The 3 Jays"}],"typ":"single","added_at":0},"duration":{"secs":448,"nanos":500000000},"explicit":false},{"id":"0HVDYp3sXo2XLtULDaDO6F","name":"Synth & Strings - Radio Edit","artists":[{"id":"1PyczlWcgtczHvUkXtUFdL","name":"Yomanda"}],"album":{"id":"7nwPqEdTOfVft9Knxd1kC5","release_date":"2009-01-01","name":"Cool - Dance","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":199,"nanos":520000000},"explicit":false},{"id":"0CRvFX8qCgizZXTQG9Onb4","name":"Makes Me Love You - Morning Star Mix","artists":[{"id":"4PFAhEu3TCd5k2VfNvU2Sv","name":"Eclipse"}],"album":{"id":"67eleN1vg8mgIUc92yzj9g","release_date":"2012-03-08","name":"Make Me Love You","artists":[{"id":"4PFAhEu3TCd5k2VfNvU2Sv","name":"Eclipse"}],"typ":"single","added_at":0},"duration":{"secs":564,"nanos":741000000},"explicit":false},{"id":"53qhh1kdcX4gRBShoW4LK8","name":"Sing It Back - Boris Dlugosch Mix","artists":[{"id":"4aaBjq7VqqQvpSF69GglvO","name":"Moloko"},{"id":"5mrwZhvK7J8K34cWeFG3ru","name":"Boris Dlugosch"},{"id":"0r3oYkStfoV3sVeoQ1vmtw","name":"Michael Lange"}],"album":{"id":"5sCp2ukwrtpYj5wGfMx78M","release_date":"2006-07-17","name":"Catalogue","artists":[{"id":"4aaBjq7VqqQvpSF69GglvO","name":"Moloko"}],"typ":"album","added_at":0},"duration":{"secs":278,"nanos":0},"explicit":false}]}
+{
+  "playlist": {
+    "id": "2Gr6khQQz0HOH82fzT8vjA",
+    "collaborative": false,
+    "name": "Ibiza Euphoria: Mixed By Matt Darey",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAJwVrCzTLSu+FFejX9Ei6+RaBMTfG",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "1Tz10EYl3RFRItgJU8bJWu",
+      "name": "Seven Cities - Solarstone's Atlantis Mix",
+      "artists": [
+        {
+          "id": "1PfOXooPSLQhOTNZGrXM90",
+          "name": "Solarstone"
+        },
+        {
+          "id": "7eJRumzcr8tEQBi3JqyWjU",
+          "name": "Andy Bury"
+        }
+      ],
+      "album": {
+        "id": "4GpHU6W6cPUa8tIk8EwBbY",
+        "release_date": "1999-06-04",
+        "name": "Seven Cities",
+        "artists": [
+          {
+            "id": "1PfOXooPSLQhOTNZGrXM90",
+            "name": "Solarstone"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0wnBedwQDPcyXzitB8Yvkr",
+      "name": "Everyday",
+      "artists": [
+        {
+          "id": "25fXoLpROrtnNtQ1ifr8oN",
+          "name": "Agnelli & Nelson"
+        }
+      ],
+      "album": {
+        "id": "4rrJaNjSH961yFQD0DvfbU",
+        "release_date": "2011-05-09",
+        "name": "Hudson Street",
+        "artists": [
+          {
+            "id": "25fXoLpROrtnNtQ1ifr8oN",
+            "name": "Agnelli & Nelson"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 417,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0wiloryIyGu6IJay76redv",
+      "name": "Madagascar - Ferry Corsten Remix",
+      "artists": [
+        {
+          "id": "42edDgjfmvA5cRKsF1KH5a",
+          "name": "Art Of Trance"
+        },
+        {
+          "id": "2ohlvFf9PBsDELdRstPtlP",
+          "name": "Ferry Corsten"
+        }
+      ],
+      "album": {
+        "id": "2cWcu5iCXuCzw7cuZD34Ky",
+        "release_date": "2009-03-30",
+        "name": "Madagascar (Remixes)",
+        "artists": [
+          {
+            "id": "42edDgjfmvA5cRKsF1KH5a",
+            "name": "Art Of Trance"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 361,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7ybN359mFqfx2q3BoPUDVW",
+      "name": "Red Sun Rising",
+      "artists": [
+        {
+          "id": "2NCerM6sPl0bsa2XzOKrTY",
+          "name": "Lost Witness"
+        }
+      ],
+      "album": {
+        "id": "1HMHx8bdpq7CLPePiBvbTU",
+        "release_date": "2011-04-18",
+        "name": "Red Sun Rising",
+        "artists": [
+          {
+            "id": "2NCerM6sPl0bsa2XzOKrTY",
+            "name": "Lost Witness"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 436,
+        "nanos": 939000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1CgbwsrNDlFrRuk2ebQ7zr",
+      "name": "9Pm (Till I Come)",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "4DfD9bqzlfSbEf5kWgufPk",
+        "release_date": "1999-04-26",
+        "name": "Movin' Melodies",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 193,
+        "nanos": 880000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7upwkIntm2IildrQjCjNCo",
+      "name": "Liberation - Ferry Corsten Radio Edit",
+      "artists": [
+        {
+          "id": "20IiZT2AHU5GwnzncwJX6S",
+          "name": "Matt Darey"
+        },
+        {
+          "id": "3fX4ESsQJXkOXSGW4FsB1c",
+          "name": "Marcella Woods"
+        },
+        {
+          "id": "2ohlvFf9PBsDELdRstPtlP",
+          "name": "Ferry Corsten"
+        }
+      ],
+      "album": {
+        "id": "5LXXKp3JN1liPw3PUMTxMh",
+        "release_date": "2013-06-14",
+        "name": "Trance Top 1000 - Selection 004",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 187,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2tvfx0m01wqJX6V7q2juff",
+      "name": "Cream - Paul Van Dyk Short Cut",
+      "artists": [
+        {
+          "id": "2XTff332rrZaE1rBM47Krp",
+          "name": "Blank & Jones"
+        },
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "3ySdR1LidkSF2CaBPz0mp2",
+        "release_date": "1999-08-19",
+        "name": "Cream (All Mixes)",
+        "artists": [
+          {
+            "id": "2XTff332rrZaE1rBM47Krp",
+            "name": "Blank & Jones"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 217,
+        "nanos": 431000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ou0DZjTQPf1Tx3ja8vfLU",
+      "name": "Happiness Happening - Lange Remix",
+      "artists": [
+        {
+          "id": "2NCerM6sPl0bsa2XzOKrTY",
+          "name": "Lost Witness"
+        },
+        {
+          "id": "0zgmzl8NLEOsqYNOQcSmAA",
+          "name": "Lange"
+        }
+      ],
+      "album": {
+        "id": "3HfYOQb0MhTtvzUKEKk61m",
+        "release_date": "2019-05-31",
+        "name": "Vocal Trance Hits - The Anthems",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 215,
+        "nanos": 480000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3faEHHzS7ApaU7wPY3HPOt",
+      "name": "Pulsar",
+      "artists": [
+        {
+          "id": "0MNSDAOCHF7f2ZfAYxZ9bp",
+          "name": "Mauro Picotto"
+        }
+      ],
+      "album": {
+        "id": "2maj2TsGWh6GxRxQ8mjhLz",
+        "release_date": "2014-07-25",
+        "name": "A State Of Trance Classics, Vol. 9",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 184,
+        "nanos": 373000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5da8yR2UWxZcRC1Eh2Zk4d",
+      "name": "The Awakening - Quake Radio Edit",
+      "artists": [
+        {
+          "id": "20L5MecnuNujUE6imrfK0Q",
+          "name": "YORK"
+        },
+        {
+          "id": "6PytpCLLu3iY5kXYQq6Dxd",
+          "name": "Quake"
+        }
+      ],
+      "album": {
+        "id": "7naYpLtycgqKS809tmtK3s",
+        "release_date": "1998",
+        "name": "The Awakening (Part 1)",
+        "artists": [
+          {
+            "id": "20L5MecnuNujUE6imrfK0Q",
+            "name": "YORK"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 213,
+        "nanos": 793000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3bVZ7nEuN5EnjNwmzhegAB",
+      "name": "Shudder / King of Snake",
+      "artists": [
+        {
+          "id": "1PXHzxRDiLnjqNrRn2Xbsa",
+          "name": "Underworld"
+        }
+      ],
+      "album": {
+        "id": "4qOA2JupYTQ8KGxnoRMeWG",
+        "release_date": "2011-02-21",
+        "name": "Biutiful",
+        "artists": [
+          {
+            "id": "4W3fa7tiXGVXl3KilbACqt",
+            "name": "Gustavo Santaolalla"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 208,
+        "nanos": 680000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "26YmyWco9m3Ssqhkq2F05x",
+      "name": "Gamemaster - Signum's 1999 Remix",
+      "artists": [
+        {
+          "id": "20IiZT2AHU5GwnzncwJX6S",
+          "name": "Matt Darey"
+        },
+        {
+          "id": "5Yc0I2tQYUqltpkc1jXT3A",
+          "name": "Lost Tribe"
+        },
+        {
+          "id": "3UJW5QFKMNUAE4rcW3j9WZ",
+          "name": "Signum"
+        }
+      ],
+      "album": {
+        "id": "5wgHkqOGXxsfc60PYgye1s",
+        "release_date": "2013-07-19",
+        "name": "Trance Top 1000 - Selection 006",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 467,
+        "nanos": 272000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5JOWaJ5tKQj6O0ZcfhZeOa",
+      "name": "Diving Faces - Tom Wax & Jan Jakarta Remix",
+      "artists": [
+        {
+          "id": "0cljqRBWiEmXSI4vXvMFl7",
+          "name": "Liquid Child"
+        }
+      ],
+      "album": {
+        "id": "0sv5OhnW2QeyeZgBJOGy2I",
+        "release_date": "2007-07-10",
+        "name": "Diving Faces",
+        "artists": [
+          {
+            "id": "0cljqRBWiEmXSI4vXvMFl7",
+            "name": "Liquid Child"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 422,
+        "nanos": 853000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1EAxDiugDns3MDRYENPjko",
+      "name": "Gouryella - Radio Edit",
+      "artists": [
+        {
+          "id": "1JKDQ9CDwfLKUrhO6KYaki",
+          "name": "Gouryella"
+        }
+      ],
+      "album": {
+        "id": "0qRJZ8hAlDxAVrnJpzqL6O",
+        "release_date": "2011-12-19",
+        "name": "Gouryella",
+        "artists": [
+          {
+            "id": "1JKDQ9CDwfLKUrhO6KYaki",
+            "name": "Gouryella"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 911000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4oAJpmiYVXdTz25sTGgtOC",
+      "name": "Come With Me - Qattara Vocal Mix",
+      "artists": [
+        {
+          "id": "7Frav715BsTfvCljEvzvQn",
+          "name": "Qattara"
+        }
+      ],
+      "album": {
+        "id": "7GS0WevLfjXdNZotvgGzZ5",
+        "release_date": "1997",
+        "name": "Come With Me",
+        "artists": [
+          {
+            "id": "7Frav715BsTfvCljEvzvQn",
+            "name": "Qattara"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 565,
+        "nanos": 994000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4qWKqaTPkpjRmrKjkDuHb4",
+      "name": "Saltwater",
+      "artists": [
+        {
+          "id": "5GxyeQagayzZOg4UwffQlD",
+          "name": "Chicane"
+        },
+        {
+          "id": "3ZvmmlF8EMEpnnK90jfuJv",
+          "name": "Moya Brennan"
+        }
+      ],
+      "album": {
+        "id": "4HA4lHmngXl9auznchWqlf",
+        "release_date": "2008-10-06",
+        "name": "The Best Of Chicane 1996 - 2009",
+        "artists": [
+          {
+            "id": "5GxyeQagayzZOg4UwffQlD",
+            "name": "Chicane"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 202,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0UPEd4mCeP7oZVRLsXUIal",
+      "name": "Invisible - Tilt's Supernatural Dub",
+      "artists": [
+        {
+          "id": "6nX27cZEY7eiAlGFZ01jCd",
+          "name": "Tilt"
+        }
+      ],
+      "album": {
+        "id": "6EWGz2MT3xrMftS7wgWvAz",
+        "release_date": "2002-05-20",
+        "name": "Missing Pieces EP Disc 1",
+        "artists": [
+          {
+            "id": "6nX27cZEY7eiAlGFZ01jCd",
+            "name": "Tilt"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 540,
+        "nanos": 586000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5mdsjiIqGwxWUd8vYD3hXF",
+      "name": "Strings For Yasmin",
+      "artists": [
+        {
+          "id": "1a5l3fWnzmaK7gDD2IkbHq",
+          "name": "Tin Tin Out"
+        }
+      ],
+      "album": {
+        "id": "73szSOWkAGSVZiGTjxVBRk",
+        "release_date": "1998-01-01",
+        "name": "Always",
+        "artists": [
+          {
+            "id": "1a5l3fWnzmaK7gDD2IkbHq",
+            "name": "Tin Tin Out"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 317,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "08LZlzEHU63nbrutt2D1qs",
+      "name": "Carte Blanche - Extended Mix",
+      "artists": [
+        {
+          "id": "1DT2WEMQmEJ3yRmTaqzrXd",
+          "name": "Veracocha"
+        }
+      ],
+      "album": {
+        "id": "1HiMgrHPVQOgyFhh8IuwHz",
+        "release_date": "1999-05-01",
+        "name": "Carte Blanche",
+        "artists": [
+          {
+            "id": "1DT2WEMQmEJ3yRmTaqzrXd",
+            "name": "Veracocha"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 424,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6OuW3ziXqXXwV5bgErlBrF",
+      "name": "Universal Nation 2003",
+      "artists": [
+        {
+          "id": "2Xy6YLSsHR6TdBUFm5bnLR",
+          "name": "Push"
+        }
+      ],
+      "album": {
+        "id": "7x1YqbT3S0DiaGrOixmkRR",
+        "release_date": "2011-11-08",
+        "name": "Electric Eclipse",
+        "artists": [
+          {
+            "id": "2Xy6YLSsHR6TdBUFm5bnLR",
+            "name": "Push"
+          },
+          {
+            "id": "5pIoRptQUs4hYWCUZ8bAFG",
+            "name": "Globe"
+          },
+          {
+            "id": "79a8sYrF1qZ39tuNlWO0a8",
+            "name": "Tranquilo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 543,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6to5yiUNguaBKImMHruRR8",
+      "name": "Not over yet '99 - Extended",
+      "artists": [
+        {
+          "id": "1DlbW0TOOja6uqR4CHAaeg",
+          "name": "Grace"
+        },
+        {
+          "id": "5MO2kbaGGA2a8kL4c9qqHq",
+          "name": "Paul Oakenfold"
+        }
+      ],
+      "album": {
+        "id": "2P3GrMALjeCYAbFvuFFsFH",
+        "release_date": "1999",
+        "name": "Not Over Yet '99 (feat. Grace)",
+        "artists": [
+          {
+            "id": "3Q9P0SbpaP9xsBtLUVK0Be",
+            "name": "Planet Perfecto"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 585,
+        "nanos": 508000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6eYjUe4LXsV5u76ymGObqS",
+      "name": "Synaesthesia - En-Motion Remix",
+      "artists": [
+        {
+          "id": "1RYDKWzJnJtbTPYNsDswD5",
+          "name": "The Thrillseekers"
+        },
+        {
+          "id": "3GX1gYiJiHmVTOdCMyjukl",
+          "name": "En-Motion"
+        }
+      ],
+      "album": {
+        "id": "40FjILzRvfgSP8Y70c5G6j",
+        "release_date": "1999-12-21",
+        "name": "Synaesthesia",
+        "artists": [
+          {
+            "id": "1RYDKWzJnJtbTPYNsDswD5",
+            "name": "The Thrillseekers"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 241,
+        "nanos": 520000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "30MF9t0WNnxsAZ23mIz6rg",
+      "name": "Breathe - Radio Edit",
+      "artists": [
+        {
+          "id": "42edDgjfmvA5cRKsF1KH5a",
+          "name": "Art Of Trance"
+        },
+        {
+          "id": "4tmvH1mdQEmU8RbbVAXcGL",
+          "name": "Caroline Lavelle"
+        }
+      ],
+      "album": {
+        "id": "0jPtqwPE0pnn0SQuTNuG5Q",
+        "release_date": "2017-05-12",
+        "name": "Trance High - Fidelity",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 228,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3uxC9yUfLVtdgqHNT4NOJ6",
+      "name": "Everytime - Mike Koglin Mix - Classic Bonus Tracks",
+      "artists": [
+        {
+          "id": "0dkFacPMrWkrQzjjhcMHb7",
+          "name": "Lustral"
+        },
+        {
+          "id": "4nb1tQbYZYqvr50cdTqek5",
+          "name": "The Space Brothers"
+        },
+        {
+          "id": "0hVSR2SYX6nK7UpBEwz8Bi",
+          "name": "Mike Koglin"
+        }
+      ],
+      "album": {
+        "id": "7CcRpjmvlD6ZaBrSRNJUYd",
+        "release_date": "2011-06-03",
+        "name": "Everytime",
+        "artists": [
+          {
+            "id": "0dkFacPMrWkrQzjjhcMHb7",
+            "name": "Lustral"
+          },
+          {
+            "id": "4nb1tQbYZYqvr50cdTqek5",
+            "name": "The Space Brothers"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 502,
+        "nanos": 331000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "76mh0rcSJpNhoCCqazptWm",
+      "name": "Xpander",
+      "artists": [
+        {
+          "id": "6u4jLGLPuarS3i2XWHVxoS",
+          "name": "Sasha"
+        }
+      ],
+      "album": {
+        "id": "2xnwMwLUMQOquTnjLOuh6Q",
+        "release_date": "1999-07-05",
+        "name": "The Xpander E.P.",
+        "artists": [
+          {
+            "id": "6u4jLGLPuarS3i2XWHVxoS",
+            "name": "Sasha"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 690,
+        "nanos": 373000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6jDvscqRub9IMPgioTzq3C",
+      "name": "Feeling It Too - Original 12\" Mix",
+      "artists": [
+        {
+          "id": "5FShO6AHYIm40jE4ze5hc3",
+          "name": "The 3 Jays"
+        }
+      ],
+      "album": {
+        "id": "3zzUkaolNEfc3g9f7DueCp",
+        "release_date": "2014-08-19",
+        "name": "Feeling It Too",
+        "artists": [
+          {
+            "id": "5FShO6AHYIm40jE4ze5hc3",
+            "name": "The 3 Jays"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 448,
+        "nanos": 500000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0HVDYp3sXo2XLtULDaDO6F",
+      "name": "Synth & Strings - Radio Edit",
+      "artists": [
+        {
+          "id": "1PyczlWcgtczHvUkXtUFdL",
+          "name": "Yomanda"
+        }
+      ],
+      "album": {
+        "id": "7nwPqEdTOfVft9Knxd1kC5",
+        "release_date": "2009-01-01",
+        "name": "Cool - Dance",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 199,
+        "nanos": 520000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0CRvFX8qCgizZXTQG9Onb4",
+      "name": "Makes Me Love You - Morning Star Mix",
+      "artists": [
+        {
+          "id": "4PFAhEu3TCd5k2VfNvU2Sv",
+          "name": "Eclipse"
+        }
+      ],
+      "album": {
+        "id": "67eleN1vg8mgIUc92yzj9g",
+        "release_date": "2012-03-08",
+        "name": "Make Me Love You",
+        "artists": [
+          {
+            "id": "4PFAhEu3TCd5k2VfNvU2Sv",
+            "name": "Eclipse"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 564,
+        "nanos": 741000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "53qhh1kdcX4gRBShoW4LK8",
+      "name": "Sing It Back - Boris Dlugosch Mix",
+      "artists": [
+        {
+          "id": "4aaBjq7VqqQvpSF69GglvO",
+          "name": "Moloko"
+        },
+        {
+          "id": "5mrwZhvK7J8K34cWeFG3ru",
+          "name": "Boris Dlugosch"
+        },
+        {
+          "id": "0r3oYkStfoV3sVeoQ1vmtw",
+          "name": "Michael Lange"
+        }
+      ],
+      "album": {
+        "id": "5sCp2ukwrtpYj5wGfMx78M",
+        "release_date": "2006-07-17",
+        "name": "Catalogue",
+        "artists": [
+          {
+            "id": "4aaBjq7VqqQvpSF69GglvO",
+            "name": "Moloko"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 278,
+        "nanos": 0
+      },
+      "explicit": false
+    }
+  ]
+}

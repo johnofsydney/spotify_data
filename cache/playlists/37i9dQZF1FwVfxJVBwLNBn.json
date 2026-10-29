@@ -1,1 +1,597 @@
-{"playlist":{"id":"37i9dQZF1FwVfxJVBwLNBn","collaborative":false,"name":"Discover From Listeners Like Me","owner":["REDACTED","REDACTED"],"desc":"Fresh song picks trending with similar listeners on Spotify, excluding anything you've already heard or saved.","current_folder_id":0,"snapshot_id":"MDAwMDAwMDE5NjQxZjYwMTdmY2ZiYTViN2UzY2IzYzFkNWE2ZDdhNTEzZGI1M2Y0OTU5NTFmNTMwZDlhM2IyZX5lMTc3NDkyOTk5NjIwMDAwMA=="},"tracks":[{"id":"0StTPPu2Zb2wgaPDJhBaTX","name":"No One to Kill in The Sky","artists":[{"id":"3ebD7fhAtxAuVaIxi1T2BJ","name":"Seb Lowe"}],"album":{"id":"4fbjCwINs8Sui3aJIEoxZy","release_date":"2026-03-18","name":"No One to Kill in The Sky","artists":[{"id":"3ebD7fhAtxAuVaIxi1T2BJ","name":"Seb Lowe"}],"typ":"single","added_at":0},"duration":{"secs":173,"nanos":419000000},"explicit":true},{"id":"27w0RH5IDt6xU3B2j7QOuy","name":"Favourite","artists":[{"id":"3SXwqSqAoBz9WCI9PDQzY6","name":"Fontaines D.C."}],"album":{"id":"287QQ922OsJYh8aFNGdJG5","release_date":"2024-08-23","name":"Romance","artists":[{"id":"3SXwqSqAoBz9WCI9PDQzY6","name":"Fontaines D.C."}],"typ":"album","added_at":0},"duration":{"secs":256,"nanos":66000000},"explicit":false},{"id":"7aLtFOQyLWC1L1XPN8RC3b","name":"Bubbly","artists":[{"id":"38SKxCyfrmNWqWunb9wGHP","name":"Good Kid"}],"album":{"id":"1nFSYPn28BWJHvRrJH82E5","release_date":"2024-01-12","name":"Bubbly","artists":[{"id":"38SKxCyfrmNWqWunb9wGHP","name":"Good Kid"}],"typ":"single","added_at":0},"duration":{"secs":187,"nanos":274000000},"explicit":false},{"id":"34HWkEfh1KRkw5hReCVtcz","name":"Riptides","artists":[{"id":"0YrtvWJMgSdVrk3SfNjTbx","name":"Death Cab for Cutie"}],"album":{"id":"5GBDzuHE3dMAauYKN8FvrN","release_date":"2026-03-16","name":"Riptides","artists":[{"id":"0YrtvWJMgSdVrk3SfNjTbx","name":"Death Cab for Cutie"}],"typ":"single","added_at":0},"duration":{"secs":197,"nanos":89000000},"explicit":false},{"id":"7dtX124bngqv8RPPccWYUC","name":"Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)","artists":[{"id":"6XyAI3jtlsss5mJjAAJXzE","name":"Grian Chatten"},{"id":"0havfeAeChSqpSggNGyysW","name":"Antony Genn"},{"id":"6t3PJIhjCRRJ1SH1O3zbLp","name":"Martin Slattery"},{"id":"30m2gfOVcyLAAcSW8JZpFs","name":"The Immortal Man"}],"album":{"id":"6Ear3FNXxaxeTUqTinbPRD","release_date":"2026-02-18","name":"Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)","artists":[{"id":"6XyAI3jtlsss5mJjAAJXzE","name":"Grian Chatten"},{"id":"0havfeAeChSqpSggNGyysW","name":"Antony Genn"},{"id":"6t3PJIhjCRRJ1SH1O3zbLp","name":"Martin Slattery"},{"id":"30m2gfOVcyLAAcSW8JZpFs","name":"The Immortal Man"}],"typ":"single","added_at":0},"duration":{"secs":266,"nanos":759000000},"explicit":false},{"id":"3II8ry3bjOniwbCF78KRpb","name":"Do You Really Love Her","artists":[{"id":"6V70yeZQCoSR2M3fyW8qiA","name":"Spacey Jane"}],"album":{"id":"6in65KMQol9r720LtGF40e","release_date":"2026-03-13","name":"Do You Really Love Her","artists":[{"id":"6V70yeZQCoSR2M3fyW8qiA","name":"Spacey Jane"}],"typ":"single","added_at":0},"duration":{"secs":228,"nanos":168000000},"explicit":false},{"id":"5FT5JjlKQuBlrYfLxRfq5p","name":"Bitter Fruit","artists":[{"id":"4j56EQDQu5XnL7R3E9iFJT","name":"Young the Giant"}],"album":{"id":"0WXBb2QXrD2JaaF7wXgHwV","release_date":"2026-03-20","name":"Bitter Fruit","artists":[{"id":"4j56EQDQu5XnL7R3E9iFJT","name":"Young the Giant"}],"typ":"single","added_at":0},"duration":{"secs":197,"nanos":120000000},"explicit":false},{"id":"5noMqCfgrkV3zOcCvpC6We","name":"My Baby's Place","artists":[{"id":"1iUTUix5kea176M0uJTsh4","name":"DMA'S"}],"album":{"id":"2SStqgA0tGcHofhYKgvyig","release_date":"2026-03-20","name":"My Baby's Place","artists":[{"id":"1iUTUix5kea176M0uJTsh4","name":"DMA'S"}],"typ":"single","added_at":0},"duration":{"secs":235,"nanos":6000000},"explicit":false},{"id":"1Uze9bqykiz4wIdkRIv32j","name":"Heavy In The Morning","artists":[{"id":"3N8YzKqrEQonvd5RLQ4iYg","name":"Old Mervs"}],"album":{"id":"6jfjUvcscXCT5tLy51qJaA","release_date":"2026-03-18","name":"Heavy In The Morning","artists":[{"id":"3N8YzKqrEQonvd5RLQ4iYg","name":"Old Mervs"}],"typ":"single","added_at":0},"duration":{"secs":171,"nanos":947000000},"explicit":false},{"id":"2SGyf0hCuB81F85cHXuRjl","name":"So Cold","artists":[{"id":"6O9vGMmTwzihULICPCsNf2","name":"Balu Brigada"}],"album":{"id":"3T5osCmLRKocwvc1yobKwB","release_date":"2025-08-29","name":"Portal","artists":[{"id":"6O9vGMmTwzihULICPCsNf2","name":"Balu Brigada"}],"typ":"album","added_at":0},"duration":{"secs":201,"nanos":133000000},"explicit":false},{"id":"4xVhMGM0dzVVUzaiTbsuC9","name":"Whiplash","artists":[{"id":"6D1ONv6dkTpWhFK4Sfsf8F","name":"Mid Drift"}],"album":{"id":"4nNPebTTolEsaAsMe6VWAZ","release_date":"2025-11-27","name":"Whiplash","artists":[{"id":"6D1ONv6dkTpWhFK4Sfsf8F","name":"Mid Drift"}],"typ":"single","added_at":0},"duration":{"secs":194,"nanos":750000000},"explicit":false},{"id":"6DKSK32WwzBMZ0qAq28Zon","name":"Hotel Room","artists":[{"id":"5WJCUSIw2Td5IEfa3LXCo9","name":"Ax and the Hatchetmen"}],"album":{"id":"28JEdFG4Mk0D0QGkL5vUxG","release_date":"2025-10-24","name":"So Much To Tell You","artists":[{"id":"5WJCUSIw2Td5IEfa3LXCo9","name":"Ax and the Hatchetmen"}],"typ":"album","added_at":0},"duration":{"secs":148,"nanos":887000000},"explicit":false},{"id":"2ThIdVIatb7zIU6nO35knO","name":"Personal","artists":[{"id":"6L2JrLAUsJFuE27Pl6OTlP","name":"Lazy Haze"}],"album":{"id":"1vZ4AfCgOqsOfXwx4HcHQe","release_date":"2024-10-25","name":"Personal","artists":[{"id":"6L2JrLAUsJFuE27Pl6OTlP","name":"Lazy Haze"}],"typ":"single","added_at":0},"duration":{"secs":232,"nanos":749000000},"explicit":false},{"id":"2H8JnA9YH0uM6siDbzPQbX","name":"Drenched","artists":[{"id":"18lpwfiys4GtdHWNUu9qQr","name":"Ocean Alley"}],"album":{"id":"0yxuksgs4Ecu9U9UJLG8lm","release_date":"2025-09-19","name":"Love Balloon","artists":[{"id":"18lpwfiys4GtdHWNUu9qQr","name":"Ocean Alley"}],"typ":"album","added_at":0},"duration":{"secs":251,"nanos":880000000},"explicit":false},{"id":"6Df0RNShcnfIJmrRoJ6Gc9","name":"Unravelling","artists":[{"id":"12Chz98pHFMPJEknJQMWvI","name":"Muse"}],"album":{"id":"05Wvj3dfspiuII55ddVkPh","release_date":"2025-06-20","name":"Unravelling","artists":[{"id":"12Chz98pHFMPJEknJQMWvI","name":"Muse"}],"typ":"single","added_at":0},"duration":{"secs":238,"nanos":2000000},"explicit":false},{"id":"6gxGg4j7i3Ba7F2x0yi8br","name":"STAMPEDE","artists":[{"id":"1HvH97rzvCH6lfnLlgyfke","name":"Genesis Owusu"}],"album":{"id":"7A2scjvl1X6PS9TBZ6BzFj","release_date":"2026-02-19","name":"STAMPEDE","artists":[{"id":"1HvH97rzvCH6lfnLlgyfke","name":"Genesis Owusu"}],"typ":"single","added_at":0},"duration":{"secs":189,"nanos":200000000},"explicit":true},{"id":"2OMjHcniFxzijWX7EaBrXE","name":"Emergence","artists":[{"id":"2n2RSaZqBuUUukhbLlpnE6","name":"Sleep Token"}],"album":{"id":"1lS7FeRcSUuIGqyg99UGpj","release_date":"2025-05-09","name":"Even In Arcadia","artists":[{"id":"2n2RSaZqBuUUukhbLlpnE6","name":"Sleep Token"}],"typ":"album","added_at":0},"duration":{"secs":386,"nanos":253000000},"explicit":false},{"id":"03mN5X7xFtv6uuBGsB43aY","name":"Sixteen","artists":[{"id":"4hz8tIajF2INpgM0qzPJz2","name":"Rainbow Kitten Surprise"}],"album":{"id":"3cZ1wUsjtA7rdd4imnyd2i","release_date":"2026-03-20","name":"Sixteen","artists":[{"id":"4hz8tIajF2INpgM0qzPJz2","name":"Rainbow Kitten Surprise"}],"typ":"single","added_at":0},"duration":{"secs":206,"nanos":137000000},"explicit":false},{"id":"7Cs6hyQ9Ecyjejra0PTJnl","name":"Jennifer's Body","artists":[{"id":"5yvGiZLSWJTPBlZpVbPnEZ","name":"Julia Wolf"}],"album":{"id":"4vIzHHL3D8TacHTRQzYIYe","release_date":"2025-05-23","name":"PRESSURE","artists":[{"id":"5yvGiZLSWJTPBlZpVbPnEZ","name":"Julia Wolf"}],"typ":"album","added_at":0},"duration":{"secs":152,"nanos":571000000},"explicit":false},{"id":"664mxd7tkS4Nc1ktjuY6C2","name":"Tohogd","artists":[{"id":"13NmOYYfvONNZ9mn2qn8P2","name":"Angine de Poitrine"}],"album":{"id":"67AYhGt60AoJa1TVcn5lCn","release_date":"2024-06-09","name":"Vol.1","artists":[{"id":"13NmOYYfvONNZ9mn2qn8P2","name":"Angine de Poitrine"}],"typ":"album","added_at":0},"duration":{"secs":244,"nanos":973000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "37i9dQZF1FwVfxJVBwLNBn",
+    "collaborative": false,
+    "name": "Discover From Listeners Like Me",
+    "desc": "Fresh song picks trending with similar listeners on Spotify, excluding anything you've already heard or saved.",
+    "current_folder_id": 0,
+    "snapshot_id": "MDAwMDAwMDE5NjQxZjYwMTdmY2ZiYTViN2UzY2IzYzFkNWE2ZDdhNTEzZGI1M2Y0OTU5NTFmNTMwZDlhM2IyZX5lMTc3NDkyOTk5NjIwMDAwMA==",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "0StTPPu2Zb2wgaPDJhBaTX",
+      "name": "No One to Kill in The Sky",
+      "artists": [
+        {
+          "id": "3ebD7fhAtxAuVaIxi1T2BJ",
+          "name": "Seb Lowe"
+        }
+      ],
+      "album": {
+        "id": "4fbjCwINs8Sui3aJIEoxZy",
+        "release_date": "2026-03-18",
+        "name": "No One to Kill in The Sky",
+        "artists": [
+          {
+            "id": "3ebD7fhAtxAuVaIxi1T2BJ",
+            "name": "Seb Lowe"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 173,
+        "nanos": 419000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "27w0RH5IDt6xU3B2j7QOuy",
+      "name": "Favourite",
+      "artists": [
+        {
+          "id": "3SXwqSqAoBz9WCI9PDQzY6",
+          "name": "Fontaines D.C."
+        }
+      ],
+      "album": {
+        "id": "287QQ922OsJYh8aFNGdJG5",
+        "release_date": "2024-08-23",
+        "name": "Romance",
+        "artists": [
+          {
+            "id": "3SXwqSqAoBz9WCI9PDQzY6",
+            "name": "Fontaines D.C."
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 256,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7aLtFOQyLWC1L1XPN8RC3b",
+      "name": "Bubbly",
+      "artists": [
+        {
+          "id": "38SKxCyfrmNWqWunb9wGHP",
+          "name": "Good Kid"
+        }
+      ],
+      "album": {
+        "id": "1nFSYPn28BWJHvRrJH82E5",
+        "release_date": "2024-01-12",
+        "name": "Bubbly",
+        "artists": [
+          {
+            "id": "38SKxCyfrmNWqWunb9wGHP",
+            "name": "Good Kid"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 187,
+        "nanos": 274000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "34HWkEfh1KRkw5hReCVtcz",
+      "name": "Riptides",
+      "artists": [
+        {
+          "id": "0YrtvWJMgSdVrk3SfNjTbx",
+          "name": "Death Cab for Cutie"
+        }
+      ],
+      "album": {
+        "id": "5GBDzuHE3dMAauYKN8FvrN",
+        "release_date": "2026-03-16",
+        "name": "Riptides",
+        "artists": [
+          {
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 197,
+        "nanos": 89000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7dtX124bngqv8RPPccWYUC",
+      "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
+      "artists": [
+        {
+          "id": "6XyAI3jtlsss5mJjAAJXzE",
+          "name": "Grian Chatten"
+        },
+        {
+          "id": "0havfeAeChSqpSggNGyysW",
+          "name": "Antony Genn"
+        },
+        {
+          "id": "6t3PJIhjCRRJ1SH1O3zbLp",
+          "name": "Martin Slattery"
+        },
+        {
+          "id": "30m2gfOVcyLAAcSW8JZpFs",
+          "name": "The Immortal Man"
+        }
+      ],
+      "album": {
+        "id": "6Ear3FNXxaxeTUqTinbPRD",
+        "release_date": "2026-02-18",
+        "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
+        "artists": [
+          {
+            "id": "6XyAI3jtlsss5mJjAAJXzE",
+            "name": "Grian Chatten"
+          },
+          {
+            "id": "0havfeAeChSqpSggNGyysW",
+            "name": "Antony Genn"
+          },
+          {
+            "id": "6t3PJIhjCRRJ1SH1O3zbLp",
+            "name": "Martin Slattery"
+          },
+          {
+            "id": "30m2gfOVcyLAAcSW8JZpFs",
+            "name": "The Immortal Man"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 266,
+        "nanos": 759000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3II8ry3bjOniwbCF78KRpb",
+      "name": "Do You Really Love Her",
+      "artists": [
+        {
+          "id": "6V70yeZQCoSR2M3fyW8qiA",
+          "name": "Spacey Jane"
+        }
+      ],
+      "album": {
+        "id": "6in65KMQol9r720LtGF40e",
+        "release_date": "2026-03-13",
+        "name": "Do You Really Love Her",
+        "artists": [
+          {
+            "id": "6V70yeZQCoSR2M3fyW8qiA",
+            "name": "Spacey Jane"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 228,
+        "nanos": 168000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5FT5JjlKQuBlrYfLxRfq5p",
+      "name": "Bitter Fruit",
+      "artists": [
+        {
+          "id": "4j56EQDQu5XnL7R3E9iFJT",
+          "name": "Young the Giant"
+        }
+      ],
+      "album": {
+        "id": "0WXBb2QXrD2JaaF7wXgHwV",
+        "release_date": "2026-03-20",
+        "name": "Bitter Fruit",
+        "artists": [
+          {
+            "id": "4j56EQDQu5XnL7R3E9iFJT",
+            "name": "Young the Giant"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 197,
+        "nanos": 120000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5noMqCfgrkV3zOcCvpC6We",
+      "name": "My Baby's Place",
+      "artists": [
+        {
+          "id": "1iUTUix5kea176M0uJTsh4",
+          "name": "DMA'S"
+        }
+      ],
+      "album": {
+        "id": "2SStqgA0tGcHofhYKgvyig",
+        "release_date": "2026-03-20",
+        "name": "My Baby's Place",
+        "artists": [
+          {
+            "id": "1iUTUix5kea176M0uJTsh4",
+            "name": "DMA'S"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 235,
+        "nanos": 6000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Uze9bqykiz4wIdkRIv32j",
+      "name": "Heavy In The Morning",
+      "artists": [
+        {
+          "id": "3N8YzKqrEQonvd5RLQ4iYg",
+          "name": "Old Mervs"
+        }
+      ],
+      "album": {
+        "id": "6jfjUvcscXCT5tLy51qJaA",
+        "release_date": "2026-03-18",
+        "name": "Heavy In The Morning",
+        "artists": [
+          {
+            "id": "3N8YzKqrEQonvd5RLQ4iYg",
+            "name": "Old Mervs"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 171,
+        "nanos": 947000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2SGyf0hCuB81F85cHXuRjl",
+      "name": "So Cold",
+      "artists": [
+        {
+          "id": "6O9vGMmTwzihULICPCsNf2",
+          "name": "Balu Brigada"
+        }
+      ],
+      "album": {
+        "id": "3T5osCmLRKocwvc1yobKwB",
+        "release_date": "2025-08-29",
+        "name": "Portal",
+        "artists": [
+          {
+            "id": "6O9vGMmTwzihULICPCsNf2",
+            "name": "Balu Brigada"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 201,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4xVhMGM0dzVVUzaiTbsuC9",
+      "name": "Whiplash",
+      "artists": [
+        {
+          "id": "6D1ONv6dkTpWhFK4Sfsf8F",
+          "name": "Mid Drift"
+        }
+      ],
+      "album": {
+        "id": "4nNPebTTolEsaAsMe6VWAZ",
+        "release_date": "2025-11-27",
+        "name": "Whiplash",
+        "artists": [
+          {
+            "id": "6D1ONv6dkTpWhFK4Sfsf8F",
+            "name": "Mid Drift"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 194,
+        "nanos": 750000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6DKSK32WwzBMZ0qAq28Zon",
+      "name": "Hotel Room",
+      "artists": [
+        {
+          "id": "5WJCUSIw2Td5IEfa3LXCo9",
+          "name": "Ax and the Hatchetmen"
+        }
+      ],
+      "album": {
+        "id": "28JEdFG4Mk0D0QGkL5vUxG",
+        "release_date": "2025-10-24",
+        "name": "So Much To Tell You",
+        "artists": [
+          {
+            "id": "5WJCUSIw2Td5IEfa3LXCo9",
+            "name": "Ax and the Hatchetmen"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 148,
+        "nanos": 887000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2ThIdVIatb7zIU6nO35knO",
+      "name": "Personal",
+      "artists": [
+        {
+          "id": "6L2JrLAUsJFuE27Pl6OTlP",
+          "name": "Lazy Haze"
+        }
+      ],
+      "album": {
+        "id": "1vZ4AfCgOqsOfXwx4HcHQe",
+        "release_date": "2024-10-25",
+        "name": "Personal",
+        "artists": [
+          {
+            "id": "6L2JrLAUsJFuE27Pl6OTlP",
+            "name": "Lazy Haze"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 232,
+        "nanos": 749000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2H8JnA9YH0uM6siDbzPQbX",
+      "name": "Drenched",
+      "artists": [
+        {
+          "id": "18lpwfiys4GtdHWNUu9qQr",
+          "name": "Ocean Alley"
+        }
+      ],
+      "album": {
+        "id": "0yxuksgs4Ecu9U9UJLG8lm",
+        "release_date": "2025-09-19",
+        "name": "Love Balloon",
+        "artists": [
+          {
+            "id": "18lpwfiys4GtdHWNUu9qQr",
+            "name": "Ocean Alley"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 251,
+        "nanos": 880000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Df0RNShcnfIJmrRoJ6Gc9",
+      "name": "Unravelling",
+      "artists": [
+        {
+          "id": "12Chz98pHFMPJEknJQMWvI",
+          "name": "Muse"
+        }
+      ],
+      "album": {
+        "id": "05Wvj3dfspiuII55ddVkPh",
+        "release_date": "2025-06-20",
+        "name": "Unravelling",
+        "artists": [
+          {
+            "id": "12Chz98pHFMPJEknJQMWvI",
+            "name": "Muse"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 238,
+        "nanos": 2000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6gxGg4j7i3Ba7F2x0yi8br",
+      "name": "STAMPEDE",
+      "artists": [
+        {
+          "id": "1HvH97rzvCH6lfnLlgyfke",
+          "name": "Genesis Owusu"
+        }
+      ],
+      "album": {
+        "id": "7A2scjvl1X6PS9TBZ6BzFj",
+        "release_date": "2026-02-19",
+        "name": "STAMPEDE",
+        "artists": [
+          {
+            "id": "1HvH97rzvCH6lfnLlgyfke",
+            "name": "Genesis Owusu"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 189,
+        "nanos": 200000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "2OMjHcniFxzijWX7EaBrXE",
+      "name": "Emergence",
+      "artists": [
+        {
+          "id": "2n2RSaZqBuUUukhbLlpnE6",
+          "name": "Sleep Token"
+        }
+      ],
+      "album": {
+        "id": "1lS7FeRcSUuIGqyg99UGpj",
+        "release_date": "2025-05-09",
+        "name": "Even In Arcadia",
+        "artists": [
+          {
+            "id": "2n2RSaZqBuUUukhbLlpnE6",
+            "name": "Sleep Token"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 386,
+        "nanos": 253000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "03mN5X7xFtv6uuBGsB43aY",
+      "name": "Sixteen",
+      "artists": [
+        {
+          "id": "4hz8tIajF2INpgM0qzPJz2",
+          "name": "Rainbow Kitten Surprise"
+        }
+      ],
+      "album": {
+        "id": "3cZ1wUsjtA7rdd4imnyd2i",
+        "release_date": "2026-03-20",
+        "name": "Sixteen",
+        "artists": [
+          {
+            "id": "4hz8tIajF2INpgM0qzPJz2",
+            "name": "Rainbow Kitten Surprise"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 206,
+        "nanos": 137000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7Cs6hyQ9Ecyjejra0PTJnl",
+      "name": "Jennifer's Body",
+      "artists": [
+        {
+          "id": "5yvGiZLSWJTPBlZpVbPnEZ",
+          "name": "Julia Wolf"
+        }
+      ],
+      "album": {
+        "id": "4vIzHHL3D8TacHTRQzYIYe",
+        "release_date": "2025-05-23",
+        "name": "PRESSURE",
+        "artists": [
+          {
+            "id": "5yvGiZLSWJTPBlZpVbPnEZ",
+            "name": "Julia Wolf"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 152,
+        "nanos": 571000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "664mxd7tkS4Nc1ktjuY6C2",
+      "name": "Tohogd",
+      "artists": [
+        {
+          "id": "13NmOYYfvONNZ9mn2qn8P2",
+          "name": "Angine de Poitrine"
+        }
+      ],
+      "album": {
+        "id": "67AYhGt60AoJa1TVcn5lCn",
+        "release_date": "2024-06-09",
+        "name": "Vol.1",
+        "artists": [
+          {
+            "id": "13NmOYYfvONNZ9mn2qn8P2",
+            "name": "Angine de Poitrine"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 244,
+        "nanos": 973000000
+      },
+      "explicit": false
+    }
+  ]
+}

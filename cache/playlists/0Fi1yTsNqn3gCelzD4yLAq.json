@@ -1,1 +1,1277 @@
-{"playlist":{"id":"0Fi1yTsNqn3gCelzD4yLAq","collaborative":false,"name":"HDB mountain top","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAALruEoscxlu241AMw+3QXcSgRDODu"},"tracks":[{"id":"4N89UtVQDpaUtVWcIQjJrB","name":"Endless Return","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"album":{"id":"5xbbPDo6kAn2UAF8O3Wdpm","release_date":"2022-11-25","name":"Innate Passage","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"typ":"album","added_at":0},"duration":{"secs":594,"nanos":466000000},"explicit":false},{"id":"5CaI9RlZ0mf0ml5dlTOFhx","name":"Gravity Stone","artists":[{"id":"1ZYwgpS31y87TKfWHTMtmr","name":"Triangle Singular"}],"album":{"id":"4pAbeKHT5WgA4ASBqz3T0V","release_date":"2021-04-05","name":"Starbreaker","artists":[{"id":"1ZYwgpS31y87TKfWHTMtmr","name":"Triangle Singular"}],"typ":"album","added_at":0},"duration":{"secs":365,"nanos":497000000},"explicit":false},{"id":"2P6Ypf9KypxSQzfVuAePcb","name":"Floor-essence - Dayglo Mix","artists":[{"id":"1L49RF04CKd9D70Le9FHFz","name":"Man With No Name"}],"album":{"id":"5vzzgwkneDAkfADjc55IzR","release_date":"1996-02-05","name":"Moment of Truth","artists":[{"id":"1L49RF04CKd9D70Le9FHFz","name":"Man With No Name"}],"typ":"album","added_at":0},"duration":{"secs":366,"nanos":226000000},"explicit":false},{"id":"1vxMB6sEi3P9l5YeWB5xyl","name":"Eye Ball Paul Theme (Kevin & Perry Go Large)","artists":[{"id":"20IiZT2AHU5GwnzncwJX6S","name":"Matt Darey"},{"id":"2BnlQQ8a6jpVREnKVJVNLB","name":"Sunburst"}],"album":{"id":"6mO3TRyalkTmGM2LhI75F4","release_date":"2019-07-23","name":"Retrospective (25 Years)","artists":[{"id":"20IiZT2AHU5GwnzncwJX6S","name":"Matt Darey"}],"typ":"album","added_at":0},"duration":{"secs":184,"nanos":191000000},"explicit":false},{"id":"4b0JoLyFQEOBTEkYYGYwPc","name":"Collapse","artists":[{"id":"1ZYwgpS31y87TKfWHTMtmr","name":"Triangle Singular"}],"album":{"id":"4pAbeKHT5WgA4ASBqz3T0V","release_date":"2021-04-05","name":"Starbreaker","artists":[{"id":"1ZYwgpS31y87TKfWHTMtmr","name":"Triangle Singular"}],"typ":"album","added_at":0},"duration":{"secs":492,"nanos":851000000},"explicit":false},{"id":"5i4OqiChSIxWzlCGIi6xfV","name":"Southern Crosses","artists":[{"id":"3OilnTuGkR6gZKZa0sV8E8","name":"Glasgow Coma Scale"}],"album":{"id":"6sgBMxYS2sB9NVnSenTKks","release_date":"2016-12-12","name":"Enter Oblivion","artists":[{"id":"3OilnTuGkR6gZKZa0sV8E8","name":"Glasgow Coma Scale"}],"typ":"album","added_at":0},"duration":{"secs":348,"nanos":105000000},"explicit":false},{"id":"1ayW1C0QPWbjwvi7KF6oIR","name":"Monster of the Highway","artists":[{"id":"6VNmsa4FPNunveA9ktg0Nb","name":"Black Rainbows"}],"album":{"id":"5hLvmUzqmpZswt83eQrI3r","release_date":"2014-11-17","name":"Holy Moon","artists":[{"id":"6VNmsa4FPNunveA9ktg0Nb","name":"Black Rainbows"}],"typ":"album","added_at":0},"duration":{"secs":283,"nanos":586000000},"explicit":false},{"id":"6R8DZYIo9OlEf0S7R5tJtj","name":"El Fuego","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"1m5TE9wAnq23iYCHRpGQml","release_date":"2017-11-17","name":"Vibraciones Doradas","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":685,"nanos":38000000},"explicit":false},{"id":"2OQ1V0e2O56AeIo4ywuYKF","name":"People Everywhere (Still Alive)","artists":[{"id":"2mVVjNmdjXZZDvhgQWiakk","name":"Khruangbin"}],"album":{"id":"2OPcQNLP8DQVumD8kBRAH3","release_date":"2015-11-06","name":"The Universe Smiles Upon You","artists":[{"id":"2mVVjNmdjXZZDvhgQWiakk","name":"Khruangbin"}],"typ":"album","added_at":0},"duration":{"secs":159,"nanos":13000000},"explicit":false},{"id":"3uM6ra3Grw4R8VrOiMHizK","name":"The Lonely Soldier","artists":[{"id":"53B8p4TVFXCtarwosey71M","name":"Eco"}],"album":{"id":"2wt5Q7CWb1RlEa2rQQWlOo","release_date":"2016-10-14","name":"Wolves","artists":[{"id":"53B8p4TVFXCtarwosey71M","name":"Eco"}],"typ":"album","added_at":0},"duration":{"secs":333,"nanos":982000000},"explicit":false},{"id":"3VYgBwWGJCKGPk1ljTHEbv","name":"It'll All Make Sense One Day","artists":[{"id":"53B8p4TVFXCtarwosey71M","name":"Eco"}],"album":{"id":"2wt5Q7CWb1RlEa2rQQWlOo","release_date":"2016-10-14","name":"Wolves","artists":[{"id":"53B8p4TVFXCtarwosey71M","name":"Eco"}],"typ":"album","added_at":0},"duration":{"secs":296,"nanos":78000000},"explicit":false},{"id":"07m6D5osiwKefsK990vjIe","name":"Trang & Flinky","artists":[{"id":"7t2RaskOpVqyK2sCkbnyRY","name":"Ströme"}],"album":{"id":"41tlKPRMRqcB1rDIgNufhw","release_date":"2022-09-02","name":"No. 2","artists":[{"id":"7t2RaskOpVqyK2sCkbnyRY","name":"Ströme"}],"typ":"album","added_at":0},"duration":{"secs":395,"nanos":160000000},"explicit":false},{"id":"2VbIou1DtUewZVgfte6kIW","name":"Idealistic","artists":[{"id":"2fBURuq7FrlH6z5F92mpOl","name":"Digitalism"}],"album":{"id":"50MnC37ZrDB6U94K6M1do8","release_date":"2007-05-09","name":"Idealism","artists":[{"id":"2fBURuq7FrlH6z5F92mpOl","name":"Digitalism"}],"typ":"album","added_at":0},"duration":{"secs":250,"nanos":693000000},"explicit":false},{"id":"7KcPr3g5UIDfCMiWR0Teqm","name":"Positive Reflections (VONYC Sessions 815)","artists":[{"id":"2B18AH9f6R9LcJWM03Szob","name":"Activa"},{"id":"39YXQGcflynecg2L3APfqf","name":"Lostly"}],"album":{"id":"7wf9nOYNmE4YUgtaVGySkE","release_date":"2022-08-15","name":"VONYC Sessions 815","artists":[{"id":"5jt66rK9ifG8uKJoCFzycf","name":"Paul van Dyk’s VONYC Sessions"}],"typ":"album","added_at":0},"duration":{"secs":285,"nanos":760000000},"explicit":false},{"id":"1YTpWmJWrHSIc3votUu2wm","name":"Midnight Zone","artists":[{"id":"2fBURuq7FrlH6z5F92mpOl","name":"Digitalism"}],"album":{"id":"72EwbbBns0GTQlyPQegDc6","release_date":"2022-03-25","name":"Diytalism EP","artists":[{"id":"2fBURuq7FrlH6z5F92mpOl","name":"Digitalism"}],"typ":"single","added_at":0},"duration":{"secs":286,"nanos":716000000},"explicit":false},{"id":"2PZj87wr3EekLN5oPNnLob","name":"Shining (VONYC Sessions 845)","artists":[{"id":"2MDR7nMS7lOrQsyZ5FZznk","name":"PARAFRAME"}],"album":{"id":"3NyZz0kMNDGvKdHpbRxwy2","release_date":"2023-01-09","name":"VONYC Sessions 845","artists":[{"id":"5jt66rK9ifG8uKJoCFzycf","name":"Paul van Dyk’s VONYC Sessions"}],"typ":"album","added_at":0},"duration":{"secs":286,"nanos":966000000},"explicit":false},{"id":"1E09PZdD65jVTVrtKti9UQ","name":"Within (VONYC Sessions 798)","artists":[{"id":"5FYqOgV45IbDeeTNancc2q","name":"EverLight"}],"album":{"id":"2ofD4VAASG09jjMx0Vqvf1","release_date":"2022-02-15","name":"VONYC Sessions 798","artists":[{"id":"5jt66rK9ifG8uKJoCFzycf","name":"Paul van Dyk’s VONYC Sessions"}],"typ":"album","added_at":0},"duration":{"secs":365,"nanos":533000000},"explicit":false},{"id":"6wfqed2YkSwo8cz0qQyi9R","name":"Gamma Ray (VONYC Sessions 788)","artists":[{"id":"0UyKubqCzqI3A0tv9pdoE2","name":"VAITOR"}],"album":{"id":"0KomkT2DqQyxajEZ8UszNy","release_date":"2021-12-07","name":"VONYC Sessions 788","artists":[{"id":"5jt66rK9ifG8uKJoCFzycf","name":"Paul van Dyk’s VONYC Sessions"}],"typ":"album","added_at":0},"duration":{"secs":323,"nanos":690000000},"explicit":false},{"id":"3gxnE2brqUu3YePgTvTUvn","name":"Little Treasure (Contour 3)","artists":[{"id":"2CKaDZ1Yo8YnWega9IeUzB","name":"Booka Shade"}],"album":{"id":"7MvFbkm0nHFPin4SYkiOIY","release_date":"2022-10-14","name":"Contour","artists":[{"id":"2CKaDZ1Yo8YnWega9IeUzB","name":"Booka Shade"}],"typ":"album","added_at":0},"duration":{"secs":358,"nanos":133000000},"explicit":false},{"id":"7lkYKqEEmOXKzdWV1ztCr2","name":"Waterfall Drops - Guy J Remix","artists":[{"id":"00LIVantW8SMg38JskHPbj","name":"Karol XVII & MB Valence"},{"id":"7Em4kWZ5atMYknHwSkp3gD","name":"Guy J"}],"album":{"id":"2IehmFBAZewTPbZ53Lwgyr","release_date":"2023-10-06","name":"Essay (Remix EP ⅠⅠ)","artists":[{"id":"00LIVantW8SMg38JskHPbj","name":"Karol XVII & MB Valence"},{"id":"7Em4kWZ5atMYknHwSkp3gD","name":"Guy J"},{"id":"7GZ8Tz3F5bLPTJYNSwiunY","name":"Compuphonic"}],"typ":"single","added_at":0},"duration":{"secs":480,"nanos":152000000},"explicit":false},{"id":"5pQE39FojbnW0fiXLswMdI","name":"FILTHY ACID","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"0ZNaxa4WrvuHmyBwZY49UA","release_date":"2023-10-20","name":"ACID TRAXXX","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"4y7BsfdIKQ7Of5SskHej70","name":"Phuture"},{"id":"6kfuLLbtWi4hOnZh7gMxt0","name":"D.J. Pierre"}],"typ":"single","added_at":0},"duration":{"secs":367,"nanos":272000000},"explicit":false},{"id":"0lAlWP7VEoIdwwVL6W6dww","name":"Goodbye - Erol Alkan Rework / Edit","artists":[{"id":"1GhPHrq36VKCY3ucVaZCfo","name":"The Chemical Brothers"},{"id":"3jQ8hpdQo3TCEnb5gmOtH5","name":"Erol Alkan"}],"album":{"id":"1TmEY1AfhFMbGpOb9Uq3gM","release_date":"2023-11-03","name":"Goodbye (Erol Alkan Rework)","artists":[{"id":"1GhPHrq36VKCY3ucVaZCfo","name":"The Chemical Brothers"},{"id":"3jQ8hpdQo3TCEnb5gmOtH5","name":"Erol Alkan"}],"typ":"single","added_at":0},"duration":{"secs":245,"nanos":76000000},"explicit":false},{"id":"0n7vRiebCGLdnan3d6jLYs","name":"Shining (VONYC Sessions 841)","artists":[{"id":"04mfb9WF2sttD7r6SWMYRk","name":"Pavel Khvaleev"}],"album":{"id":"0AFkXrBYDh9wtJ79Y1NEkL","release_date":"2022-11-07","name":"VONYC Sessions 841","artists":[{"id":"5jt66rK9ifG8uKJoCFzycf","name":"Paul van Dyk’s VONYC Sessions"}],"typ":"album","added_at":0},"duration":{"secs":300,"nanos":0},"explicit":false},{"id":"2skN77jwUlydPSo6XvbdEu","name":"Convalescence (VONYC Sessions 828)","artists":[{"id":"74OcjgGgrViwZT8BfZS0gA","name":"Greg Oakland"}],"album":{"id":"4O0AlhlYy8Y7ASLjhoFrKT","release_date":"2022-09-19","name":"VONYC Sessions 828","artists":[{"id":"5jt66rK9ifG8uKJoCFzycf","name":"Paul van Dyk’s VONYC Sessions"}],"typ":"single","added_at":0},"duration":{"secs":426,"nanos":700000000},"explicit":false},{"id":"1l9G08Nv3GCiUw88BND8Jw","name":"Launching - Radio Edit","artists":[{"id":"5ddHaXEsiy78pdxwNUiSs1","name":"Sofinski"}],"album":{"id":"6QlYhE4Gefbfd2eXaNbaoF","release_date":"2024-03-08","name":"Launching (Radio Edit)","artists":[{"id":"5ddHaXEsiy78pdxwNUiSs1","name":"Sofinski"}],"typ":"single","added_at":0},"duration":{"secs":172,"nanos":227000000},"explicit":false},{"id":"5CbMO2knFP7QzIWFNSNbXK","name":"Titan","artists":[{"id":"78WKCKbUm2pS06tTO9ybqz","name":"Sean & Dee"}],"album":{"id":"3L98Yk5BG8FqLeKaE9VqEG","release_date":"2023-10-30","name":"Titan","artists":[{"id":"78WKCKbUm2pS06tTO9ybqz","name":"Sean & Dee"}],"typ":"single","added_at":0},"duration":{"secs":238,"nanos":136000000},"explicit":false},{"id":"67pirWGljd0D7ZSBz0hUqt","name":"Made of Stars","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"6IYAU8sgeuzqIZ4ixQOqfH","name":"Project 8"}],"album":{"id":"4qlgzddJg9ugLKoqNW31oF","release_date":"2018-12-07","name":"Music Rescues Me","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":399,"nanos":950000000},"explicit":false},{"id":"1anBRtpjgNOYVx4Ri42Yvm","name":"The Solutionists - François K Brave Vocal Mix","artists":[{"id":"2DS5RPK5A2GQTucYlgsQdE","name":"Perry Farrell"},{"id":"2Y9THkKdfe8FfoHAyOY4Tv","name":"Francois K"}],"album":{"id":"0Ps2OifL7PauesyoCgdhaz","release_date":"2021-01-21","name":"The Glitz; The Glamour (Remixes)","artists":[{"id":"2DS5RPK5A2GQTucYlgsQdE","name":"Perry Farrell"}],"typ":"album","added_at":0},"duration":{"secs":376,"nanos":813000000},"explicit":false},{"id":"3zh2vVahcRNTGCoAPfFLPS","name":"Yubi","artists":[{"id":"0HZ3FXXgXyKoMHKwKSZOpq","name":"Ron Flatter"}],"album":{"id":"4lDADB2R7RCEFdFjImw2GR","release_date":"2024-08-23","name":"Yubi","artists":[{"id":"0HZ3FXXgXyKoMHKwKSZOpq","name":"Ron Flatter"}],"typ":"single","added_at":0},"duration":{"secs":377,"nanos":638000000},"explicit":false},{"id":"5Y3NxSLtGdwBFzkiKVYbUT","name":"Vespera","artists":[{"id":"37kQjANSQM1tmkTwvB5M96","name":"Protoculture"},{"id":"72PA5rE1ByXjTijXCZA48C","name":"Freak E Beatz"}],"album":{"id":"6TExN4CIc5UiiBkrMDl10p","release_date":"2024-09-06","name":"Vespera","artists":[{"id":"37kQjANSQM1tmkTwvB5M96","name":"Protoculture"},{"id":"72PA5rE1ByXjTijXCZA48C","name":"Freak E Beatz"}],"typ":"single","added_at":0},"duration":{"secs":238,"nanos":109000000},"explicit":false},{"id":"5K9HS85mzznox2lG7nvDk5","name":"Dirty Rain - Original Mix","artists":[{"id":"1b3GHI7CvC860Oxb5x9dkC","name":"Mowree"}],"album":{"id":"4tLOom8XdEkHzjiBWzcLs7","release_date":"2024-09-06","name":"Dirty Rain","artists":[{"id":"1b3GHI7CvC860Oxb5x9dkC","name":"Mowree"}],"typ":"single","added_at":0},"duration":{"secs":392,"nanos":238000000},"explicit":false},{"id":"2Cy3IDOV8UIjlYHEQflysU","name":"Blue Spring","artists":[{"id":"6U7MOIhacysUEnfJ41WfhC","name":"Nathan Micay"}],"album":{"id":"4K8ggbbaVkoq9rRLeV593t","release_date":"2019-05-03","name":"Blue Spring","artists":[{"id":"6U7MOIhacysUEnfJ41WfhC","name":"Nathan Micay"}],"typ":"album","added_at":0},"duration":{"secs":254,"nanos":217000000},"explicit":false},{"id":"15lb3M395advtEyLKLAIy0","name":"Afflecks Palace","artists":[{"id":"2AR42Ur9PcchQDtEdwkv4L","name":"Floating Points"}],"album":{"id":"4IYnAmZ8GvmNFF2ZxxKT8L","release_date":"2024-09-13","name":"Cascade","artists":[{"id":"2AR42Ur9PcchQDtEdwkv4L","name":"Floating Points"}],"typ":"album","added_at":0},"duration":{"secs":398,"nanos":784000000},"explicit":false},{"id":"2bVqNoVb1iMTI5ealMmU0G","name":"Radio Protector","artists":[{"id":"6DVVsQAnpHdJjb1nYuOQ6g","name":"65daysofstatic"}],"album":{"id":"0sMhDEURXDVVqiqh45DeAi","release_date":"2006-10-17","name":"One Time for All Time","artists":[{"id":"6DVVsQAnpHdJjb1nYuOQ6g","name":"65daysofstatic"}],"typ":"album","added_at":0},"duration":{"secs":326,"nanos":186000000},"explicit":false},{"id":"7KkuLG58Qn5UHSfpwP8snm","name":"Juanita / Kiteless - Live / Brussels, Belgium / 1999","artists":[{"id":"1PXHzxRDiLnjqNrRn2Xbsa","name":"Underworld"}],"album":{"id":"2Un5MRMFYfZF7UuDOfTaxi","release_date":"2000","name":"Everything, Everything (Live)","artists":[{"id":"1PXHzxRDiLnjqNrRn2Xbsa","name":"Underworld"}],"typ":"album","added_at":0},"duration":{"secs":755,"nanos":933000000},"explicit":false},{"id":"6SmM9btYTxc3Nz37hG8znd","name":"Dead Icons","artists":[{"id":"2xtRcChgdje74dlpd3Hz4G","name":"Firefriend"}],"album":{"id":"4nr0HWyknupCigbi93hvsX","release_date":"2021-04-23","name":"Dead Icons","artists":[{"id":"2xtRcChgdje74dlpd3Hz4G","name":"Firefriend"}],"typ":"album","added_at":0},"duration":{"secs":265,"nanos":658000000},"explicit":false},{"id":"58PXV9YFergxKyDaf37f60","name":"End of the Line","artists":[{"id":"3niE8NDcvIeIstcmqGVsqk","name":"Alan Cerra"}],"album":{"id":"7pggoLiZLjLvQxBhIkTrRI","release_date":"2025-05-09","name":"End of the Line","artists":[{"id":"3niE8NDcvIeIstcmqGVsqk","name":"Alan Cerra"},{"id":"6ITKskiAcS4w9egVKClT7e","name":"Gai Barone"}],"typ":"single","added_at":0},"duration":{"secs":456,"nanos":547000000},"explicit":false},{"id":"1ZwwQofJm1kbxM1Qv9O7dY","name":"Synchromised Circus - Joe Fisher Remix","artists":[{"id":"0LPVDpNh21A374sw15D2mS","name":"Pedro Mercado"},{"id":"51mgGOHRl27POx2oKhjtBl","name":"Fernando Lagreca"},{"id":"2Xb3eFPBkGd3W7GnwKPE4g","name":"Joe Fisher"}],"album":{"id":"5bAVabC7QhM68QSSuTpLTv","release_date":"2025-08-01","name":"Cosmic Tide","artists":[{"id":"0LPVDpNh21A374sw15D2mS","name":"Pedro Mercado"},{"id":"51mgGOHRl27POx2oKhjtBl","name":"Fernando Lagreca"}],"typ":"single","added_at":0},"duration":{"secs":346,"nanos":209000000},"explicit":false},{"id":"5LqZ0CR3Xp6XjhrCvPyA1B","name":"Do It Again - JOPLYN Remix","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"},{"id":"32Jt1AK733JbFR82hEZ0Ih","name":"JOPLYN"},{"id":"6UE7nl9mha6s8z0wFQFIZ2","name":"Robyn"}],"album":{"id":"5Rjf5SUPUeL1XelVLRPS2l","release_date":"2025-08-08","name":"Do It Again (True Electric Remixes)","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"}],"typ":"single","added_at":0},"duration":{"secs":355,"nanos":21000000},"explicit":false},{"id":"7o5PIzzMQexd3GuVKgdabC","name":"Somebody To Love - Extended Mix","artists":[{"id":"5Dyfxq0ZrFjjeFBdSNxDbo","name":"YOTTO"},{"id":"5CkVLGKUJkIc1pmSk10QP4","name":"Eli & Fur"}],"album":{"id":"0H4wuU2aIXCZJCSL2E5y8W","release_date":"2025-03-13","name":"Somebody To Love","artists":[{"id":"5Dyfxq0ZrFjjeFBdSNxDbo","name":"YOTTO"},{"id":"5CkVLGKUJkIc1pmSk10QP4","name":"Eli & Fur"}],"typ":"single","added_at":0},"duration":{"secs":322,"nanos":692000000},"explicit":false},{"id":"73nDBDyX0IHtrlLBBqq46Q","name":"I Wanna Be Adored - Bloody Valentine Edit","artists":[{"id":"1lYT0A0LV5DUfxr6doRP3d","name":"The Stone Roses"},{"id":"6r9gUD6bIMsJ2yc2PhIg4E","name":"Rabbit In The Moon"}],"album":{"id":"2Mulw0iaKua3geVj9awHDW","release_date":"2000-11-21","name":"The Remixes","artists":[{"id":"1lYT0A0LV5DUfxr6doRP3d","name":"The Stone Roses"}],"typ":"compilation","added_at":0},"duration":{"secs":459,"nanos":826000000},"explicit":false},{"id":"24t6UTpnYzRl3B7c2taqym","name":"Sails","artists":[{"id":"79z0Z8E5uY2Fc7HO4VGerm","name":"Elephant Tree"}],"album":{"id":"12jxNALacoqTxvElnKlVDT","release_date":"2020-04-24","name":"Habits","artists":[{"id":"79z0Z8E5uY2Fc7HO4VGerm","name":"Elephant Tree"}],"typ":"album","added_at":0},"duration":{"secs":260,"nanos":729000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "0Fi1yTsNqn3gCelzD4yLAq",
+    "collaborative": false,
+    "name": "HDB mountain top",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAALruEoscxlu241AMw+3QXcSgRDODu",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "4N89UtVQDpaUtVWcIQjJrB",
+      "name": "Endless Return",
+      "artists": [
+        {
+          "id": "1687IqXRdWmbRshgn194tT",
+          "name": "Elder"
+        }
+      ],
+      "album": {
+        "id": "5xbbPDo6kAn2UAF8O3Wdpm",
+        "release_date": "2022-11-25",
+        "name": "Innate Passage",
+        "artists": [
+          {
+            "id": "1687IqXRdWmbRshgn194tT",
+            "name": "Elder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 594,
+        "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5CaI9RlZ0mf0ml5dlTOFhx",
+      "name": "Gravity Stone",
+      "artists": [
+        {
+          "id": "1ZYwgpS31y87TKfWHTMtmr",
+          "name": "Triangle Singular"
+        }
+      ],
+      "album": {
+        "id": "4pAbeKHT5WgA4ASBqz3T0V",
+        "release_date": "2021-04-05",
+        "name": "Starbreaker",
+        "artists": [
+          {
+            "id": "1ZYwgpS31y87TKfWHTMtmr",
+            "name": "Triangle Singular"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 365,
+        "nanos": 497000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2P6Ypf9KypxSQzfVuAePcb",
+      "name": "Floor-essence - Dayglo Mix",
+      "artists": [
+        {
+          "id": "1L49RF04CKd9D70Le9FHFz",
+          "name": "Man With No Name"
+        }
+      ],
+      "album": {
+        "id": "5vzzgwkneDAkfADjc55IzR",
+        "release_date": "1996-02-05",
+        "name": "Moment of Truth",
+        "artists": [
+          {
+            "id": "1L49RF04CKd9D70Le9FHFz",
+            "name": "Man With No Name"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 366,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1vxMB6sEi3P9l5YeWB5xyl",
+      "name": "Eye Ball Paul Theme (Kevin & Perry Go Large)",
+      "artists": [
+        {
+          "id": "20IiZT2AHU5GwnzncwJX6S",
+          "name": "Matt Darey"
+        },
+        {
+          "id": "2BnlQQ8a6jpVREnKVJVNLB",
+          "name": "Sunburst"
+        }
+      ],
+      "album": {
+        "id": "6mO3TRyalkTmGM2LhI75F4",
+        "release_date": "2019-07-23",
+        "name": "Retrospective (25 Years)",
+        "artists": [
+          {
+            "id": "20IiZT2AHU5GwnzncwJX6S",
+            "name": "Matt Darey"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 184,
+        "nanos": 191000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4b0JoLyFQEOBTEkYYGYwPc",
+      "name": "Collapse",
+      "artists": [
+        {
+          "id": "1ZYwgpS31y87TKfWHTMtmr",
+          "name": "Triangle Singular"
+        }
+      ],
+      "album": {
+        "id": "4pAbeKHT5WgA4ASBqz3T0V",
+        "release_date": "2021-04-05",
+        "name": "Starbreaker",
+        "artists": [
+          {
+            "id": "1ZYwgpS31y87TKfWHTMtmr",
+            "name": "Triangle Singular"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 492,
+        "nanos": 851000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5i4OqiChSIxWzlCGIi6xfV",
+      "name": "Southern Crosses",
+      "artists": [
+        {
+          "id": "3OilnTuGkR6gZKZa0sV8E8",
+          "name": "Glasgow Coma Scale"
+        }
+      ],
+      "album": {
+        "id": "6sgBMxYS2sB9NVnSenTKks",
+        "release_date": "2016-12-12",
+        "name": "Enter Oblivion",
+        "artists": [
+          {
+            "id": "3OilnTuGkR6gZKZa0sV8E8",
+            "name": "Glasgow Coma Scale"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 348,
+        "nanos": 105000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ayW1C0QPWbjwvi7KF6oIR",
+      "name": "Monster of the Highway",
+      "artists": [
+        {
+          "id": "6VNmsa4FPNunveA9ktg0Nb",
+          "name": "Black Rainbows"
+        }
+      ],
+      "album": {
+        "id": "5hLvmUzqmpZswt83eQrI3r",
+        "release_date": "2014-11-17",
+        "name": "Holy Moon",
+        "artists": [
+          {
+            "id": "6VNmsa4FPNunveA9ktg0Nb",
+            "name": "Black Rainbows"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 283,
+        "nanos": 586000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6R8DZYIo9OlEf0S7R5tJtj",
+      "name": "El Fuego",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "1m5TE9wAnq23iYCHRpGQml",
+        "release_date": "2017-11-17",
+        "name": "Vibraciones Doradas",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 685,
+        "nanos": 38000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2OQ1V0e2O56AeIo4ywuYKF",
+      "name": "People Everywhere (Still Alive)",
+      "artists": [
+        {
+          "id": "2mVVjNmdjXZZDvhgQWiakk",
+          "name": "Khruangbin"
+        }
+      ],
+      "album": {
+        "id": "2OPcQNLP8DQVumD8kBRAH3",
+        "release_date": "2015-11-06",
+        "name": "The Universe Smiles Upon You",
+        "artists": [
+          {
+            "id": "2mVVjNmdjXZZDvhgQWiakk",
+            "name": "Khruangbin"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 159,
+        "nanos": 13000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3uM6ra3Grw4R8VrOiMHizK",
+      "name": "The Lonely Soldier",
+      "artists": [
+        {
+          "id": "53B8p4TVFXCtarwosey71M",
+          "name": "Eco"
+        }
+      ],
+      "album": {
+        "id": "2wt5Q7CWb1RlEa2rQQWlOo",
+        "release_date": "2016-10-14",
+        "name": "Wolves",
+        "artists": [
+          {
+            "id": "53B8p4TVFXCtarwosey71M",
+            "name": "Eco"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 333,
+        "nanos": 982000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3VYgBwWGJCKGPk1ljTHEbv",
+      "name": "It'll All Make Sense One Day",
+      "artists": [
+        {
+          "id": "53B8p4TVFXCtarwosey71M",
+          "name": "Eco"
+        }
+      ],
+      "album": {
+        "id": "2wt5Q7CWb1RlEa2rQQWlOo",
+        "release_date": "2016-10-14",
+        "name": "Wolves",
+        "artists": [
+          {
+            "id": "53B8p4TVFXCtarwosey71M",
+            "name": "Eco"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 296,
+        "nanos": 78000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "07m6D5osiwKefsK990vjIe",
+      "name": "Trang & Flinky",
+      "artists": [
+        {
+          "id": "7t2RaskOpVqyK2sCkbnyRY",
+          "name": "Ströme"
+        }
+      ],
+      "album": {
+        "id": "41tlKPRMRqcB1rDIgNufhw",
+        "release_date": "2022-09-02",
+        "name": "No. 2",
+        "artists": [
+          {
+            "id": "7t2RaskOpVqyK2sCkbnyRY",
+            "name": "Ströme"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 395,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2VbIou1DtUewZVgfte6kIW",
+      "name": "Idealistic",
+      "artists": [
+        {
+          "id": "2fBURuq7FrlH6z5F92mpOl",
+          "name": "Digitalism"
+        }
+      ],
+      "album": {
+        "id": "50MnC37ZrDB6U94K6M1do8",
+        "release_date": "2007-05-09",
+        "name": "Idealism",
+        "artists": [
+          {
+            "id": "2fBURuq7FrlH6z5F92mpOl",
+            "name": "Digitalism"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 250,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7KcPr3g5UIDfCMiWR0Teqm",
+      "name": "Positive Reflections (VONYC Sessions 815)",
+      "artists": [
+        {
+          "id": "2B18AH9f6R9LcJWM03Szob",
+          "name": "Activa"
+        },
+        {
+          "id": "39YXQGcflynecg2L3APfqf",
+          "name": "Lostly"
+        }
+      ],
+      "album": {
+        "id": "7wf9nOYNmE4YUgtaVGySkE",
+        "release_date": "2022-08-15",
+        "name": "VONYC Sessions 815",
+        "artists": [
+          {
+            "id": "5jt66rK9ifG8uKJoCFzycf",
+            "name": "Paul van Dyk’s VONYC Sessions"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 285,
+        "nanos": 760000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1YTpWmJWrHSIc3votUu2wm",
+      "name": "Midnight Zone",
+      "artists": [
+        {
+          "id": "2fBURuq7FrlH6z5F92mpOl",
+          "name": "Digitalism"
+        }
+      ],
+      "album": {
+        "id": "72EwbbBns0GTQlyPQegDc6",
+        "release_date": "2022-03-25",
+        "name": "Diytalism EP",
+        "artists": [
+          {
+            "id": "2fBURuq7FrlH6z5F92mpOl",
+            "name": "Digitalism"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 286,
+        "nanos": 716000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2PZj87wr3EekLN5oPNnLob",
+      "name": "Shining (VONYC Sessions 845)",
+      "artists": [
+        {
+          "id": "2MDR7nMS7lOrQsyZ5FZznk",
+          "name": "PARAFRAME"
+        }
+      ],
+      "album": {
+        "id": "3NyZz0kMNDGvKdHpbRxwy2",
+        "release_date": "2023-01-09",
+        "name": "VONYC Sessions 845",
+        "artists": [
+          {
+            "id": "5jt66rK9ifG8uKJoCFzycf",
+            "name": "Paul van Dyk’s VONYC Sessions"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 286,
+        "nanos": 966000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1E09PZdD65jVTVrtKti9UQ",
+      "name": "Within (VONYC Sessions 798)",
+      "artists": [
+        {
+          "id": "5FYqOgV45IbDeeTNancc2q",
+          "name": "EverLight"
+        }
+      ],
+      "album": {
+        "id": "2ofD4VAASG09jjMx0Vqvf1",
+        "release_date": "2022-02-15",
+        "name": "VONYC Sessions 798",
+        "artists": [
+          {
+            "id": "5jt66rK9ifG8uKJoCFzycf",
+            "name": "Paul van Dyk’s VONYC Sessions"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 365,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6wfqed2YkSwo8cz0qQyi9R",
+      "name": "Gamma Ray (VONYC Sessions 788)",
+      "artists": [
+        {
+          "id": "0UyKubqCzqI3A0tv9pdoE2",
+          "name": "VAITOR"
+        }
+      ],
+      "album": {
+        "id": "0KomkT2DqQyxajEZ8UszNy",
+        "release_date": "2021-12-07",
+        "name": "VONYC Sessions 788",
+        "artists": [
+          {
+            "id": "5jt66rK9ifG8uKJoCFzycf",
+            "name": "Paul van Dyk’s VONYC Sessions"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 323,
+        "nanos": 690000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3gxnE2brqUu3YePgTvTUvn",
+      "name": "Little Treasure (Contour 3)",
+      "artists": [
+        {
+          "id": "2CKaDZ1Yo8YnWega9IeUzB",
+          "name": "Booka Shade"
+        }
+      ],
+      "album": {
+        "id": "7MvFbkm0nHFPin4SYkiOIY",
+        "release_date": "2022-10-14",
+        "name": "Contour",
+        "artists": [
+          {
+            "id": "2CKaDZ1Yo8YnWega9IeUzB",
+            "name": "Booka Shade"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 358,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7lkYKqEEmOXKzdWV1ztCr2",
+      "name": "Waterfall Drops - Guy J Remix",
+      "artists": [
+        {
+          "id": "00LIVantW8SMg38JskHPbj",
+          "name": "Karol XVII & MB Valence"
+        },
+        {
+          "id": "7Em4kWZ5atMYknHwSkp3gD",
+          "name": "Guy J"
+        }
+      ],
+      "album": {
+        "id": "2IehmFBAZewTPbZ53Lwgyr",
+        "release_date": "2023-10-06",
+        "name": "Essay (Remix EP ⅠⅠ)",
+        "artists": [
+          {
+            "id": "00LIVantW8SMg38JskHPbj",
+            "name": "Karol XVII & MB Valence"
+          },
+          {
+            "id": "7Em4kWZ5atMYknHwSkp3gD",
+            "name": "Guy J"
+          },
+          {
+            "id": "7GZ8Tz3F5bLPTJYNSwiunY",
+            "name": "Compuphonic"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 480,
+        "nanos": 152000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5pQE39FojbnW0fiXLswMdI",
+      "name": "FILTHY ACID",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "0ZNaxa4WrvuHmyBwZY49UA",
+        "release_date": "2023-10-20",
+        "name": "ACID TRAXXX",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          },
+          {
+            "id": "4y7BsfdIKQ7Of5SskHej70",
+            "name": "Phuture"
+          },
+          {
+            "id": "6kfuLLbtWi4hOnZh7gMxt0",
+            "name": "D.J. Pierre"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 367,
+        "nanos": 272000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0lAlWP7VEoIdwwVL6W6dww",
+      "name": "Goodbye - Erol Alkan Rework / Edit",
+      "artists": [
+        {
+          "id": "1GhPHrq36VKCY3ucVaZCfo",
+          "name": "The Chemical Brothers"
+        },
+        {
+          "id": "3jQ8hpdQo3TCEnb5gmOtH5",
+          "name": "Erol Alkan"
+        }
+      ],
+      "album": {
+        "id": "1TmEY1AfhFMbGpOb9Uq3gM",
+        "release_date": "2023-11-03",
+        "name": "Goodbye (Erol Alkan Rework)",
+        "artists": [
+          {
+            "id": "1GhPHrq36VKCY3ucVaZCfo",
+            "name": "The Chemical Brothers"
+          },
+          {
+            "id": "3jQ8hpdQo3TCEnb5gmOtH5",
+            "name": "Erol Alkan"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 245,
+        "nanos": 76000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0n7vRiebCGLdnan3d6jLYs",
+      "name": "Shining (VONYC Sessions 841)",
+      "artists": [
+        {
+          "id": "04mfb9WF2sttD7r6SWMYRk",
+          "name": "Pavel Khvaleev"
+        }
+      ],
+      "album": {
+        "id": "0AFkXrBYDh9wtJ79Y1NEkL",
+        "release_date": "2022-11-07",
+        "name": "VONYC Sessions 841",
+        "artists": [
+          {
+            "id": "5jt66rK9ifG8uKJoCFzycf",
+            "name": "Paul van Dyk’s VONYC Sessions"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 300,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "2skN77jwUlydPSo6XvbdEu",
+      "name": "Convalescence (VONYC Sessions 828)",
+      "artists": [
+        {
+          "id": "74OcjgGgrViwZT8BfZS0gA",
+          "name": "Greg Oakland"
+        }
+      ],
+      "album": {
+        "id": "4O0AlhlYy8Y7ASLjhoFrKT",
+        "release_date": "2022-09-19",
+        "name": "VONYC Sessions 828",
+        "artists": [
+          {
+            "id": "5jt66rK9ifG8uKJoCFzycf",
+            "name": "Paul van Dyk’s VONYC Sessions"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 426,
+        "nanos": 700000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1l9G08Nv3GCiUw88BND8Jw",
+      "name": "Launching - Radio Edit",
+      "artists": [
+        {
+          "id": "5ddHaXEsiy78pdxwNUiSs1",
+          "name": "Sofinski"
+        }
+      ],
+      "album": {
+        "id": "6QlYhE4Gefbfd2eXaNbaoF",
+        "release_date": "2024-03-08",
+        "name": "Launching (Radio Edit)",
+        "artists": [
+          {
+            "id": "5ddHaXEsiy78pdxwNUiSs1",
+            "name": "Sofinski"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 172,
+        "nanos": 227000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5CbMO2knFP7QzIWFNSNbXK",
+      "name": "Titan",
+      "artists": [
+        {
+          "id": "78WKCKbUm2pS06tTO9ybqz",
+          "name": "Sean & Dee"
+        }
+      ],
+      "album": {
+        "id": "3L98Yk5BG8FqLeKaE9VqEG",
+        "release_date": "2023-10-30",
+        "name": "Titan",
+        "artists": [
+          {
+            "id": "78WKCKbUm2pS06tTO9ybqz",
+            "name": "Sean & Dee"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 238,
+        "nanos": 136000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "67pirWGljd0D7ZSBz0hUqt",
+      "name": "Made of Stars",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        },
+        {
+          "id": "6IYAU8sgeuzqIZ4ixQOqfH",
+          "name": "Project 8"
+        }
+      ],
+      "album": {
+        "id": "4qlgzddJg9ugLKoqNW31oF",
+        "release_date": "2018-12-07",
+        "name": "Music Rescues Me",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 399,
+        "nanos": 950000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1anBRtpjgNOYVx4Ri42Yvm",
+      "name": "The Solutionists - François K Brave Vocal Mix",
+      "artists": [
+        {
+          "id": "2DS5RPK5A2GQTucYlgsQdE",
+          "name": "Perry Farrell"
+        },
+        {
+          "id": "2Y9THkKdfe8FfoHAyOY4Tv",
+          "name": "Francois K"
+        }
+      ],
+      "album": {
+        "id": "0Ps2OifL7PauesyoCgdhaz",
+        "release_date": "2021-01-21",
+        "name": "The Glitz; The Glamour (Remixes)",
+        "artists": [
+          {
+            "id": "2DS5RPK5A2GQTucYlgsQdE",
+            "name": "Perry Farrell"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 376,
+        "nanos": 813000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3zh2vVahcRNTGCoAPfFLPS",
+      "name": "Yubi",
+      "artists": [
+        {
+          "id": "0HZ3FXXgXyKoMHKwKSZOpq",
+          "name": "Ron Flatter"
+        }
+      ],
+      "album": {
+        "id": "4lDADB2R7RCEFdFjImw2GR",
+        "release_date": "2024-08-23",
+        "name": "Yubi",
+        "artists": [
+          {
+            "id": "0HZ3FXXgXyKoMHKwKSZOpq",
+            "name": "Ron Flatter"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 377,
+        "nanos": 638000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Y3NxSLtGdwBFzkiKVYbUT",
+      "name": "Vespera",
+      "artists": [
+        {
+          "id": "37kQjANSQM1tmkTwvB5M96",
+          "name": "Protoculture"
+        },
+        {
+          "id": "72PA5rE1ByXjTijXCZA48C",
+          "name": "Freak E Beatz"
+        }
+      ],
+      "album": {
+        "id": "6TExN4CIc5UiiBkrMDl10p",
+        "release_date": "2024-09-06",
+        "name": "Vespera",
+        "artists": [
+          {
+            "id": "37kQjANSQM1tmkTwvB5M96",
+            "name": "Protoculture"
+          },
+          {
+            "id": "72PA5rE1ByXjTijXCZA48C",
+            "name": "Freak E Beatz"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 238,
+        "nanos": 109000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5K9HS85mzznox2lG7nvDk5",
+      "name": "Dirty Rain - Original Mix",
+      "artists": [
+        {
+          "id": "1b3GHI7CvC860Oxb5x9dkC",
+          "name": "Mowree"
+        }
+      ],
+      "album": {
+        "id": "4tLOom8XdEkHzjiBWzcLs7",
+        "release_date": "2024-09-06",
+        "name": "Dirty Rain",
+        "artists": [
+          {
+            "id": "1b3GHI7CvC860Oxb5x9dkC",
+            "name": "Mowree"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 392,
+        "nanos": 238000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Cy3IDOV8UIjlYHEQflysU",
+      "name": "Blue Spring",
+      "artists": [
+        {
+          "id": "6U7MOIhacysUEnfJ41WfhC",
+          "name": "Nathan Micay"
+        }
+      ],
+      "album": {
+        "id": "4K8ggbbaVkoq9rRLeV593t",
+        "release_date": "2019-05-03",
+        "name": "Blue Spring",
+        "artists": [
+          {
+            "id": "6U7MOIhacysUEnfJ41WfhC",
+            "name": "Nathan Micay"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 254,
+        "nanos": 217000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "15lb3M395advtEyLKLAIy0",
+      "name": "Afflecks Palace",
+      "artists": [
+        {
+          "id": "2AR42Ur9PcchQDtEdwkv4L",
+          "name": "Floating Points"
+        }
+      ],
+      "album": {
+        "id": "4IYnAmZ8GvmNFF2ZxxKT8L",
+        "release_date": "2024-09-13",
+        "name": "Cascade",
+        "artists": [
+          {
+            "id": "2AR42Ur9PcchQDtEdwkv4L",
+            "name": "Floating Points"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 398,
+        "nanos": 784000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2bVqNoVb1iMTI5ealMmU0G",
+      "name": "Radio Protector",
+      "artists": [
+        {
+          "id": "6DVVsQAnpHdJjb1nYuOQ6g",
+          "name": "65daysofstatic"
+        }
+      ],
+      "album": {
+        "id": "0sMhDEURXDVVqiqh45DeAi",
+        "release_date": "2006-10-17",
+        "name": "One Time for All Time",
+        "artists": [
+          {
+            "id": "6DVVsQAnpHdJjb1nYuOQ6g",
+            "name": "65daysofstatic"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 326,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7KkuLG58Qn5UHSfpwP8snm",
+      "name": "Juanita / Kiteless - Live / Brussels, Belgium / 1999",
+      "artists": [
+        {
+          "id": "1PXHzxRDiLnjqNrRn2Xbsa",
+          "name": "Underworld"
+        }
+      ],
+      "album": {
+        "id": "2Un5MRMFYfZF7UuDOfTaxi",
+        "release_date": "2000",
+        "name": "Everything, Everything (Live)",
+        "artists": [
+          {
+            "id": "1PXHzxRDiLnjqNrRn2Xbsa",
+            "name": "Underworld"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 755,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6SmM9btYTxc3Nz37hG8znd",
+      "name": "Dead Icons",
+      "artists": [
+        {
+          "id": "2xtRcChgdje74dlpd3Hz4G",
+          "name": "Firefriend"
+        }
+      ],
+      "album": {
+        "id": "4nr0HWyknupCigbi93hvsX",
+        "release_date": "2021-04-23",
+        "name": "Dead Icons",
+        "artists": [
+          {
+            "id": "2xtRcChgdje74dlpd3Hz4G",
+            "name": "Firefriend"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 265,
+        "nanos": 658000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "58PXV9YFergxKyDaf37f60",
+      "name": "End of the Line",
+      "artists": [
+        {
+          "id": "3niE8NDcvIeIstcmqGVsqk",
+          "name": "Alan Cerra"
+        }
+      ],
+      "album": {
+        "id": "7pggoLiZLjLvQxBhIkTrRI",
+        "release_date": "2025-05-09",
+        "name": "End of the Line",
+        "artists": [
+          {
+            "id": "3niE8NDcvIeIstcmqGVsqk",
+            "name": "Alan Cerra"
+          },
+          {
+            "id": "6ITKskiAcS4w9egVKClT7e",
+            "name": "Gai Barone"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 456,
+        "nanos": 547000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ZwwQofJm1kbxM1Qv9O7dY",
+      "name": "Synchromised Circus - Joe Fisher Remix",
+      "artists": [
+        {
+          "id": "0LPVDpNh21A374sw15D2mS",
+          "name": "Pedro Mercado"
+        },
+        {
+          "id": "51mgGOHRl27POx2oKhjtBl",
+          "name": "Fernando Lagreca"
+        },
+        {
+          "id": "2Xb3eFPBkGd3W7GnwKPE4g",
+          "name": "Joe Fisher"
+        }
+      ],
+      "album": {
+        "id": "5bAVabC7QhM68QSSuTpLTv",
+        "release_date": "2025-08-01",
+        "name": "Cosmic Tide",
+        "artists": [
+          {
+            "id": "0LPVDpNh21A374sw15D2mS",
+            "name": "Pedro Mercado"
+          },
+          {
+            "id": "51mgGOHRl27POx2oKhjtBl",
+            "name": "Fernando Lagreca"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 346,
+        "nanos": 209000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5LqZ0CR3Xp6XjhrCvPyA1B",
+      "name": "Do It Again - JOPLYN Remix",
+      "artists": [
+        {
+          "id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "Röyksopp"
+        },
+        {
+          "id": "32Jt1AK733JbFR82hEZ0Ih",
+          "name": "JOPLYN"
+        },
+        {
+          "id": "6UE7nl9mha6s8z0wFQFIZ2",
+          "name": "Robyn"
+        }
+      ],
+      "album": {
+        "id": "5Rjf5SUPUeL1XelVLRPS2l",
+        "release_date": "2025-08-08",
+        "name": "Do It Again (True Electric Remixes)",
+        "artists": [
+          {
+            "id": "5nPOO9iTcrs9k6yFffPxjH",
+            "name": "Röyksopp"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 355,
+        "nanos": 21000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7o5PIzzMQexd3GuVKgdabC",
+      "name": "Somebody To Love - Extended Mix",
+      "artists": [
+        {
+          "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+          "name": "YOTTO"
+        },
+        {
+          "id": "5CkVLGKUJkIc1pmSk10QP4",
+          "name": "Eli & Fur"
+        }
+      ],
+      "album": {
+        "id": "0H4wuU2aIXCZJCSL2E5y8W",
+        "release_date": "2025-03-13",
+        "name": "Somebody To Love",
+        "artists": [
+          {
+            "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+            "name": "YOTTO"
+          },
+          {
+            "id": "5CkVLGKUJkIc1pmSk10QP4",
+            "name": "Eli & Fur"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 322,
+        "nanos": 692000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "73nDBDyX0IHtrlLBBqq46Q",
+      "name": "I Wanna Be Adored - Bloody Valentine Edit",
+      "artists": [
+        {
+          "id": "1lYT0A0LV5DUfxr6doRP3d",
+          "name": "The Stone Roses"
+        },
+        {
+          "id": "6r9gUD6bIMsJ2yc2PhIg4E",
+          "name": "Rabbit In The Moon"
+        }
+      ],
+      "album": {
+        "id": "2Mulw0iaKua3geVj9awHDW",
+        "release_date": "2000-11-21",
+        "name": "The Remixes",
+        "artists": [
+          {
+            "id": "1lYT0A0LV5DUfxr6doRP3d",
+            "name": "The Stone Roses"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 459,
+        "nanos": 826000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "24t6UTpnYzRl3B7c2taqym",
+      "name": "Sails",
+      "artists": [
+        {
+          "id": "79z0Z8E5uY2Fc7HO4VGerm",
+          "name": "Elephant Tree"
+        }
+      ],
+      "album": {
+        "id": "12jxNALacoqTxvElnKlVDT",
+        "release_date": "2020-04-24",
+        "name": "Habits",
+        "artists": [
+          {
+            "id": "79z0Z8E5uY2Fc7HO4VGerm",
+            "name": "Elephant Tree"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 260,
+        "nanos": 729000000
+      },
+      "explicit": false
+    }
+  ]
+}

@@ -1,1 +1,897 @@
-{"playlist":{"id":"6w3Lhw33VvjZRnOse871fy","collaborative":false,"name":"Pop & rocky pop","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAOLBkK90c0bxW2AQ8tH77SK/OpmNY"},"tracks":[{"id":"498sro5bE9gCic6voSh1BQ","name":"First We Take Dumbarton","artists":[{"id":"4lv2xmPO66BBqk1gAq5YRs","name":"Kid Canaveral"}],"album":{"id":"1X95ORlJq2cMyMzb6WAX5z","release_date":"2016-07-29","name":"Faulty Inner Dialogue","artists":[{"id":"4lv2xmPO66BBqk1gAq5YRs","name":"Kid Canaveral"}],"typ":"album","added_at":0},"duration":{"secs":228,"nanos":453000000},"explicit":false},{"id":"6TNIjltjuALKSTsJteVH2o","name":"Sweet Disposition","artists":[{"id":"4W48hZAnAHVOC2c8WH8pcq","name":"The Temper Trap"}],"album":{"id":"0V59MMtgoruvEqMv18KAOH","release_date":"2009","name":"Conditions (Tour Edition)","artists":[{"id":"4W48hZAnAHVOC2c8WH8pcq","name":"The Temper Trap"}],"typ":"album","added_at":0},"duration":{"secs":236,"nanos":333000000},"explicit":false},{"id":"3D6SI4KT6rAKdr9gb8L3Sg","name":"Feel Alive","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"6cCYVVEfi0ieFXwV2OW4cz","release_date":"2007-04-27","name":"Trilogy - Basic","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":226,"nanos":306000000},"explicit":false},{"id":"0yEhNqCwEfy8LHUmnZoHpP","name":"Bohemian Like You","artists":[{"id":"7siPLyFwRFYQkKgWKJ5Sod","name":"The Dandy Warhols"}],"album":{"id":"0vdIT4p5OlKOcEzYKSsqn4","release_date":"2000-01-01","name":"Thirteen Tales From Urban Bohemia","artists":[{"id":"7siPLyFwRFYQkKgWKJ5Sod","name":"The Dandy Warhols"}],"typ":"album","added_at":0},"duration":{"secs":211,"nanos":706000000},"explicit":false},{"id":"1Fk0Yr5ow81W4p3gSi15c0","name":"Crackin' Up","artists":[{"id":"4rGrN4XDYhP6dUAZMvcuHr","name":"Caesars"}],"album":{"id":"6KdlSMMpezbfNKZYd4JTbM","release_date":"2003-04-21","name":"39 Minutes of Bliss (In An Otherwise Meaningless World)","artists":[{"id":"4rGrN4XDYhP6dUAZMvcuHr","name":"Caesars"}],"typ":"album","added_at":0},"duration":{"secs":194,"nanos":133000000},"explicit":false},{"id":"2QygLR6XOPpkIxXQqggIiO","name":"We Got to Leave","artists":[{"id":"4rGrN4XDYhP6dUAZMvcuHr","name":"Caesars"}],"album":{"id":"26j4DuV2gfgY8aFWSDCkCM","release_date":"2005-03-02","name":"Paper Tigers","artists":[{"id":"4rGrN4XDYhP6dUAZMvcuHr","name":"Caesars"}],"typ":"album","added_at":0},"duration":{"secs":204,"nanos":986000000},"explicit":false},{"id":"49CP2usyaN98EdtrOWXnal","name":"1234","artists":[{"id":"6CWTBjOJK75cTE8Xv8u1kj","name":"Feist"}],"album":{"id":"27Y2wm3WcFThQocgjLI5wF","release_date":"2007-01-01","name":"The Reminder","artists":[{"id":"6CWTBjOJK75cTE8Xv8u1kj","name":"Feist"}],"typ":"album","added_at":0},"duration":{"secs":183,"nanos":666000000},"explicit":false},{"id":"66EurKBmuyMBKhkwhg9JIx","name":"The Rally Boys","artists":[{"id":"4oV5EVJ0XFWsJKoOvdRPvl","name":"Guided By Voices"}],"album":{"id":"15Qj6W0EJc34R4aGe4Gkf5","release_date":"2019-01-11","name":"The Rally Boys","artists":[{"id":"4oV5EVJ0XFWsJKoOvdRPvl","name":"Guided By Voices"}],"typ":"single","added_at":0},"duration":{"secs":103,"nanos":773000000},"explicit":false},{"id":"4y5bvROuBDPr5fuwXbIBZR","name":"Paper Rings","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"1NAmidJlEaVgA3MpcPFYGq","release_date":"2019-08-23","name":"Lover","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":222,"nanos":400000000},"explicit":false},{"id":"3oqBOAsqRMKUHc8MGx4o72","name":"Death","artists":[{"id":"6ssXMmc5EOUrauZxirM910","name":"White Lies"}],"album":{"id":"1ySdrRPZa9ZRvlcUoGv8UE","release_date":"2009","name":"To Lose My Life ...","artists":[{"id":"6ssXMmc5EOUrauZxirM910","name":"White Lies"}],"typ":"album","added_at":0},"duration":{"secs":301,"nanos":213000000},"explicit":false},{"id":"2hUHm19fmQnJ40LZXqjhZt","name":"To Lose My Life","artists":[{"id":"6ssXMmc5EOUrauZxirM910","name":"White Lies"}],"album":{"id":"1ySdrRPZa9ZRvlcUoGv8UE","release_date":"2009","name":"To Lose My Life ...","artists":[{"id":"6ssXMmc5EOUrauZxirM910","name":"White Lies"}],"typ":"album","added_at":0},"duration":{"secs":191,"nanos":40000000},"explicit":false},{"id":"1ljzHUgt2SU2ADkhfa9eBC","name":"Tightrope (feat. Big Boi) - Big Boi Vocal Edit","artists":[{"id":"6ueGR6SWhUJfvEhqkvMsVs","name":"Janelle Monáe"},{"id":"2ht3wxeT69CzyKFChNnNAB","name":"Big Boi"}],"album":{"id":"7MvSB0JTdtl1pSwZcgvYQX","release_date":"2010-05-17","name":"The ArchAndroid","artists":[{"id":"6ueGR6SWhUJfvEhqkvMsVs","name":"Janelle Monáe"}],"typ":"album","added_at":0},"duration":{"secs":262,"nanos":586000000},"explicit":false},{"id":"4fn8NU9xYosCN5S8dRR2uJ","name":"Boystar","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"album":{"id":"4zTSeAQRnEnF8TMmxxj8xU","release_date":"2017-09-15","name":"Crashpad","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"typ":"album","added_at":0},"duration":{"secs":182,"nanos":566000000},"explicit":false},{"id":"02KvuokJ07rUx0ui1urnsD","name":"Turn It","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"album":{"id":"6jZstKLY9qrlUuysH3auRc","release_date":"2014-05-06","name":"If","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"typ":"album","added_at":0},"duration":{"secs":192,"nanos":26000000},"explicit":false},{"id":"6HaAEyx4hV7KO1MhZ5Se84","name":"Tell You","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"album":{"id":"6jZstKLY9qrlUuysH3auRc","release_date":"2014-05-06","name":"If","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"typ":"album","added_at":0},"duration":{"secs":261,"nanos":346000000},"explicit":false},{"id":"7FhtAVRLzE8lZ6uF5giH6E","name":"Marsha","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"album":{"id":"4zTSeAQRnEnF8TMmxxj8xU","release_date":"2017-09-15","name":"Crashpad","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"typ":"album","added_at":0},"duration":{"secs":200,"nanos":343000000},"explicit":false},{"id":"0sTlKmt0NVvNBBv7242EuK","name":"Tighten Up - 2013 Remaster","artists":[{"id":"3xYNGCooNIzKMAtJYKSOyq","name":"Electronic"}],"album":{"id":"1vGrQ0is3Avh0bZSI7T6L1","release_date":"1991","name":"Electronic (Special Edition)","artists":[{"id":"3xYNGCooNIzKMAtJYKSOyq","name":"Electronic"}],"typ":"album","added_at":0},"duration":{"secs":278,"nanos":400000000},"explicit":false},{"id":"2DjRqR9rn1FlBlMeAckkP9","name":"Blue Heaven","artists":[{"id":"6VsiDFMZJlJ053P1uO4A6h","name":"Public Service Broadcasting"},{"id":"7Kvs0jEg9fdQfAnM8ITyUa","name":"Andreya Casablanca"}],"album":{"id":"5MpSEsDO02dg1McQDcDjAE","release_date":"2021-09-24","name":"Bright Magic","artists":[{"id":"6VsiDFMZJlJ053P1uO4A6h","name":"Public Service Broadcasting"}],"typ":"album","added_at":0},"duration":{"secs":257,"nanos":306000000},"explicit":false},{"id":"2fuEJxg9XzbnISsKz5gxE6","name":"Will You Be? - CFCF Remix","artists":[{"id":"2tEyBfwGBfQgLXeAJW0MgC","name":"Baltra"},{"id":"73IRHBhotETMmgvRCEyTCS","name":"CFCF"}],"album":{"id":"6qAC2WPjZEQA8FanPkAODg","release_date":"2021-05-27","name":"Ambition","artists":[{"id":"2tEyBfwGBfQgLXeAJW0MgC","name":"Baltra"}],"typ":"album","added_at":0},"duration":{"secs":302,"nanos":600000000},"explicit":false},{"id":"59ByVOlmTSuVcEefBpviJQ","name":"Melody Day","artists":[{"id":"4aEnNH9PuU1HF3TsZTru54","name":"Caribou"}],"album":{"id":"1qVjmAeHdqEeB2DuyvbTYz","release_date":"2007-08-17","name":"Andorra","artists":[{"id":"4aEnNH9PuU1HF3TsZTru54","name":"Caribou"}],"typ":"album","added_at":0},"duration":{"secs":251,"nanos":66000000},"explicit":false},{"id":"1aDLUzCyYpRXgrjwUWzV2X","name":"Lazy Eye","artists":[{"id":"6qyi8X6MdP1lu6B1K6yh3h","name":"Silversun Pickups"}],"album":{"id":"2Qr40p1sv6NYrf9NPehsrO","release_date":"2006-07-25","name":"Carnavas","artists":[{"id":"6qyi8X6MdP1lu6B1K6yh3h","name":"Silversun Pickups"}],"typ":"album","added_at":0},"duration":{"secs":354,"nanos":360000000},"explicit":false},{"id":"7c9HLjnEAbNOwiwBR8qujq","name":"Enemy of My Enemy","artists":[{"id":"29Wmfm1CojrjQ3aQP0FI65","name":"All Them Witches"}],"album":{"id":"2pP6WdEW09g6PgFVfKjefd","release_date":"2020-09-04","name":"Nothing as the Ideal","artists":[{"id":"29Wmfm1CojrjQ3aQP0FI65","name":"All Them Witches"}],"typ":"album","added_at":0},"duration":{"secs":209,"nanos":643000000},"explicit":false},{"id":"7zPpGK3EutqbT49ZRtiSUp","name":"End To End","artists":[{"id":"0nsphA9KDqbJ64duYRoEBi","name":"Earthless"}],"album":{"id":"30pOzmy2T73KwsjVCSz71L","release_date":"2018-03-16","name":"Black Heaven","artists":[{"id":"0nsphA9KDqbJ64duYRoEBi","name":"Earthless"}],"typ":"album","added_at":0},"duration":{"secs":316,"nanos":786000000},"explicit":false},{"id":"7yHRmaBkHKXKJmS1xMzicZ","name":"Punkrocker (feat. Iggy Pop) - As featured in Superman","artists":[{"id":"3gqv1kgivAc92KnUm4elKv","name":"Teddybears"},{"id":"33EUXrFKGjpUSGacqEHhU4","name":"Iggy Pop"}],"album":{"id":"4MHVx1PFPrYUzO0zbh95Q0","release_date":"2006","name":"Soft Machine","artists":[{"id":"3gqv1kgivAc92KnUm4elKv","name":"Teddybears"}],"typ":"album","added_at":0},"duration":{"secs":246,"nanos":786000000},"explicit":false},{"id":"6GMIh8can7ns1fz5xFGRWf","name":"Only a Dream","artists":[{"id":"7AG5dB8Dc3yFhzeQaAsxUb","name":"HighSchool"}],"album":{"id":"2Xf2TEeGrV1OuCfjk05FY1","release_date":"2022-10-18","name":"Only a Dream","artists":[{"id":"7AG5dB8Dc3yFhzeQaAsxUb","name":"HighSchool"}],"typ":"single","added_at":0},"duration":{"secs":197,"nanos":676000000},"explicit":false},{"id":"1HAxxHgykJ9uLevspzGz8C","name":"Ouroboros","artists":[{"id":"6jP9Z7o6WlbYvKUOeO5SbP","name":"Goat"}],"album":{"id":"0aHeKXZpdQlfZRYYJlYlcj","release_date":"2024-10-11","name":"Goat","artists":[{"id":"6jP9Z7o6WlbYvKUOeO5SbP","name":"Goat"}],"typ":"album","added_at":0},"duration":{"secs":441,"nanos":589000000},"explicit":false},{"id":"3hY36NXaHw0MADwANn5Rga","name":"Blush","artists":[{"id":"3LTXHU3DhiYzGIgF2PP8Q8","name":"The Raveonettes"}],"album":{"id":"2b5uYxqX57PMccTw4XH6FI","release_date":"2007-11-12","name":"Lust Lust Lust","artists":[{"id":"3LTXHU3DhiYzGIgF2PP8Q8","name":"The Raveonettes"}],"typ":"album","added_at":0},"duration":{"secs":197,"nanos":266000000},"explicit":false},{"id":"72U0w5Wt8oIifC7WQuuG9m","name":"Welcome to the Civilized World","artists":[{"id":"4IEpQR24sUgq6BQw2MdZIy","name":"GHOSTWOMAN"}],"album":{"id":"2Y8xJd39Y3w1iSnGzOdlGg","release_date":"2025-09-05","name":"Welcome to the Civilized World","artists":[{"id":"4IEpQR24sUgq6BQw2MdZIy","name":"GHOSTWOMAN"}],"typ":"album","added_at":0},"duration":{"secs":153,"nanos":250000000},"explicit":false},{"id":"4BdA7ZtP00Dda9UWiSAn2F","name":"No Body","artists":[{"id":"49haq8aaaDI1pXbY1XcQaK","name":"kaeto"}],"album":{"id":"37Oqe9dvGu7jWs19pVLGPW","release_date":"2023-10-11","name":"No Body","artists":[{"id":"49haq8aaaDI1pXbY1XcQaK","name":"kaeto"}],"typ":"single","added_at":0},"duration":{"secs":162,"nanos":935000000},"explicit":false},{"id":"6MrLkXsMmHaYt680fhJUAq","name":"12 to 12","artists":[{"id":"4G9NDjRyZFDlJKMRL8hx3S","name":"sombr"}],"album":{"id":"2TrTb21wiXbwQohvN1UfFV","release_date":"2025-07-24","name":"12 to 12","artists":[{"id":"4G9NDjRyZFDlJKMRL8hx3S","name":"sombr"}],"typ":"single","added_at":0},"duration":{"secs":242,"nanos":903000000},"explicit":false},{"id":"79sNWdNoaeRYPu1gq3ia6i","name":"No Cops","artists":[{"id":"07dZirN9KFAGIHeBvSDfuO","name":"Night Beats"}],"album":{"id":"1iIL3Qy7xqltpZCuvQKhsZ","release_date":"2016-01-29","name":"Who Sold My Generation","artists":[{"id":"07dZirN9KFAGIHeBvSDfuO","name":"Night Beats"}],"typ":"album","added_at":0},"duration":{"secs":191,"nanos":415000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "6w3Lhw33VvjZRnOse871fy",
+    "collaborative": false,
+    "name": "Pop & rocky pop",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAOLBkK90c0bxW2AQ8tH77SK/OpmNY",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "498sro5bE9gCic6voSh1BQ",
+      "name": "First We Take Dumbarton",
+      "artists": [
+        {
+          "id": "4lv2xmPO66BBqk1gAq5YRs",
+          "name": "Kid Canaveral"
+        }
+      ],
+      "album": {
+        "id": "1X95ORlJq2cMyMzb6WAX5z",
+        "release_date": "2016-07-29",
+        "name": "Faulty Inner Dialogue",
+        "artists": [
+          {
+            "id": "4lv2xmPO66BBqk1gAq5YRs",
+            "name": "Kid Canaveral"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 228,
+        "nanos": 453000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6TNIjltjuALKSTsJteVH2o",
+      "name": "Sweet Disposition",
+      "artists": [
+        {
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap"
+        }
+      ],
+      "album": {
+        "id": "0V59MMtgoruvEqMv18KAOH",
+        "release_date": "2009",
+        "name": "Conditions (Tour Edition)",
+        "artists": [
+          {
+            "id": "4W48hZAnAHVOC2c8WH8pcq",
+            "name": "The Temper Trap"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 236,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3D6SI4KT6rAKdr9gb8L3Sg",
+      "name": "Feel Alive",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "6cCYVVEfi0ieFXwV2OW4cz",
+        "release_date": "2007-04-27",
+        "name": "Trilogy - Basic",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 226,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0yEhNqCwEfy8LHUmnZoHpP",
+      "name": "Bohemian Like You",
+      "artists": [
+        {
+          "id": "7siPLyFwRFYQkKgWKJ5Sod",
+          "name": "The Dandy Warhols"
+        }
+      ],
+      "album": {
+        "id": "0vdIT4p5OlKOcEzYKSsqn4",
+        "release_date": "2000-01-01",
+        "name": "Thirteen Tales From Urban Bohemia",
+        "artists": [
+          {
+            "id": "7siPLyFwRFYQkKgWKJ5Sod",
+            "name": "The Dandy Warhols"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Fk0Yr5ow81W4p3gSi15c0",
+      "name": "Crackin' Up",
+      "artists": [
+        {
+          "id": "4rGrN4XDYhP6dUAZMvcuHr",
+          "name": "Caesars"
+        }
+      ],
+      "album": {
+        "id": "6KdlSMMpezbfNKZYd4JTbM",
+        "release_date": "2003-04-21",
+        "name": "39 Minutes of Bliss (In An Otherwise Meaningless World)",
+        "artists": [
+          {
+            "id": "4rGrN4XDYhP6dUAZMvcuHr",
+            "name": "Caesars"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 194,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2QygLR6XOPpkIxXQqggIiO",
+      "name": "We Got to Leave",
+      "artists": [
+        {
+          "id": "4rGrN4XDYhP6dUAZMvcuHr",
+          "name": "Caesars"
+        }
+      ],
+      "album": {
+        "id": "26j4DuV2gfgY8aFWSDCkCM",
+        "release_date": "2005-03-02",
+        "name": "Paper Tigers",
+        "artists": [
+          {
+            "id": "4rGrN4XDYhP6dUAZMvcuHr",
+            "name": "Caesars"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 986000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "49CP2usyaN98EdtrOWXnal",
+      "name": "1234",
+      "artists": [
+        {
+          "id": "6CWTBjOJK75cTE8Xv8u1kj",
+          "name": "Feist"
+        }
+      ],
+      "album": {
+        "id": "27Y2wm3WcFThQocgjLI5wF",
+        "release_date": "2007-01-01",
+        "name": "The Reminder",
+        "artists": [
+          {
+            "id": "6CWTBjOJK75cTE8Xv8u1kj",
+            "name": "Feist"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 183,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "66EurKBmuyMBKhkwhg9JIx",
+      "name": "The Rally Boys",
+      "artists": [
+        {
+          "id": "4oV5EVJ0XFWsJKoOvdRPvl",
+          "name": "Guided By Voices"
+        }
+      ],
+      "album": {
+        "id": "15Qj6W0EJc34R4aGe4Gkf5",
+        "release_date": "2019-01-11",
+        "name": "The Rally Boys",
+        "artists": [
+          {
+            "id": "4oV5EVJ0XFWsJKoOvdRPvl",
+            "name": "Guided By Voices"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 103,
+        "nanos": 773000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4y5bvROuBDPr5fuwXbIBZR",
+      "name": "Paper Rings",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3oqBOAsqRMKUHc8MGx4o72",
+      "name": "Death",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "1ySdrRPZa9ZRvlcUoGv8UE",
+        "release_date": "2009",
+        "name": "To Lose My Life ...",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 301,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2hUHm19fmQnJ40LZXqjhZt",
+      "name": "To Lose My Life",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "1ySdrRPZa9ZRvlcUoGv8UE",
+        "release_date": "2009",
+        "name": "To Lose My Life ...",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 40000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ljzHUgt2SU2ADkhfa9eBC",
+      "name": "Tightrope (feat. Big Boi) - Big Boi Vocal Edit",
+      "artists": [
+        {
+          "id": "6ueGR6SWhUJfvEhqkvMsVs",
+          "name": "Janelle Monáe"
+        },
+        {
+          "id": "2ht3wxeT69CzyKFChNnNAB",
+          "name": "Big Boi"
+        }
+      ],
+      "album": {
+        "id": "7MvSB0JTdtl1pSwZcgvYQX",
+        "release_date": "2010-05-17",
+        "name": "The ArchAndroid",
+        "artists": [
+          {
+            "id": "6ueGR6SWhUJfvEhqkvMsVs",
+            "name": "Janelle Monáe"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 262,
+        "nanos": 586000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4fn8NU9xYosCN5S8dRR2uJ",
+      "name": "Boystar",
+      "artists": [
+        {
+          "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+          "name": "Neuman"
+        }
+      ],
+      "album": {
+        "id": "4zTSeAQRnEnF8TMmxxj8xU",
+        "release_date": "2017-09-15",
+        "name": "Crashpad",
+        "artists": [
+          {
+            "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+            "name": "Neuman"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 182,
+        "nanos": 566000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "02KvuokJ07rUx0ui1urnsD",
+      "name": "Turn It",
+      "artists": [
+        {
+          "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+          "name": "Neuman"
+        }
+      ],
+      "album": {
+        "id": "6jZstKLY9qrlUuysH3auRc",
+        "release_date": "2014-05-06",
+        "name": "If",
+        "artists": [
+          {
+            "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+            "name": "Neuman"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 192,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6HaAEyx4hV7KO1MhZ5Se84",
+      "name": "Tell You",
+      "artists": [
+        {
+          "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+          "name": "Neuman"
+        }
+      ],
+      "album": {
+        "id": "6jZstKLY9qrlUuysH3auRc",
+        "release_date": "2014-05-06",
+        "name": "If",
+        "artists": [
+          {
+            "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+            "name": "Neuman"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 261,
+        "nanos": 346000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7FhtAVRLzE8lZ6uF5giH6E",
+      "name": "Marsha",
+      "artists": [
+        {
+          "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+          "name": "Neuman"
+        }
+      ],
+      "album": {
+        "id": "4zTSeAQRnEnF8TMmxxj8xU",
+        "release_date": "2017-09-15",
+        "name": "Crashpad",
+        "artists": [
+          {
+            "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+            "name": "Neuman"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 200,
+        "nanos": 343000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0sTlKmt0NVvNBBv7242EuK",
+      "name": "Tighten Up - 2013 Remaster",
+      "artists": [
+        {
+          "id": "3xYNGCooNIzKMAtJYKSOyq",
+          "name": "Electronic"
+        }
+      ],
+      "album": {
+        "id": "1vGrQ0is3Avh0bZSI7T6L1",
+        "release_date": "1991",
+        "name": "Electronic (Special Edition)",
+        "artists": [
+          {
+            "id": "3xYNGCooNIzKMAtJYKSOyq",
+            "name": "Electronic"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 278,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2DjRqR9rn1FlBlMeAckkP9",
+      "name": "Blue Heaven",
+      "artists": [
+        {
+          "id": "6VsiDFMZJlJ053P1uO4A6h",
+          "name": "Public Service Broadcasting"
+        },
+        {
+          "id": "7Kvs0jEg9fdQfAnM8ITyUa",
+          "name": "Andreya Casablanca"
+        }
+      ],
+      "album": {
+        "id": "5MpSEsDO02dg1McQDcDjAE",
+        "release_date": "2021-09-24",
+        "name": "Bright Magic",
+        "artists": [
+          {
+            "id": "6VsiDFMZJlJ053P1uO4A6h",
+            "name": "Public Service Broadcasting"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 257,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2fuEJxg9XzbnISsKz5gxE6",
+      "name": "Will You Be? - CFCF Remix",
+      "artists": [
+        {
+          "id": "2tEyBfwGBfQgLXeAJW0MgC",
+          "name": "Baltra"
+        },
+        {
+          "id": "73IRHBhotETMmgvRCEyTCS",
+          "name": "CFCF"
+        }
+      ],
+      "album": {
+        "id": "6qAC2WPjZEQA8FanPkAODg",
+        "release_date": "2021-05-27",
+        "name": "Ambition",
+        "artists": [
+          {
+            "id": "2tEyBfwGBfQgLXeAJW0MgC",
+            "name": "Baltra"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 302,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "59ByVOlmTSuVcEefBpviJQ",
+      "name": "Melody Day",
+      "artists": [
+        {
+          "id": "4aEnNH9PuU1HF3TsZTru54",
+          "name": "Caribou"
+        }
+      ],
+      "album": {
+        "id": "1qVjmAeHdqEeB2DuyvbTYz",
+        "release_date": "2007-08-17",
+        "name": "Andorra",
+        "artists": [
+          {
+            "id": "4aEnNH9PuU1HF3TsZTru54",
+            "name": "Caribou"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 251,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1aDLUzCyYpRXgrjwUWzV2X",
+      "name": "Lazy Eye",
+      "artists": [
+        {
+          "id": "6qyi8X6MdP1lu6B1K6yh3h",
+          "name": "Silversun Pickups"
+        }
+      ],
+      "album": {
+        "id": "2Qr40p1sv6NYrf9NPehsrO",
+        "release_date": "2006-07-25",
+        "name": "Carnavas",
+        "artists": [
+          {
+            "id": "6qyi8X6MdP1lu6B1K6yh3h",
+            "name": "Silversun Pickups"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 354,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7c9HLjnEAbNOwiwBR8qujq",
+      "name": "Enemy of My Enemy",
+      "artists": [
+        {
+          "id": "29Wmfm1CojrjQ3aQP0FI65",
+          "name": "All Them Witches"
+        }
+      ],
+      "album": {
+        "id": "2pP6WdEW09g6PgFVfKjefd",
+        "release_date": "2020-09-04",
+        "name": "Nothing as the Ideal",
+        "artists": [
+          {
+            "id": "29Wmfm1CojrjQ3aQP0FI65",
+            "name": "All Them Witches"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 209,
+        "nanos": 643000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7zPpGK3EutqbT49ZRtiSUp",
+      "name": "End To End",
+      "artists": [
+        {
+          "id": "0nsphA9KDqbJ64duYRoEBi",
+          "name": "Earthless"
+        }
+      ],
+      "album": {
+        "id": "30pOzmy2T73KwsjVCSz71L",
+        "release_date": "2018-03-16",
+        "name": "Black Heaven",
+        "artists": [
+          {
+            "id": "0nsphA9KDqbJ64duYRoEBi",
+            "name": "Earthless"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 316,
+        "nanos": 786000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7yHRmaBkHKXKJmS1xMzicZ",
+      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
+      "artists": [
+        {
+          "id": "3gqv1kgivAc92KnUm4elKv",
+          "name": "Teddybears"
+        },
+        {
+          "id": "33EUXrFKGjpUSGacqEHhU4",
+          "name": "Iggy Pop"
+        }
+      ],
+      "album": {
+        "id": "4MHVx1PFPrYUzO0zbh95Q0",
+        "release_date": "2006",
+        "name": "Soft Machine",
+        "artists": [
+          {
+            "id": "3gqv1kgivAc92KnUm4elKv",
+            "name": "Teddybears"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 246,
+        "nanos": 786000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6GMIh8can7ns1fz5xFGRWf",
+      "name": "Only a Dream",
+      "artists": [
+        {
+          "id": "7AG5dB8Dc3yFhzeQaAsxUb",
+          "name": "HighSchool"
+        }
+      ],
+      "album": {
+        "id": "2Xf2TEeGrV1OuCfjk05FY1",
+        "release_date": "2022-10-18",
+        "name": "Only a Dream",
+        "artists": [
+          {
+            "id": "7AG5dB8Dc3yFhzeQaAsxUb",
+            "name": "HighSchool"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 197,
+        "nanos": 676000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1HAxxHgykJ9uLevspzGz8C",
+      "name": "Ouroboros",
+      "artists": [
+        {
+          "id": "6jP9Z7o6WlbYvKUOeO5SbP",
+          "name": "Goat"
+        }
+      ],
+      "album": {
+        "id": "0aHeKXZpdQlfZRYYJlYlcj",
+        "release_date": "2024-10-11",
+        "name": "Goat",
+        "artists": [
+          {
+            "id": "6jP9Z7o6WlbYvKUOeO5SbP",
+            "name": "Goat"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 441,
+        "nanos": 589000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3hY36NXaHw0MADwANn5Rga",
+      "name": "Blush",
+      "artists": [
+        {
+          "id": "3LTXHU3DhiYzGIgF2PP8Q8",
+          "name": "The Raveonettes"
+        }
+      ],
+      "album": {
+        "id": "2b5uYxqX57PMccTw4XH6FI",
+        "release_date": "2007-11-12",
+        "name": "Lust Lust Lust",
+        "artists": [
+          {
+            "id": "3LTXHU3DhiYzGIgF2PP8Q8",
+            "name": "The Raveonettes"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 197,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "72U0w5Wt8oIifC7WQuuG9m",
+      "name": "Welcome to the Civilized World",
+      "artists": [
+        {
+          "id": "4IEpQR24sUgq6BQw2MdZIy",
+          "name": "GHOSTWOMAN"
+        }
+      ],
+      "album": {
+        "id": "2Y8xJd39Y3w1iSnGzOdlGg",
+        "release_date": "2025-09-05",
+        "name": "Welcome to the Civilized World",
+        "artists": [
+          {
+            "id": "4IEpQR24sUgq6BQw2MdZIy",
+            "name": "GHOSTWOMAN"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 153,
+        "nanos": 250000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4BdA7ZtP00Dda9UWiSAn2F",
+      "name": "No Body",
+      "artists": [
+        {
+          "id": "49haq8aaaDI1pXbY1XcQaK",
+          "name": "kaeto"
+        }
+      ],
+      "album": {
+        "id": "37Oqe9dvGu7jWs19pVLGPW",
+        "release_date": "2023-10-11",
+        "name": "No Body",
+        "artists": [
+          {
+            "id": "49haq8aaaDI1pXbY1XcQaK",
+            "name": "kaeto"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 162,
+        "nanos": 935000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6MrLkXsMmHaYt680fhJUAq",
+      "name": "12 to 12",
+      "artists": [
+        {
+          "id": "4G9NDjRyZFDlJKMRL8hx3S",
+          "name": "sombr"
+        }
+      ],
+      "album": {
+        "id": "2TrTb21wiXbwQohvN1UfFV",
+        "release_date": "2025-07-24",
+        "name": "12 to 12",
+        "artists": [
+          {
+            "id": "4G9NDjRyZFDlJKMRL8hx3S",
+            "name": "sombr"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 242,
+        "nanos": 903000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "79sNWdNoaeRYPu1gq3ia6i",
+      "name": "No Cops",
+      "artists": [
+        {
+          "id": "07dZirN9KFAGIHeBvSDfuO",
+          "name": "Night Beats"
+        }
+      ],
+      "album": {
+        "id": "1iIL3Qy7xqltpZCuvQKhsZ",
+        "release_date": "2016-01-29",
+        "name": "Who Sold My Generation",
+        "artists": [
+          {
+            "id": "07dZirN9KFAGIHeBvSDfuO",
+            "name": "Night Beats"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 415000000
+      },
+      "explicit": false
+    }
+  ]
+}

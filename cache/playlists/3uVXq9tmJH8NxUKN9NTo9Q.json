@@ -1,1 +1,265 @@
-{"playlist":{"id":"3uVXq9tmJH8NxUKN9NTo9Q","collaborative":false,"name":"BO The Church","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAC6O3AfSnJqGWQU6wvH+6X0+yug2v"},"tracks":[{"id":"00W0z4GR2fU8v11dhszOdw","name":"The Unguarded Moment - 2002 Remastered","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"3QFUhbSxlj6Ajwx90mdHO4","release_date":"1981-04-13","name":"Of Skins And Heart","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":254,"nanos":400000000},"explicit":false},{"id":"3BLewreWlYMr2MbVUBfBS2","name":"Almost With You - 2002 Remastered","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"37FcNkuAMrcTjGLyg5MmiJ","release_date":"1982-02-25","name":"The Blurred Crusade","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":254,"nanos":360000000},"explicit":false},{"id":"3aVlzlVWmhYEog0L27aWap","name":"When You Were Mine - 2002 Remastered","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"37FcNkuAMrcTjGLyg5MmiJ","release_date":"1982-02-25","name":"The Blurred Crusade","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":346,"nanos":706000000},"explicit":false},{"id":"7KbwDFYIaTwuiR6hm3xs1v","name":"Tantalized - 2002 Remastered","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"66Txt74DVDBie9E3JcilmP","release_date":"1985-11","name":"Heyday","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":299,"nanos":173000000},"explicit":false},{"id":"1RCtHLyq1xIbgGMrYRrKJ2","name":"Under the Milky Way","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"3gz1CZk5wFg2inBuUWDa8x","release_date":"1988-02-16","name":"Starfish","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":297,"nanos":600000000},"explicit":false},{"id":"29Znt9AbEH9FSsw86zPAYT","name":"Reptile","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"3gz1CZk5wFg2inBuUWDa8x","release_date":"1988-02-16","name":"Starfish","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":295,"nanos":973000000},"explicit":false},{"id":"4zU8R38mRpOQbbtrSjdUUq","name":"Metropolis","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"5AWuHRUJnTIZUV980khBKz","release_date":"1990-02-22","name":"Gold Afternoon Fix","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":284,"nanos":93000000},"explicit":false},{"id":"40vDQiJys8jVhNed1zMUmT","name":"Ripple","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"1UaditX9ThhKs1WYxTiGz7","release_date":"1992-02-10","name":"Priest = Aura","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":361,"nanos":933000000},"explicit":false},{"id":"4O07d8l6eMj8si39FBHBxn","name":"Destination","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"3gz1CZk5wFg2inBuUWDa8x","release_date":"1988-02-16","name":"Starfish","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":351,"nanos":960000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "3uVXq9tmJH8NxUKN9NTo9Q",
+    "collaborative": false,
+    "name": "BO The Church",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAC6O3AfSnJqGWQU6wvH+6X0+yug2v",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "00W0z4GR2fU8v11dhszOdw",
+      "name": "The Unguarded Moment - 2002 Remastered",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "3QFUhbSxlj6Ajwx90mdHO4",
+        "release_date": "1981-04-13",
+        "name": "Of Skins And Heart",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 254,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3BLewreWlYMr2MbVUBfBS2",
+      "name": "Almost With You - 2002 Remastered",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "37FcNkuAMrcTjGLyg5MmiJ",
+        "release_date": "1982-02-25",
+        "name": "The Blurred Crusade",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 254,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3aVlzlVWmhYEog0L27aWap",
+      "name": "When You Were Mine - 2002 Remastered",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "37FcNkuAMrcTjGLyg5MmiJ",
+        "release_date": "1982-02-25",
+        "name": "The Blurred Crusade",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 346,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7KbwDFYIaTwuiR6hm3xs1v",
+      "name": "Tantalized - 2002 Remastered",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "66Txt74DVDBie9E3JcilmP",
+        "release_date": "1985-11",
+        "name": "Heyday",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 299,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1RCtHLyq1xIbgGMrYRrKJ2",
+      "name": "Under the Milky Way",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "3gz1CZk5wFg2inBuUWDa8x",
+        "release_date": "1988-02-16",
+        "name": "Starfish",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 297,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "29Znt9AbEH9FSsw86zPAYT",
+      "name": "Reptile",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "3gz1CZk5wFg2inBuUWDa8x",
+        "release_date": "1988-02-16",
+        "name": "Starfish",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 295,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4zU8R38mRpOQbbtrSjdUUq",
+      "name": "Metropolis",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "5AWuHRUJnTIZUV980khBKz",
+        "release_date": "1990-02-22",
+        "name": "Gold Afternoon Fix",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 284,
+        "nanos": 93000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "40vDQiJys8jVhNed1zMUmT",
+      "name": "Ripple",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "1UaditX9ThhKs1WYxTiGz7",
+        "release_date": "1992-02-10",
+        "name": "Priest = Aura",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 361,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4O07d8l6eMj8si39FBHBxn",
+      "name": "Destination",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "3gz1CZk5wFg2inBuUWDa8x",
+        "release_date": "1988-02-16",
+        "name": "Starfish",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 351,
+        "nanos": 960000000
+      },
+      "explicit": false
+    }
+  ]
+}

@@ -1,1 +1,461 @@
-{"playlist":{"id":"7LFT7QmyfwYRzCMNO9OZjD","collaborative":false,"name":"Dad Rock","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAEyusj6ZvXTdXnKtf06RhsRsHNZTx"},"tracks":[{"id":"2WBdxQy2k67c3hZ4m6TTDJ","name":"Saint","artists":[{"id":"0zpMEtJmjRr1MKFveLQqeZ","name":"The Heavy Eyes"}],"album":{"id":"5qznUMzXGwSOhyUZKygvrl","release_date":"2015-11-13","name":"He Dreams of Lions","artists":[{"id":"0zpMEtJmjRr1MKFveLQqeZ","name":"The Heavy Eyes"}],"typ":"album","added_at":0},"duration":{"secs":169,"nanos":500000000},"explicit":false},{"id":"6X5YSmpMnWKM7oxCl17N2s","name":"Trails & Passes","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"album":{"id":"4nrv5D1bFcXVe8Bv7Ra0tr","release_date":"2014-05-13","name":"Trails & Passes","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"typ":"album","added_at":0},"duration":{"secs":340,"nanos":826000000},"explicit":false},{"id":"17vETemaULU9bQSWIVhiPo","name":"Deep Light Burns","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"3PxXHLkJ3ikkJKpTrxOXIn","release_date":"2011-06-09","name":"The Sayings of the Seers","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"single","added_at":0},"duration":{"secs":195,"nanos":11000000},"explicit":false},{"id":"3b3jn8yqauHjf3Bl2xugbc","name":"A Point of a Secret","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"album":{"id":"43wkUzgUzpfyfJLy1hjujD","release_date":"2018-11-09","name":"Hear the Rivers","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"typ":"album","added_at":0},"duration":{"secs":276,"nanos":520000000},"explicit":false},{"id":"5G7PHCkkoLfNhavoCZN2JC","name":"Equators","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"album":{"id":"4nrv5D1bFcXVe8Bv7Ra0tr","release_date":"2014-05-13","name":"Trails & Passes","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"typ":"album","added_at":0},"duration":{"secs":211,"nanos":306000000},"explicit":false},{"id":"6FAYqp5MXvNBmnHf0oZWaK","name":"Hearts Aflame","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"3PxXHLkJ3ikkJKpTrxOXIn","release_date":"2011-06-09","name":"The Sayings of the Seers","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"single","added_at":0},"duration":{"secs":356,"nanos":767000000},"explicit":false},{"id":"3o8xb5hmqzvFKZhJJrmkXX","name":"Eternal Forever","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"6FQBzPqOcwHPPLvKd2aTYx","release_date":"2016-04-29","name":"Volume Rock","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"album","added_at":0},"duration":{"secs":288,"nanos":0},"explicit":false},{"id":"5Fyfmom8bjdqOQZTfUlFHw","name":"Beneath the Veil","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"6FQBzPqOcwHPPLvKd2aTYx","release_date":"2016-04-29","name":"Volume Rock","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"album","added_at":0},"duration":{"secs":177,"nanos":653000000},"explicit":false},{"id":"1hUOOa4yy6lVOXLjqAuB3M","name":"End to End","artists":[{"id":"0nsphA9KDqbJ64duYRoEBi","name":"Earthless"}],"album":{"id":"4IG4E3m4wYVkuLzSVF8beM","release_date":"2018-03-16","name":"Black Heaven","artists":[{"id":"0nsphA9KDqbJ64duYRoEBi","name":"Earthless"}],"typ":"album","added_at":0},"duration":{"secs":316,"nanos":786000000},"explicit":false},{"id":"08DZuxXC80ROlob6maOCdn","name":"These Men Are Wolves","artists":[{"id":"0zpMEtJmjRr1MKFveLQqeZ","name":"The Heavy Eyes"}],"album":{"id":"4PptTF7Wq8f3HtlIsPU8vq","release_date":"2012-12-01","name":"Maera","artists":[{"id":"0zpMEtJmjRr1MKFveLQqeZ","name":"The Heavy Eyes"}],"typ":"album","added_at":0},"duration":{"secs":167,"nanos":0},"explicit":false},{"id":"3WhY6Gzrq1ZU5dr97b5UIK","name":"In My Mind's Desert","artists":[{"id":"0l7GXb53ndWn97ul8Hpfzd","name":"Slomosa"}],"album":{"id":"4siAHFdDbAq32SjEnguBsO","release_date":"2020-06-19","name":"In My Mind's Desert","artists":[{"id":"0l7GXb53ndWn97ul8Hpfzd","name":"Slomosa"}],"typ":"single","added_at":0},"duration":{"secs":292,"nanos":731000000},"explicit":false},{"id":"3bTJRzsVHaL4JOmmNX4Cm3","name":"Kevin","artists":[{"id":"0l7GXb53ndWn97ul8Hpfzd","name":"Slomosa"}],"album":{"id":"4P0wMxlWvsilPWY5tbvVKS","release_date":"2020-08-28","name":"Slomosa","artists":[{"id":"0l7GXb53ndWn97ul8Hpfzd","name":"Slomosa"}],"typ":"album","added_at":0},"duration":{"secs":167,"nanos":389000000},"explicit":false},{"id":"3rNAbqN8nxGkTdFdl6x6Qq","name":"Superhero Dopeproof","artists":[{"id":"6VNmsa4FPNunveA9ktg0Nb","name":"Black Rainbows"}],"album":{"id":"37Hmm2L5DZxf7BNWtAAit1","release_date":"2023-06-09","name":"Superskull","artists":[{"id":"6VNmsa4FPNunveA9ktg0Nb","name":"Black Rainbows"}],"typ":"album","added_at":0},"duration":{"secs":276,"nanos":293000000},"explicit":false},{"id":"1gq5tbU9FTm90duAZtDZUv","name":"Spread Your Love","artists":[{"id":"1tpXaFf2F55E7kVJON4j4G","name":"Black Rebel Motorcycle Club"}],"album":{"id":"5kNEFtQmqLrPx0XA8Sq0N5","release_date":"2001-01-01","name":"B.R.M.C.","artists":[{"id":"1tpXaFf2F55E7kVJON4j4G","name":"Black Rebel Motorcycle Club"}],"typ":"album","added_at":0},"duration":{"secs":225,"nanos":333000000},"explicit":false},{"id":"5wKYo2wWP4ePFPXxHDjX20","name":"Let's Go","artists":[{"id":"6XIJivrO9KEaxh6bKai91s","name":"Psychlona"}],"album":{"id":"7Kk7fPxicOtMHaQ0MYaJ1o","release_date":"2024-09-27","name":"Warped Vision","artists":[{"id":"6XIJivrO9KEaxh6bKai91s","name":"Psychlona"}],"typ":"album","added_at":0},"duration":{"secs":355,"nanos":294000000},"explicit":false},{"id":"0GJugBOfGG3bMQrKwOvaSF","name":"Dust","artists":[{"id":"71gjusFBijHkCU0PPFPlpE","name":"José Junior"}],"album":{"id":"0nOjxTZ8zKTeesTfFewycu","release_date":"2024-09-27","name":"Spanish Leather","artists":[{"id":"71gjusFBijHkCU0PPFPlpE","name":"José Junior"}],"typ":"album","added_at":0},"duration":{"secs":163,"nanos":506000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "7LFT7QmyfwYRzCMNO9OZjD",
+    "collaborative": false,
+    "name": "Dad Rock",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAEyusj6ZvXTdXnKtf06RhsRsHNZTx",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "2WBdxQy2k67c3hZ4m6TTDJ",
+      "name": "Saint",
+      "artists": [
+        {
+          "id": "0zpMEtJmjRr1MKFveLQqeZ",
+          "name": "The Heavy Eyes"
+        }
+      ],
+      "album": {
+        "id": "5qznUMzXGwSOhyUZKygvrl",
+        "release_date": "2015-11-13",
+        "name": "He Dreams of Lions",
+        "artists": [
+          {
+            "id": "0zpMEtJmjRr1MKFveLQqeZ",
+            "name": "The Heavy Eyes"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 169,
+        "nanos": 500000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6X5YSmpMnWKM7oxCl17N2s",
+      "name": "Trails & Passes",
+      "artists": [
+        {
+          "id": "2Mjr7nb7vY7AQwxGskDlM7",
+          "name": "Greenleaf"
+        }
+      ],
+      "album": {
+        "id": "4nrv5D1bFcXVe8Bv7Ra0tr",
+        "release_date": "2014-05-13",
+        "name": "Trails & Passes",
+        "artists": [
+          {
+            "id": "2Mjr7nb7vY7AQwxGskDlM7",
+            "name": "Greenleaf"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 340,
+        "nanos": 826000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "17vETemaULU9bQSWIVhiPo",
+      "name": "Deep Light Burns",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "3PxXHLkJ3ikkJKpTrxOXIn",
+        "release_date": "2011-06-09",
+        "name": "The Sayings of the Seers",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 195,
+        "nanos": 11000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3b3jn8yqauHjf3Bl2xugbc",
+      "name": "A Point of a Secret",
+      "artists": [
+        {
+          "id": "2Mjr7nb7vY7AQwxGskDlM7",
+          "name": "Greenleaf"
+        }
+      ],
+      "album": {
+        "id": "43wkUzgUzpfyfJLy1hjujD",
+        "release_date": "2018-11-09",
+        "name": "Hear the Rivers",
+        "artists": [
+          {
+            "id": "2Mjr7nb7vY7AQwxGskDlM7",
+            "name": "Greenleaf"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 276,
+        "nanos": 520000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5G7PHCkkoLfNhavoCZN2JC",
+      "name": "Equators",
+      "artists": [
+        {
+          "id": "2Mjr7nb7vY7AQwxGskDlM7",
+          "name": "Greenleaf"
+        }
+      ],
+      "album": {
+        "id": "4nrv5D1bFcXVe8Bv7Ra0tr",
+        "release_date": "2014-05-13",
+        "name": "Trails & Passes",
+        "artists": [
+          {
+            "id": "2Mjr7nb7vY7AQwxGskDlM7",
+            "name": "Greenleaf"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6FAYqp5MXvNBmnHf0oZWaK",
+      "name": "Hearts Aflame",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "3PxXHLkJ3ikkJKpTrxOXIn",
+        "release_date": "2011-06-09",
+        "name": "The Sayings of the Seers",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 356,
+        "nanos": 767000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3o8xb5hmqzvFKZhJJrmkXX",
+      "name": "Eternal Forever",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "6FQBzPqOcwHPPLvKd2aTYx",
+        "release_date": "2016-04-29",
+        "name": "Volume Rock",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 288,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Fyfmom8bjdqOQZTfUlFHw",
+      "name": "Beneath the Veil",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "6FQBzPqOcwHPPLvKd2aTYx",
+        "release_date": "2016-04-29",
+        "name": "Volume Rock",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 177,
+        "nanos": 653000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1hUOOa4yy6lVOXLjqAuB3M",
+      "name": "End to End",
+      "artists": [
+        {
+          "id": "0nsphA9KDqbJ64duYRoEBi",
+          "name": "Earthless"
+        }
+      ],
+      "album": {
+        "id": "4IG4E3m4wYVkuLzSVF8beM",
+        "release_date": "2018-03-16",
+        "name": "Black Heaven",
+        "artists": [
+          {
+            "id": "0nsphA9KDqbJ64duYRoEBi",
+            "name": "Earthless"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 316,
+        "nanos": 786000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "08DZuxXC80ROlob6maOCdn",
+      "name": "These Men Are Wolves",
+      "artists": [
+        {
+          "id": "0zpMEtJmjRr1MKFveLQqeZ",
+          "name": "The Heavy Eyes"
+        }
+      ],
+      "album": {
+        "id": "4PptTF7Wq8f3HtlIsPU8vq",
+        "release_date": "2012-12-01",
+        "name": "Maera",
+        "artists": [
+          {
+            "id": "0zpMEtJmjRr1MKFveLQqeZ",
+            "name": "The Heavy Eyes"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 167,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "3WhY6Gzrq1ZU5dr97b5UIK",
+      "name": "In My Mind's Desert",
+      "artists": [
+        {
+          "id": "0l7GXb53ndWn97ul8Hpfzd",
+          "name": "Slomosa"
+        }
+      ],
+      "album": {
+        "id": "4siAHFdDbAq32SjEnguBsO",
+        "release_date": "2020-06-19",
+        "name": "In My Mind's Desert",
+        "artists": [
+          {
+            "id": "0l7GXb53ndWn97ul8Hpfzd",
+            "name": "Slomosa"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 292,
+        "nanos": 731000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3bTJRzsVHaL4JOmmNX4Cm3",
+      "name": "Kevin",
+      "artists": [
+        {
+          "id": "0l7GXb53ndWn97ul8Hpfzd",
+          "name": "Slomosa"
+        }
+      ],
+      "album": {
+        "id": "4P0wMxlWvsilPWY5tbvVKS",
+        "release_date": "2020-08-28",
+        "name": "Slomosa",
+        "artists": [
+          {
+            "id": "0l7GXb53ndWn97ul8Hpfzd",
+            "name": "Slomosa"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 167,
+        "nanos": 389000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3rNAbqN8nxGkTdFdl6x6Qq",
+      "name": "Superhero Dopeproof",
+      "artists": [
+        {
+          "id": "6VNmsa4FPNunveA9ktg0Nb",
+          "name": "Black Rainbows"
+        }
+      ],
+      "album": {
+        "id": "37Hmm2L5DZxf7BNWtAAit1",
+        "release_date": "2023-06-09",
+        "name": "Superskull",
+        "artists": [
+          {
+            "id": "6VNmsa4FPNunveA9ktg0Nb",
+            "name": "Black Rainbows"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 276,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1gq5tbU9FTm90duAZtDZUv",
+      "name": "Spread Your Love",
+      "artists": [
+        {
+          "id": "1tpXaFf2F55E7kVJON4j4G",
+          "name": "Black Rebel Motorcycle Club"
+        }
+      ],
+      "album": {
+        "id": "5kNEFtQmqLrPx0XA8Sq0N5",
+        "release_date": "2001-01-01",
+        "name": "B.R.M.C.",
+        "artists": [
+          {
+            "id": "1tpXaFf2F55E7kVJON4j4G",
+            "name": "Black Rebel Motorcycle Club"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 225,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5wKYo2wWP4ePFPXxHDjX20",
+      "name": "Let's Go",
+      "artists": [
+        {
+          "id": "6XIJivrO9KEaxh6bKai91s",
+          "name": "Psychlona"
+        }
+      ],
+      "album": {
+        "id": "7Kk7fPxicOtMHaQ0MYaJ1o",
+        "release_date": "2024-09-27",
+        "name": "Warped Vision",
+        "artists": [
+          {
+            "id": "6XIJivrO9KEaxh6bKai91s",
+            "name": "Psychlona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 355,
+        "nanos": 294000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0GJugBOfGG3bMQrKwOvaSF",
+      "name": "Dust",
+      "artists": [
+        {
+          "id": "71gjusFBijHkCU0PPFPlpE",
+          "name": "José Junior"
+        }
+      ],
+      "album": {
+        "id": "0nOjxTZ8zKTeesTfFewycu",
+        "release_date": "2024-09-27",
+        "name": "Spanish Leather",
+        "artists": [
+          {
+            "id": "71gjusFBijHkCU0PPFPlpE",
+            "name": "José Junior"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 163,
+        "nanos": 506000000
+      },
+      "explicit": false
+    }
+  ]
+}

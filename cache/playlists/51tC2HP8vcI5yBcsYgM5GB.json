@@ -1,1 +1,573 @@
-{"playlist":{"id":"51tC2HP8vcI5yBcsYgM5GB","collaborative":false,"name":"The Blues","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAFor15WDhmg2hxzRBx2i7sIv4ssXC"},"tracks":[{"id":"1iLq72znCFaYjzDMko8GX2","name":"Let My Baby Ride","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"album":{"id":"53r7Oz9qbQ5kD0oGhXciBW","release_date":"1998-04-07","name":"Come On In","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"typ":"album","added_at":0},"duration":{"secs":180,"nanos":466000000},"explicit":false},{"id":"58PSYdY0GFg0LFb2PxYk4T","name":"Mannish Boy","artists":[{"id":"4y6J8jwRAwO4dssiSmN91R","name":"Muddy Waters"}],"album":{"id":"4fOVcN7X7vQ8L41is621uJ","release_date":"1977","name":"King Of The Electric Blues","artists":[{"id":"4y6J8jwRAwO4dssiSmN91R","name":"Muddy Waters"}],"typ":"album","added_at":0},"duration":{"secs":321,"nanos":133000000},"explicit":false},{"id":"0fM0mFxHP1R4KPX1PB8tWU","name":"Dust My Broom","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"album":{"id":"5f4i4c03PdC3yHI63Ccauu","release_date":"2001-04-03","name":"Shake Your Money Maker: The Best Of The Fire Sessions","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"typ":"compilation","added_at":0},"duration":{"secs":175,"nanos":40000000},"explicit":false},{"id":"2wnjZXcAT3rCjjqxLeHjv7","name":"Going Down","artists":[{"id":"5dCuFngSPyOOnTAvrC7v2s","name":"Freddie King"}],"album":{"id":"2bNjljctm6ynfp9Xzdy7RI","release_date":"1971","name":"Getting Ready... (World)","artists":[{"id":"5dCuFngSPyOOnTAvrC7v2s","name":"Freddie King"}],"typ":"album","added_at":0},"duration":{"secs":204,"nanos":333000000},"explicit":false},{"id":"7rYh1P8lGX4HeNJ8I9Ngtz","name":"It's Bad You Know","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"album":{"id":"53r7Oz9qbQ5kD0oGhXciBW","release_date":"1998-04-07","name":"Come On In","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"typ":"album","added_at":0},"duration":{"secs":298,"nanos":0},"explicit":false},{"id":"5qeclkFFMjJNY5ILH6FXVk","name":"Rollin' Tumblin' (remix)","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"album":{"id":"53r7Oz9qbQ5kD0oGhXciBW","release_date":"1998-04-07","name":"Come On In","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"typ":"album","added_at":0},"duration":{"secs":253,"nanos":733000000},"explicit":false},{"id":"4xp61WHqvsxvGOmbGQ3RpV","name":"Please Don't Stay","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"album":{"id":"53r7Oz9qbQ5kD0oGhXciBW","release_date":"1998-04-07","name":"Come On In","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"typ":"album","added_at":0},"duration":{"secs":178,"nanos":800000000},"explicit":false},{"id":"5bC6ONDsL88snGN6QasjZH","name":"Help Me","artists":[{"id":"69VgCcXFV59QuQWEXSTxfK","name":"Sonny Boy Williamson II"}],"album":{"id":"5KTyzShPViB2hPWgzkCunV","release_date":"1966-08-03","name":"More Real Folk Blues","artists":[{"id":"69VgCcXFV59QuQWEXSTxfK","name":"Sonny Boy Williamson II"}],"typ":"album","added_at":0},"duration":{"secs":188,"nanos":200000000},"explicit":false},{"id":"3KSchPNSklO5McIqRH3qYX","name":"I'm Your Hoochie Coochie Man","artists":[{"id":"4y6J8jwRAwO4dssiSmN91R","name":"Muddy Waters"}],"album":{"id":"4fOVcN7X7vQ8L41is621uJ","release_date":"1977","name":"King Of The Electric Blues","artists":[{"id":"4y6J8jwRAwO4dssiSmN91R","name":"Muddy Waters"}],"typ":"album","added_at":0},"duration":{"secs":238,"nanos":533000000},"explicit":false},{"id":"41s9iG3fTuu32yBnmDLCcZ","name":"Mojo Hand","artists":[{"id":"6EZzVXM2uDRPmnHWq9yPDE","name":"Lightnin' Hopkins"}],"album":{"id":"0X0Z6M1sQQpSRs9UbqpJEo","release_date":"1962-04-13","name":"Mojo Hand","artists":[{"id":"6EZzVXM2uDRPmnHWq9yPDE","name":"Lightnin' Hopkins"}],"typ":"album","added_at":0},"duration":{"secs":179,"nanos":733000000},"explicit":false},{"id":"7j02rdE5RVtNcNMuLGY5SS","name":"Spoonful","artists":[{"id":"0Wxy5Qka8BN9crcFkiAxSR","name":"Howlin' Wolf"}],"album":{"id":"26TtzBrPdUkHMSTPSbctbl","release_date":"1962-01-11","name":"Howlin' Wolf","artists":[{"id":"0Wxy5Qka8BN9crcFkiAxSR","name":"Howlin' Wolf"}],"typ":"album","added_at":0},"duration":{"secs":170,"nanos":0},"explicit":false},{"id":"2Mr1bGI2E10K7Mt1UJZ6Mw","name":"Boom Boom","artists":[{"id":"1yNOfXGQNGjAynk77wv85x","name":"John Lee Hooker"}],"album":{"id":"3H0HdocoAAEEfiDfcRZauz","release_date":"1962-01-01","name":"Burnin'","artists":[{"id":"1yNOfXGQNGjAynk77wv85x","name":"John Lee Hooker"}],"typ":"album","added_at":0},"duration":{"secs":152,"nanos":350000000},"explicit":false},{"id":"760clbeDBWmBsBLbszWuNZ","name":"I'm A Man","artists":[{"id":"2bmixwMZXlkl2sbIbOfviq","name":"Bo Diddley"}],"album":{"id":"1cbtDEwxCjMhglb49OgNBR","release_date":"1958-01-01","name":"Bo Diddley","artists":[{"id":"2bmixwMZXlkl2sbIbOfviq","name":"Bo Diddley"}],"typ":"album","added_at":0},"duration":{"secs":164,"nanos":546000000},"explicit":false},{"id":"78GNnMm26eN5YFIyQNmTrl","name":"Goodbye Baby","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"album":{"id":"2DyRlIGjwJz8QdsqHY0qU1","release_date":"2000-09-20","name":"Blues After Hours","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"typ":"album","added_at":0},"duration":{"secs":179,"nanos":706000000},"explicit":false},{"id":"0qRz3AYteD6VX65GkBqcel","name":"The Sky Is Crying","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"album":{"id":"04c932ZDWrJTCdBLfUCgUj","release_date":"2001-03-19","name":"Shake Your Moneymaker: The Best of the Fire Sessions","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"typ":"compilation","added_at":0},"duration":{"secs":166,"nanos":400000000},"explicit":false},{"id":"0T5SzDV990cYXKhknRsCpV","name":"Rollin' & Tumblin'","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"album":{"id":"04c932ZDWrJTCdBLfUCgUj","release_date":"2001-03-19","name":"Shake Your Moneymaker: The Best of the Fire Sessions","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"typ":"compilation","added_at":0},"duration":{"secs":152,"nanos":466000000},"explicit":false},{"id":"1dNu3566LuSlOkteAzVgxY","name":"Stranger Blues","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"album":{"id":"04c932ZDWrJTCdBLfUCgUj","release_date":"2001-03-19","name":"Shake Your Moneymaker: The Best of the Fire Sessions","artists":[{"id":"0q9kpdDkEA3H17gcRMjgVS","name":"Elmore James"}],"typ":"compilation","added_at":0},"duration":{"secs":194,"nanos":0},"explicit":false},{"id":"65VzqBb5ogD2xIFD8jetMG","name":"Got My Mojo Working","artists":[{"id":"4y6J8jwRAwO4dssiSmN91R","name":"Muddy Waters"}],"album":{"id":"21Lv19NsmMPpwUL58JCP57","release_date":"1997-05-20","name":"His Best 1956-1964 - The Chess 50th Anniversary Collection","artists":[{"id":"4y6J8jwRAwO4dssiSmN91R","name":"Muddy Waters"}],"typ":"compilation","added_at":0},"duration":{"secs":173,"nanos":40000000},"explicit":false},{"id":"4kY1zORr6jt053J0d4PGHv","name":"Baby, Please Don't Go - Live","artists":[{"id":"4y6J8jwRAwO4dssiSmN91R","name":"Muddy Waters"}],"album":{"id":"7Dy6z1nWHNIF2IKCARP9QN","release_date":"2003-09-02","name":"Muddy \"Mississippi\" Waters Live (Legacy Edition)","artists":[{"id":"4y6J8jwRAwO4dssiSmN91R","name":"Muddy Waters"}],"typ":"album","added_at":0},"duration":{"secs":248,"nanos":133000000},"explicit":false},{"id":"4wszHgvhXYlN2Io813hLQ1","name":"The Well","artists":[{"id":"0FeWKiZSwBRdGzqeCdlH1a","name":"Marcus King"}],"album":{"id":"0twx7uqxPQtmtpeURTlZB0","release_date":"2020-01-17","name":"El Dorado","artists":[{"id":"0FeWKiZSwBRdGzqeCdlH1a","name":"Marcus King"}],"typ":"album","added_at":0},"duration":{"secs":177,"nanos":93000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "51tC2HP8vcI5yBcsYgM5GB",
+    "collaborative": false,
+    "name": "The Blues",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAFor15WDhmg2hxzRBx2i7sIv4ssXC",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "1iLq72znCFaYjzDMko8GX2",
+      "name": "Let My Baby Ride",
+      "artists": [
+        {
+          "id": "2drMeidRg4jc07neGOL0Ip",
+          "name": "R.L. Burnside"
+        }
+      ],
+      "album": {
+        "id": "53r7Oz9qbQ5kD0oGhXciBW",
+        "release_date": "1998-04-07",
+        "name": "Come On In",
+        "artists": [
+          {
+            "id": "2drMeidRg4jc07neGOL0Ip",
+            "name": "R.L. Burnside"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 180,
+        "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "58PSYdY0GFg0LFb2PxYk4T",
+      "name": "Mannish Boy",
+      "artists": [
+        {
+          "id": "4y6J8jwRAwO4dssiSmN91R",
+          "name": "Muddy Waters"
+        }
+      ],
+      "album": {
+        "id": "4fOVcN7X7vQ8L41is621uJ",
+        "release_date": "1977",
+        "name": "King Of The Electric Blues",
+        "artists": [
+          {
+            "id": "4y6J8jwRAwO4dssiSmN91R",
+            "name": "Muddy Waters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 321,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0fM0mFxHP1R4KPX1PB8tWU",
+      "name": "Dust My Broom",
+      "artists": [
+        {
+          "id": "0q9kpdDkEA3H17gcRMjgVS",
+          "name": "Elmore James"
+        }
+      ],
+      "album": {
+        "id": "5f4i4c03PdC3yHI63Ccauu",
+        "release_date": "2001-04-03",
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "artists": [
+          {
+            "id": "0q9kpdDkEA3H17gcRMjgVS",
+            "name": "Elmore James"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 175,
+        "nanos": 40000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2wnjZXcAT3rCjjqxLeHjv7",
+      "name": "Going Down",
+      "artists": [
+        {
+          "id": "5dCuFngSPyOOnTAvrC7v2s",
+          "name": "Freddie King"
+        }
+      ],
+      "album": {
+        "id": "2bNjljctm6ynfp9Xzdy7RI",
+        "release_date": "1971",
+        "name": "Getting Ready... (World)",
+        "artists": [
+          {
+            "id": "5dCuFngSPyOOnTAvrC7v2s",
+            "name": "Freddie King"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7rYh1P8lGX4HeNJ8I9Ngtz",
+      "name": "It's Bad You Know",
+      "artists": [
+        {
+          "id": "2drMeidRg4jc07neGOL0Ip",
+          "name": "R.L. Burnside"
+        }
+      ],
+      "album": {
+        "id": "53r7Oz9qbQ5kD0oGhXciBW",
+        "release_date": "1998-04-07",
+        "name": "Come On In",
+        "artists": [
+          {
+            "id": "2drMeidRg4jc07neGOL0Ip",
+            "name": "R.L. Burnside"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 298,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "5qeclkFFMjJNY5ILH6FXVk",
+      "name": "Rollin' Tumblin' (remix)",
+      "artists": [
+        {
+          "id": "2drMeidRg4jc07neGOL0Ip",
+          "name": "R.L. Burnside"
+        }
+      ],
+      "album": {
+        "id": "53r7Oz9qbQ5kD0oGhXciBW",
+        "release_date": "1998-04-07",
+        "name": "Come On In",
+        "artists": [
+          {
+            "id": "2drMeidRg4jc07neGOL0Ip",
+            "name": "R.L. Burnside"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 253,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4xp61WHqvsxvGOmbGQ3RpV",
+      "name": "Please Don't Stay",
+      "artists": [
+        {
+          "id": "2drMeidRg4jc07neGOL0Ip",
+          "name": "R.L. Burnside"
+        }
+      ],
+      "album": {
+        "id": "53r7Oz9qbQ5kD0oGhXciBW",
+        "release_date": "1998-04-07",
+        "name": "Come On In",
+        "artists": [
+          {
+            "id": "2drMeidRg4jc07neGOL0Ip",
+            "name": "R.L. Burnside"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 178,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5bC6ONDsL88snGN6QasjZH",
+      "name": "Help Me",
+      "artists": [
+        {
+          "id": "69VgCcXFV59QuQWEXSTxfK",
+          "name": "Sonny Boy Williamson II"
+        }
+      ],
+      "album": {
+        "id": "5KTyzShPViB2hPWgzkCunV",
+        "release_date": "1966-08-03",
+        "name": "More Real Folk Blues",
+        "artists": [
+          {
+            "id": "69VgCcXFV59QuQWEXSTxfK",
+            "name": "Sonny Boy Williamson II"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 188,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3KSchPNSklO5McIqRH3qYX",
+      "name": "I'm Your Hoochie Coochie Man",
+      "artists": [
+        {
+          "id": "4y6J8jwRAwO4dssiSmN91R",
+          "name": "Muddy Waters"
+        }
+      ],
+      "album": {
+        "id": "4fOVcN7X7vQ8L41is621uJ",
+        "release_date": "1977",
+        "name": "King Of The Electric Blues",
+        "artists": [
+          {
+            "id": "4y6J8jwRAwO4dssiSmN91R",
+            "name": "Muddy Waters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 238,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "41s9iG3fTuu32yBnmDLCcZ",
+      "name": "Mojo Hand",
+      "artists": [
+        {
+          "id": "6EZzVXM2uDRPmnHWq9yPDE",
+          "name": "Lightnin' Hopkins"
+        }
+      ],
+      "album": {
+        "id": "0X0Z6M1sQQpSRs9UbqpJEo",
+        "release_date": "1962-04-13",
+        "name": "Mojo Hand",
+        "artists": [
+          {
+            "id": "6EZzVXM2uDRPmnHWq9yPDE",
+            "name": "Lightnin' Hopkins"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 179,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7j02rdE5RVtNcNMuLGY5SS",
+      "name": "Spoonful",
+      "artists": [
+        {
+          "id": "0Wxy5Qka8BN9crcFkiAxSR",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "album": {
+        "id": "26TtzBrPdUkHMSTPSbctbl",
+        "release_date": "1962-01-11",
+        "name": "Howlin' Wolf",
+        "artists": [
+          {
+            "id": "0Wxy5Qka8BN9crcFkiAxSR",
+            "name": "Howlin' Wolf"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 170,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Mr1bGI2E10K7Mt1UJZ6Mw",
+      "name": "Boom Boom",
+      "artists": [
+        {
+          "id": "1yNOfXGQNGjAynk77wv85x",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "album": {
+        "id": "3H0HdocoAAEEfiDfcRZauz",
+        "release_date": "1962-01-01",
+        "name": "Burnin'",
+        "artists": [
+          {
+            "id": "1yNOfXGQNGjAynk77wv85x",
+            "name": "John Lee Hooker"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 152,
+        "nanos": 350000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "760clbeDBWmBsBLbszWuNZ",
+      "name": "I'm A Man",
+      "artists": [
+        {
+          "id": "2bmixwMZXlkl2sbIbOfviq",
+          "name": "Bo Diddley"
+        }
+      ],
+      "album": {
+        "id": "1cbtDEwxCjMhglb49OgNBR",
+        "release_date": "1958-01-01",
+        "name": "Bo Diddley",
+        "artists": [
+          {
+            "id": "2bmixwMZXlkl2sbIbOfviq",
+            "name": "Bo Diddley"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 164,
+        "nanos": 546000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "78GNnMm26eN5YFIyQNmTrl",
+      "name": "Goodbye Baby",
+      "artists": [
+        {
+          "id": "0q9kpdDkEA3H17gcRMjgVS",
+          "name": "Elmore James"
+        }
+      ],
+      "album": {
+        "id": "2DyRlIGjwJz8QdsqHY0qU1",
+        "release_date": "2000-09-20",
+        "name": "Blues After Hours",
+        "artists": [
+          {
+            "id": "0q9kpdDkEA3H17gcRMjgVS",
+            "name": "Elmore James"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 179,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0qRz3AYteD6VX65GkBqcel",
+      "name": "The Sky Is Crying",
+      "artists": [
+        {
+          "id": "0q9kpdDkEA3H17gcRMjgVS",
+          "name": "Elmore James"
+        }
+      ],
+      "album": {
+        "id": "04c932ZDWrJTCdBLfUCgUj",
+        "release_date": "2001-03-19",
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "artists": [
+          {
+            "id": "0q9kpdDkEA3H17gcRMjgVS",
+            "name": "Elmore James"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0T5SzDV990cYXKhknRsCpV",
+      "name": "Rollin' & Tumblin'",
+      "artists": [
+        {
+          "id": "0q9kpdDkEA3H17gcRMjgVS",
+          "name": "Elmore James"
+        }
+      ],
+      "album": {
+        "id": "04c932ZDWrJTCdBLfUCgUj",
+        "release_date": "2001-03-19",
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "artists": [
+          {
+            "id": "0q9kpdDkEA3H17gcRMjgVS",
+            "name": "Elmore James"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 152,
+        "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1dNu3566LuSlOkteAzVgxY",
+      "name": "Stranger Blues",
+      "artists": [
+        {
+          "id": "0q9kpdDkEA3H17gcRMjgVS",
+          "name": "Elmore James"
+        }
+      ],
+      "album": {
+        "id": "04c932ZDWrJTCdBLfUCgUj",
+        "release_date": "2001-03-19",
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "artists": [
+          {
+            "id": "0q9kpdDkEA3H17gcRMjgVS",
+            "name": "Elmore James"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 194,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "65VzqBb5ogD2xIFD8jetMG",
+      "name": "Got My Mojo Working",
+      "artists": [
+        {
+          "id": "4y6J8jwRAwO4dssiSmN91R",
+          "name": "Muddy Waters"
+        }
+      ],
+      "album": {
+        "id": "21Lv19NsmMPpwUL58JCP57",
+        "release_date": "1997-05-20",
+        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
+        "artists": [
+          {
+            "id": "4y6J8jwRAwO4dssiSmN91R",
+            "name": "Muddy Waters"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 173,
+        "nanos": 40000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4kY1zORr6jt053J0d4PGHv",
+      "name": "Baby, Please Don't Go - Live",
+      "artists": [
+        {
+          "id": "4y6J8jwRAwO4dssiSmN91R",
+          "name": "Muddy Waters"
+        }
+      ],
+      "album": {
+        "id": "7Dy6z1nWHNIF2IKCARP9QN",
+        "release_date": "2003-09-02",
+        "name": "Muddy \"Mississippi\" Waters Live (Legacy Edition)",
+        "artists": [
+          {
+            "id": "4y6J8jwRAwO4dssiSmN91R",
+            "name": "Muddy Waters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 248,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4wszHgvhXYlN2Io813hLQ1",
+      "name": "The Well",
+      "artists": [
+        {
+          "id": "0FeWKiZSwBRdGzqeCdlH1a",
+          "name": "Marcus King"
+        }
+      ],
+      "album": {
+        "id": "0twx7uqxPQtmtpeURTlZB0",
+        "release_date": "2020-01-17",
+        "name": "El Dorado",
+        "artists": [
+          {
+            "id": "0FeWKiZSwBRdGzqeCdlH1a",
+            "name": "Marcus King"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 177,
+        "nanos": 93000000
+      },
+      "explicit": false
+    }
+  ]
+}

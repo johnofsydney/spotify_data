@@ -1,1 +1,857 @@
-{"playlist":{"id":"0DabpEw36fxGlRrIuCVzmP","collaborative":false,"name":"In the style of Sabbath","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAEyJAvxfvLMzaazioGOMnYucwMxrU"},"tracks":[{"id":"0VjWK7AkPS1lxQh1fc6pPa","name":"The Heavy Seed","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"album":{"id":"2xUhVK37nSq732pmJEx5fg","release_date":"2019-09-06","name":"The Heavy Seed","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"typ":"album","added_at":0},"duration":{"secs":786,"nanos":13000000},"explicit":false},{"id":"3izp7Kz7MBgNcBbSEyOLOY","name":"Vaporizer Woman","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"album":{"id":"2xUhVK37nSq732pmJEx5fg","release_date":"2019-09-06","name":"The Heavy Seed","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"typ":"album","added_at":0},"duration":{"secs":384,"nanos":583000000},"explicit":false},{"id":"4FRb49GiLf0LubhBCReSQG","name":"Take a Swim in God's Washing Machine","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"album":{"id":"2xUhVK37nSq732pmJEx5fg","release_date":"2019-09-06","name":"The Heavy Seed","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"typ":"album","added_at":0},"duration":{"secs":486,"nanos":3000000},"explicit":false},{"id":"15U4vonGBq0eLhtbombfwp","name":"My First Knife Fight","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"album":{"id":"2xUhVK37nSq732pmJEx5fg","release_date":"2019-09-06","name":"The Heavy Seed","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"typ":"album","added_at":0},"duration":{"secs":185,"nanos":961000000},"explicit":false},{"id":"1qGwznzxOR8A3n1AvKrjoc","name":"Teeth & Waves","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"album":{"id":"2xUhVK37nSq732pmJEx5fg","release_date":"2019-09-06","name":"The Heavy Seed","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"typ":"album","added_at":0},"duration":{"secs":637,"nanos":334000000},"explicit":false},{"id":"4qsvPS5w6gvDZtpG5bxY0d","name":"Leaves","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"album":{"id":"5c4FFpt8snFUtCyxydXu0U","release_date":"2021-06-18","name":"Endless Searcher","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"typ":"album","added_at":0},"duration":{"secs":581,"nanos":962000000},"explicit":false},{"id":"0mJZgkuYODrCI3oOv3XJ9M","name":"Luftslott","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"album":{"id":"5c4FFpt8snFUtCyxydXu0U","release_date":"2021-06-18","name":"Endless Searcher","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"typ":"album","added_at":0},"duration":{"secs":479,"nanos":968000000},"explicit":false},{"id":"6bcRkWchLR9gjIQYjFTxyd","name":"A Black Star","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"album":{"id":"5c4FFpt8snFUtCyxydXu0U","release_date":"2021-06-18","name":"Endless Searcher","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"typ":"album","added_at":0},"duration":{"secs":504,"nanos":250000000},"explicit":false},{"id":"6YSLlmfb6taF1hwv2w1D1X","name":"Scavengers","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"album":{"id":"5c4FFpt8snFUtCyxydXu0U","release_date":"2021-06-18","name":"Endless Searcher","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"typ":"album","added_at":0},"duration":{"secs":238,"nanos":245000000},"explicit":false},{"id":"0s0DjMUXoqtxUmmPZ0kdRs","name":"Orbit X","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"album":{"id":"5c4FFpt8snFUtCyxydXu0U","release_date":"2021-06-18","name":"Endless Searcher","artists":[{"id":"2tmKg669vSH9NCEdnz4Y6s","name":"Maha Sohona"}],"typ":"album","added_at":0},"duration":{"secs":442,"nanos":297000000},"explicit":false},{"id":"2A7a5jIlIe84NZnhChHVsT","name":"Eyes Behind the Wall","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":433,"nanos":706000000},"explicit":true},{"id":"1CgkZpMN98BD7IQojfAv8o","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":280,"nanos":146000000},"explicit":false},{"id":"65CrlGgjmmCfvyvGzpmiHU","name":"Black Funeral","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":388,"nanos":146000000},"explicit":false},{"id":"0yzrsf6Z9n31Bj3qQYk0Nb","name":"Masters of It All","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":397,"nanos":693000000},"explicit":true},{"id":"2pCzQMlLJTFrKD8DSVT7gz","name":"Down into the Earth","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":384,"nanos":640000000},"explicit":true},{"id":"5nIORVKJ5tC9OJqCV29JbV","name":"He Who Walks Alone","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":409,"nanos":306000000},"explicit":false},{"id":"08Q0xzywnSDECAmxSitPMz","name":"Cosmonaut of Three","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":344,"nanos":253000000},"explicit":true},{"id":"4HI3MUQwCJxoLa3vTl2gUA","name":"Electric Father","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":439,"nanos":893000000},"explicit":false},{"id":"6LyEd1whvT1u7bGucsKgjq","name":"Albatross","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":354,"nanos":546000000},"explicit":false},{"id":"4C3FxjoMCuFcTx22SUqcr1","name":"Mammoth","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"album":{"id":"44IThhZVm3cde680jBPHwq","release_date":"2016-03-01","name":"Swan Valley Heights","artists":[{"id":"1MCD0sEOenaZFy2nA1hLVL","name":"Swan Valley Heights"}],"typ":"album","added_at":0},"duration":{"secs":662,"nanos":653000000},"explicit":false},{"id":"5WE5KHo4lGk22mYNyjas2B","name":"Eta Carinae","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"61xzWO2b7xmrvLm4C3M36t","release_date":"2020-03-20","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":481,"nanos":108000000},"explicit":false},{"id":"76Ll6k1YMpxS8Kw2HRwjdA","name":"Holy Moon","artists":[{"id":"6VNmsa4FPNunveA9ktg0Nb","name":"Black Rainbows"}],"album":{"id":"5hLvmUzqmpZswt83eQrI3r","release_date":"2014-11-17","name":"Holy Moon","artists":[{"id":"6VNmsa4FPNunveA9ktg0Nb","name":"Black Rainbows"}],"typ":"album","added_at":0},"duration":{"secs":312,"nanos":373000000},"explicit":false},{"id":"2RTuZgDq1cvtM0YyFfkwmt","name":"Orbit","artists":[{"id":"3Hb1TSP5l7tR214bjmHIBA","name":"Kanaan"}],"album":{"id":"5HSRYCKlUSCHzbHyokvnQe","release_date":"2023-03-09","name":"Orbit","artists":[{"id":"3Hb1TSP5l7tR214bjmHIBA","name":"Kanaan"}],"typ":"single","added_at":0},"duration":{"secs":377,"nanos":320000000},"explicit":false},{"id":"3sTjexeSHWqJJ7OG3Sp4VD","name":"Last Curfew","artists":[{"id":"5X1eZAEqHcO5lYy7tgjw5h","name":"Truckfighters"}],"album":{"id":"5hWmVger9wuFMLP1GaaBc9","release_date":"2009-05-11","name":"Mania","artists":[{"id":"5X1eZAEqHcO5lYy7tgjw5h","name":"Truckfighters"}],"typ":"album","added_at":0},"duration":{"secs":475,"nanos":800000000},"explicit":false},{"id":"10FBYz5ynaSqEGldKS6FU7","name":"Blast Off","artists":[{"id":"6XIJivrO9KEaxh6bKai91s","name":"Psychlona"}],"album":{"id":"0hR7KVtTxVDNDpfySqusUh","release_date":"2020-08-21","name":"Venus Skytrip","artists":[{"id":"6XIJivrO9KEaxh6bKai91s","name":"Psychlona"}],"typ":"album","added_at":0},"duration":{"secs":449,"nanos":63000000},"explicit":false},{"id":"0MHXeIPVauigtlBA06SJn2","name":"Maybe I'm Evil","artists":[{"id":"6FzQNPh8Y9wr8OXthjYUJj","name":"The Ivory Elephant"}],"album":{"id":"7K4hBRyCcc83Qxe2DZxM46","release_date":"2019-07-26","name":"Stoneface","artists":[{"id":"6FzQNPh8Y9wr8OXthjYUJj","name":"The Ivory Elephant"}],"typ":"album","added_at":0},"duration":{"secs":244,"nanos":244000000},"explicit":false},{"id":"5wf7FSH0HXNWVCbP8KQXWI","name":"Red Star, Pt. 2 (Radio Edit)","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"61xzWO2b7xmrvLm4C3M36t","release_date":"2020-03-20","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":281,"nanos":824000000},"explicit":false},{"id":"2XKBYxVhjfGhe7gJppbkgS","name":"Through the Rift","artists":[{"id":"2ofc2suzjVzbu2EVToSKHW","name":"Lowrider"},{"id":"79z0Z8E5uY2Fc7HO4VGerm","name":"Elephant Tree"}],"album":{"id":"4UM1KlOD9FTHNrUwVAJ134","release_date":"2024-10-10","name":"Through The Rift [Single]","artists":[{"id":"2ofc2suzjVzbu2EVToSKHW","name":"Lowrider"}],"typ":"single","added_at":0},"duration":{"secs":221,"nanos":106000000},"explicit":false},{"id":"5DrBAetuEiPM70oTrpbUJj","name":"Magic Carpet","artists":[{"id":"6XIJivrO9KEaxh6bKai91s","name":"Psychlona"}],"album":{"id":"7Kk7fPxicOtMHaQ0MYaJ1o","release_date":"2024-09-27","name":"Warped Vision","artists":[{"id":"6XIJivrO9KEaxh6bKai91s","name":"Psychlona"}],"typ":"album","added_at":0},"duration":{"secs":307,"nanos":348000000},"explicit":false},{"id":"24t6UTpnYzRl3B7c2taqym","name":"Sails","artists":[{"id":"79z0Z8E5uY2Fc7HO4VGerm","name":"Elephant Tree"}],"album":{"id":"12jxNALacoqTxvElnKlVDT","release_date":"2020-04-24","name":"Habits","artists":[{"id":"79z0Z8E5uY2Fc7HO4VGerm","name":"Elephant Tree"}],"typ":"album","added_at":0},"duration":{"secs":260,"nanos":729000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "0DabpEw36fxGlRrIuCVzmP",
+    "collaborative": false,
+    "name": "In the style of Sabbath",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAEyJAvxfvLMzaazioGOMnYucwMxrU",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "0VjWK7AkPS1lxQh1fc6pPa",
+      "name": "The Heavy Seed",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "2xUhVK37nSq732pmJEx5fg",
+        "release_date": "2019-09-06",
+        "name": "The Heavy Seed",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 786,
+        "nanos": 13000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3izp7Kz7MBgNcBbSEyOLOY",
+      "name": "Vaporizer Woman",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "2xUhVK37nSq732pmJEx5fg",
+        "release_date": "2019-09-06",
+        "name": "The Heavy Seed",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 384,
+        "nanos": 583000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4FRb49GiLf0LubhBCReSQG",
+      "name": "Take a Swim in God's Washing Machine",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "2xUhVK37nSq732pmJEx5fg",
+        "release_date": "2019-09-06",
+        "name": "The Heavy Seed",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 486,
+        "nanos": 3000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "15U4vonGBq0eLhtbombfwp",
+      "name": "My First Knife Fight",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "2xUhVK37nSq732pmJEx5fg",
+        "release_date": "2019-09-06",
+        "name": "The Heavy Seed",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 185,
+        "nanos": 961000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1qGwznzxOR8A3n1AvKrjoc",
+      "name": "Teeth & Waves",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "2xUhVK37nSq732pmJEx5fg",
+        "release_date": "2019-09-06",
+        "name": "The Heavy Seed",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 637,
+        "nanos": 334000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4qsvPS5w6gvDZtpG5bxY0d",
+      "name": "Leaves",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 581,
+        "nanos": 962000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0mJZgkuYODrCI3oOv3XJ9M",
+      "name": "Luftslott",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 479,
+        "nanos": 968000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6bcRkWchLR9gjIQYjFTxyd",
+      "name": "A Black Star",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 504,
+        "nanos": 250000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6YSLlmfb6taF1hwv2w1D1X",
+      "name": "Scavengers",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 238,
+        "nanos": 245000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0s0DjMUXoqtxUmmPZ0kdRs",
+      "name": "Orbit X",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 442,
+        "nanos": 297000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2A7a5jIlIe84NZnhChHVsT",
+      "name": "Eyes Behind the Wall",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 433,
+        "nanos": 706000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "1CgkZpMN98BD7IQojfAv8o",
+      "name": "Capricorn",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 280,
+        "nanos": 146000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "65CrlGgjmmCfvyvGzpmiHU",
+      "name": "Black Funeral",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 388,
+        "nanos": 146000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0yzrsf6Z9n31Bj3qQYk0Nb",
+      "name": "Masters of It All",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 397,
+        "nanos": 693000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "2pCzQMlLJTFrKD8DSVT7gz",
+      "name": "Down into the Earth",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 384,
+        "nanos": 640000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "5nIORVKJ5tC9OJqCV29JbV",
+      "name": "He Who Walks Alone",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 409,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "08Q0xzywnSDECAmxSitPMz",
+      "name": "Cosmonaut of Three",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 344,
+        "nanos": 253000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "4HI3MUQwCJxoLa3vTl2gUA",
+      "name": "Electric Father",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 439,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6LyEd1whvT1u7bGucsKgjq",
+      "name": "Albatross",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 354,
+        "nanos": 546000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4C3FxjoMCuFcTx22SUqcr1",
+      "name": "Mammoth",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "44IThhZVm3cde680jBPHwq",
+        "release_date": "2016-03-01",
+        "name": "Swan Valley Heights",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 662,
+        "nanos": 653000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5WE5KHo4lGk22mYNyjas2B",
+      "name": "Eta Carinae",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 481,
+        "nanos": 108000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "76Ll6k1YMpxS8Kw2HRwjdA",
+      "name": "Holy Moon",
+      "artists": [
+        {
+          "id": "6VNmsa4FPNunveA9ktg0Nb",
+          "name": "Black Rainbows"
+        }
+      ],
+      "album": {
+        "id": "5hLvmUzqmpZswt83eQrI3r",
+        "release_date": "2014-11-17",
+        "name": "Holy Moon",
+        "artists": [
+          {
+            "id": "6VNmsa4FPNunveA9ktg0Nb",
+            "name": "Black Rainbows"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 312,
+        "nanos": 373000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2RTuZgDq1cvtM0YyFfkwmt",
+      "name": "Orbit",
+      "artists": [
+        {
+          "id": "3Hb1TSP5l7tR214bjmHIBA",
+          "name": "Kanaan"
+        }
+      ],
+      "album": {
+        "id": "5HSRYCKlUSCHzbHyokvnQe",
+        "release_date": "2023-03-09",
+        "name": "Orbit",
+        "artists": [
+          {
+            "id": "3Hb1TSP5l7tR214bjmHIBA",
+            "name": "Kanaan"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 377,
+        "nanos": 320000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3sTjexeSHWqJJ7OG3Sp4VD",
+      "name": "Last Curfew",
+      "artists": [
+        {
+          "id": "5X1eZAEqHcO5lYy7tgjw5h",
+          "name": "Truckfighters"
+        }
+      ],
+      "album": {
+        "id": "5hWmVger9wuFMLP1GaaBc9",
+        "release_date": "2009-05-11",
+        "name": "Mania",
+        "artists": [
+          {
+            "id": "5X1eZAEqHcO5lYy7tgjw5h",
+            "name": "Truckfighters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 475,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "10FBYz5ynaSqEGldKS6FU7",
+      "name": "Blast Off",
+      "artists": [
+        {
+          "id": "6XIJivrO9KEaxh6bKai91s",
+          "name": "Psychlona"
+        }
+      ],
+      "album": {
+        "id": "0hR7KVtTxVDNDpfySqusUh",
+        "release_date": "2020-08-21",
+        "name": "Venus Skytrip",
+        "artists": [
+          {
+            "id": "6XIJivrO9KEaxh6bKai91s",
+            "name": "Psychlona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 449,
+        "nanos": 63000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0MHXeIPVauigtlBA06SJn2",
+      "name": "Maybe I'm Evil",
+      "artists": [
+        {
+          "id": "6FzQNPh8Y9wr8OXthjYUJj",
+          "name": "The Ivory Elephant"
+        }
+      ],
+      "album": {
+        "id": "7K4hBRyCcc83Qxe2DZxM46",
+        "release_date": "2019-07-26",
+        "name": "Stoneface",
+        "artists": [
+          {
+            "id": "6FzQNPh8Y9wr8OXthjYUJj",
+            "name": "The Ivory Elephant"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 244,
+        "nanos": 244000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5wf7FSH0HXNWVCbP8KQXWI",
+      "name": "Red Star, Pt. 2 (Radio Edit)",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 281,
+        "nanos": 824000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2XKBYxVhjfGhe7gJppbkgS",
+      "name": "Through the Rift",
+      "artists": [
+        {
+          "id": "2ofc2suzjVzbu2EVToSKHW",
+          "name": "Lowrider"
+        },
+        {
+          "id": "79z0Z8E5uY2Fc7HO4VGerm",
+          "name": "Elephant Tree"
+        }
+      ],
+      "album": {
+        "id": "4UM1KlOD9FTHNrUwVAJ134",
+        "release_date": "2024-10-10",
+        "name": "Through The Rift [Single]",
+        "artists": [
+          {
+            "id": "2ofc2suzjVzbu2EVToSKHW",
+            "name": "Lowrider"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 221,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5DrBAetuEiPM70oTrpbUJj",
+      "name": "Magic Carpet",
+      "artists": [
+        {
+          "id": "6XIJivrO9KEaxh6bKai91s",
+          "name": "Psychlona"
+        }
+      ],
+      "album": {
+        "id": "7Kk7fPxicOtMHaQ0MYaJ1o",
+        "release_date": "2024-09-27",
+        "name": "Warped Vision",
+        "artists": [
+          {
+            "id": "6XIJivrO9KEaxh6bKai91s",
+            "name": "Psychlona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 307,
+        "nanos": 348000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "24t6UTpnYzRl3B7c2taqym",
+      "name": "Sails",
+      "artists": [
+        {
+          "id": "79z0Z8E5uY2Fc7HO4VGerm",
+          "name": "Elephant Tree"
+        }
+      ],
+      "album": {
+        "id": "12jxNALacoqTxvElnKlVDT",
+        "release_date": "2020-04-24",
+        "name": "Habits",
+        "artists": [
+          {
+            "id": "79z0Z8E5uY2Fc7HO4VGerm",
+            "name": "Elephant Tree"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 260,
+        "nanos": 729000000
+      },
+      "explicit": false
+    }
+  ]
+}

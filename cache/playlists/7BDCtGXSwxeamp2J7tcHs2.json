@@ -1,1 +1,125 @@
-{"playlist":{"id":"7BDCtGXSwxeamp2J7tcHs2","collaborative":false,"name":"JC solos","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAABwwdLxST3dSizyd8eSDOlc6edT/L"},"tracks":[{"id":"1ckR8DXq9CAonlG7mqqt1l","name":"Parka","artists":[{"id":"3B44Q8phYcGWZQ8smSgQTH","name":"The Parks"}],"album":{"id":"4nMvDFgEJL8QOySRZWwbK7","release_date":"2021-08-11","name":"Greener Realms","artists":[{"id":"3B44Q8phYcGWZQ8smSgQTH","name":"The Parks"}],"typ":"album","added_at":0},"duration":{"secs":237,"nanos":482000000},"explicit":false},{"id":"4FgO5UNRCcSFipxyGVvsmQ","name":"Rewind","artists":[{"id":"46tYFFLMj89Qmx5tmRVOzq","name":"pHader"}],"album":{"id":"5s4iImnP2Yr9qrnLBfD7gQ","release_date":"2011-08-08","name":"Rock Electronica Instrumentals","artists":[{"id":"46tYFFLMj89Qmx5tmRVOzq","name":"pHader"}],"typ":"album","added_at":0},"duration":{"secs":204,"nanos":690000000},"explicit":false},{"id":"0yk5hHniAD86DRB6yJ61n4","name":"Through the Middle","artists":[{"id":"46tYFFLMj89Qmx5tmRVOzq","name":"pHader"}],"album":{"id":"5s4iImnP2Yr9qrnLBfD7gQ","release_date":"2011-08-08","name":"Rock Electronica Instrumentals","artists":[{"id":"46tYFFLMj89Qmx5tmRVOzq","name":"pHader"}],"typ":"album","added_at":0},"duration":{"secs":242,"nanos":0},"explicit":false},{"id":"7HsW6gpl0T7C8kdNxfeivR","name":"Paradigm","artists":[{"id":"3B44Q8phYcGWZQ8smSgQTH","name":"The Parks"}],"album":{"id":"4nMvDFgEJL8QOySRZWwbK7","release_date":"2021-08-11","name":"Greener Realms","artists":[{"id":"3B44Q8phYcGWZQ8smSgQTH","name":"The Parks"}],"typ":"album","added_at":0},"duration":{"secs":316,"nanos":798000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "7BDCtGXSwxeamp2J7tcHs2",
+    "collaborative": false,
+    "name": "JC solos",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAABwwdLxST3dSizyd8eSDOlc6edT/L",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "1ckR8DXq9CAonlG7mqqt1l",
+      "name": "Parka",
+      "artists": [
+        {
+          "id": "3B44Q8phYcGWZQ8smSgQTH",
+          "name": "The Parks"
+        }
+      ],
+      "album": {
+        "id": "4nMvDFgEJL8QOySRZWwbK7",
+        "release_date": "2021-08-11",
+        "name": "Greener Realms",
+        "artists": [
+          {
+            "id": "3B44Q8phYcGWZQ8smSgQTH",
+            "name": "The Parks"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 237,
+        "nanos": 482000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4FgO5UNRCcSFipxyGVvsmQ",
+      "name": "Rewind",
+      "artists": [
+        {
+          "id": "46tYFFLMj89Qmx5tmRVOzq",
+          "name": "pHader"
+        }
+      ],
+      "album": {
+        "id": "5s4iImnP2Yr9qrnLBfD7gQ",
+        "release_date": "2011-08-08",
+        "name": "Rock Electronica Instrumentals",
+        "artists": [
+          {
+            "id": "46tYFFLMj89Qmx5tmRVOzq",
+            "name": "pHader"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 690000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0yk5hHniAD86DRB6yJ61n4",
+      "name": "Through the Middle",
+      "artists": [
+        {
+          "id": "46tYFFLMj89Qmx5tmRVOzq",
+          "name": "pHader"
+        }
+      ],
+      "album": {
+        "id": "5s4iImnP2Yr9qrnLBfD7gQ",
+        "release_date": "2011-08-08",
+        "name": "Rock Electronica Instrumentals",
+        "artists": [
+          {
+            "id": "46tYFFLMj89Qmx5tmRVOzq",
+            "name": "pHader"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 242,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "7HsW6gpl0T7C8kdNxfeivR",
+      "name": "Paradigm",
+      "artists": [
+        {
+          "id": "3B44Q8phYcGWZQ8smSgQTH",
+          "name": "The Parks"
+        }
+      ],
+      "album": {
+        "id": "4nMvDFgEJL8QOySRZWwbK7",
+        "release_date": "2021-08-11",
+        "name": "Greener Realms",
+        "artists": [
+          {
+            "id": "3B44Q8phYcGWZQ8smSgQTH",
+            "name": "The Parks"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 316,
+        "nanos": 798000000
+      },
+      "explicit": false
+    }
+  ]
+}

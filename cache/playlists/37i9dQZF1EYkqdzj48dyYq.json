@@ -1,1 +1,12 @@
-{"playlist":{"id":"37i9dQZF1EYkqdzj48dyYq","collaborative":false,"name":"DJ","owner":["REDACTED","REDACTED"],"desc":"All kinds of music, picked by your own AI DJ.","current_folder_id":0,"snapshot_id":"AAAAAa4EtVKKVS3HGZrV4cKQ9b+vdWrY"},"tracks":[]}
+{
+  "playlist": {
+    "id": "37i9dQZF1EYkqdzj48dyYq",
+    "collaborative": false,
+    "name": "DJ",
+    "desc": "All kinds of music, picked by your own AI DJ.",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAAa4EtVKKVS3HGZrV4cKQ9b+vdWrY",
+    "owner_id":"REDACTED"
+  },
+  "tracks": []
+}

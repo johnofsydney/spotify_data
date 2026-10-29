@@ -1,1 +1,709 @@
-{"playlist":{"id":"2MjJcBIwNnjLqyEPyrn27Z","collaborative":false,"name":"Banjo etc","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAHCX4iMAKPReCeFCJAtH+gHJFHV6K"},"tracks":[{"id":"0hUZgmSn4b0cviQjl2tqAN","name":"Gospel Plow","artists":[{"id":"59rtWkULQSK88glmukVtjA","name":"Chance McCoy & The Appalachian String Band"}],"album":{"id":"1PHR4Cw2i1WiLX5eolceKE","release_date":"2008-07-25","name":"Debut","artists":[{"id":"59rtWkULQSK88glmukVtjA","name":"Chance McCoy & The Appalachian String Band"}],"typ":"album","added_at":0},"duration":{"secs":277,"nanos":626000000},"explicit":false},{"id":"6P0B9SHFYUHWHjxORrsDN3","name":"Backstep Cindy","artists":[{"id":"1nilqVfrPCHQUbvqgtZ6G1","name":"The Georgia Jays"}],"album":{"id":"1UwUimmWct8KdMZJ2xQzpE","release_date":"2015-11-23","name":"Round Peak, Georgia","artists":[{"id":"1nilqVfrPCHQUbvqgtZ6G1","name":"The Georgia Jays"}],"typ":"album","added_at":0},"duration":{"secs":163,"nanos":0},"explicit":false},{"id":"61MoV5SIRErdYInSxgWESN","name":"Camp Meeting on the 4th of July","artists":[{"id":"3I6e2ZqqoxQhXc9z7Tp5ci","name":"Rising Appalachia"}],"album":{"id":"5lxTOzziUNGA4DyrcdWMM7","release_date":"2006","name":"Leah and Chloe","artists":[{"id":"3I6e2ZqqoxQhXc9z7Tp5ci","name":"Rising Appalachia"}],"typ":"album","added_at":0},"duration":{"secs":205,"nanos":653000000},"explicit":false},{"id":"7E750iEyIfjNQaa7eZRgoy","name":"Julie Ann Johnson","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"album":{"id":"6cDDwqeNPLaTusLGKWpdaz","release_date":"2001","name":"Walkin' That Banjo Home","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"typ":"album","added_at":0},"duration":{"secs":156,"nanos":280000000},"explicit":false},{"id":"6hmbqkjJd7s5P7iZ3tuHZf","name":"Old Yeller Dog","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"album":{"id":"6cDDwqeNPLaTusLGKWpdaz","release_date":"2001","name":"Walkin' That Banjo Home","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"typ":"album","added_at":0},"duration":{"secs":97,"nanos":640000000},"explicit":false},{"id":"6Hnhk5oUizL0OOQAlEDpVz","name":"Duck River","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"album":{"id":"6cDDwqeNPLaTusLGKWpdaz","release_date":"2001","name":"Walkin' That Banjo Home","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"typ":"album","added_at":0},"duration":{"secs":126,"nanos":320000000},"explicit":false},{"id":"4fmsRZgqBwA7rVHkppvA4F","name":"Hunchback Liza","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"album":{"id":"6cDDwqeNPLaTusLGKWpdaz","release_date":"2001","name":"Walkin' That Banjo Home","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"typ":"album","added_at":0},"duration":{"secs":107,"nanos":106000000},"explicit":false},{"id":"6G0PYZgasIcqQxVtGvVtaR","name":"Squirrel Heads And Gravy","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"album":{"id":"6cDDwqeNPLaTusLGKWpdaz","release_date":"2001","name":"Walkin' That Banjo Home","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"typ":"album","added_at":0},"duration":{"secs":183,"nanos":946000000},"explicit":false},{"id":"1AGmYq6wmoU20iu1qbFjsC","name":"Rachael","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"album":{"id":"6cDDwqeNPLaTusLGKWpdaz","release_date":"2001","name":"Walkin' That Banjo Home","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"typ":"album","added_at":0},"duration":{"secs":147,"nanos":533000000},"explicit":false},{"id":"2WNLeAFhOeyzJ6ixngHh1j","name":"Seven Hills","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"album":{"id":"6cDDwqeNPLaTusLGKWpdaz","release_date":"2001","name":"Walkin' That Banjo Home","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"typ":"album","added_at":0},"duration":{"secs":127,"nanos":200000000},"explicit":false},{"id":"3LAOSqy3DoiA1OiPxC9yMe","name":"Last Chance","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"album":{"id":"6ucKQzFBACLtCXI2V0E1y6","release_date":"2011-07-01","name":"Girl With the Banjo Tattoo","artists":[{"id":"7CnRtPF78V7iMRe7tyh02w","name":"Mary Z. Cox"}],"typ":"album","added_at":0},"duration":{"secs":189,"nanos":400000000},"explicit":false},{"id":"2My4AlUd6Oa8UmNX2mKyDE","name":"Greasy Coat","artists":[{"id":"3I6e2ZqqoxQhXc9z7Tp5ci","name":"Rising Appalachia"}],"album":{"id":"5lxTOzziUNGA4DyrcdWMM7","release_date":"2006","name":"Leah and Chloe","artists":[{"id":"3I6e2ZqqoxQhXc9z7Tp5ci","name":"Rising Appalachia"}],"typ":"album","added_at":0},"duration":{"secs":291,"nanos":986000000},"explicit":false},{"id":"4vk0n5QponthIl0ayMEga8","name":"The Cuckoo Bird","artists":[{"id":"045bTgiTjKUW1intNSR5sA","name":"The Doc Watson Family"},{"id":"01N1aZStXA4yGvkz4vRXtJ","name":"Doc Watson"}],"album":{"id":"5I41SCoC8C1JO3Y6ajJKcg","release_date":"1990","name":"The Watson Family","artists":[{"id":"045bTgiTjKUW1intNSR5sA","name":"The Doc Watson Family"},{"id":"01N1aZStXA4yGvkz4vRXtJ","name":"Doc Watson"}],"typ":"album","added_at":0},"duration":{"secs":183,"nanos":573000000},"explicit":false},{"id":"5v7mJ5CiNRnwjpQsT70nXI","name":"Old Beech Leaves / Sheep and Hogs Walking Through the Pasture","artists":[{"id":"66Vl55G0waAcN8EBjLxmWL","name":"Adam Hurt"}],"album":{"id":"4wdS7wzOgIF8sHy7enu0Tn","release_date":"2010-07-30","name":"Earth Tones","artists":[{"id":"66Vl55G0waAcN8EBjLxmWL","name":"Adam Hurt"}],"typ":"album","added_at":0},"duration":{"secs":163,"nanos":26000000},"explicit":false},{"id":"5DyFAxVguGyoajdajxbbsn","name":"Fortune","artists":[{"id":"66Vl55G0waAcN8EBjLxmWL","name":"Adam Hurt"}],"album":{"id":"4wdS7wzOgIF8sHy7enu0Tn","release_date":"2010-07-30","name":"Earth Tones","artists":[{"id":"66Vl55G0waAcN8EBjLxmWL","name":"Adam Hurt"}],"typ":"album","added_at":0},"duration":{"secs":164,"nanos":826000000},"explicit":false},{"id":"1A4oAobUgK7NPo0909RssX","name":"Josie-O","artists":[{"id":"66Vl55G0waAcN8EBjLxmWL","name":"Adam Hurt"}],"album":{"id":"4wdS7wzOgIF8sHy7enu0Tn","release_date":"2010-07-30","name":"Earth Tones","artists":[{"id":"66Vl55G0waAcN8EBjLxmWL","name":"Adam Hurt"}],"typ":"album","added_at":0},"duration":{"secs":159,"nanos":893000000},"explicit":false},{"id":"2BXJpaIAcdawTX8KesrsXc","name":"Sally Ann - Guitar Version","artists":[{"id":"4F2wmuMQFhE3IP7ozX9ei8","name":"Carling & Will"}],"album":{"id":"3cD7CadDUIsKepLtvEnqWa","release_date":"2017-05-16","name":"Carling & Will","artists":[{"id":"4F2wmuMQFhE3IP7ozX9ei8","name":"Carling & Will"}],"typ":"album","added_at":0},"duration":{"secs":128,"nanos":0},"explicit":false},{"id":"57ewuSUEvhjXXaARKvmZkf","name":"Bonnie Prince Charlie","artists":[{"id":"66Vl55G0waAcN8EBjLxmWL","name":"Adam Hurt"}],"album":{"id":"1eqRfdD8hKpHgMx68nbMG8","release_date":"2006-01-01","name":"Insight","artists":[{"id":"66Vl55G0waAcN8EBjLxmWL","name":"Adam Hurt"}],"typ":"album","added_at":0},"duration":{"secs":154,"nanos":186000000},"explicit":false},{"id":"4LEgBD3TFkULdKvudeUKM3","name":"Stage Fright","artists":[{"id":"6FrFN8PoG2qUy8apsYeN8o","name":"Chris Coole"},{"id":"2m3YYXZIYYypFW953YQ6YE","name":"Ivan Rosenberg"}],"album":{"id":"0W2KK0Hy1QZN2zhiYPGXwx","release_date":"2014-09-18","name":"Return to Trion","artists":[{"id":"6FrFN8PoG2qUy8apsYeN8o","name":"Chris Coole"},{"id":"2m3YYXZIYYypFW953YQ6YE","name":"Ivan Rosenberg"}],"typ":"album","added_at":0},"duration":{"secs":225,"nanos":466000000},"explicit":false},{"id":"4Jzhluc2ZWHgA8ijEMP1HJ","name":"Ionia","artists":[{"id":"5shNy8PK3d0GaOUEoygZB3","name":"Lindsay Lou & the Flatbellys"}],"album":{"id":"2WozLvN6TyURivAK0kNoHZ","release_date":"2015-02-14","name":"Ionia","artists":[{"id":"5shNy8PK3d0GaOUEoygZB3","name":"Lindsay Lou & the Flatbellys"}],"typ":"album","added_at":0},"duration":{"secs":193,"nanos":411000000},"explicit":false},{"id":"40HrZG1rgdb4p55Qi7yKgQ","name":"Clawhammer Medley","artists":[{"id":"1Bd4UVlqlaKEXYRG3wgrCK","name":"Steve Martin"}],"album":{"id":"3R61oxnuAC6eHzbdNeLCTr","release_date":"2009-01-01","name":"The Crow: New Songs For the Five-String Banjo","artists":[{"id":"1Bd4UVlqlaKEXYRG3wgrCK","name":"Steve Martin"}],"typ":"album","added_at":0},"duration":{"secs":136,"nanos":346000000},"explicit":false},{"id":"4E8rck1iSNHu1fzcUtVIs4","name":"Hoedown At Alice's","artists":[{"id":"1Bd4UVlqlaKEXYRG3wgrCK","name":"Steve Martin"}],"album":{"id":"3R61oxnuAC6eHzbdNeLCTr","release_date":"2009-01-01","name":"The Crow: New Songs For the Five-String Banjo","artists":[{"id":"1Bd4UVlqlaKEXYRG3wgrCK","name":"Steve Martin"}],"typ":"album","added_at":0},"duration":{"secs":193,"nanos":613000000},"explicit":false},{"id":"2v4tkhvslRscLstjHw2ShC","name":"Tin Roof","artists":[{"id":"1Bd4UVlqlaKEXYRG3wgrCK","name":"Steve Martin"}],"album":{"id":"3R61oxnuAC6eHzbdNeLCTr","release_date":"2009-01-01","name":"The Crow: New Songs For the Five-String Banjo","artists":[{"id":"1Bd4UVlqlaKEXYRG3wgrCK","name":"Steve Martin"}],"typ":"album","added_at":0},"duration":{"secs":137,"nanos":546000000},"explicit":false},{"id":"0jhnMgqkL0O5Cv1IbV1c26","name":"The Great Remember (for Nancy)","artists":[{"id":"1Bd4UVlqlaKEXYRG3wgrCK","name":"Steve Martin"},{"id":"1a6tqLJPUs4DBAnNUZkr2O","name":"Steep Canyon Rangers"}],"album":{"id":"3ca28eFMgg0dypMFBH0cTp","release_date":"2011-01-01","name":"Rare Bird Alert (Deluxe Version)","artists":[{"id":"1Bd4UVlqlaKEXYRG3wgrCK","name":"Steve Martin"},{"id":"1a6tqLJPUs4DBAnNUZkr2O","name":"Steep Canyon Rangers"}],"typ":"album","added_at":0},"duration":{"secs":190,"nanos":720000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "2MjJcBIwNnjLqyEPyrn27Z",
+    "collaborative": false,
+    "name": "Banjo etc",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAHCX4iMAKPReCeFCJAtH+gHJFHV6K",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "0hUZgmSn4b0cviQjl2tqAN",
+      "name": "Gospel Plow",
+      "artists": [
+        {
+          "id": "59rtWkULQSK88glmukVtjA",
+          "name": "Chance McCoy & The Appalachian String Band"
+        }
+      ],
+      "album": {
+        "id": "1PHR4Cw2i1WiLX5eolceKE",
+        "release_date": "2008-07-25",
+        "name": "Debut",
+        "artists": [
+          {
+            "id": "59rtWkULQSK88glmukVtjA",
+            "name": "Chance McCoy & The Appalachian String Band"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 277,
+        "nanos": 626000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6P0B9SHFYUHWHjxORrsDN3",
+      "name": "Backstep Cindy",
+      "artists": [
+        {
+          "id": "1nilqVfrPCHQUbvqgtZ6G1",
+          "name": "The Georgia Jays"
+        }
+      ],
+      "album": {
+        "id": "1UwUimmWct8KdMZJ2xQzpE",
+        "release_date": "2015-11-23",
+        "name": "Round Peak, Georgia",
+        "artists": [
+          {
+            "id": "1nilqVfrPCHQUbvqgtZ6G1",
+            "name": "The Georgia Jays"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 163,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "61MoV5SIRErdYInSxgWESN",
+      "name": "Camp Meeting on the 4th of July",
+      "artists": [
+        {
+          "id": "3I6e2ZqqoxQhXc9z7Tp5ci",
+          "name": "Rising Appalachia"
+        }
+      ],
+      "album": {
+        "id": "5lxTOzziUNGA4DyrcdWMM7",
+        "release_date": "2006",
+        "name": "Leah and Chloe",
+        "artists": [
+          {
+            "id": "3I6e2ZqqoxQhXc9z7Tp5ci",
+            "name": "Rising Appalachia"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 205,
+        "nanos": 653000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7E750iEyIfjNQaa7eZRgoy",
+      "name": "Julie Ann Johnson",
+      "artists": [
+        {
+          "id": "7CnRtPF78V7iMRe7tyh02w",
+          "name": "Mary Z. Cox"
+        }
+      ],
+      "album": {
+        "id": "6cDDwqeNPLaTusLGKWpdaz",
+        "release_date": "2001",
+        "name": "Walkin' That Banjo Home",
+        "artists": [
+          {
+            "id": "7CnRtPF78V7iMRe7tyh02w",
+            "name": "Mary Z. Cox"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 156,
+        "nanos": 280000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6hmbqkjJd7s5P7iZ3tuHZf",
+      "name": "Old Yeller Dog",
+      "artists": [
+        {
+          "id": "7CnRtPF78V7iMRe7tyh02w",
+          "name": "Mary Z. Cox"
+        }
+      ],
+      "album": {
+        "id": "6cDDwqeNPLaTusLGKWpdaz",
+        "release_date": "2001",
+        "name": "Walkin' That Banjo Home",
+        "artists": [
+          {
+            "id": "7CnRtPF78V7iMRe7tyh02w",
+            "name": "Mary Z. Cox"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 97,
+        "nanos": 640000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Hnhk5oUizL0OOQAlEDpVz",
+      "name": "Duck River",
+      "artists": [
+        {
+          "id": "7CnRtPF78V7iMRe7tyh02w",
+          "name": "Mary Z. Cox"
+        }
+      ],
+      "album": {
+        "id": "6cDDwqeNPLaTusLGKWpdaz",
+        "release_date": "2001",
+        "name": "Walkin' That Banjo Home",
+        "artists": [
+          {
+            "id": "7CnRtPF78V7iMRe7tyh02w",
+            "name": "Mary Z. Cox"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 126,
+        "nanos": 320000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4fmsRZgqBwA7rVHkppvA4F",
+      "name": "Hunchback Liza",
+      "artists": [
+        {
+          "id": "7CnRtPF78V7iMRe7tyh02w",
+          "name": "Mary Z. Cox"
+        }
+      ],
+      "album": {
+        "id": "6cDDwqeNPLaTusLGKWpdaz",
+        "release_date": "2001",
+        "name": "Walkin' That Banjo Home",
+        "artists": [
+          {
+            "id": "7CnRtPF78V7iMRe7tyh02w",
+            "name": "Mary Z. Cox"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 107,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6G0PYZgasIcqQxVtGvVtaR",
+      "name": "Squirrel Heads And Gravy",
+      "artists": [
+        {
+          "id": "7CnRtPF78V7iMRe7tyh02w",
+          "name": "Mary Z. Cox"
+        }
+      ],
+      "album": {
+        "id": "6cDDwqeNPLaTusLGKWpdaz",
+        "release_date": "2001",
+        "name": "Walkin' That Banjo Home",
+        "artists": [
+          {
+            "id": "7CnRtPF78V7iMRe7tyh02w",
+            "name": "Mary Z. Cox"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 183,
+        "nanos": 946000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1AGmYq6wmoU20iu1qbFjsC",
+      "name": "Rachael",
+      "artists": [
+        {
+          "id": "7CnRtPF78V7iMRe7tyh02w",
+          "name": "Mary Z. Cox"
+        }
+      ],
+      "album": {
+        "id": "6cDDwqeNPLaTusLGKWpdaz",
+        "release_date": "2001",
+        "name": "Walkin' That Banjo Home",
+        "artists": [
+          {
+            "id": "7CnRtPF78V7iMRe7tyh02w",
+            "name": "Mary Z. Cox"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 147,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2WNLeAFhOeyzJ6ixngHh1j",
+      "name": "Seven Hills",
+      "artists": [
+        {
+          "id": "7CnRtPF78V7iMRe7tyh02w",
+          "name": "Mary Z. Cox"
+        }
+      ],
+      "album": {
+        "id": "6cDDwqeNPLaTusLGKWpdaz",
+        "release_date": "2001",
+        "name": "Walkin' That Banjo Home",
+        "artists": [
+          {
+            "id": "7CnRtPF78V7iMRe7tyh02w",
+            "name": "Mary Z. Cox"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 127,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3LAOSqy3DoiA1OiPxC9yMe",
+      "name": "Last Chance",
+      "artists": [
+        {
+          "id": "7CnRtPF78V7iMRe7tyh02w",
+          "name": "Mary Z. Cox"
+        }
+      ],
+      "album": {
+        "id": "6ucKQzFBACLtCXI2V0E1y6",
+        "release_date": "2011-07-01",
+        "name": "Girl With the Banjo Tattoo",
+        "artists": [
+          {
+            "id": "7CnRtPF78V7iMRe7tyh02w",
+            "name": "Mary Z. Cox"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 189,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2My4AlUd6Oa8UmNX2mKyDE",
+      "name": "Greasy Coat",
+      "artists": [
+        {
+          "id": "3I6e2ZqqoxQhXc9z7Tp5ci",
+          "name": "Rising Appalachia"
+        }
+      ],
+      "album": {
+        "id": "5lxTOzziUNGA4DyrcdWMM7",
+        "release_date": "2006",
+        "name": "Leah and Chloe",
+        "artists": [
+          {
+            "id": "3I6e2ZqqoxQhXc9z7Tp5ci",
+            "name": "Rising Appalachia"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 291,
+        "nanos": 986000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4vk0n5QponthIl0ayMEga8",
+      "name": "The Cuckoo Bird",
+      "artists": [
+        {
+          "id": "045bTgiTjKUW1intNSR5sA",
+          "name": "The Doc Watson Family"
+        },
+        {
+          "id": "01N1aZStXA4yGvkz4vRXtJ",
+          "name": "Doc Watson"
+        }
+      ],
+      "album": {
+        "id": "5I41SCoC8C1JO3Y6ajJKcg",
+        "release_date": "1990",
+        "name": "The Watson Family",
+        "artists": [
+          {
+            "id": "045bTgiTjKUW1intNSR5sA",
+            "name": "The Doc Watson Family"
+          },
+          {
+            "id": "01N1aZStXA4yGvkz4vRXtJ",
+            "name": "Doc Watson"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 183,
+        "nanos": 573000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5v7mJ5CiNRnwjpQsT70nXI",
+      "name": "Old Beech Leaves / Sheep and Hogs Walking Through the Pasture",
+      "artists": [
+        {
+          "id": "66Vl55G0waAcN8EBjLxmWL",
+          "name": "Adam Hurt"
+        }
+      ],
+      "album": {
+        "id": "4wdS7wzOgIF8sHy7enu0Tn",
+        "release_date": "2010-07-30",
+        "name": "Earth Tones",
+        "artists": [
+          {
+            "id": "66Vl55G0waAcN8EBjLxmWL",
+            "name": "Adam Hurt"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 163,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5DyFAxVguGyoajdajxbbsn",
+      "name": "Fortune",
+      "artists": [
+        {
+          "id": "66Vl55G0waAcN8EBjLxmWL",
+          "name": "Adam Hurt"
+        }
+      ],
+      "album": {
+        "id": "4wdS7wzOgIF8sHy7enu0Tn",
+        "release_date": "2010-07-30",
+        "name": "Earth Tones",
+        "artists": [
+          {
+            "id": "66Vl55G0waAcN8EBjLxmWL",
+            "name": "Adam Hurt"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 164,
+        "nanos": 826000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1A4oAobUgK7NPo0909RssX",
+      "name": "Josie-O",
+      "artists": [
+        {
+          "id": "66Vl55G0waAcN8EBjLxmWL",
+          "name": "Adam Hurt"
+        }
+      ],
+      "album": {
+        "id": "4wdS7wzOgIF8sHy7enu0Tn",
+        "release_date": "2010-07-30",
+        "name": "Earth Tones",
+        "artists": [
+          {
+            "id": "66Vl55G0waAcN8EBjLxmWL",
+            "name": "Adam Hurt"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 159,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2BXJpaIAcdawTX8KesrsXc",
+      "name": "Sally Ann - Guitar Version",
+      "artists": [
+        {
+          "id": "4F2wmuMQFhE3IP7ozX9ei8",
+          "name": "Carling & Will"
+        }
+      ],
+      "album": {
+        "id": "3cD7CadDUIsKepLtvEnqWa",
+        "release_date": "2017-05-16",
+        "name": "Carling & Will",
+        "artists": [
+          {
+            "id": "4F2wmuMQFhE3IP7ozX9ei8",
+            "name": "Carling & Will"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 128,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "57ewuSUEvhjXXaARKvmZkf",
+      "name": "Bonnie Prince Charlie",
+      "artists": [
+        {
+          "id": "66Vl55G0waAcN8EBjLxmWL",
+          "name": "Adam Hurt"
+        }
+      ],
+      "album": {
+        "id": "1eqRfdD8hKpHgMx68nbMG8",
+        "release_date": "2006-01-01",
+        "name": "Insight",
+        "artists": [
+          {
+            "id": "66Vl55G0waAcN8EBjLxmWL",
+            "name": "Adam Hurt"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 154,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4LEgBD3TFkULdKvudeUKM3",
+      "name": "Stage Fright",
+      "artists": [
+        {
+          "id": "6FrFN8PoG2qUy8apsYeN8o",
+          "name": "Chris Coole"
+        },
+        {
+          "id": "2m3YYXZIYYypFW953YQ6YE",
+          "name": "Ivan Rosenberg"
+        }
+      ],
+      "album": {
+        "id": "0W2KK0Hy1QZN2zhiYPGXwx",
+        "release_date": "2014-09-18",
+        "name": "Return to Trion",
+        "artists": [
+          {
+            "id": "6FrFN8PoG2qUy8apsYeN8o",
+            "name": "Chris Coole"
+          },
+          {
+            "id": "2m3YYXZIYYypFW953YQ6YE",
+            "name": "Ivan Rosenberg"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 225,
+        "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Jzhluc2ZWHgA8ijEMP1HJ",
+      "name": "Ionia",
+      "artists": [
+        {
+          "id": "5shNy8PK3d0GaOUEoygZB3",
+          "name": "Lindsay Lou & the Flatbellys"
+        }
+      ],
+      "album": {
+        "id": "2WozLvN6TyURivAK0kNoHZ",
+        "release_date": "2015-02-14",
+        "name": "Ionia",
+        "artists": [
+          {
+            "id": "5shNy8PK3d0GaOUEoygZB3",
+            "name": "Lindsay Lou & the Flatbellys"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 193,
+        "nanos": 411000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "40HrZG1rgdb4p55Qi7yKgQ",
+      "name": "Clawhammer Medley",
+      "artists": [
+        {
+          "id": "1Bd4UVlqlaKEXYRG3wgrCK",
+          "name": "Steve Martin"
+        }
+      ],
+      "album": {
+        "id": "3R61oxnuAC6eHzbdNeLCTr",
+        "release_date": "2009-01-01",
+        "name": "The Crow: New Songs For the Five-String Banjo",
+        "artists": [
+          {
+            "id": "1Bd4UVlqlaKEXYRG3wgrCK",
+            "name": "Steve Martin"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 136,
+        "nanos": 346000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4E8rck1iSNHu1fzcUtVIs4",
+      "name": "Hoedown At Alice's",
+      "artists": [
+        {
+          "id": "1Bd4UVlqlaKEXYRG3wgrCK",
+          "name": "Steve Martin"
+        }
+      ],
+      "album": {
+        "id": "3R61oxnuAC6eHzbdNeLCTr",
+        "release_date": "2009-01-01",
+        "name": "The Crow: New Songs For the Five-String Banjo",
+        "artists": [
+          {
+            "id": "1Bd4UVlqlaKEXYRG3wgrCK",
+            "name": "Steve Martin"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 193,
+        "nanos": 613000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2v4tkhvslRscLstjHw2ShC",
+      "name": "Tin Roof",
+      "artists": [
+        {
+          "id": "1Bd4UVlqlaKEXYRG3wgrCK",
+          "name": "Steve Martin"
+        }
+      ],
+      "album": {
+        "id": "3R61oxnuAC6eHzbdNeLCTr",
+        "release_date": "2009-01-01",
+        "name": "The Crow: New Songs For the Five-String Banjo",
+        "artists": [
+          {
+            "id": "1Bd4UVlqlaKEXYRG3wgrCK",
+            "name": "Steve Martin"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 137,
+        "nanos": 546000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0jhnMgqkL0O5Cv1IbV1c26",
+      "name": "The Great Remember (for Nancy)",
+      "artists": [
+        {
+          "id": "1Bd4UVlqlaKEXYRG3wgrCK",
+          "name": "Steve Martin"
+        },
+        {
+          "id": "1a6tqLJPUs4DBAnNUZkr2O",
+          "name": "Steep Canyon Rangers"
+        }
+      ],
+      "album": {
+        "id": "3ca28eFMgg0dypMFBH0cTp",
+        "release_date": "2011-01-01",
+        "name": "Rare Bird Alert (Deluxe Version)",
+        "artists": [
+          {
+            "id": "1Bd4UVlqlaKEXYRG3wgrCK",
+            "name": "Steve Martin"
+          },
+          {
+            "id": "1a6tqLJPUs4DBAnNUZkr2O",
+            "name": "Steep Canyon Rangers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 190,
+        "nanos": 720000000
+      },
+      "explicit": false
+    }
+  ]
+}

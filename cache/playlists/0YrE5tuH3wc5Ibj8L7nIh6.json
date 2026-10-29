@@ -1,1 +1,2693 @@
-{"playlist":{"id":"0YrE5tuH3wc5Ibj8L7nIh6","collaborative":false,"name":"You've got great taste!","owner":["REDACTED","REDACTED"],"desc":"Thanks for helping improve Spotify's recommendations! Here are some tracks you'll love.","current_folder_id":0,"snapshot_id":"AAAABaUcpPdEvi6C/bjfN7tFQyy97kl4"},"tracks":[{"id":"346j19RX7Raa6snbispVF6","name":"Spirits Stampede","artists":[{"id":"6YK58h9BCYpFNv10fsMwoS","name":"pg.lost"}],"album":{"id":"4lvhLVlxROwIWD87GGOj7J","release_date":"2012-05-18","name":"Key","artists":[{"id":"6YK58h9BCYpFNv10fsMwoS","name":"pg.lost"}],"typ":"album","added_at":0},"duration":{"secs":392,"nanos":880000000},"explicit":false},{"id":"23oijhPzViJZ2jMuJAZqHp","name":"Sárember","artists":[{"id":"4sgTqbA7htxYkRRJBPZIom","name":"Thy Catafalque"}],"album":{"id":"7d5srRRF2PdfBbsyXwuiUg","release_date":"2018-05-04","name":"Geometria","artists":[{"id":"4sgTqbA7htxYkRRJBPZIom","name":"Thy Catafalque"}],"typ":"album","added_at":0},"duration":{"secs":401,"nanos":713000000},"explicit":false},{"id":"6RB52pBDFbYjI6c8uHknVT","name":"Lazarus Online","artists":[{"id":"0XSqX2PB3C5dTMv7SZaxSm","name":"Wolf Parade"}],"album":{"id":"1v6kERVjlCD906B3mmuKkx","release_date":"2017-10-06","name":"Cry Cry Cry","artists":[{"id":"0XSqX2PB3C5dTMv7SZaxSm","name":"Wolf Parade"}],"typ":"album","added_at":0},"duration":{"secs":205,"nanos":680000000},"explicit":false},{"id":"3BeA6rupEChpHGuR9f9zIt","name":"Honey","artists":[{"id":"2iWb4skzSlf6dMTu1DS18J","name":"Pumarosa"}],"album":{"id":"0J96IgUu6kOK2lXbfZaaod","release_date":"2017-05-19","name":"The Witch","artists":[{"id":"2iWb4skzSlf6dMTu1DS18J","name":"Pumarosa"}],"typ":"album","added_at":0},"duration":{"secs":298,"nanos":226000000},"explicit":true},{"id":"5BWW8MeugMtcnWFITJwPY6","name":"March of the Samsara","artists":[{"id":"2gx1v14c65YQU4p7ODeE9z","name":"Junius"}],"album":{"id":"4dSSPkm9w2f81WS3lpgnTg","release_date":"2017-03-03","name":"Eternal Rituals for the Accretion of Light","artists":[{"id":"2gx1v14c65YQU4p7ODeE9z","name":"Junius"}],"typ":"album","added_at":0},"duration":{"secs":333,"nanos":885000000},"explicit":false},{"id":"35BqwFDe0CJA0Hg6QrBFLD","name":"Ramses the Evil Brother","artists":[{"id":"3UzCWOTeYccowgWOPqpItb","name":"The Holy"}],"album":{"id":"0RrMfXxZPhmma6k0eA9P69","release_date":"2016-07-05","name":"Ramses the Evil Brother","artists":[{"id":"3UzCWOTeYccowgWOPqpItb","name":"The Holy"}],"typ":"single","added_at":0},"duration":{"secs":274,"nanos":53000000},"explicit":false},{"id":"3nIIoxsxdqw1iowYIAaHP1","name":"The Architekt","artists":[{"id":"0KjF9pkI2bO9EMuB7LnHqP","name":"Arms and Sleepers"}],"album":{"id":"4V4FtuBndyvQXOLayLQ86h","release_date":"2009-11-17","name":"Matador","artists":[{"id":"0KjF9pkI2bO9EMuB7LnHqP","name":"Arms and Sleepers"}],"typ":"album","added_at":0},"duration":{"secs":285,"nanos":213000000},"explicit":false},{"id":"3Vv0Lsh8rGZZSckd5PsOzd","name":"Arcana Imperii","artists":[{"id":"2E1jLcUfqd9w2XtybNB2Za","name":"Ihsahn"}],"album":{"id":"5w24JkPfkFs4PPVSnrzO1y","release_date":"2018-05-04","name":"Ámr","artists":[{"id":"2E1jLcUfqd9w2XtybNB2Za","name":"Ihsahn"}],"typ":"album","added_at":0},"duration":{"secs":293,"nanos":173000000},"explicit":false},{"id":"7rt0KGjah0pxcjBBujfwSC","name":"Family Man","artists":[{"id":"7Cexe5Ekpfht4ANbVpbZr3","name":"Have You Ever Seen The Jane Fonda Aerobic VHS?"}],"album":{"id":"2BhDbZvMdtncXQsaymOSNW","release_date":"2015-09-11","name":"Teenage Sweetheart","artists":[{"id":"7Cexe5Ekpfht4ANbVpbZr3","name":"Have You Ever Seen The Jane Fonda Aerobic VHS?"}],"typ":"album","added_at":0},"duration":{"secs":214,"nanos":998000000},"explicit":false},{"id":"3WUNSV4o1nQL9ruP43R5i8","name":"In Exile","artists":[{"id":"4lrBMUSk8PiNnCEZfsmPAk","name":"The Pineapple Thief"},{"id":"2Z4qmyxotDkAbZ0TpXyZyw","name":"The Anchoress"}],"album":{"id":"4pKkEDeNXKkD735v64gqBq","release_date":"2017-12-29","name":"Fend for Yourself","artists":[{"id":"4lrBMUSk8PiNnCEZfsmPAk","name":"The Pineapple Thief"}],"typ":"single","added_at":0},"duration":{"secs":214,"nanos":541000000},"explicit":false},{"id":"15MzqGKUfUKeP7QB6A3hwG","name":"Credits","artists":[{"id":"6OaEACxpxzP2sDxX2nTUYJ","name":"Ola Kvernberg"}],"album":{"id":"2q34y2y5hU6iDMBfRFYOub","release_date":"2017-12-01","name":"Steamdome","artists":[{"id":"6OaEACxpxzP2sDxX2nTUYJ","name":"Ola Kvernberg"}],"typ":"album","added_at":0},"duration":{"secs":360,"nanos":722000000},"explicit":false},{"id":"3K2txIzSGIs3oH3DzPeWUr","name":"ALEA","artists":[{"id":"0WB89hYs9ZY6HpuK59lJIQ","name":"Disillusion"}],"album":{"id":"2eY9getcjnnVWSCgbaNPDm","release_date":"2016-10-07","name":"ALEA","artists":[{"id":"0WB89hYs9ZY6HpuK59lJIQ","name":"Disillusion"}],"typ":"single","added_at":0},"duration":{"secs":620,"nanos":66000000},"explicit":false},{"id":"7pECDnr0eojBgXvCQ6nn2j","name":"Phantom","artists":[{"id":"4Z9zaQ8l8EbHdZPwaP691h","name":"Their Dogs Were Astronauts"}],"album":{"id":"6dkkBkV1HqDcHvdTzOMs8j","release_date":"2017-05-12","name":"Phantom","artists":[{"id":"4Z9zaQ8l8EbHdZPwaP691h","name":"Their Dogs Were Astronauts"}],"typ":"single","added_at":0},"duration":{"secs":219,"nanos":350000000},"explicit":false},{"id":"2Npcykw8aIROp6jGjH8rDb","name":"Lateralus","artists":[{"id":"747tlXumGKkuRY8xRbrYjC","name":"Ernesto Schnack"}],"album":{"id":"6VE0AvxF8h5enlognXJotO","release_date":"2018","name":"Herramienta","artists":[{"id":"747tlXumGKkuRY8xRbrYjC","name":"Ernesto Schnack"}],"typ":"album","added_at":0},"duration":{"secs":520,"nanos":760000000},"explicit":false},{"id":"6iY9AS4wKGbUCDyxAjWICR","name":"Whiteworm","artists":[{"id":"5czW6bitDSKbNBNDizRT9p","name":"Marty Friedman"}],"album":{"id":"0zLXtoeV4X9Pa70507bbFf","release_date":"2017-08-04","name":"Wall of Sound","artists":[{"id":"5czW6bitDSKbNBNDizRT9p","name":"Marty Friedman"}],"typ":"album","added_at":0},"duration":{"secs":275,"nanos":640000000},"explicit":false},{"id":"0cDjlYNENwEuagaG3MoTeP","name":"Auto Rock","artists":[{"id":"34UhPkLbtFKRq3nmfFgejG","name":"Mogwai"}],"album":{"id":"2tOH9IbHlUABFGOBMGRdQK","release_date":"2006-03-06","name":"Mr. Beast","artists":[{"id":"34UhPkLbtFKRq3nmfFgejG","name":"Mogwai"}],"typ":"album","added_at":0},"duration":{"secs":260,"nanos":600000000},"explicit":false},{"id":"1PmiFHGu44tz9IlmbLj3TF","name":"Pale Blue Hours","artists":[{"id":"5iWrsrx2ujDuIUwtqvBZXF","name":"Anti Pony"}],"album":{"id":"5yassHVUwGLb8hIOVgQWfZ","release_date":"2017-01-19","name":"Alexander","artists":[{"id":"5iWrsrx2ujDuIUwtqvBZXF","name":"Anti Pony"}],"typ":"single","added_at":0},"duration":{"secs":210,"nanos":100000000},"explicit":false},{"id":"4CVKZdWjp15q1bmSRVnfpZ","name":"Ascending","artists":[{"id":"3SiCxhceGZgzusCLHd4Zz6","name":"Long Distance Calling"}],"album":{"id":"6w7q5ueU8FNwqSYDgxaqqg","release_date":"2018-02-02","name":"Boundless","artists":[{"id":"3SiCxhceGZgzusCLHd4Zz6","name":"Long Distance Calling"}],"typ":"album","added_at":0},"duration":{"secs":299,"nanos":260000000},"explicit":false},{"id":"6bxybgw0nQvh6LujPdYO11","name":"Kosmos (Grooves of Triumph)","artists":[{"id":"1lCspmd05bYpPS814xw5nl","name":"Amplifier"}],"album":{"id":"1fjtOXNqlSHFUsWCBsWjut","release_date":"2017-07-14","name":"Trippin' with Dr Faustus","artists":[{"id":"1lCspmd05bYpPS814xw5nl","name":"Amplifier"}],"typ":"album","added_at":0},"duration":{"secs":402,"nanos":293000000},"explicit":false},{"id":"62rf9IiJO6mCa4nrR3OzHu","name":"Hate To Fall Asleep","artists":[{"id":"627lkEGmmipXQMlOXJMqgm","name":"Wy"}],"album":{"id":"3wMuw8KnRktUO5bDNUADh2","release_date":"2017-10-20","name":"Okay","artists":[{"id":"627lkEGmmipXQMlOXJMqgm","name":"Wy"}],"typ":"album","added_at":0},"duration":{"secs":253,"nanos":327000000},"explicit":false},{"id":"290dRFkaJ1witYabcGWlUA","name":"Dipole Experiment","artists":[{"id":"5KyWqSOpfFRnPTWsq1oUAw","name":"The Evpatoria Report"}],"album":{"id":"66uCQxyHqHIObxRVdsV6Vf","release_date":"2005","name":"Golevka","artists":[{"id":"5KyWqSOpfFRnPTWsq1oUAw","name":"The Evpatoria Report"}],"typ":"album","added_at":0},"duration":{"secs":695,"nanos":333000000},"explicit":false},{"id":"0Dpr5Dixtw0ZM5H5VQall8","name":"Passenger's Log, The Unity Fractions","artists":[{"id":"0mwbAhNgoHdpzdahGIsAUs","name":"The Seven Mile Journey"}],"album":{"id":"769ShcHbbjhaUX9rdAArAr","release_date":"2005-06-17","name":"The Journey Studies","artists":[{"id":"0mwbAhNgoHdpzdahGIsAUs","name":"The Seven Mile Journey"}],"typ":"album","added_at":0},"duration":{"secs":909,"nanos":693000000},"explicit":false},{"id":"6ypIfk4HHmZYVQhJBdXLsI","name":"Dear Desperation","artists":[{"id":"0e9ifOhob7rjrb9W7ipro1","name":"Valermada"}],"album":{"id":"7l8PvcnHPVpE4KDYiGZfks","release_date":"2018-04-04","name":"Fear, Regrets and Mourning","artists":[{"id":"0e9ifOhob7rjrb9W7ipro1","name":"Valermada"}],"typ":"album","added_at":0},"duration":{"secs":340,"nanos":133000000},"explicit":false},{"id":"5KWwiwN4iwtOZLajgH5NG7","name":"De Elysianske Mysterier","artists":[{"id":"7x0tKz4Dvj0w2As2AecRwY","name":"Fribytterdrømme"}],"album":{"id":"3K2yy3TQoQfC2GqeVlskOO","release_date":"2017-04-07","name":"Superego","artists":[{"id":"7x0tKz4Dvj0w2As2AecRwY","name":"Fribytterdrømme"}],"typ":"album","added_at":0},"duration":{"secs":504,"nanos":880000000},"explicit":false},{"id":"2mqx9cf1aabNdNr7HkgLtw","name":"The Quiet Observer","artists":[{"id":"6fuALtryzj4cq7vkglKLxq","name":"The Ocean"}],"album":{"id":"238mdOwhOBjehSEx7d1UTk","release_date":"2015-10-23","name":"Transcendental","artists":[{"id":"53LVoipNTQ4lvUSJ61XKU3","name":"MONO"},{"id":"6fuALtryzj4cq7vkglKLxq","name":"The Ocean"}],"typ":"single","added_at":0},"duration":{"secs":763,"nanos":320000000},"explicit":false},{"id":"1di7h244SmoeqEEGNfpIxO","name":"Insomnia","artists":[{"id":"4VBq7oPj5Yi4Yfx4hopGY3","name":"Lost in Kyiv"}],"album":{"id":"3OSB7K6iaLMJllRZDCzF4f","release_date":"2016-09-02","name":"Nuit Noire","artists":[{"id":"4VBq7oPj5Yi4Yfx4hopGY3","name":"Lost in Kyiv"}],"typ":"album","added_at":0},"duration":{"secs":443,"nanos":226000000},"explicit":false},{"id":"1OhWfQnT0tdCo9FLxhp6mg","name":"Part II – Things Like These Kept You Safe","artists":[{"id":"06ybtH5XIOkGqkpDR2LKvM","name":"The Shaking Sensations"}],"album":{"id":"1UlHnZPUFRD7XcJg9jFmZ4","release_date":"2010-03-12","name":"This Is Your Hellfire Religion!","artists":[{"id":"06ybtH5XIOkGqkpDR2LKvM","name":"The Shaking Sensations"}],"typ":"single","added_at":0},"duration":{"secs":358,"nanos":959000000},"explicit":false},{"id":"4Q0XClBarblfHusW6dzFIE","name":"Have You Ever Seen Milk","artists":[{"id":"2JVPwr6UNZIdsdl8rjTD7S","name":"Alpha Male Tea Party"}],"album":{"id":"6aBLOoBnvopfwq7PaZ9LUx","release_date":"2017-06-23","name":"Health","artists":[{"id":"2JVPwr6UNZIdsdl8rjTD7S","name":"Alpha Male Tea Party"}],"typ":"album","added_at":0},"duration":{"secs":389,"nanos":142000000},"explicit":false},{"id":"4ld1xVnk8Ehirfv94biDMz","name":"Brokeback Mt.","artists":[{"id":"5QleLF5WHrCHKswFrfLB8k","name":"Mt."}],"album":{"id":"4rwSPLiMsp9CXhyrtsUxlb","release_date":"2010-07-13","name":"Teach Your Children How to Think Not What to Think","artists":[{"id":"5QleLF5WHrCHKswFrfLB8k","name":"Mt."}],"typ":"single","added_at":0},"duration":{"secs":192,"nanos":706000000},"explicit":false},{"id":"4s9H81hqPhK5D3NjwdgM5t","name":"Radio Protector","artists":[{"id":"6DVVsQAnpHdJjb1nYuOQ6g","name":"65daysofstatic"}],"album":{"id":"4HthL3t0iv2miJzvKIU0GB","release_date":"2012-10-26","name":"One Time For All Time (deluxe edition)","artists":[{"id":"6DVVsQAnpHdJjb1nYuOQ6g","name":"65daysofstatic"}],"typ":"album","added_at":0},"duration":{"secs":326,"nanos":186000000},"explicit":false},{"id":"7kItHXkqfLWFOiZ0tSzzbA","name":"Enter the Riffian","artists":[{"id":"5QUsinW1AjeDsT6tQdeTb0","name":"Wo Fat"}],"album":{"id":"6jbtn489j5Abu7sUFVlb0Y","release_date":"2009-01-01","name":"Psychedelonaut","artists":[{"id":"5QUsinW1AjeDsT6tQdeTb0","name":"Wo Fat"}],"typ":"album","added_at":0},"duration":{"secs":339,"nanos":573000000},"explicit":false},{"id":"06M77pQeFWvFiVn1Be6XsI","name":"Only Us (ASOT 880) - Hal Stucker Remix","artists":[{"id":"5MO2kbaGGA2a8kL4c9qqHq","name":"Paul Oakenfold"},{"id":"61iRph5tWfvUkZjmvBmADo","name":"Little Nikki"},{"id":"01HjiueGdSdynpvQiBsJ04","name":"Hal Stucker"}],"album":{"id":"5hcUOyUvuXxaH1Pw6OSevF","release_date":"2018-09-06","name":"A State Of Trance Episode 880","artists":[{"id":"25mFVpuABa9GkGcj9eOPce","name":"Armin van Buuren ASOT Radio"}],"typ":"album","added_at":0},"duration":{"secs":222,"nanos":859000000},"explicit":false},{"id":"3FqqwFQV0VBttDRrntlKNX","name":"Beverly","artists":[{"id":"5F8oXHcyrEnqKxZ2r7rJ3k","name":"The Wrecking Queens"}],"album":{"id":"3lfQlUcAwxBS9oxnHye7u7","release_date":"2017","name":"A Different Kind of High EP","artists":[{"id":"5F8oXHcyrEnqKxZ2r7rJ3k","name":"The Wrecking Queens"}],"typ":"single","added_at":0},"duration":{"secs":216,"nanos":755000000},"explicit":false},{"id":"0GWWfQtXhLNfCu7T1YpH8h","name":"Missing - Jorn van Deynhoven Extended Remix","artists":[{"id":"3ePCIHipMKD4n8IBXBYWSm","name":"Mark Sixma"},{"id":"1t65YxEAtU3iii6bCzSGF8","name":"Emma Hewitt"},{"id":"6NuXlqTU1RF0aIoyD46z5v","name":"Jorn Van Deynhoven"}],"album":{"id":"4yZf5EURxrZdsx6nHVQmYF","release_date":"2018-07-13","name":"Missing (Jorn van Deynhoven Remix)","artists":[{"id":"3ePCIHipMKD4n8IBXBYWSm","name":"Mark Sixma"},{"id":"1t65YxEAtU3iii6bCzSGF8","name":"Emma Hewitt"},{"id":"6NuXlqTU1RF0aIoyD46z5v","name":"Jorn Van Deynhoven"}],"typ":"single","added_at":0},"duration":{"secs":380,"nanos":978000000},"explicit":false},{"id":"39IhASh1nkBa63vQEfmWwr","name":"Red Valley","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"6R1Ydiy7Ah8MG57r3g1LLq","release_date":"2016-03-11","name":"Summer Sessions, Vol. 3","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":589,"nanos":758000000},"explicit":false},{"id":"5UuikgHTxSRFRnC0zXx10i","name":"Aqualung","artists":[{"id":"6w6z8m4WXX7Tub4Rb6Lu7R","name":"Jethro Tull"}],"album":{"id":"0NGM3Ftwjw0dLNpAowmz3x","release_date":"1971-03-19","name":"Aqualung (Special Edition)","artists":[{"id":"6w6z8m4WXX7Tub4Rb6Lu7R","name":"Jethro Tull"}],"typ":"compilation","added_at":0},"duration":{"secs":396,"nanos":186000000},"explicit":false},{"id":"2EC9IJj7g0mN1Q5VrZkiYY","name":"Rebel Rebel - 2016 Remaster","artists":[{"id":"0oSGxfWSnnOXhD2fKuz2Gy","name":"David Bowie"}],"album":{"id":"72mfhbEsMtXR6s7v9UhKe3","release_date":"1974-05-24","name":"Diamond Dogs (2016 Remaster)","artists":[{"id":"0oSGxfWSnnOXhD2fKuz2Gy","name":"David Bowie"}],"typ":"album","added_at":0},"duration":{"secs":274,"nanos":746000000},"explicit":false},{"id":"6tqfNZeZCKcp1XIkrpuMzY","name":"Gravity Rules","artists":[{"id":"7GJuWcTs8e0z6Oa8juCyvz","name":"5 Billion In Diamonds"}],"album":{"id":"76wNYA1QzHVj5K8ERnsJ6j","release_date":"2017-08-11","name":"5 Billion in Diamonds","artists":[{"id":"7GJuWcTs8e0z6Oa8juCyvz","name":"5 Billion In Diamonds"}],"typ":"album","added_at":0},"duration":{"secs":315,"nanos":720000000},"explicit":false},{"id":"60Evtx3MICRBjDGgMX04Co","name":"Undertow","artists":[{"id":"6Bgd1CCQAWWqGbkmJsivLv","name":"Chroma Key"}],"album":{"id":"3HBfpcwJqvz3VIhlOpoZhv","release_date":"1998-01-01","name":"Dead Air for Radios","artists":[{"id":"6Bgd1CCQAWWqGbkmJsivLv","name":"Chroma Key"}],"typ":"album","added_at":0},"duration":{"secs":289,"nanos":400000000},"explicit":false},{"id":"0xQhOVxJ2JjpZ8ZxGzFhMe","name":"Only Light - Niko Zografos Remix","artists":[{"id":"3cOY6XMFQ12Q0D6Xif7BZh","name":"Ronski Speed"},{"id":"2ZOKu2D1Ur1M9lmkx2evUM","name":"Syntrobic"}],"album":{"id":"2N0BPVlUTR9mItDSLy8P2h","release_date":"2018-09-17","name":"Only Light","artists":[{"id":"3cOY6XMFQ12Q0D6Xif7BZh","name":"Ronski Speed"},{"id":"2ZOKu2D1Ur1M9lmkx2evUM","name":"Syntrobic"}],"typ":"single","added_at":0},"duration":{"secs":464,"nanos":493000000},"explicit":false},{"id":"3Ix8bKUuHORKWYfeIfjA6s","name":"Rise","artists":[{"id":"1vMOjwz4Cl8RKGOQp782dY","name":"Propane Propane"}],"album":{"id":"7J5QQbPslLsx89xoFdGhA9","release_date":"2012","name":"Indigo","artists":[{"id":"1vMOjwz4Cl8RKGOQp782dY","name":"Propane Propane"}],"typ":"album","added_at":0},"duration":{"secs":357,"nanos":54000000},"explicit":true},{"id":"2cDul5J9xrmbKi4C5zwaox","name":"Dawn Passage","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"7jgyHzoVQYoBtmVejt49dv","release_date":"2016-03-18","name":"Return to Sky","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":500,"nanos":314000000},"explicit":false},{"id":"7wbwAvUOpzLH5ZUyeasbAP","name":"We: In the Desert","artists":[{"id":"119lba2E5Wz6tQUlSu3Q1l","name":"Siena Root"}],"album":{"id":"7EYPUbv9b8uGnMgXAKOwEQ","release_date":"2009-10-13","name":"Different Realities","artists":[{"id":"119lba2E5Wz6tQUlSu3Q1l","name":"Siena Root"}],"typ":"album","added_at":0},"duration":{"secs":193,"nanos":182000000},"explicit":false},{"id":"6g1qaCcUdJN9ETIhvkk6GS","name":"Sucker Punch","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1beRrVJVYBsqGzJEpiO8EY","release_date":"2014-02-25","name":"Desert Overcrowded","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":459,"nanos":206000000},"explicit":false},{"id":"1r1bDBlqwIqxE6GeQrQ4H6","name":"Permian: The Great Dying","artists":[{"id":"6fuALtryzj4cq7vkglKLxq","name":"The Ocean"}],"album":{"id":"2wjKFoNnyZz7RqArUtF4k2","release_date":"2018-09-05","name":"Permian: The Great Dying","artists":[{"id":"6fuALtryzj4cq7vkglKLxq","name":"The Ocean"}],"typ":"single","added_at":0},"duration":{"secs":562,"nanos":200000000},"explicit":false},{"id":"5lxiVR7k7mlmKIProocS3s","name":"Sakima - Dan Thompson's Full On Energy Intro Mix","artists":[{"id":"24xpaWFyBOwoB8lBBolWzv","name":"Marco V"},{"id":"4nlOg4rKASHtzf46WAxnti","name":"Dan Thompson"}],"album":{"id":"73CgdiMk14wD21r0r7wEOW","release_date":"2018-09-28","name":"Sakima (Dan Thompson's Full On Energy Intro Mix)","artists":[{"id":"24xpaWFyBOwoB8lBBolWzv","name":"Marco V"},{"id":"4nlOg4rKASHtzf46WAxnti","name":"Dan Thompson"}],"typ":"single","added_at":0},"duration":{"secs":424,"nanos":750000000},"explicit":false},{"id":"0qOELG7OYbABndEF4020eM","name":"Silent Season","artists":[{"id":"6wsl12qINvQVZOVP4UngPc","name":"Golden Void"}],"album":{"id":"5u0aPNtrBQG7HRb0cjoLoA","release_date":"2015-09-18","name":"Berkana","artists":[{"id":"6wsl12qINvQVZOVP4UngPc","name":"Golden Void"}],"typ":"album","added_at":0},"duration":{"secs":316,"nanos":413000000},"explicit":false},{"id":"7qRPjRdEHJYRx3cFpFHFj5","name":"Loom","artists":[{"id":"4sgZ0Kad8DGhIP422wLArV","name":"Somali Yacht Club"}],"album":{"id":"23KXnBAYs6jLlT2xwTImiL","release_date":"2018-08-17","name":"The Sun +1","artists":[{"id":"4sgZ0Kad8DGhIP422wLArV","name":"Somali Yacht Club"}],"typ":"album","added_at":0},"duration":{"secs":501,"nanos":866000000},"explicit":false},{"id":"0cMmK0Emixa98quIag3YK5","name":"Total Depravity","artists":[{"id":"1MDw0zSUU0XtI9D5JgEZH5","name":"The Veils"}],"album":{"id":"6gASlHZuvLvUUQymZHZGTX","release_date":"2016-08-26","name":"Total Depravity","artists":[{"id":"1MDw0zSUU0XtI9D5JgEZH5","name":"The Veils"}],"typ":"album","added_at":0},"duration":{"secs":305,"nanos":333000000},"explicit":false},{"id":"5Wf3yeobEKYO039m6AiVan","name":"Oracles of War","artists":[{"id":"6HbdR85ROYg8EKNVi2kYtw","name":"Messenger"}],"album":{"id":"1FL8iftfau6RA4p9fX8DCS","release_date":"2016-04-22","name":"Threnodies","artists":[{"id":"6HbdR85ROYg8EKNVi2kYtw","name":"Messenger"}],"typ":"album","added_at":0},"duration":{"secs":512,"nanos":517000000},"explicit":false},{"id":"3Xls4cNOwy01dtrNXb1inG","name":"White Room","artists":[{"id":"74oJ4qxwOZvX6oSsu1DGnw","name":"Cream"}],"album":{"id":"0zrtTZC7yY2TOEhnbJzSb9","release_date":"1968-07-01","name":"Wheels Of Fire","artists":[{"id":"74oJ4qxwOZvX6oSsu1DGnw","name":"Cream"}],"typ":"album","added_at":0},"duration":{"secs":298,"nanos":333000000},"explicit":false},{"id":"2aVMNag2xB7VZUAqLf12fm","name":"Wizard Of War","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"6PTf1MpPtHO8lMCcd69WXo","release_date":"2013-04-26","name":"The Mouths of Madness","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":198,"nanos":613000000},"explicit":false},{"id":"5QjmdrRwT7Xzr73K82sR49","name":"Dream and Drive","artists":[{"id":"7GgksazCOqOwZE9IoCpDLg","name":"Greni"}],"album":{"id":"1W82KlWariYG6Vk7ZAf3jO","release_date":"2017-03-24","name":"Pop Noir","artists":[{"id":"7GgksazCOqOwZE9IoCpDLg","name":"Greni"}],"typ":"album","added_at":0},"duration":{"secs":345,"nanos":26000000},"explicit":false},{"id":"02qEkc1SJnUwDZpT1KsHJR","name":"Cloudwalker (A Darker Blue)","artists":[{"id":"2bNIAjyL3hFCuQBQqhPN4T","name":"Motorpsycho"}],"album":{"id":"6fBe8ufhercLuaJzqAyJNh","release_date":"2014-03-07","name":"Behind The Sun","artists":[{"id":"2bNIAjyL3hFCuQBQqhPN4T","name":"Motorpsycho"}],"typ":"album","added_at":0},"duration":{"secs":365,"nanos":866000000},"explicit":false},{"id":"3aLKBtPywmWi1XLLDf8fr4","name":"LHC","artists":[{"id":"7BIt8dmieIJhheLq5UVQaH","name":"Monomyth"}],"album":{"id":"6Ht9xKDR6XmlzuPT9dVWaW","release_date":"2016-03-18","name":"Exo","artists":[{"id":"7BIt8dmieIJhheLq5UVQaH","name":"Monomyth"}],"typ":"album","added_at":0},"duration":{"secs":586,"nanos":920000000},"explicit":false},{"id":"6FAYqp5MXvNBmnHf0oZWaK","name":"Hearts Aflame","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"3PxXHLkJ3ikkJKpTrxOXIn","release_date":"2011-06-09","name":"The Sayings of the Seers","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"single","added_at":0},"duration":{"secs":356,"nanos":767000000},"explicit":false},{"id":"4nIWQuREFXiYanCyHXvaXU","name":"Getaway","artists":[{"id":"3SiCxhceGZgzusCLHd4Zz6","name":"Long Distance Calling"}],"album":{"id":"2WzWw65DyReOSYMIBwuErQ","release_date":"2016-04-29","name":"TRIPS (Bonus Tracks Version)","artists":[{"id":"3SiCxhceGZgzusCLHd4Zz6","name":"Long Distance Calling"}],"typ":"album","added_at":0},"duration":{"secs":253,"nanos":573000000},"explicit":false},{"id":"18FaLeYOOJAAEOd9EhxPCN","name":"Hypnotized","artists":[{"id":"6WMKYsHNohUhz4Slk7EvUH","name":"Brutus"}],"album":{"id":"640OFBuZe1CbQ7xX9vpjOL","release_date":"2010-04-16","name":"Brutus","artists":[{"id":"6WMKYsHNohUhz4Slk7EvUH","name":"Brutus"}],"typ":"album","added_at":0},"duration":{"secs":324,"nanos":507000000},"explicit":false},{"id":"1CgkZpMN98BD7IQojfAv8o","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"album":{"id":"7l23xxbhi7JDFKVfAMk5Vw","release_date":"2011-02-15","name":"Capricorn","artists":[{"id":"0ruvhGLVp5XtTLHeDRBSBH","name":"Orchid"}],"typ":"album","added_at":0},"duration":{"secs":280,"nanos":146000000},"explicit":false},{"id":"7elwSYRVpo7yyEH8HoDPye","name":"Atl Feelings","artists":[{"id":"1ot1JEuPQ4UI0FS3RJiXTe","name":"Fiend Without A Face"}],"album":{"id":"0rdqT91lrYo34i6NL8waye","release_date":"2017-08-25","name":"Fiend Without a Face","artists":[{"id":"1ot1JEuPQ4UI0FS3RJiXTe","name":"Fiend Without A Face"}],"typ":"album","added_at":0},"duration":{"secs":119,"nanos":680000000},"explicit":false},{"id":"1hIQPCM3oWXrpnXmgTDaKG","name":"Can't You Hear Me Knocking - 2009 Mix","artists":[{"id":"22bE4uQ6baNwSHPVcDxLCe","name":"The Rolling Stones"}],"album":{"id":"29m6DinzdaD0OPqWKGyMdz","release_date":"1971-04-23","name":"Sticky Fingers (Remastered)","artists":[{"id":"22bE4uQ6baNwSHPVcDxLCe","name":"The Rolling Stones"}],"typ":"album","added_at":0},"duration":{"secs":436,"nanos":0},"explicit":false},{"id":"0XG6egyqI7aIy8YpghTzC3","name":"Underneath a Blooming Skylight","artists":[{"id":"1mCzf8R2hU1zgE2ANxEL9C","name":"Your Favorite Enemies"}],"album":{"id":"6Xrk53b0FV9CtofB9GhA0t","release_date":"2016-06-17","name":"Between Illness And Migration - Deluxe: Tokyo Sessions","artists":[{"id":"1mCzf8R2hU1zgE2ANxEL9C","name":"Your Favorite Enemies"}],"typ":"album","added_at":0},"duration":{"secs":354,"nanos":464000000},"explicit":false},{"id":"41cg4dALWpEEFISKLsHIdr","name":"New Beginning","artists":[{"id":"692VvGTch5OLXj4zEE6H3y","name":"Radio Moscow"}],"album":{"id":"0Iva9Vg0YoGz7ahinBkL39","release_date":"2017-09-29","name":"New Beginnings","artists":[{"id":"692VvGTch5OLXj4zEE6H3y","name":"Radio Moscow"}],"typ":"album","added_at":0},"duration":{"secs":248,"nanos":760000000},"explicit":false},{"id":"0w21XZhGlmIexgtDpmtnzT","name":"L.S.F.","artists":[{"id":"11wRdbnoYqRddKBrpHt4Ue","name":"Kasabian"}],"album":{"id":"4RVNd8UwGiAqzfPjbgv0O3","release_date":"2004","name":"Kasabian/Empire","artists":[{"id":"11wRdbnoYqRddKBrpHt4Ue","name":"Kasabian"}],"typ":"album","added_at":0},"duration":{"secs":196,"nanos":853000000},"explicit":false},{"id":"3cMekEiLDY82HCErXcZNhS","name":"Animate","artists":[{"id":"5NIvyOvy39ljx9w71rnCS1","name":"Allegaeon"}],"album":{"id":"43Zq0QcO6FSzknafg4Zfzx","release_date":"2018-01-05","name":"Animate","artists":[{"id":"5NIvyOvy39ljx9w71rnCS1","name":"Allegaeon"}],"typ":"single","added_at":0},"duration":{"secs":339,"nanos":740000000},"explicit":false},{"id":"5fH4e6VH3Wa8sl2H8nyOIw","name":"Black Slug","artists":[{"id":"3KY6i8EJac9URU9OeC1n89","name":"Church of the Cosmic Skull"}],"album":{"id":"0xl75tNEomvveGaCJbOjDY","release_date":"2016-09-16","name":"Is Satan Real?","artists":[{"id":"3KY6i8EJac9URU9OeC1n89","name":"Church of the Cosmic Skull"}],"typ":"album","added_at":0},"duration":{"secs":304,"nanos":893000000},"explicit":false},{"id":"3ikiKIJyaE9miukLCewPNL","name":"A Machine Calling Home","artists":[{"id":"1Jshfcfb8Li2BmbD8rcbp2","name":"Cubby V"}],"album":{"id":"1ZiUUsZ2uI5pmqJXODOR7R","release_date":"2017-03-24","name":"If This Is Life, It Might Get Strange from Now On","artists":[{"id":"1Jshfcfb8Li2BmbD8rcbp2","name":"Cubby V"}],"typ":"album","added_at":0},"duration":{"secs":271,"nanos":68000000},"explicit":false},{"id":"5CXvFqjZHiq0fBinmLZtao","name":"Doomsday Machine","artists":[{"id":"0FfuujZJUa7Z2JzhhiPI2z","name":"Kadavar"}],"album":{"id":"3qDwtlwlZx7mWpZZ2U62Eo","release_date":"2013-04-12","name":"Abra Kadavar","artists":[{"id":"0FfuujZJUa7Z2JzhhiPI2z","name":"Kadavar"}],"typ":"album","added_at":0},"duration":{"secs":287,"nanos":0},"explicit":true},{"id":"6SXFNqaKaLAC3LdjOFiMbj","name":"Glenn","artists":[{"id":"4IwOItqRhsIoRuD5HP4vyC","name":"Slint"}],"album":{"id":"7g8VsULZ5zS89xDfHYIVBk","release_date":"1994-08-29","name":"Slint","artists":[{"id":"4IwOItqRhsIoRuD5HP4vyC","name":"Slint"}],"typ":"single","added_at":0},"duration":{"secs":371,"nanos":480000000},"explicit":false},{"id":"0n87RsEJ9jWYxRwAGZmmL4","name":"Life Took You For A Freq. (feat. Chelsea Wolfe)","artists":[{"id":"15BYnFahZPTexrVSiqxbK7","name":"Sort Sol"},{"id":"6ZK2nrW8aCTg8Bid7I7N10","name":"Chelsea Wolfe"}],"album":{"id":"6eqvZxCPWzpD3CmTFNmX3T","release_date":"2017-05-19","name":"Stor Langsom Stjerne","artists":[{"id":"15BYnFahZPTexrVSiqxbK7","name":"Sort Sol"}],"typ":"album","added_at":0},"duration":{"secs":314,"nanos":718000000},"explicit":false},{"id":"4lB8DlkAdlHyjHpvSwv7az","name":"Parsonz Curse","artists":[{"id":"3Gkit5uLARc6bv3AyYrh5Q","name":"Royal Thunder"}],"album":{"id":"7m68iZmhsTYgIVFrVs6Dnp","release_date":"2012-05-22","name":"CVI","artists":[{"id":"3Gkit5uLARc6bv3AyYrh5Q","name":"Royal Thunder"}],"typ":"album","added_at":0},"duration":{"secs":417,"nanos":720000000},"explicit":false},{"id":"4xw0R9SvKq6SomPuxYFSMC","name":"Golden Prayers","artists":[{"id":"4lgrzShsg2FLA89UM2fdO5","name":"Leprous"}],"album":{"id":"34B4QDyqjXZIhAsc0dZNeq","release_date":"2018-06-01","name":"Golden Prayers","artists":[{"id":"4lgrzShsg2FLA89UM2fdO5","name":"Leprous"}],"typ":"single","added_at":0},"duration":{"secs":266,"nanos":458000000},"explicit":false},{"id":"4erAMvlktwC56SHXRHmJ2m","name":"Tesseract","artists":[{"id":"3WggbHDpj4rPKbL97zG5MQ","name":"Tortoise"}],"album":{"id":"0Q7HMY1sPLRa0LZoFpzgRw","release_date":"2016-01-22","name":"The Catastrophist","artists":[{"id":"3WggbHDpj4rPKbL97zG5MQ","name":"Tortoise"}],"typ":"album","added_at":0},"duration":{"secs":234,"nanos":986000000},"explicit":false},{"id":"5qhbJhRw3Q5s41Jt6JmFw0","name":"I Heard It Through The Grapevine - Edit","artists":[{"id":"3IYUhFvPQItj6xySrBmZkd","name":"Creedence Clearwater Revival"}],"album":{"id":"6anfZgEtfrdKVimLp6VF3d","release_date":"2008-01-01","name":"Creedence Clearwater Revival - Best Of","artists":[{"id":"3IYUhFvPQItj6xySrBmZkd","name":"Creedence Clearwater Revival"}],"typ":"compilation","added_at":0},"duration":{"secs":233,"nanos":66000000},"explicit":false},{"id":"1mA0W0NwfRBayJIeegnM2t","name":"Bruce Lee","artists":[{"id":"7bvRU5Zx4Ll6skiKuiDP6Y","name":"Indian Handcrafts"}],"album":{"id":"3mQZoZlPl2Vsic5zymbWkL","release_date":"2012-10-30","name":"Civil Disobedience for Losers","artists":[{"id":"7bvRU5Zx4Ll6skiKuiDP6Y","name":"Indian Handcrafts"}],"typ":"album","added_at":0},"duration":{"secs":270,"nanos":253000000},"explicit":false},{"id":"1qChdIb1lZZ04Ot9Z9ElCa","name":"Crystal Spiders","artists":[{"id":"16PcI6JjJuUfPlsX8Ffvfl","name":"Uncle Acid & The Deadbeats"}],"album":{"id":"6DmPPxmQL6PlRrWtjD4Eab","release_date":"2010","name":"VOL. 1","artists":[{"id":"16PcI6JjJuUfPlsX8Ffvfl","name":"Uncle Acid & The Deadbeats"}],"typ":"album","added_at":0},"duration":{"secs":213,"nanos":0},"explicit":false},{"id":"5LpchRWh4lgFh3uNThdKrh","name":"Superhuman God","artists":[{"id":"1Zxl7JC5lyI1JAYZyiZhAo","name":"Astroqueen"}],"album":{"id":"4B9cytDNyVkzr4PFtN1SSq","release_date":"2002","name":"Into Submission","artists":[{"id":"1Zxl7JC5lyI1JAYZyiZhAo","name":"Astroqueen"}],"typ":"album","added_at":0},"duration":{"secs":267,"nanos":493000000},"explicit":false},{"id":"6dZYkF2S9bKjwGN5KWpsrP","name":"Faces","artists":[{"id":"0W6558gc4TNIax95vYLCog","name":"Hearts of Black Science"}],"album":{"id":"5jG9ndqB7GAjr9KNRYM0Rd","release_date":"2015-11-20","name":"Signal","artists":[{"id":"0W6558gc4TNIax95vYLCog","name":"Hearts of Black Science"}],"typ":"album","added_at":0},"duration":{"secs":280,"nanos":160000000},"explicit":false},{"id":"2kkMp4Z0Dmn14drAvVeARw","name":"Break & Enter (Remastered)","artists":[{"id":"4k1ELeJKT1ISyDv8JivPpB","name":"The Prodigy"}],"album":{"id":"6wZgpIgQWZzq8qKJrU7ELd","release_date":"1994","name":"More Music for the Jilted Generation","artists":[{"id":"4k1ELeJKT1ISyDv8JivPpB","name":"The Prodigy"}],"typ":"album","added_at":0},"duration":{"secs":504,"nanos":533000000},"explicit":false},{"id":"7iX88ae8YKqW2SiZndg4y7","name":"Far from You","artists":[{"id":"6yR8Nf8o56ZZR070jTti83","name":"Witchrider"},{"id":"5X1eZAEqHcO5lYy7tgjw5h","name":"Truckfighters"}],"album":{"id":"71x63UmOiMjryrfbOT8hny","release_date":"2015-08-06","name":"The Return of the Fuzzsplit, Vol. 1","artists":[{"id":"5X1eZAEqHcO5lYy7tgjw5h","name":"Truckfighters"},{"id":"6yR8Nf8o56ZZR070jTti83","name":"Witchrider"}],"typ":"single","added_at":0},"duration":{"secs":330,"nanos":576000000},"explicit":false},{"id":"26z9ir9sLhQkPDhpuSCxSf","name":"Hot As Hades - Jorn van Deynhoven Remix","artists":[{"id":"4FfbnH8gCa4qMMV05Tobdz","name":"Josh Gabriel"},{"id":"4sYp83CChLan3PcSRnSMUh","name":"Winter Kills"},{"id":"6NuXlqTU1RF0aIoyD46z5v","name":"Jorn Van Deynhoven"}],"album":{"id":"3ycdtHnGvCe7NpPBytt0IO","release_date":"2018-08-31","name":"Hot As Hades (Jorn van Deynhoven Remix)","artists":[{"id":"4FfbnH8gCa4qMMV05Tobdz","name":"Josh Gabriel"},{"id":"4sYp83CChLan3PcSRnSMUh","name":"Winter Kills"},{"id":"6NuXlqTU1RF0aIoyD46z5v","name":"Jorn Van Deynhoven"}],"typ":"single","added_at":0},"duration":{"secs":271,"nanos":293000000},"explicit":false},{"id":"1BRi610kXH5Iwmb4nZSTNe","name":"Umbrella","artists":[{"id":"394nRzExyBfXszYd4mbBmR","name":"Pelander"}],"album":{"id":"5VHvgM3CDDkYq0thNSZpos","release_date":"2016-10-21","name":"Time","artists":[{"id":"394nRzExyBfXszYd4mbBmR","name":"Pelander"}],"typ":"album","added_at":0},"duration":{"secs":326,"nanos":666000000},"explicit":false},{"id":"0ZWGGZ945lUum59iz3Ftox","name":"Two Stage Rocket","artists":[{"id":"1Nd9wmXkGfM0hTMPlJW2MB","name":"Assemble Head In Sunburst Sound"}],"album":{"id":"0sDiwLzVhGLE1PC2TIkr2W","release_date":"2009-04-07","name":"When Sweet Sleep Returned","artists":[{"id":"1Nd9wmXkGfM0hTMPlJW2MB","name":"Assemble Head In Sunburst Sound"}],"typ":"album","added_at":0},"duration":{"secs":207,"nanos":973000000},"explicit":false},{"id":"0s4BiyEHTNx6CGsf6m4z96","name":"Cause We Didn't Find Our Way","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1beRrVJVYBsqGzJEpiO8EY","release_date":"2014-02-25","name":"Desert Overcrowded","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":286,"nanos":893000000},"explicit":false},{"id":"5n0OJSDv9VmEh1Avw3qf3W","name":"I Hear the Beat","artists":[{"id":"6wtzsaUpg7lKh5tNa2FGLH","name":"10After10"}],"album":{"id":"2oR6SW0HftyemIZe3fCM7w","release_date":"2016-12-16","name":"Strokes of Life","artists":[{"id":"6wtzsaUpg7lKh5tNa2FGLH","name":"10After10"}],"typ":"album","added_at":0},"duration":{"secs":137,"nanos":0},"explicit":false},{"id":"24kIG2ECW4rW2Fln8kTzTz","name":"Solstice","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"7fVLUtzx2xVYcNd5icxdwC","release_date":"2016-04-28","name":"Volume Rock","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"album","added_at":0},"duration":{"secs":254,"nanos":235000000},"explicit":false},{"id":"2aoo2jlRnM3A0NyLQqMN2f","name":"All Along the Watchtower","artists":[{"id":"776Uo845nYHJpNaStv1Ds4","name":"Jimi Hendrix"}],"album":{"id":"5z090LQztiqh13wYspQvKQ","release_date":"1968-10-25","name":"Electric Ladyland","artists":[{"id":"776Uo845nYHJpNaStv1Ds4","name":"Jimi Hendrix"}],"typ":"album","added_at":0},"duration":{"secs":240,"nanos":800000000},"explicit":false},{"id":"5cVdYasv2PERBkVWxWU0R0","name":"It's the Sun","artists":[{"id":"0inqWv3OS4VpWt691ki8yk","name":"The Polyphonic Spree"}],"album":{"id":"6NlU7ZtjDMNSEfxfjzDnwL","release_date":"2002-09-23","name":"The Beginning Stages Of ...","artists":[{"id":"0inqWv3OS4VpWt691ki8yk","name":"The Polyphonic Spree"}],"typ":"album","added_at":0},"duration":{"secs":334,"nanos":599000000},"explicit":false},{"id":"2Q7xYxV504kca2EYXOrMJx","name":"Healer","artists":[{"id":"4PxqJghOAEvatt0scJvili","name":"Torche"}],"album":{"id":"06wsfNFbTnic3IgNmKQArq","release_date":"2008","name":"Meanderthal","artists":[{"id":"4PxqJghOAEvatt0scJvili","name":"Torche"}],"typ":"album","added_at":0},"duration":{"secs":127,"nanos":520000000},"explicit":false},{"id":"0JRlyt2r0B1ZIVblAdOhyu","name":"Their Law (feat. Pop Will Eat Itself) [Remastered]","artists":[{"id":"4k1ELeJKT1ISyDv8JivPpB","name":"The Prodigy"}],"album":{"id":"6wZgpIgQWZzq8qKJrU7ELd","release_date":"1994","name":"More Music for the Jilted Generation","artists":[{"id":"4k1ELeJKT1ISyDv8JivPpB","name":"The Prodigy"}],"typ":"album","added_at":0},"duration":{"secs":400,"nanos":733000000},"explicit":false},{"id":"2B3IQ0p5jG3oDNU4L3MvRY","name":"Desert Overcrowded","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1beRrVJVYBsqGzJEpiO8EY","release_date":"2014-02-25","name":"Desert Overcrowded","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":602,"nanos":849000000},"explicit":false},{"id":"1hzI90LkGC8jnpVv9aer7O","name":"Ju-Ju Blues","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"5Ylo2MVt7UMcv7gPGyC3hu","release_date":"2013-08-05","name":"Euporie Tide","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":395,"nanos":413000000},"explicit":false},{"id":"2sWzJDMSkqLs3qTdtaFU9F","name":"Our Mother Ash","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"album":{"id":"40C3PckrvT1kl1Dildufk8","release_date":"2014-05-13","name":"Trails & Passes","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"typ":"album","added_at":0},"duration":{"secs":194,"nanos":866000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "0YrE5tuH3wc5Ibj8L7nIh6",
+    "collaborative": false,
+    "name": "You've got great taste!",
+    "desc": "Thanks for helping improve Spotify's recommendations! Here are some tracks you'll love.",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAABaUcpPdEvi6C/bjfN7tFQyy97kl4",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "346j19RX7Raa6snbispVF6",
+      "name": "Spirits Stampede",
+      "artists": [
+        {
+          "id": "6YK58h9BCYpFNv10fsMwoS",
+          "name": "pg.lost"
+        }
+      ],
+      "album": {
+        "id": "4lvhLVlxROwIWD87GGOj7J",
+        "release_date": "2012-05-18",
+        "name": "Key",
+        "artists": [
+          {
+            "id": "6YK58h9BCYpFNv10fsMwoS",
+            "name": "pg.lost"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 392,
+        "nanos": 880000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "23oijhPzViJZ2jMuJAZqHp",
+      "name": "Sárember",
+      "artists": [
+        {
+          "id": "4sgTqbA7htxYkRRJBPZIom",
+          "name": "Thy Catafalque"
+        }
+      ],
+      "album": {
+        "id": "7d5srRRF2PdfBbsyXwuiUg",
+        "release_date": "2018-05-04",
+        "name": "Geometria",
+        "artists": [
+          {
+            "id": "4sgTqbA7htxYkRRJBPZIom",
+            "name": "Thy Catafalque"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 401,
+        "nanos": 713000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6RB52pBDFbYjI6c8uHknVT",
+      "name": "Lazarus Online",
+      "artists": [
+        {
+          "id": "0XSqX2PB3C5dTMv7SZaxSm",
+          "name": "Wolf Parade"
+        }
+      ],
+      "album": {
+        "id": "1v6kERVjlCD906B3mmuKkx",
+        "release_date": "2017-10-06",
+        "name": "Cry Cry Cry",
+        "artists": [
+          {
+            "id": "0XSqX2PB3C5dTMv7SZaxSm",
+            "name": "Wolf Parade"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 205,
+        "nanos": 680000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3BeA6rupEChpHGuR9f9zIt",
+      "name": "Honey",
+      "artists": [
+        {
+          "id": "2iWb4skzSlf6dMTu1DS18J",
+          "name": "Pumarosa"
+        }
+      ],
+      "album": {
+        "id": "0J96IgUu6kOK2lXbfZaaod",
+        "release_date": "2017-05-19",
+        "name": "The Witch",
+        "artists": [
+          {
+            "id": "2iWb4skzSlf6dMTu1DS18J",
+            "name": "Pumarosa"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 298,
+        "nanos": 226000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "5BWW8MeugMtcnWFITJwPY6",
+      "name": "March of the Samsara",
+      "artists": [
+        {
+          "id": "2gx1v14c65YQU4p7ODeE9z",
+          "name": "Junius"
+        }
+      ],
+      "album": {
+        "id": "4dSSPkm9w2f81WS3lpgnTg",
+        "release_date": "2017-03-03",
+        "name": "Eternal Rituals for the Accretion of Light",
+        "artists": [
+          {
+            "id": "2gx1v14c65YQU4p7ODeE9z",
+            "name": "Junius"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 333,
+        "nanos": 885000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "35BqwFDe0CJA0Hg6QrBFLD",
+      "name": "Ramses the Evil Brother",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "0RrMfXxZPhmma6k0eA9P69",
+        "release_date": "2016-07-05",
+        "name": "Ramses the Evil Brother",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 274,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3nIIoxsxdqw1iowYIAaHP1",
+      "name": "The Architekt",
+      "artists": [
+        {
+          "id": "0KjF9pkI2bO9EMuB7LnHqP",
+          "name": "Arms and Sleepers"
+        }
+      ],
+      "album": {
+        "id": "4V4FtuBndyvQXOLayLQ86h",
+        "release_date": "2009-11-17",
+        "name": "Matador",
+        "artists": [
+          {
+            "id": "0KjF9pkI2bO9EMuB7LnHqP",
+            "name": "Arms and Sleepers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 285,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3Vv0Lsh8rGZZSckd5PsOzd",
+      "name": "Arcana Imperii",
+      "artists": [
+        {
+          "id": "2E1jLcUfqd9w2XtybNB2Za",
+          "name": "Ihsahn"
+        }
+      ],
+      "album": {
+        "id": "5w24JkPfkFs4PPVSnrzO1y",
+        "release_date": "2018-05-04",
+        "name": "Ámr",
+        "artists": [
+          {
+            "id": "2E1jLcUfqd9w2XtybNB2Za",
+            "name": "Ihsahn"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 293,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7rt0KGjah0pxcjBBujfwSC",
+      "name": "Family Man",
+      "artists": [
+        {
+          "id": "7Cexe5Ekpfht4ANbVpbZr3",
+          "name": "Have You Ever Seen The Jane Fonda Aerobic VHS?"
+        }
+      ],
+      "album": {
+        "id": "2BhDbZvMdtncXQsaymOSNW",
+        "release_date": "2015-09-11",
+        "name": "Teenage Sweetheart",
+        "artists": [
+          {
+            "id": "7Cexe5Ekpfht4ANbVpbZr3",
+            "name": "Have You Ever Seen The Jane Fonda Aerobic VHS?"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 214,
+        "nanos": 998000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3WUNSV4o1nQL9ruP43R5i8",
+      "name": "In Exile",
+      "artists": [
+        {
+          "id": "4lrBMUSk8PiNnCEZfsmPAk",
+          "name": "The Pineapple Thief"
+        },
+        {
+          "id": "2Z4qmyxotDkAbZ0TpXyZyw",
+          "name": "The Anchoress"
+        }
+      ],
+      "album": {
+        "id": "4pKkEDeNXKkD735v64gqBq",
+        "release_date": "2017-12-29",
+        "name": "Fend for Yourself",
+        "artists": [
+          {
+            "id": "4lrBMUSk8PiNnCEZfsmPAk",
+            "name": "The Pineapple Thief"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 214,
+        "nanos": 541000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "15MzqGKUfUKeP7QB6A3hwG",
+      "name": "Credits",
+      "artists": [
+        {
+          "id": "6OaEACxpxzP2sDxX2nTUYJ",
+          "name": "Ola Kvernberg"
+        }
+      ],
+      "album": {
+        "id": "2q34y2y5hU6iDMBfRFYOub",
+        "release_date": "2017-12-01",
+        "name": "Steamdome",
+        "artists": [
+          {
+            "id": "6OaEACxpxzP2sDxX2nTUYJ",
+            "name": "Ola Kvernberg"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 360,
+        "nanos": 722000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3K2txIzSGIs3oH3DzPeWUr",
+      "name": "ALEA",
+      "artists": [
+        {
+          "id": "0WB89hYs9ZY6HpuK59lJIQ",
+          "name": "Disillusion"
+        }
+      ],
+      "album": {
+        "id": "2eY9getcjnnVWSCgbaNPDm",
+        "release_date": "2016-10-07",
+        "name": "ALEA",
+        "artists": [
+          {
+            "id": "0WB89hYs9ZY6HpuK59lJIQ",
+            "name": "Disillusion"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 620,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7pECDnr0eojBgXvCQ6nn2j",
+      "name": "Phantom",
+      "artists": [
+        {
+          "id": "4Z9zaQ8l8EbHdZPwaP691h",
+          "name": "Their Dogs Were Astronauts"
+        }
+      ],
+      "album": {
+        "id": "6dkkBkV1HqDcHvdTzOMs8j",
+        "release_date": "2017-05-12",
+        "name": "Phantom",
+        "artists": [
+          {
+            "id": "4Z9zaQ8l8EbHdZPwaP691h",
+            "name": "Their Dogs Were Astronauts"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 219,
+        "nanos": 350000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Npcykw8aIROp6jGjH8rDb",
+      "name": "Lateralus",
+      "artists": [
+        {
+          "id": "747tlXumGKkuRY8xRbrYjC",
+          "name": "Ernesto Schnack"
+        }
+      ],
+      "album": {
+        "id": "6VE0AvxF8h5enlognXJotO",
+        "release_date": "2018",
+        "name": "Herramienta",
+        "artists": [
+          {
+            "id": "747tlXumGKkuRY8xRbrYjC",
+            "name": "Ernesto Schnack"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 520,
+        "nanos": 760000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6iY9AS4wKGbUCDyxAjWICR",
+      "name": "Whiteworm",
+      "artists": [
+        {
+          "id": "5czW6bitDSKbNBNDizRT9p",
+          "name": "Marty Friedman"
+        }
+      ],
+      "album": {
+        "id": "0zLXtoeV4X9Pa70507bbFf",
+        "release_date": "2017-08-04",
+        "name": "Wall of Sound",
+        "artists": [
+          {
+            "id": "5czW6bitDSKbNBNDizRT9p",
+            "name": "Marty Friedman"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 275,
+        "nanos": 640000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0cDjlYNENwEuagaG3MoTeP",
+      "name": "Auto Rock",
+      "artists": [
+        {
+          "id": "34UhPkLbtFKRq3nmfFgejG",
+          "name": "Mogwai"
+        }
+      ],
+      "album": {
+        "id": "2tOH9IbHlUABFGOBMGRdQK",
+        "release_date": "2006-03-06",
+        "name": "Mr. Beast",
+        "artists": [
+          {
+            "id": "34UhPkLbtFKRq3nmfFgejG",
+            "name": "Mogwai"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 260,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1PmiFHGu44tz9IlmbLj3TF",
+      "name": "Pale Blue Hours",
+      "artists": [
+        {
+          "id": "5iWrsrx2ujDuIUwtqvBZXF",
+          "name": "Anti Pony"
+        }
+      ],
+      "album": {
+        "id": "5yassHVUwGLb8hIOVgQWfZ",
+        "release_date": "2017-01-19",
+        "name": "Alexander",
+        "artists": [
+          {
+            "id": "5iWrsrx2ujDuIUwtqvBZXF",
+            "name": "Anti Pony"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 210,
+        "nanos": 100000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4CVKZdWjp15q1bmSRVnfpZ",
+      "name": "Ascending",
+      "artists": [
+        {
+          "id": "3SiCxhceGZgzusCLHd4Zz6",
+          "name": "Long Distance Calling"
+        }
+      ],
+      "album": {
+        "id": "6w7q5ueU8FNwqSYDgxaqqg",
+        "release_date": "2018-02-02",
+        "name": "Boundless",
+        "artists": [
+          {
+            "id": "3SiCxhceGZgzusCLHd4Zz6",
+            "name": "Long Distance Calling"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 299,
+        "nanos": 260000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6bxybgw0nQvh6LujPdYO11",
+      "name": "Kosmos (Grooves of Triumph)",
+      "artists": [
+        {
+          "id": "1lCspmd05bYpPS814xw5nl",
+          "name": "Amplifier"
+        }
+      ],
+      "album": {
+        "id": "1fjtOXNqlSHFUsWCBsWjut",
+        "release_date": "2017-07-14",
+        "name": "Trippin' with Dr Faustus",
+        "artists": [
+          {
+            "id": "1lCspmd05bYpPS814xw5nl",
+            "name": "Amplifier"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 402,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "62rf9IiJO6mCa4nrR3OzHu",
+      "name": "Hate To Fall Asleep",
+      "artists": [
+        {
+          "id": "627lkEGmmipXQMlOXJMqgm",
+          "name": "Wy"
+        }
+      ],
+      "album": {
+        "id": "3wMuw8KnRktUO5bDNUADh2",
+        "release_date": "2017-10-20",
+        "name": "Okay",
+        "artists": [
+          {
+            "id": "627lkEGmmipXQMlOXJMqgm",
+            "name": "Wy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 253,
+        "nanos": 327000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "290dRFkaJ1witYabcGWlUA",
+      "name": "Dipole Experiment",
+      "artists": [
+        {
+          "id": "5KyWqSOpfFRnPTWsq1oUAw",
+          "name": "The Evpatoria Report"
+        }
+      ],
+      "album": {
+        "id": "66uCQxyHqHIObxRVdsV6Vf",
+        "release_date": "2005",
+        "name": "Golevka",
+        "artists": [
+          {
+            "id": "5KyWqSOpfFRnPTWsq1oUAw",
+            "name": "The Evpatoria Report"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 695,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0Dpr5Dixtw0ZM5H5VQall8",
+      "name": "Passenger's Log, The Unity Fractions",
+      "artists": [
+        {
+          "id": "0mwbAhNgoHdpzdahGIsAUs",
+          "name": "The Seven Mile Journey"
+        }
+      ],
+      "album": {
+        "id": "769ShcHbbjhaUX9rdAArAr",
+        "release_date": "2005-06-17",
+        "name": "The Journey Studies",
+        "artists": [
+          {
+            "id": "0mwbAhNgoHdpzdahGIsAUs",
+            "name": "The Seven Mile Journey"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 909,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6ypIfk4HHmZYVQhJBdXLsI",
+      "name": "Dear Desperation",
+      "artists": [
+        {
+          "id": "0e9ifOhob7rjrb9W7ipro1",
+          "name": "Valermada"
+        }
+      ],
+      "album": {
+        "id": "7l8PvcnHPVpE4KDYiGZfks",
+        "release_date": "2018-04-04",
+        "name": "Fear, Regrets and Mourning",
+        "artists": [
+          {
+            "id": "0e9ifOhob7rjrb9W7ipro1",
+            "name": "Valermada"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 340,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5KWwiwN4iwtOZLajgH5NG7",
+      "name": "De Elysianske Mysterier",
+      "artists": [
+        {
+          "id": "7x0tKz4Dvj0w2As2AecRwY",
+          "name": "Fribytterdrømme"
+        }
+      ],
+      "album": {
+        "id": "3K2yy3TQoQfC2GqeVlskOO",
+        "release_date": "2017-04-07",
+        "name": "Superego",
+        "artists": [
+          {
+            "id": "7x0tKz4Dvj0w2As2AecRwY",
+            "name": "Fribytterdrømme"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 504,
+        "nanos": 880000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2mqx9cf1aabNdNr7HkgLtw",
+      "name": "The Quiet Observer",
+      "artists": [
+        {
+          "id": "6fuALtryzj4cq7vkglKLxq",
+          "name": "The Ocean"
+        }
+      ],
+      "album": {
+        "id": "238mdOwhOBjehSEx7d1UTk",
+        "release_date": "2015-10-23",
+        "name": "Transcendental",
+        "artists": [
+          {
+            "id": "53LVoipNTQ4lvUSJ61XKU3",
+            "name": "MONO"
+          },
+          {
+            "id": "6fuALtryzj4cq7vkglKLxq",
+            "name": "The Ocean"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 763,
+        "nanos": 320000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1di7h244SmoeqEEGNfpIxO",
+      "name": "Insomnia",
+      "artists": [
+        {
+          "id": "4VBq7oPj5Yi4Yfx4hopGY3",
+          "name": "Lost in Kyiv"
+        }
+      ],
+      "album": {
+        "id": "3OSB7K6iaLMJllRZDCzF4f",
+        "release_date": "2016-09-02",
+        "name": "Nuit Noire",
+        "artists": [
+          {
+            "id": "4VBq7oPj5Yi4Yfx4hopGY3",
+            "name": "Lost in Kyiv"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 443,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1OhWfQnT0tdCo9FLxhp6mg",
+      "name": "Part II – Things Like These Kept You Safe",
+      "artists": [
+        {
+          "id": "06ybtH5XIOkGqkpDR2LKvM",
+          "name": "The Shaking Sensations"
+        }
+      ],
+      "album": {
+        "id": "1UlHnZPUFRD7XcJg9jFmZ4",
+        "release_date": "2010-03-12",
+        "name": "This Is Your Hellfire Religion!",
+        "artists": [
+          {
+            "id": "06ybtH5XIOkGqkpDR2LKvM",
+            "name": "The Shaking Sensations"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 358,
+        "nanos": 959000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Q0XClBarblfHusW6dzFIE",
+      "name": "Have You Ever Seen Milk",
+      "artists": [
+        {
+          "id": "2JVPwr6UNZIdsdl8rjTD7S",
+          "name": "Alpha Male Tea Party"
+        }
+      ],
+      "album": {
+        "id": "6aBLOoBnvopfwq7PaZ9LUx",
+        "release_date": "2017-06-23",
+        "name": "Health",
+        "artists": [
+          {
+            "id": "2JVPwr6UNZIdsdl8rjTD7S",
+            "name": "Alpha Male Tea Party"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 389,
+        "nanos": 142000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4ld1xVnk8Ehirfv94biDMz",
+      "name": "Brokeback Mt.",
+      "artists": [
+        {
+          "id": "5QleLF5WHrCHKswFrfLB8k",
+          "name": "Mt."
+        }
+      ],
+      "album": {
+        "id": "4rwSPLiMsp9CXhyrtsUxlb",
+        "release_date": "2010-07-13",
+        "name": "Teach Your Children How to Think Not What to Think",
+        "artists": [
+          {
+            "id": "5QleLF5WHrCHKswFrfLB8k",
+            "name": "Mt."
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 192,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4s9H81hqPhK5D3NjwdgM5t",
+      "name": "Radio Protector",
+      "artists": [
+        {
+          "id": "6DVVsQAnpHdJjb1nYuOQ6g",
+          "name": "65daysofstatic"
+        }
+      ],
+      "album": {
+        "id": "4HthL3t0iv2miJzvKIU0GB",
+        "release_date": "2012-10-26",
+        "name": "One Time For All Time (deluxe edition)",
+        "artists": [
+          {
+            "id": "6DVVsQAnpHdJjb1nYuOQ6g",
+            "name": "65daysofstatic"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 326,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7kItHXkqfLWFOiZ0tSzzbA",
+      "name": "Enter the Riffian",
+      "artists": [
+        {
+          "id": "5QUsinW1AjeDsT6tQdeTb0",
+          "name": "Wo Fat"
+        }
+      ],
+      "album": {
+        "id": "6jbtn489j5Abu7sUFVlb0Y",
+        "release_date": "2009-01-01",
+        "name": "Psychedelonaut",
+        "artists": [
+          {
+            "id": "5QUsinW1AjeDsT6tQdeTb0",
+            "name": "Wo Fat"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 339,
+        "nanos": 573000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "06M77pQeFWvFiVn1Be6XsI",
+      "name": "Only Us (ASOT 880) - Hal Stucker Remix",
+      "artists": [
+        {
+          "id": "5MO2kbaGGA2a8kL4c9qqHq",
+          "name": "Paul Oakenfold"
+        },
+        {
+          "id": "61iRph5tWfvUkZjmvBmADo",
+          "name": "Little Nikki"
+        },
+        {
+          "id": "01HjiueGdSdynpvQiBsJ04",
+          "name": "Hal Stucker"
+        }
+      ],
+      "album": {
+        "id": "5hcUOyUvuXxaH1Pw6OSevF",
+        "release_date": "2018-09-06",
+        "name": "A State Of Trance Episode 880",
+        "artists": [
+          {
+            "id": "25mFVpuABa9GkGcj9eOPce",
+            "name": "Armin van Buuren ASOT Radio"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 859000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3FqqwFQV0VBttDRrntlKNX",
+      "name": "Beverly",
+      "artists": [
+        {
+          "id": "5F8oXHcyrEnqKxZ2r7rJ3k",
+          "name": "The Wrecking Queens"
+        }
+      ],
+      "album": {
+        "id": "3lfQlUcAwxBS9oxnHye7u7",
+        "release_date": "2017",
+        "name": "A Different Kind of High EP",
+        "artists": [
+          {
+            "id": "5F8oXHcyrEnqKxZ2r7rJ3k",
+            "name": "The Wrecking Queens"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 216,
+        "nanos": 755000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0GWWfQtXhLNfCu7T1YpH8h",
+      "name": "Missing - Jorn van Deynhoven Extended Remix",
+      "artists": [
+        {
+          "id": "3ePCIHipMKD4n8IBXBYWSm",
+          "name": "Mark Sixma"
+        },
+        {
+          "id": "1t65YxEAtU3iii6bCzSGF8",
+          "name": "Emma Hewitt"
+        },
+        {
+          "id": "6NuXlqTU1RF0aIoyD46z5v",
+          "name": "Jorn Van Deynhoven"
+        }
+      ],
+      "album": {
+        "id": "4yZf5EURxrZdsx6nHVQmYF",
+        "release_date": "2018-07-13",
+        "name": "Missing (Jorn van Deynhoven Remix)",
+        "artists": [
+          {
+            "id": "3ePCIHipMKD4n8IBXBYWSm",
+            "name": "Mark Sixma"
+          },
+          {
+            "id": "1t65YxEAtU3iii6bCzSGF8",
+            "name": "Emma Hewitt"
+          },
+          {
+            "id": "6NuXlqTU1RF0aIoyD46z5v",
+            "name": "Jorn Van Deynhoven"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 380,
+        "nanos": 978000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "39IhASh1nkBa63vQEfmWwr",
+      "name": "Red Valley",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "6R1Ydiy7Ah8MG57r3g1LLq",
+        "release_date": "2016-03-11",
+        "name": "Summer Sessions, Vol. 3",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 589,
+        "nanos": 758000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5UuikgHTxSRFRnC0zXx10i",
+      "name": "Aqualung",
+      "artists": [
+        {
+          "id": "6w6z8m4WXX7Tub4Rb6Lu7R",
+          "name": "Jethro Tull"
+        }
+      ],
+      "album": {
+        "id": "0NGM3Ftwjw0dLNpAowmz3x",
+        "release_date": "1971-03-19",
+        "name": "Aqualung (Special Edition)",
+        "artists": [
+          {
+            "id": "6w6z8m4WXX7Tub4Rb6Lu7R",
+            "name": "Jethro Tull"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 396,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2EC9IJj7g0mN1Q5VrZkiYY",
+      "name": "Rebel Rebel - 2016 Remaster",
+      "artists": [
+        {
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+          "name": "David Bowie"
+        }
+      ],
+      "album": {
+        "id": "72mfhbEsMtXR6s7v9UhKe3",
+        "release_date": "1974-05-24",
+        "name": "Diamond Dogs (2016 Remaster)",
+        "artists": [
+          {
+            "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+            "name": "David Bowie"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 274,
+        "nanos": 746000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6tqfNZeZCKcp1XIkrpuMzY",
+      "name": "Gravity Rules",
+      "artists": [
+        {
+          "id": "7GJuWcTs8e0z6Oa8juCyvz",
+          "name": "5 Billion In Diamonds"
+        }
+      ],
+      "album": {
+        "id": "76wNYA1QzHVj5K8ERnsJ6j",
+        "release_date": "2017-08-11",
+        "name": "5 Billion in Diamonds",
+        "artists": [
+          {
+            "id": "7GJuWcTs8e0z6Oa8juCyvz",
+            "name": "5 Billion In Diamonds"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 315,
+        "nanos": 720000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "60Evtx3MICRBjDGgMX04Co",
+      "name": "Undertow",
+      "artists": [
+        {
+          "id": "6Bgd1CCQAWWqGbkmJsivLv",
+          "name": "Chroma Key"
+        }
+      ],
+      "album": {
+        "id": "3HBfpcwJqvz3VIhlOpoZhv",
+        "release_date": "1998-01-01",
+        "name": "Dead Air for Radios",
+        "artists": [
+          {
+            "id": "6Bgd1CCQAWWqGbkmJsivLv",
+            "name": "Chroma Key"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 289,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0xQhOVxJ2JjpZ8ZxGzFhMe",
+      "name": "Only Light - Niko Zografos Remix",
+      "artists": [
+        {
+          "id": "3cOY6XMFQ12Q0D6Xif7BZh",
+          "name": "Ronski Speed"
+        },
+        {
+          "id": "2ZOKu2D1Ur1M9lmkx2evUM",
+          "name": "Syntrobic"
+        }
+      ],
+      "album": {
+        "id": "2N0BPVlUTR9mItDSLy8P2h",
+        "release_date": "2018-09-17",
+        "name": "Only Light",
+        "artists": [
+          {
+            "id": "3cOY6XMFQ12Q0D6Xif7BZh",
+            "name": "Ronski Speed"
+          },
+          {
+            "id": "2ZOKu2D1Ur1M9lmkx2evUM",
+            "name": "Syntrobic"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 464,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3Ix8bKUuHORKWYfeIfjA6s",
+      "name": "Rise",
+      "artists": [
+        {
+          "id": "1vMOjwz4Cl8RKGOQp782dY",
+          "name": "Propane Propane"
+        }
+      ],
+      "album": {
+        "id": "7J5QQbPslLsx89xoFdGhA9",
+        "release_date": "2012",
+        "name": "Indigo",
+        "artists": [
+          {
+            "id": "1vMOjwz4Cl8RKGOQp782dY",
+            "name": "Propane Propane"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 357,
+        "nanos": 54000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "2cDul5J9xrmbKi4C5zwaox",
+      "name": "Dawn Passage",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "7jgyHzoVQYoBtmVejt49dv",
+        "release_date": "2016-03-18",
+        "name": "Return to Sky",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 500,
+        "nanos": 314000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7wbwAvUOpzLH5ZUyeasbAP",
+      "name": "We: In the Desert",
+      "artists": [
+        {
+          "id": "119lba2E5Wz6tQUlSu3Q1l",
+          "name": "Siena Root"
+        }
+      ],
+      "album": {
+        "id": "7EYPUbv9b8uGnMgXAKOwEQ",
+        "release_date": "2009-10-13",
+        "name": "Different Realities",
+        "artists": [
+          {
+            "id": "119lba2E5Wz6tQUlSu3Q1l",
+            "name": "Siena Root"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 193,
+        "nanos": 182000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6g1qaCcUdJN9ETIhvkk6GS",
+      "name": "Sucker Punch",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1beRrVJVYBsqGzJEpiO8EY",
+        "release_date": "2014-02-25",
+        "name": "Desert Overcrowded",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 459,
+        "nanos": 206000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1r1bDBlqwIqxE6GeQrQ4H6",
+      "name": "Permian: The Great Dying",
+      "artists": [
+        {
+          "id": "6fuALtryzj4cq7vkglKLxq",
+          "name": "The Ocean"
+        }
+      ],
+      "album": {
+        "id": "2wjKFoNnyZz7RqArUtF4k2",
+        "release_date": "2018-09-05",
+        "name": "Permian: The Great Dying",
+        "artists": [
+          {
+            "id": "6fuALtryzj4cq7vkglKLxq",
+            "name": "The Ocean"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 562,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5lxiVR7k7mlmKIProocS3s",
+      "name": "Sakima - Dan Thompson's Full On Energy Intro Mix",
+      "artists": [
+        {
+          "id": "24xpaWFyBOwoB8lBBolWzv",
+          "name": "Marco V"
+        },
+        {
+          "id": "4nlOg4rKASHtzf46WAxnti",
+          "name": "Dan Thompson"
+        }
+      ],
+      "album": {
+        "id": "73CgdiMk14wD21r0r7wEOW",
+        "release_date": "2018-09-28",
+        "name": "Sakima (Dan Thompson's Full On Energy Intro Mix)",
+        "artists": [
+          {
+            "id": "24xpaWFyBOwoB8lBBolWzv",
+            "name": "Marco V"
+          },
+          {
+            "id": "4nlOg4rKASHtzf46WAxnti",
+            "name": "Dan Thompson"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 424,
+        "nanos": 750000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0qOELG7OYbABndEF4020eM",
+      "name": "Silent Season",
+      "artists": [
+        {
+          "id": "6wsl12qINvQVZOVP4UngPc",
+          "name": "Golden Void"
+        }
+      ],
+      "album": {
+        "id": "5u0aPNtrBQG7HRb0cjoLoA",
+        "release_date": "2015-09-18",
+        "name": "Berkana",
+        "artists": [
+          {
+            "id": "6wsl12qINvQVZOVP4UngPc",
+            "name": "Golden Void"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 316,
+        "nanos": 413000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7qRPjRdEHJYRx3cFpFHFj5",
+      "name": "Loom",
+      "artists": [
+        {
+          "id": "4sgZ0Kad8DGhIP422wLArV",
+          "name": "Somali Yacht Club"
+        }
+      ],
+      "album": {
+        "id": "23KXnBAYs6jLlT2xwTImiL",
+        "release_date": "2018-08-17",
+        "name": "The Sun +1",
+        "artists": [
+          {
+            "id": "4sgZ0Kad8DGhIP422wLArV",
+            "name": "Somali Yacht Club"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 501,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0cMmK0Emixa98quIag3YK5",
+      "name": "Total Depravity",
+      "artists": [
+        {
+          "id": "1MDw0zSUU0XtI9D5JgEZH5",
+          "name": "The Veils"
+        }
+      ],
+      "album": {
+        "id": "6gASlHZuvLvUUQymZHZGTX",
+        "release_date": "2016-08-26",
+        "name": "Total Depravity",
+        "artists": [
+          {
+            "id": "1MDw0zSUU0XtI9D5JgEZH5",
+            "name": "The Veils"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 305,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Wf3yeobEKYO039m6AiVan",
+      "name": "Oracles of War",
+      "artists": [
+        {
+          "id": "6HbdR85ROYg8EKNVi2kYtw",
+          "name": "Messenger"
+        }
+      ],
+      "album": {
+        "id": "1FL8iftfau6RA4p9fX8DCS",
+        "release_date": "2016-04-22",
+        "name": "Threnodies",
+        "artists": [
+          {
+            "id": "6HbdR85ROYg8EKNVi2kYtw",
+            "name": "Messenger"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 512,
+        "nanos": 517000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3Xls4cNOwy01dtrNXb1inG",
+      "name": "White Room",
+      "artists": [
+        {
+          "id": "74oJ4qxwOZvX6oSsu1DGnw",
+          "name": "Cream"
+        }
+      ],
+      "album": {
+        "id": "0zrtTZC7yY2TOEhnbJzSb9",
+        "release_date": "1968-07-01",
+        "name": "Wheels Of Fire",
+        "artists": [
+          {
+            "id": "74oJ4qxwOZvX6oSsu1DGnw",
+            "name": "Cream"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 298,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2aVMNag2xB7VZUAqLf12fm",
+      "name": "Wizard Of War",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "6PTf1MpPtHO8lMCcd69WXo",
+        "release_date": "2013-04-26",
+        "name": "The Mouths of Madness",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 198,
+        "nanos": 613000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5QjmdrRwT7Xzr73K82sR49",
+      "name": "Dream and Drive",
+      "artists": [
+        {
+          "id": "7GgksazCOqOwZE9IoCpDLg",
+          "name": "Greni"
+        }
+      ],
+      "album": {
+        "id": "1W82KlWariYG6Vk7ZAf3jO",
+        "release_date": "2017-03-24",
+        "name": "Pop Noir",
+        "artists": [
+          {
+            "id": "7GgksazCOqOwZE9IoCpDLg",
+            "name": "Greni"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 345,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "02qEkc1SJnUwDZpT1KsHJR",
+      "name": "Cloudwalker (A Darker Blue)",
+      "artists": [
+        {
+          "id": "2bNIAjyL3hFCuQBQqhPN4T",
+          "name": "Motorpsycho"
+        }
+      ],
+      "album": {
+        "id": "6fBe8ufhercLuaJzqAyJNh",
+        "release_date": "2014-03-07",
+        "name": "Behind The Sun",
+        "artists": [
+          {
+            "id": "2bNIAjyL3hFCuQBQqhPN4T",
+            "name": "Motorpsycho"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 365,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3aLKBtPywmWi1XLLDf8fr4",
+      "name": "LHC",
+      "artists": [
+        {
+          "id": "7BIt8dmieIJhheLq5UVQaH",
+          "name": "Monomyth"
+        }
+      ],
+      "album": {
+        "id": "6Ht9xKDR6XmlzuPT9dVWaW",
+        "release_date": "2016-03-18",
+        "name": "Exo",
+        "artists": [
+          {
+            "id": "7BIt8dmieIJhheLq5UVQaH",
+            "name": "Monomyth"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 586,
+        "nanos": 920000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6FAYqp5MXvNBmnHf0oZWaK",
+      "name": "Hearts Aflame",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "3PxXHLkJ3ikkJKpTrxOXIn",
+        "release_date": "2011-06-09",
+        "name": "The Sayings of the Seers",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 356,
+        "nanos": 767000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4nIWQuREFXiYanCyHXvaXU",
+      "name": "Getaway",
+      "artists": [
+        {
+          "id": "3SiCxhceGZgzusCLHd4Zz6",
+          "name": "Long Distance Calling"
+        }
+      ],
+      "album": {
+        "id": "2WzWw65DyReOSYMIBwuErQ",
+        "release_date": "2016-04-29",
+        "name": "TRIPS (Bonus Tracks Version)",
+        "artists": [
+          {
+            "id": "3SiCxhceGZgzusCLHd4Zz6",
+            "name": "Long Distance Calling"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 253,
+        "nanos": 573000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "18FaLeYOOJAAEOd9EhxPCN",
+      "name": "Hypnotized",
+      "artists": [
+        {
+          "id": "6WMKYsHNohUhz4Slk7EvUH",
+          "name": "Brutus"
+        }
+      ],
+      "album": {
+        "id": "640OFBuZe1CbQ7xX9vpjOL",
+        "release_date": "2010-04-16",
+        "name": "Brutus",
+        "artists": [
+          {
+            "id": "6WMKYsHNohUhz4Slk7EvUH",
+            "name": "Brutus"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 324,
+        "nanos": 507000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1CgkZpMN98BD7IQojfAv8o",
+      "name": "Capricorn",
+      "artists": [
+        {
+          "id": "0ruvhGLVp5XtTLHeDRBSBH",
+          "name": "Orchid"
+        }
+      ],
+      "album": {
+        "id": "7l23xxbhi7JDFKVfAMk5Vw",
+        "release_date": "2011-02-15",
+        "name": "Capricorn",
+        "artists": [
+          {
+            "id": "0ruvhGLVp5XtTLHeDRBSBH",
+            "name": "Orchid"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 280,
+        "nanos": 146000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7elwSYRVpo7yyEH8HoDPye",
+      "name": "Atl Feelings",
+      "artists": [
+        {
+          "id": "1ot1JEuPQ4UI0FS3RJiXTe",
+          "name": "Fiend Without A Face"
+        }
+      ],
+      "album": {
+        "id": "0rdqT91lrYo34i6NL8waye",
+        "release_date": "2017-08-25",
+        "name": "Fiend Without a Face",
+        "artists": [
+          {
+            "id": "1ot1JEuPQ4UI0FS3RJiXTe",
+            "name": "Fiend Without A Face"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 119,
+        "nanos": 680000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1hIQPCM3oWXrpnXmgTDaKG",
+      "name": "Can't You Hear Me Knocking - 2009 Mix",
+      "artists": [
+        {
+          "id": "22bE4uQ6baNwSHPVcDxLCe",
+          "name": "The Rolling Stones"
+        }
+      ],
+      "album": {
+        "id": "29m6DinzdaD0OPqWKGyMdz",
+        "release_date": "1971-04-23",
+        "name": "Sticky Fingers (Remastered)",
+        "artists": [
+          {
+            "id": "22bE4uQ6baNwSHPVcDxLCe",
+            "name": "The Rolling Stones"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 436,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "0XG6egyqI7aIy8YpghTzC3",
+      "name": "Underneath a Blooming Skylight",
+      "artists": [
+        {
+          "id": "1mCzf8R2hU1zgE2ANxEL9C",
+          "name": "Your Favorite Enemies"
+        }
+      ],
+      "album": {
+        "id": "6Xrk53b0FV9CtofB9GhA0t",
+        "release_date": "2016-06-17",
+        "name": "Between Illness And Migration - Deluxe: Tokyo Sessions",
+        "artists": [
+          {
+            "id": "1mCzf8R2hU1zgE2ANxEL9C",
+            "name": "Your Favorite Enemies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 354,
+        "nanos": 464000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "41cg4dALWpEEFISKLsHIdr",
+      "name": "New Beginning",
+      "artists": [
+        {
+          "id": "692VvGTch5OLXj4zEE6H3y",
+          "name": "Radio Moscow"
+        }
+      ],
+      "album": {
+        "id": "0Iva9Vg0YoGz7ahinBkL39",
+        "release_date": "2017-09-29",
+        "name": "New Beginnings",
+        "artists": [
+          {
+            "id": "692VvGTch5OLXj4zEE6H3y",
+            "name": "Radio Moscow"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 248,
+        "nanos": 760000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0w21XZhGlmIexgtDpmtnzT",
+      "name": "L.S.F.",
+      "artists": [
+        {
+          "id": "11wRdbnoYqRddKBrpHt4Ue",
+          "name": "Kasabian"
+        }
+      ],
+      "album": {
+        "id": "4RVNd8UwGiAqzfPjbgv0O3",
+        "release_date": "2004",
+        "name": "Kasabian/Empire",
+        "artists": [
+          {
+            "id": "11wRdbnoYqRddKBrpHt4Ue",
+            "name": "Kasabian"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 196,
+        "nanos": 853000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3cMekEiLDY82HCErXcZNhS",
+      "name": "Animate",
+      "artists": [
+        {
+          "id": "5NIvyOvy39ljx9w71rnCS1",
+          "name": "Allegaeon"
+        }
+      ],
+      "album": {
+        "id": "43Zq0QcO6FSzknafg4Zfzx",
+        "release_date": "2018-01-05",
+        "name": "Animate",
+        "artists": [
+          {
+            "id": "5NIvyOvy39ljx9w71rnCS1",
+            "name": "Allegaeon"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 339,
+        "nanos": 740000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5fH4e6VH3Wa8sl2H8nyOIw",
+      "name": "Black Slug",
+      "artists": [
+        {
+          "id": "3KY6i8EJac9URU9OeC1n89",
+          "name": "Church of the Cosmic Skull"
+        }
+      ],
+      "album": {
+        "id": "0xl75tNEomvveGaCJbOjDY",
+        "release_date": "2016-09-16",
+        "name": "Is Satan Real?",
+        "artists": [
+          {
+            "id": "3KY6i8EJac9URU9OeC1n89",
+            "name": "Church of the Cosmic Skull"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 304,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3ikiKIJyaE9miukLCewPNL",
+      "name": "A Machine Calling Home",
+      "artists": [
+        {
+          "id": "1Jshfcfb8Li2BmbD8rcbp2",
+          "name": "Cubby V"
+        }
+      ],
+      "album": {
+        "id": "1ZiUUsZ2uI5pmqJXODOR7R",
+        "release_date": "2017-03-24",
+        "name": "If This Is Life, It Might Get Strange from Now On",
+        "artists": [
+          {
+            "id": "1Jshfcfb8Li2BmbD8rcbp2",
+            "name": "Cubby V"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 271,
+        "nanos": 68000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5CXvFqjZHiq0fBinmLZtao",
+      "name": "Doomsday Machine",
+      "artists": [
+        {
+          "id": "0FfuujZJUa7Z2JzhhiPI2z",
+          "name": "Kadavar"
+        }
+      ],
+      "album": {
+        "id": "3qDwtlwlZx7mWpZZ2U62Eo",
+        "release_date": "2013-04-12",
+        "name": "Abra Kadavar",
+        "artists": [
+          {
+            "id": "0FfuujZJUa7Z2JzhhiPI2z",
+            "name": "Kadavar"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 287,
+        "nanos": 0
+      },
+      "explicit": true
+    },
+    {
+      "id": "6SXFNqaKaLAC3LdjOFiMbj",
+      "name": "Glenn",
+      "artists": [
+        {
+          "id": "4IwOItqRhsIoRuD5HP4vyC",
+          "name": "Slint"
+        }
+      ],
+      "album": {
+        "id": "7g8VsULZ5zS89xDfHYIVBk",
+        "release_date": "1994-08-29",
+        "name": "Slint",
+        "artists": [
+          {
+            "id": "4IwOItqRhsIoRuD5HP4vyC",
+            "name": "Slint"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 371,
+        "nanos": 480000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0n87RsEJ9jWYxRwAGZmmL4",
+      "name": "Life Took You For A Freq. (feat. Chelsea Wolfe)",
+      "artists": [
+        {
+          "id": "15BYnFahZPTexrVSiqxbK7",
+          "name": "Sort Sol"
+        },
+        {
+          "id": "6ZK2nrW8aCTg8Bid7I7N10",
+          "name": "Chelsea Wolfe"
+        }
+      ],
+      "album": {
+        "id": "6eqvZxCPWzpD3CmTFNmX3T",
+        "release_date": "2017-05-19",
+        "name": "Stor Langsom Stjerne",
+        "artists": [
+          {
+            "id": "15BYnFahZPTexrVSiqxbK7",
+            "name": "Sort Sol"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 314,
+        "nanos": 718000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4lB8DlkAdlHyjHpvSwv7az",
+      "name": "Parsonz Curse",
+      "artists": [
+        {
+          "id": "3Gkit5uLARc6bv3AyYrh5Q",
+          "name": "Royal Thunder"
+        }
+      ],
+      "album": {
+        "id": "7m68iZmhsTYgIVFrVs6Dnp",
+        "release_date": "2012-05-22",
+        "name": "CVI",
+        "artists": [
+          {
+            "id": "3Gkit5uLARc6bv3AyYrh5Q",
+            "name": "Royal Thunder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 417,
+        "nanos": 720000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4xw0R9SvKq6SomPuxYFSMC",
+      "name": "Golden Prayers",
+      "artists": [
+        {
+          "id": "4lgrzShsg2FLA89UM2fdO5",
+          "name": "Leprous"
+        }
+      ],
+      "album": {
+        "id": "34B4QDyqjXZIhAsc0dZNeq",
+        "release_date": "2018-06-01",
+        "name": "Golden Prayers",
+        "artists": [
+          {
+            "id": "4lgrzShsg2FLA89UM2fdO5",
+            "name": "Leprous"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 266,
+        "nanos": 458000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4erAMvlktwC56SHXRHmJ2m",
+      "name": "Tesseract",
+      "artists": [
+        {
+          "id": "3WggbHDpj4rPKbL97zG5MQ",
+          "name": "Tortoise"
+        }
+      ],
+      "album": {
+        "id": "0Q7HMY1sPLRa0LZoFpzgRw",
+        "release_date": "2016-01-22",
+        "name": "The Catastrophist",
+        "artists": [
+          {
+            "id": "3WggbHDpj4rPKbL97zG5MQ",
+            "name": "Tortoise"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 986000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5qhbJhRw3Q5s41Jt6JmFw0",
+      "name": "I Heard It Through The Grapevine - Edit",
+      "artists": [
+        {
+          "id": "3IYUhFvPQItj6xySrBmZkd",
+          "name": "Creedence Clearwater Revival"
+        }
+      ],
+      "album": {
+        "id": "6anfZgEtfrdKVimLp6VF3d",
+        "release_date": "2008-01-01",
+        "name": "Creedence Clearwater Revival - Best Of",
+        "artists": [
+          {
+            "id": "3IYUhFvPQItj6xySrBmZkd",
+            "name": "Creedence Clearwater Revival"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 233,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1mA0W0NwfRBayJIeegnM2t",
+      "name": "Bruce Lee",
+      "artists": [
+        {
+          "id": "7bvRU5Zx4Ll6skiKuiDP6Y",
+          "name": "Indian Handcrafts"
+        }
+      ],
+      "album": {
+        "id": "3mQZoZlPl2Vsic5zymbWkL",
+        "release_date": "2012-10-30",
+        "name": "Civil Disobedience for Losers",
+        "artists": [
+          {
+            "id": "7bvRU5Zx4Ll6skiKuiDP6Y",
+            "name": "Indian Handcrafts"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 270,
+        "nanos": 253000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1qChdIb1lZZ04Ot9Z9ElCa",
+      "name": "Crystal Spiders",
+      "artists": [
+        {
+          "id": "16PcI6JjJuUfPlsX8Ffvfl",
+          "name": "Uncle Acid & The Deadbeats"
+        }
+      ],
+      "album": {
+        "id": "6DmPPxmQL6PlRrWtjD4Eab",
+        "release_date": "2010",
+        "name": "VOL. 1",
+        "artists": [
+          {
+            "id": "16PcI6JjJuUfPlsX8Ffvfl",
+            "name": "Uncle Acid & The Deadbeats"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 213,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "5LpchRWh4lgFh3uNThdKrh",
+      "name": "Superhuman God",
+      "artists": [
+        {
+          "id": "1Zxl7JC5lyI1JAYZyiZhAo",
+          "name": "Astroqueen"
+        }
+      ],
+      "album": {
+        "id": "4B9cytDNyVkzr4PFtN1SSq",
+        "release_date": "2002",
+        "name": "Into Submission",
+        "artists": [
+          {
+            "id": "1Zxl7JC5lyI1JAYZyiZhAo",
+            "name": "Astroqueen"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 267,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6dZYkF2S9bKjwGN5KWpsrP",
+      "name": "Faces",
+      "artists": [
+        {
+          "id": "0W6558gc4TNIax95vYLCog",
+          "name": "Hearts of Black Science"
+        }
+      ],
+      "album": {
+        "id": "5jG9ndqB7GAjr9KNRYM0Rd",
+        "release_date": "2015-11-20",
+        "name": "Signal",
+        "artists": [
+          {
+            "id": "0W6558gc4TNIax95vYLCog",
+            "name": "Hearts of Black Science"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 280,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2kkMp4Z0Dmn14drAvVeARw",
+      "name": "Break & Enter (Remastered)",
+      "artists": [
+        {
+          "id": "4k1ELeJKT1ISyDv8JivPpB",
+          "name": "The Prodigy"
+        }
+      ],
+      "album": {
+        "id": "6wZgpIgQWZzq8qKJrU7ELd",
+        "release_date": "1994",
+        "name": "More Music for the Jilted Generation",
+        "artists": [
+          {
+            "id": "4k1ELeJKT1ISyDv8JivPpB",
+            "name": "The Prodigy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 504,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7iX88ae8YKqW2SiZndg4y7",
+      "name": "Far from You",
+      "artists": [
+        {
+          "id": "6yR8Nf8o56ZZR070jTti83",
+          "name": "Witchrider"
+        },
+        {
+          "id": "5X1eZAEqHcO5lYy7tgjw5h",
+          "name": "Truckfighters"
+        }
+      ],
+      "album": {
+        "id": "71x63UmOiMjryrfbOT8hny",
+        "release_date": "2015-08-06",
+        "name": "The Return of the Fuzzsplit, Vol. 1",
+        "artists": [
+          {
+            "id": "5X1eZAEqHcO5lYy7tgjw5h",
+            "name": "Truckfighters"
+          },
+          {
+            "id": "6yR8Nf8o56ZZR070jTti83",
+            "name": "Witchrider"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 330,
+        "nanos": 576000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "26z9ir9sLhQkPDhpuSCxSf",
+      "name": "Hot As Hades - Jorn van Deynhoven Remix",
+      "artists": [
+        {
+          "id": "4FfbnH8gCa4qMMV05Tobdz",
+          "name": "Josh Gabriel"
+        },
+        {
+          "id": "4sYp83CChLan3PcSRnSMUh",
+          "name": "Winter Kills"
+        },
+        {
+          "id": "6NuXlqTU1RF0aIoyD46z5v",
+          "name": "Jorn Van Deynhoven"
+        }
+      ],
+      "album": {
+        "id": "3ycdtHnGvCe7NpPBytt0IO",
+        "release_date": "2018-08-31",
+        "name": "Hot As Hades (Jorn van Deynhoven Remix)",
+        "artists": [
+          {
+            "id": "4FfbnH8gCa4qMMV05Tobdz",
+            "name": "Josh Gabriel"
+          },
+          {
+            "id": "4sYp83CChLan3PcSRnSMUh",
+            "name": "Winter Kills"
+          },
+          {
+            "id": "6NuXlqTU1RF0aIoyD46z5v",
+            "name": "Jorn Van Deynhoven"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 271,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1BRi610kXH5Iwmb4nZSTNe",
+      "name": "Umbrella",
+      "artists": [
+        {
+          "id": "394nRzExyBfXszYd4mbBmR",
+          "name": "Pelander"
+        }
+      ],
+      "album": {
+        "id": "5VHvgM3CDDkYq0thNSZpos",
+        "release_date": "2016-10-21",
+        "name": "Time",
+        "artists": [
+          {
+            "id": "394nRzExyBfXszYd4mbBmR",
+            "name": "Pelander"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 326,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ZWGGZ945lUum59iz3Ftox",
+      "name": "Two Stage Rocket",
+      "artists": [
+        {
+          "id": "1Nd9wmXkGfM0hTMPlJW2MB",
+          "name": "Assemble Head In Sunburst Sound"
+        }
+      ],
+      "album": {
+        "id": "0sDiwLzVhGLE1PC2TIkr2W",
+        "release_date": "2009-04-07",
+        "name": "When Sweet Sleep Returned",
+        "artists": [
+          {
+            "id": "1Nd9wmXkGfM0hTMPlJW2MB",
+            "name": "Assemble Head In Sunburst Sound"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 207,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0s4BiyEHTNx6CGsf6m4z96",
+      "name": "Cause We Didn't Find Our Way",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1beRrVJVYBsqGzJEpiO8EY",
+        "release_date": "2014-02-25",
+        "name": "Desert Overcrowded",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 286,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5n0OJSDv9VmEh1Avw3qf3W",
+      "name": "I Hear the Beat",
+      "artists": [
+        {
+          "id": "6wtzsaUpg7lKh5tNa2FGLH",
+          "name": "10After10"
+        }
+      ],
+      "album": {
+        "id": "2oR6SW0HftyemIZe3fCM7w",
+        "release_date": "2016-12-16",
+        "name": "Strokes of Life",
+        "artists": [
+          {
+            "id": "6wtzsaUpg7lKh5tNa2FGLH",
+            "name": "10After10"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 137,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "24kIG2ECW4rW2Fln8kTzTz",
+      "name": "Solstice",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "7fVLUtzx2xVYcNd5icxdwC",
+        "release_date": "2016-04-28",
+        "name": "Volume Rock",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 254,
+        "nanos": 235000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2aoo2jlRnM3A0NyLQqMN2f",
+      "name": "All Along the Watchtower",
+      "artists": [
+        {
+          "id": "776Uo845nYHJpNaStv1Ds4",
+          "name": "Jimi Hendrix"
+        }
+      ],
+      "album": {
+        "id": "5z090LQztiqh13wYspQvKQ",
+        "release_date": "1968-10-25",
+        "name": "Electric Ladyland",
+        "artists": [
+          {
+            "id": "776Uo845nYHJpNaStv1Ds4",
+            "name": "Jimi Hendrix"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 240,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5cVdYasv2PERBkVWxWU0R0",
+      "name": "It's the Sun",
+      "artists": [
+        {
+          "id": "0inqWv3OS4VpWt691ki8yk",
+          "name": "The Polyphonic Spree"
+        }
+      ],
+      "album": {
+        "id": "6NlU7ZtjDMNSEfxfjzDnwL",
+        "release_date": "2002-09-23",
+        "name": "The Beginning Stages Of ...",
+        "artists": [
+          {
+            "id": "0inqWv3OS4VpWt691ki8yk",
+            "name": "The Polyphonic Spree"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 334,
+        "nanos": 599000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Q7xYxV504kca2EYXOrMJx",
+      "name": "Healer",
+      "artists": [
+        {
+          "id": "4PxqJghOAEvatt0scJvili",
+          "name": "Torche"
+        }
+      ],
+      "album": {
+        "id": "06wsfNFbTnic3IgNmKQArq",
+        "release_date": "2008",
+        "name": "Meanderthal",
+        "artists": [
+          {
+            "id": "4PxqJghOAEvatt0scJvili",
+            "name": "Torche"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 127,
+        "nanos": 520000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0JRlyt2r0B1ZIVblAdOhyu",
+      "name": "Their Law (feat. Pop Will Eat Itself) [Remastered]",
+      "artists": [
+        {
+          "id": "4k1ELeJKT1ISyDv8JivPpB",
+          "name": "The Prodigy"
+        }
+      ],
+      "album": {
+        "id": "6wZgpIgQWZzq8qKJrU7ELd",
+        "release_date": "1994",
+        "name": "More Music for the Jilted Generation",
+        "artists": [
+          {
+            "id": "4k1ELeJKT1ISyDv8JivPpB",
+            "name": "The Prodigy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 400,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2B3IQ0p5jG3oDNU4L3MvRY",
+      "name": "Desert Overcrowded",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1beRrVJVYBsqGzJEpiO8EY",
+        "release_date": "2014-02-25",
+        "name": "Desert Overcrowded",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 602,
+        "nanos": 849000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1hzI90LkGC8jnpVv9aer7O",
+      "name": "Ju-Ju Blues",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "5Ylo2MVt7UMcv7gPGyC3hu",
+        "release_date": "2013-08-05",
+        "name": "Euporie Tide",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 395,
+        "nanos": 413000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2sWzJDMSkqLs3qTdtaFU9F",
+      "name": "Our Mother Ash",
+      "artists": [
+        {
+          "id": "2Mjr7nb7vY7AQwxGskDlM7",
+          "name": "Greenleaf"
+        }
+      ],
+      "album": {
+        "id": "40C3PckrvT1kl1Dildufk8",
+        "release_date": "2014-05-13",
+        "name": "Trails & Passes",
+        "artists": [
+          {
+            "id": "2Mjr7nb7vY7AQwxGskDlM7",
+            "name": "Greenleaf"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 194,
+        "nanos": 866000000
+      },
+      "explicit": false
+    }
+  ]
+}

@@ -1,1 +1,637 @@
-{"playlist":{"id":"3N5c78UjFQNbt5WaJ8ZEJQ","collaborative":false,"name":"Cover?","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAHL9OQ8n2mVj97ZcqdZCGwJd2B/t0"},"tracks":[{"id":"4SG5gq4vdpGqYwU5KuTUJg","name":"A Point of a Secret","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"album":{"id":"2RP18KQTlQALGPhurYgJeR","release_date":"2018-11-09","name":"Hear the Rivers","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"typ":"album","added_at":0},"duration":{"secs":276,"nanos":520000000},"explicit":false},{"id":"24xbAUAJZ38jkOEjEIRYg1","name":"Autumn Winds","artists":[{"id":"15cjYStG6SRmTS9d5wNVxT","name":"Pia Fraus"}],"album":{"id":"2YeWIO6e5pLAIVmofrYcpP","release_date":"2016-11-01","name":"Autumn Winds","artists":[{"id":"15cjYStG6SRmTS9d5wNVxT","name":"Pia Fraus"}],"typ":"single","added_at":0},"duration":{"secs":236,"nanos":144000000},"explicit":false},{"id":"0ni6EruKbg11Q9PE5NwR2y","name":"Seven Hills","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"1m5TE9wAnq23iYCHRpGQml","release_date":"2017-11-17","name":"Vibraciones Doradas","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":446,"nanos":200000000},"explicit":false},{"id":"346j19RX7Raa6snbispVF6","name":"Spirits Stampede","artists":[{"id":"6YK58h9BCYpFNv10fsMwoS","name":"pg.lost"}],"album":{"id":"4lvhLVlxROwIWD87GGOj7J","release_date":"2012-05-18","name":"Key","artists":[{"id":"6YK58h9BCYpFNv10fsMwoS","name":"pg.lost"}],"typ":"album","added_at":0},"duration":{"secs":392,"nanos":880000000},"explicit":false},{"id":"12EoBdX6xwJz4qzipi0oTb","name":"Fanfare III","artists":[{"id":"3UzCWOTeYccowgWOPqpItb","name":"The Holy"}],"album":{"id":"4Q3x7bNjD6a7qo56JFMCft","release_date":"2018-09-21","name":"Daughter","artists":[{"id":"3UzCWOTeYccowgWOPqpItb","name":"The Holy"}],"typ":"album","added_at":0},"duration":{"secs":375,"nanos":360000000},"explicit":false},{"id":"3d4s6Dfxb4bIE7jr1RBmrf","name":"Sir Niney's Rock","artists":[{"id":"3TsXLcFH4xlODPPbjG3Igu","name":"The Observers"}],"album":{"id":"45bZIccg56MmYn25Md0pVM","release_date":"2013-08-01","name":"The Trojan: Dub Collection","artists":[{"id":"0LyfQWJT6nXafLPZqxe9Of","name":"Various Artists"}],"typ":"compilation","added_at":0},"duration":{"secs":206,"nanos":493000000},"explicit":false},{"id":"2PfOC2XbFLcqoG51366R1z","name":"There Used to Be a Darkness","artists":[{"id":"6trUID4p69Kwk7x4GNSCZz","name":"Mikko Joensuu"}],"album":{"id":"0vhZKXDsJ7650W6uJlbdqn","release_date":"2016-11-11","name":"Amen, Vol. 2","artists":[{"id":"6trUID4p69Kwk7x4GNSCZz","name":"Mikko Joensuu"}],"typ":"album","added_at":0},"duration":{"secs":679,"nanos":195000000},"explicit":false},{"id":"4L883Hie8OZjyZDxR8wExR","name":"Northwest Passage","artists":[{"id":"6ZWMXMg25PGVCaoYZXQSyn","name":"Papa M"}],"album":{"id":"3NCwxdYt3bEcp0g1g8Yth0","release_date":"2001-11-05","name":"\"Whatever, Mortal\"","artists":[{"id":"6ZWMXMg25PGVCaoYZXQSyn","name":"Papa M"}],"typ":"album","added_at":0},"duration":{"secs":344,"nanos":280000000},"explicit":false},{"id":"7zPpGK3EutqbT49ZRtiSUp","name":"End To End","artists":[{"id":"0nsphA9KDqbJ64duYRoEBi","name":"Earthless"}],"album":{"id":"30pOzmy2T73KwsjVCSz71L","release_date":"2018-03-16","name":"Black Heaven","artists":[{"id":"0nsphA9KDqbJ64duYRoEBi","name":"Earthless"}],"typ":"album","added_at":0},"duration":{"secs":316,"nanos":786000000},"explicit":false},{"id":"0GBAxPHZY81xbNCZcxjcEs","name":"Bongolia","artists":[{"id":"6tw3wmGmRXSWP9GqsnvY7B","name":"Incredible Bongo Band"}],"album":{"id":"2dtnXYyS4Qx7CvgpWOO8Na","release_date":"2014","name":"40 Years of the Incredible Bongo Band","artists":[{"id":"6tw3wmGmRXSWP9GqsnvY7B","name":"Incredible Bongo Band"}],"typ":"compilation","added_at":0},"duration":{"secs":135,"nanos":306000000},"explicit":false},{"id":"3X0STKN2mIdYTJmI3REylR","name":"Keeping Pigs Together","artists":[{"id":"1BQtFnxZvAvTCZgTMlED0Q","name":"Red Snapper"}],"album":{"id":"6orI53843DwuAOh0zfux6f","release_date":"2000","name":"Our Aim Is to Satisfy Red Snapper","artists":[{"id":"1BQtFnxZvAvTCZgTMlED0Q","name":"Red Snapper"}],"typ":"album","added_at":0},"duration":{"secs":323,"nanos":893000000},"explicit":false},{"id":"6TNIjltjuALKSTsJteVH2o","name":"Sweet Disposition","artists":[{"id":"4W48hZAnAHVOC2c8WH8pcq","name":"The Temper Trap"}],"album":{"id":"0V59MMtgoruvEqMv18KAOH","release_date":"2009","name":"Conditions (Tour Edition)","artists":[{"id":"4W48hZAnAHVOC2c8WH8pcq","name":"The Temper Trap"}],"typ":"album","added_at":0},"duration":{"secs":236,"nanos":333000000},"explicit":false},{"id":"1gJOWwOOnOksLubE7aXRt5","name":"Not Today","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":218,"nanos":173000000},"explicit":false},{"id":"17vETemaULU9bQSWIVhiPo","name":"Deep Light Burns","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"3PxXHLkJ3ikkJKpTrxOXIn","release_date":"2011-06-09","name":"The Sayings of the Seers","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"single","added_at":0},"duration":{"secs":195,"nanos":11000000},"explicit":false},{"id":"3qBEBSPbGEuEnNfeiOlcDO","name":"Eternal Forever","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"7fVLUtzx2xVYcNd5icxdwC","release_date":"2016-04-28","name":"Volume Rock","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"album","added_at":0},"duration":{"secs":288,"nanos":8000000},"explicit":false},{"id":"3ET4J0rPJ4uzgf0cQzGGsN","name":"Ain't No Sun Since You've Been Gone","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"album":{"id":"08W4d8uMIQvJg0nlwR1rBN","release_date":"1968-11-22","name":"Dusty... Definitely (Expanded Edtion)","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"typ":"album","added_at":0},"duration":{"secs":166,"nanos":106000000},"explicit":false},{"id":"5G7PHCkkoLfNhavoCZN2JC","name":"Equators","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"album":{"id":"4nrv5D1bFcXVe8Bv7Ra0tr","release_date":"2014-05-13","name":"Trails & Passes","artists":[{"id":"2Mjr7nb7vY7AQwxGskDlM7","name":"Greenleaf"}],"typ":"album","added_at":0},"duration":{"secs":211,"nanos":306000000},"explicit":false},{"id":"79eSyI9oEUMD0X7oODtk5E","name":"Soar","artists":[{"id":"53B8p4TVFXCtarwosey71M","name":"Eco"}],"album":{"id":"2wt5Q7CWb1RlEa2rQQWlOo","release_date":"2016-10-14","name":"Wolves","artists":[{"id":"53B8p4TVFXCtarwosey71M","name":"Eco"}],"typ":"album","added_at":0},"duration":{"secs":354,"nanos":500000000},"explicit":false},{"id":"4RZkzJNhg2kCtCfgk9Dt16","name":"Aftermath","artists":[{"id":"2CKaDZ1Yo8YnWega9IeUzB","name":"Booka Shade"},{"id":"4iHnLagnnmgiIwMSm1wuTq","name":"Giorgia Angiuli"}],"album":{"id":"7msgkOGpFlPszUPYf3J4GC","release_date":"2017-11-24","name":"Aftermath / Limelight","artists":[{"id":"2CKaDZ1Yo8YnWega9IeUzB","name":"Booka Shade"}],"typ":"single","added_at":0},"duration":{"secs":460,"nanos":91000000},"explicit":false},{"id":"4m2RLN7imvsaLL1ZUGfFFw","name":"In White Rooms","artists":[{"id":"2CKaDZ1Yo8YnWega9IeUzB","name":"Booka Shade"}],"album":{"id":"52YO0uURAvAHYGWK38zP8r","release_date":"2006-05-12","name":"Movements","artists":[{"id":"2CKaDZ1Yo8YnWega9IeUzB","name":"Booka Shade"}],"typ":"album","added_at":0},"duration":{"secs":326,"nanos":840000000},"explicit":false},{"id":"3VYgBwWGJCKGPk1ljTHEbv","name":"It'll All Make Sense One Day","artists":[{"id":"53B8p4TVFXCtarwosey71M","name":"Eco"}],"album":{"id":"2wt5Q7CWb1RlEa2rQQWlOo","release_date":"2016-10-14","name":"Wolves","artists":[{"id":"53B8p4TVFXCtarwosey71M","name":"Eco"}],"typ":"album","added_at":0},"duration":{"secs":296,"nanos":78000000},"explicit":false},{"id":"1Dl9gtAt7yBJACDxthkIlf","name":"State Of Mind (VONYC Sessions 788)","artists":[{"id":"2EEHLxTyGIpu6u3QvC3LCG","name":"Alex Sonata"},{"id":"75moT3ICvMU8df0bWsrQn5","name":"TheRio"}],"album":{"id":"0KomkT2DqQyxajEZ8UszNy","release_date":"2021-12-07","name":"VONYC Sessions 788","artists":[{"id":"5jt66rK9ifG8uKJoCFzycf","name":"Paul van Dyk’s VONYC Sessions"}],"typ":"album","added_at":0},"duration":{"secs":214,"nanos":547000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "3N5c78UjFQNbt5WaJ8ZEJQ",
+    "collaborative": false,
+    "name": "Cover?",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAHL9OQ8n2mVj97ZcqdZCGwJd2B/t0",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "4SG5gq4vdpGqYwU5KuTUJg",
+      "name": "A Point of a Secret",
+      "artists": [
+        {
+          "id": "2Mjr7nb7vY7AQwxGskDlM7",
+          "name": "Greenleaf"
+        }
+      ],
+      "album": {
+        "id": "2RP18KQTlQALGPhurYgJeR",
+        "release_date": "2018-11-09",
+        "name": "Hear the Rivers",
+        "artists": [
+          {
+            "id": "2Mjr7nb7vY7AQwxGskDlM7",
+            "name": "Greenleaf"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 276,
+        "nanos": 520000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "24xbAUAJZ38jkOEjEIRYg1",
+      "name": "Autumn Winds",
+      "artists": [
+        {
+          "id": "15cjYStG6SRmTS9d5wNVxT",
+          "name": "Pia Fraus"
+        }
+      ],
+      "album": {
+        "id": "2YeWIO6e5pLAIVmofrYcpP",
+        "release_date": "2016-11-01",
+        "name": "Autumn Winds",
+        "artists": [
+          {
+            "id": "15cjYStG6SRmTS9d5wNVxT",
+            "name": "Pia Fraus"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 236,
+        "nanos": 144000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ni6EruKbg11Q9PE5NwR2y",
+      "name": "Seven Hills",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "1m5TE9wAnq23iYCHRpGQml",
+        "release_date": "2017-11-17",
+        "name": "Vibraciones Doradas",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 446,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "346j19RX7Raa6snbispVF6",
+      "name": "Spirits Stampede",
+      "artists": [
+        {
+          "id": "6YK58h9BCYpFNv10fsMwoS",
+          "name": "pg.lost"
+        }
+      ],
+      "album": {
+        "id": "4lvhLVlxROwIWD87GGOj7J",
+        "release_date": "2012-05-18",
+        "name": "Key",
+        "artists": [
+          {
+            "id": "6YK58h9BCYpFNv10fsMwoS",
+            "name": "pg.lost"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 392,
+        "nanos": 880000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "12EoBdX6xwJz4qzipi0oTb",
+      "name": "Fanfare III",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "4Q3x7bNjD6a7qo56JFMCft",
+        "release_date": "2018-09-21",
+        "name": "Daughter",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 375,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3d4s6Dfxb4bIE7jr1RBmrf",
+      "name": "Sir Niney's Rock",
+      "artists": [
+        {
+          "id": "3TsXLcFH4xlODPPbjG3Igu",
+          "name": "The Observers"
+        }
+      ],
+      "album": {
+        "id": "45bZIccg56MmYn25Md0pVM",
+        "release_date": "2013-08-01",
+        "name": "The Trojan: Dub Collection",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 206,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2PfOC2XbFLcqoG51366R1z",
+      "name": "There Used to Be a Darkness",
+      "artists": [
+        {
+          "id": "6trUID4p69Kwk7x4GNSCZz",
+          "name": "Mikko Joensuu"
+        }
+      ],
+      "album": {
+        "id": "0vhZKXDsJ7650W6uJlbdqn",
+        "release_date": "2016-11-11",
+        "name": "Amen, Vol. 2",
+        "artists": [
+          {
+            "id": "6trUID4p69Kwk7x4GNSCZz",
+            "name": "Mikko Joensuu"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 679,
+        "nanos": 195000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4L883Hie8OZjyZDxR8wExR",
+      "name": "Northwest Passage",
+      "artists": [
+        {
+          "id": "6ZWMXMg25PGVCaoYZXQSyn",
+          "name": "Papa M"
+        }
+      ],
+      "album": {
+        "id": "3NCwxdYt3bEcp0g1g8Yth0",
+        "release_date": "2001-11-05",
+        "name": "\"Whatever, Mortal\"",
+        "artists": [
+          {
+            "id": "6ZWMXMg25PGVCaoYZXQSyn",
+            "name": "Papa M"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 344,
+        "nanos": 280000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7zPpGK3EutqbT49ZRtiSUp",
+      "name": "End To End",
+      "artists": [
+        {
+          "id": "0nsphA9KDqbJ64duYRoEBi",
+          "name": "Earthless"
+        }
+      ],
+      "album": {
+        "id": "30pOzmy2T73KwsjVCSz71L",
+        "release_date": "2018-03-16",
+        "name": "Black Heaven",
+        "artists": [
+          {
+            "id": "0nsphA9KDqbJ64duYRoEBi",
+            "name": "Earthless"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 316,
+        "nanos": 786000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0GBAxPHZY81xbNCZcxjcEs",
+      "name": "Bongolia",
+      "artists": [
+        {
+          "id": "6tw3wmGmRXSWP9GqsnvY7B",
+          "name": "Incredible Bongo Band"
+        }
+      ],
+      "album": {
+        "id": "2dtnXYyS4Qx7CvgpWOO8Na",
+        "release_date": "2014",
+        "name": "40 Years of the Incredible Bongo Band",
+        "artists": [
+          {
+            "id": "6tw3wmGmRXSWP9GqsnvY7B",
+            "name": "Incredible Bongo Band"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 135,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3X0STKN2mIdYTJmI3REylR",
+      "name": "Keeping Pigs Together",
+      "artists": [
+        {
+          "id": "1BQtFnxZvAvTCZgTMlED0Q",
+          "name": "Red Snapper"
+        }
+      ],
+      "album": {
+        "id": "6orI53843DwuAOh0zfux6f",
+        "release_date": "2000",
+        "name": "Our Aim Is to Satisfy Red Snapper",
+        "artists": [
+          {
+            "id": "1BQtFnxZvAvTCZgTMlED0Q",
+            "name": "Red Snapper"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 323,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6TNIjltjuALKSTsJteVH2o",
+      "name": "Sweet Disposition",
+      "artists": [
+        {
+          "id": "4W48hZAnAHVOC2c8WH8pcq",
+          "name": "The Temper Trap"
+        }
+      ],
+      "album": {
+        "id": "0V59MMtgoruvEqMv18KAOH",
+        "release_date": "2009",
+        "name": "Conditions (Tour Edition)",
+        "artists": [
+          {
+            "id": "4W48hZAnAHVOC2c8WH8pcq",
+            "name": "The Temper Trap"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 236,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1gJOWwOOnOksLubE7aXRt5",
+      "name": "Not Today",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 218,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "17vETemaULU9bQSWIVhiPo",
+      "name": "Deep Light Burns",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "3PxXHLkJ3ikkJKpTrxOXIn",
+        "release_date": "2011-06-09",
+        "name": "The Sayings of the Seers",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 195,
+        "nanos": 11000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3qBEBSPbGEuEnNfeiOlcDO",
+      "name": "Eternal Forever",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "7fVLUtzx2xVYcNd5icxdwC",
+        "release_date": "2016-04-28",
+        "name": "Volume Rock",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 288,
+        "nanos": 8000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3ET4J0rPJ4uzgf0cQzGGsN",
+      "name": "Ain't No Sun Since You've Been Gone",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "08W4d8uMIQvJg0nlwR1rBN",
+        "release_date": "1968-11-22",
+        "name": "Dusty... Definitely (Expanded Edtion)",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5G7PHCkkoLfNhavoCZN2JC",
+      "name": "Equators",
+      "artists": [
+        {
+          "id": "2Mjr7nb7vY7AQwxGskDlM7",
+          "name": "Greenleaf"
+        }
+      ],
+      "album": {
+        "id": "4nrv5D1bFcXVe8Bv7Ra0tr",
+        "release_date": "2014-05-13",
+        "name": "Trails & Passes",
+        "artists": [
+          {
+            "id": "2Mjr7nb7vY7AQwxGskDlM7",
+            "name": "Greenleaf"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "79eSyI9oEUMD0X7oODtk5E",
+      "name": "Soar",
+      "artists": [
+        {
+          "id": "53B8p4TVFXCtarwosey71M",
+          "name": "Eco"
+        }
+      ],
+      "album": {
+        "id": "2wt5Q7CWb1RlEa2rQQWlOo",
+        "release_date": "2016-10-14",
+        "name": "Wolves",
+        "artists": [
+          {
+            "id": "53B8p4TVFXCtarwosey71M",
+            "name": "Eco"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 354,
+        "nanos": 500000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4RZkzJNhg2kCtCfgk9Dt16",
+      "name": "Aftermath",
+      "artists": [
+        {
+          "id": "2CKaDZ1Yo8YnWega9IeUzB",
+          "name": "Booka Shade"
+        },
+        {
+          "id": "4iHnLagnnmgiIwMSm1wuTq",
+          "name": "Giorgia Angiuli"
+        }
+      ],
+      "album": {
+        "id": "7msgkOGpFlPszUPYf3J4GC",
+        "release_date": "2017-11-24",
+        "name": "Aftermath / Limelight",
+        "artists": [
+          {
+            "id": "2CKaDZ1Yo8YnWega9IeUzB",
+            "name": "Booka Shade"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 460,
+        "nanos": 91000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4m2RLN7imvsaLL1ZUGfFFw",
+      "name": "In White Rooms",
+      "artists": [
+        {
+          "id": "2CKaDZ1Yo8YnWega9IeUzB",
+          "name": "Booka Shade"
+        }
+      ],
+      "album": {
+        "id": "52YO0uURAvAHYGWK38zP8r",
+        "release_date": "2006-05-12",
+        "name": "Movements",
+        "artists": [
+          {
+            "id": "2CKaDZ1Yo8YnWega9IeUzB",
+            "name": "Booka Shade"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 326,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3VYgBwWGJCKGPk1ljTHEbv",
+      "name": "It'll All Make Sense One Day",
+      "artists": [
+        {
+          "id": "53B8p4TVFXCtarwosey71M",
+          "name": "Eco"
+        }
+      ],
+      "album": {
+        "id": "2wt5Q7CWb1RlEa2rQQWlOo",
+        "release_date": "2016-10-14",
+        "name": "Wolves",
+        "artists": [
+          {
+            "id": "53B8p4TVFXCtarwosey71M",
+            "name": "Eco"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 296,
+        "nanos": 78000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Dl9gtAt7yBJACDxthkIlf",
+      "name": "State Of Mind (VONYC Sessions 788)",
+      "artists": [
+        {
+          "id": "2EEHLxTyGIpu6u3QvC3LCG",
+          "name": "Alex Sonata"
+        },
+        {
+          "id": "75moT3ICvMU8df0bWsrQn5",
+          "name": "TheRio"
+        }
+      ],
+      "album": {
+        "id": "0KomkT2DqQyxajEZ8UszNy",
+        "release_date": "2021-12-07",
+        "name": "VONYC Sessions 788",
+        "artists": [
+          {
+            "id": "5jt66rK9ifG8uKJoCFzycf",
+            "name": "Paul van Dyk’s VONYC Sessions"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 214,
+        "nanos": 547000000
+      },
+      "explicit": false
+    }
+  ]
+}

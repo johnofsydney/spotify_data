@@ -1,1 +1,2873 @@
-{"playlist":{"id":"37i9dQZF1EM2u3joHU9FLd","collaborative":false,"name":"Your Top Songs 2020","owner":["REDACTED","REDACTED"],"desc":"The songs you loved most this year, all wrapped up.","current_folder_id":0,"snapshot_id":"AZiMHwAAAAAAuPPx3M5OPzGjGXunximH"},"tracks":[{"id":"4811ZCD7pSqc2CVnrjCbop","name":"Cass Tech","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":134,"nanos":666000000},"explicit":false},{"id":"0X46c3LpHCvI3oNFgEwtiW","name":"Rescue - Lost Tapes","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"}],"album":{"id":"61AAsbMmebhjwm9muiC2Nc","release_date":"2019-07-26","name":"Rescue (Lost Tapes)","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"}],"typ":"single","added_at":0},"duration":{"secs":641,"nanos":250000000},"explicit":false},{"id":"5xzYHFHrWveUisOJlWuZrP","name":"Send It on Over","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":204,"nanos":173000000},"explicit":false},{"id":"5p2SsnOtYMrUpcLuFvg2d8","name":"Overlap - 2020 Anniversary Remix","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"album":{"id":"4IqAFXnkQLJdrTCg56vGiC","release_date":"2020-05-08","name":"Behind The Sun (2020 Anniversary Mixes)","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"typ":"album","added_at":0},"duration":{"secs":229,"nanos":951000000},"explicit":false},{"id":"1gJOWwOOnOksLubE7aXRt5","name":"Not Today","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":218,"nanos":173000000},"explicit":false},{"id":"7k1ihRhIVBfTQLD9ZyUwwm","name":"Morning Song","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"4uEyNbDd094j3aB2jwYqWf","release_date":"2018-10-12","name":"Longing to Be the Mountain","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":589,"nanos":952000000},"explicit":false},{"id":"042E0cTatKhSR2VvavsFeo","name":"Andromeda - Lost Tapes","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"}],"album":{"id":"6M1i8QFRhWs543DVdyJJEA","release_date":"2020-03-05","name":"Andromeda (Lost Tapes)","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"}],"typ":"single","added_at":0},"duration":{"secs":316,"nanos":344000000},"explicit":false},{"id":"1tilkebUAcNpJ7x1jSILHN","name":"Embers","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"album":{"id":"1m6KmerjAMzJSE9ozCSOPW","release_date":"2020-02-25","name":"Embers","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"typ":"single","added_at":0},"duration":{"secs":647,"nanos":253000000},"explicit":false},{"id":"6oiu94RYhyhhyAPCZ7bORm","name":"Baby Brother","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":142,"nanos":186000000},"explicit":false},{"id":"6rIh2ETnPnBxkFYjQb83SV","name":"Centurion","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"5G71TdzImVKCnUNVMimPok","release_date":"2018-01-05","name":"Repeater","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"single","added_at":0},"duration":{"secs":356,"nanos":824000000},"explicit":false},{"id":"4UByJ4BgsjwcswjOBqGGL8","name":"Wide","artists":[{"id":"1PtegeWYDiBNTVmbINxtgD","name":"Ah! Kosmos"},{"id":"1vU6t6WslKMdyP0KUuI89b","name":"Özgür Yılmaz"}],"album":{"id":"7tMVLJFr3WcFipXIkwupma","release_date":"2018-10-05","name":"Beautiful Swamp","artists":[{"id":"1PtegeWYDiBNTVmbINxtgD","name":"Ah! Kosmos"}],"typ":"album","added_at":0},"duration":{"secs":247,"nanos":552000000},"explicit":false},{"id":"6G5WlYWBol5dk9lpn2XCgE","name":"It's Alright","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"album":{"id":"6PgunyOBhNuTNn3Z7d5rGZ","release_date":"2015-04-21","name":"Gravitron","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"typ":"album","added_at":0},"duration":{"secs":176,"nanos":202000000},"explicit":false},{"id":"30zFYZ4P2yCtwHxKLQ6ikD","name":"Silver Pillbox","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":151,"nanos":693000000},"explicit":false},{"id":"5WE5KHo4lGk22mYNyjas2B","name":"Eta Carinae","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"61xzWO2b7xmrvLm4C3M36t","release_date":"2020-03-20","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":481,"nanos":108000000},"explicit":false},{"id":"3ZWW7SuBWXOHv24nZmfPLF","name":"Alright","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"album":{"id":"3uqx22ScaYQujWq2lBvXuQ","release_date":"2020-02-28","name":"Simulcast","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"typ":"album","added_at":0},"duration":{"secs":242,"nanos":483000000},"explicit":false},{"id":"0aSaj6pKPEC0pj476oAQSU","name":"No Way Man","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"album":{"id":"6PgunyOBhNuTNn3Z7d5rGZ","release_date":"2015-04-21","name":"Gravitron","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"typ":"album","added_at":0},"duration":{"secs":202,"nanos":360000000},"explicit":false},{"id":"24VAIVGurvupfuOY67JNby","name":"Bye Bye","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":147,"nanos":173000000},"explicit":false},{"id":"5wf7FSH0HXNWVCbP8KQXWI","name":"Red Star, Pt. 2 (Radio Edit)","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"61xzWO2b7xmrvLm4C3M36t","release_date":"2020-03-20","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":281,"nanos":824000000},"explicit":false},{"id":"6btBxRX5cmgzNw2uCNUU2K","name":"Old Engine Oil","artists":[{"id":"5q4eLKmqFVP0xII8087PHz","name":"The Budos Band"}],"album":{"id":"21fq2HanTNvaBj5wbdfSqH","release_date":"2019-04-12","name":"V","artists":[{"id":"5q4eLKmqFVP0xII8087PHz","name":"The Budos Band"}],"typ":"album","added_at":0},"duration":{"secs":191,"nanos":213000000},"explicit":false},{"id":"4JYj9hS5mjeD65eiJXAIsr","name":"Sexecutioner","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"album":{"id":"6PgunyOBhNuTNn3Z7d5rGZ","release_date":"2015-04-21","name":"Gravitron","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"typ":"album","added_at":0},"duration":{"secs":168,"nanos":280000000},"explicit":false},{"id":"01Ttb5SuPOpJkhAdDMH4h5","name":"Just a Name","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":230,"nanos":53000000},"explicit":false},{"id":"3pSQzoCF9QvhRNjGhjT8Af","name":"Red Star, Pt. 1 & 2","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"61xzWO2b7xmrvLm4C3M36t","release_date":"2020-03-20","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":981,"nanos":162000000},"explicit":false},{"id":"0FmpGZZQEVsFscfR6DQiwz","name":"The Animals - Pato Watson Remix","artists":[{"id":"0ucLPotcQNI7AViFytdhBz","name":"Ladytron"},{"id":"5UBAh8nYFgoHlD4bFNlqJ4","name":"Pato Watson"}],"album":{"id":"1Xiq5cGIfjaDbjrPUV9lFf","release_date":"2020-08-07","name":"The Animals (Pato Watson Remix)","artists":[{"id":"0ucLPotcQNI7AViFytdhBz","name":"Ladytron"},{"id":"5UBAh8nYFgoHlD4bFNlqJ4","name":"Pato Watson"}],"typ":"single","added_at":0},"duration":{"secs":433,"nanos":38000000},"explicit":false},{"id":"17vETemaULU9bQSWIVhiPo","name":"Deep Light Burns","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"3PxXHLkJ3ikkJKpTrxOXIn","release_date":"2011-06-09","name":"The Sayings of the Seers","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"single","added_at":0},"duration":{"secs":195,"nanos":11000000},"explicit":false},{"id":"5NYBr0FMnv0krldutAeoQv","name":"Count Your Blessings","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":196,"nanos":346000000},"explicit":false},{"id":"50ZuJHZg2bjUI39nM0crEp","name":"Echo of a Waning Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"61xzWO2b7xmrvLm4C3M36t","release_date":"2020-03-20","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":184,"nanos":789000000},"explicit":false},{"id":"792t8EgYh63rbbLlLOHK4L","name":"Diagram Girl - Beyond the Wizards Sleeve Re-Animation","artists":[{"id":"0DGGWrQLqX2Bli5KOPchgY","name":"Beyond The Wizards Sleeve"},{"id":"3LRldYGJpCAQT5cZKQyi7o","name":"Hannah Peel"}],"album":{"id":"4afAglFXDCC6ugGV5tMMMB","release_date":"2016-04-08","name":"Diagram Girl","artists":[{"id":"0DGGWrQLqX2Bli5KOPchgY","name":"Beyond The Wizards Sleeve"}],"typ":"single","added_at":0},"duration":{"secs":441,"nanos":854000000},"explicit":false},{"id":"2NNgACKAjnBaqWc233BBKY","name":"No Ordinary Morning - The Thrillseekers Remix","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"},{"id":"1RYDKWzJnJtbTPYNsDswD5","name":"The Thrillseekers"}],"album":{"id":"4IqAFXnkQLJdrTCg56vGiC","release_date":"2020-05-08","name":"Behind The Sun (2020 Anniversary Mixes)","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"typ":"album","added_at":0},"duration":{"secs":266,"nanos":548000000},"explicit":false},{"id":"1ZXvruzlqR9nfbm4ORwF0Q","name":"Whites of Their Eyes","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":150,"nanos":640000000},"explicit":false},{"id":"4ng3LkXfbpEv3iIYAcLiK3","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"61xzWO2b7xmrvLm4C3M36t","release_date":"2020-03-20","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":237,"nanos":202000000},"explicit":false},{"id":"7Cq7QA3Uy9H5O3uN87n1Zh","name":"Melody - Klangkarussell Remix","artists":[{"id":"7f5Zgnp2spUuuzKplmRkt7","name":"Lost Frequencies"},{"id":"7KMqksf0UMdyA0UCf4R3ux","name":"James Blunt"},{"id":"041iTeoMIwXMlShuQPIVKo","name":"Klangkarussell"}],"album":{"id":"3Jj1oJIz7zAQy2Ku0s1Wpb","release_date":"2018-06-15","name":"Melody (Remixes, Pt. 1)","artists":[{"id":"7f5Zgnp2spUuuzKplmRkt7","name":"Lost Frequencies"},{"id":"7KMqksf0UMdyA0UCf4R3ux","name":"James Blunt"}],"typ":"single","added_at":0},"duration":{"secs":709,"nanos":890000000},"explicit":false},{"id":"3qBEBSPbGEuEnNfeiOlcDO","name":"Eternal Forever","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"7fVLUtzx2xVYcNd5icxdwC","release_date":"2016-04-28","name":"Volume Rock","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"album","added_at":0},"duration":{"secs":288,"nanos":8000000},"explicit":false},{"id":"7aSuQemicoz7O9Qn6KrSQ7","name":"Salty Words","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":179,"nanos":906000000},"explicit":false},{"id":"3PaYdyct2eALKSgrG6oUb1","name":"Sun Shivers","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"4uEyNbDd094j3aB2jwYqWf","release_date":"2018-10-12","name":"Longing to Be the Mountain","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":209,"nanos":533000000},"explicit":false},{"id":"7682ZaKksp9zQnpfDkzysj","name":"Halcyon - 2020 Anniversary Remix","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"album":{"id":"4IqAFXnkQLJdrTCg56vGiC","release_date":"2020-05-08","name":"Behind The Sun (2020 Anniversary Mixes)","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"typ":"album","added_at":0},"duration":{"secs":204,"nanos":919000000},"explicit":false},{"id":"6a6tuiFMXmzfy0nva7OR9S","name":"Just Reflecting","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"album":{"id":"71km1jpQM4OPEJIT0tdZ4y","release_date":"2019-05-10","name":"Colours. Reflect. Time. Loss.","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"typ":"album","added_at":0},"duration":{"secs":343,"nanos":824000000},"explicit":false},{"id":"5iN4mXSuKWUZ4XG82c7jRg","name":"Ready to Think","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":184,"nanos":986000000},"explicit":false},{"id":"549IprPsrPiQZVZRhp8JFD","name":"Orion","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"31XYyBvZDIm0ahg5Wni7Dx","release_date":"2016-05-20","name":"Orion","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":394,"nanos":336000000},"explicit":false},{"id":"6fekGHLJPWZQZQhPJgcJfl","name":"The Best","artists":[{"id":"3K9muOlJVKLgH4SIwwZiDe","name":"Self Esteem"}],"album":{"id":"1HkSxzhUUhZBEhgLSYenex","release_date":"2019-10-10","name":"Compliments Please (Deluxe)","artists":[{"id":"3K9muOlJVKLgH4SIwwZiDe","name":"Self Esteem"}],"typ":"album","added_at":0},"duration":{"secs":230,"nanos":146000000},"explicit":false},{"id":"5g4HNyY9FO6zYBzgWjXzxO","name":"Church - Lost Tapes","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"}],"album":{"id":"2KPEMokCiyzWLGX29Fn1WH","release_date":"2019-05-01","name":"Church (Lost Tapes)","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"}],"typ":"single","added_at":0},"duration":{"secs":452,"nanos":888000000},"explicit":false},{"id":"4COgNgO6bV9NqbTDLwbJd4","name":"Five and Tens","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"album":{"id":"5sCCf61XBQqkPiijy2IByh","release_date":"2017-09-22","name":"Mattiel","artists":[{"id":"69ZtLNs4CNIFnf3Vq7wN5q","name":"Mattiel"}],"typ":"album","added_at":0},"duration":{"secs":122,"nanos":0},"explicit":false},{"id":"27OqOm2QjM6pahdBzLeK2h","name":"Ecliptic","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"61xzWO2b7xmrvLm4C3M36t","release_date":"2020-03-20","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":231,"nanos":192000000},"explicit":false},{"id":"2aBRCCkYQdP0JeciE468Cv","name":"Renegade","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"0lzUwZgk995U284gk1z2lp","release_date":"2007-04-27","name":"Trilogy (Deluxe)","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":338,"nanos":66000000},"explicit":false},{"id":"6kyuNj8Pm7nY52GLmTh4KY","name":"I Just Don't Understand You - Lost Tapes","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"}],"album":{"id":"3qmtKKphhcv3P7CiB7qxvB","release_date":"2019-09-13","name":"I Just Don't Understand You (Lost Tapes)","artists":[{"id":"5nPOO9iTcrs9k6yFffPxjH","name":"Röyksopp"}],"typ":"single","added_at":0},"duration":{"secs":276,"nanos":631000000},"explicit":false},{"id":"1Ar4PWB1GvXmyajoNjJEt1","name":"Both Sides","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"album":{"id":"71km1jpQM4OPEJIT0tdZ4y","release_date":"2019-05-10","name":"Colours. Reflect. Time. Loss.","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"typ":"album","added_at":0},"duration":{"secs":272,"nanos":269000000},"explicit":false},{"id":"0c0U4NnHDNfv70Zfjlpwtw","name":"Cosmonaut","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"4uEyNbDd094j3aB2jwYqWf","release_date":"2018-10-12","name":"Longing to Be the Mountain","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":237,"nanos":824000000},"explicit":false},{"id":"5TwBvXxvk92NwPeARNVOHk","name":"War Claw","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"album":{"id":"6PgunyOBhNuTNn3Z7d5rGZ","release_date":"2015-04-21","name":"Gravitron","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"typ":"album","added_at":0},"duration":{"secs":172,"nanos":686000000},"explicit":false},{"id":"4zROqDCFtygCJHugAyGf6x","name":"Late August","artists":[{"id":"33HYZgdE7uEgBnA46ctcD7","name":"Erki Pärnoja"}],"album":{"id":"60Yr9bv5GVw73XQxOPgjij","release_date":"2017-03-21","name":"Efterglow","artists":[{"id":"33HYZgdE7uEgBnA46ctcD7","name":"Erki Pärnoja"}],"typ":"album","added_at":0},"duration":{"secs":395,"nanos":97000000},"explicit":false},{"id":"61pIuMpkS687obAZ4jk6yJ","name":"Deleted Files","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"album":{"id":"4zTSeAQRnEnF8TMmxxj8xU","release_date":"2017-09-15","name":"Crashpad","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"typ":"album","added_at":0},"duration":{"secs":718,"nanos":292000000},"explicit":false},{"id":"2Pu6hj32S8snktn1nosbYR","name":"Quickening","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"4uEyNbDd094j3aB2jwYqWf","release_date":"2018-10-12","name":"Longing to Be the Mountain","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":259,"nanos":914000000},"explicit":false},{"id":"1PegwUCHFmpuV81dXMt3nh","name":"Outer Sunset","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"album":{"id":"137NWAM1UiQ2cpJPidOhaG","release_date":"2020-01-29","name":"Outer Sunset","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"typ":"single","added_at":0},"duration":{"secs":250,"nanos":383000000},"explicit":false},{"id":"4TaK6SAjHie2VGkiKzdZAc","name":"Everlasting Evening (feat. Sea Oleena)","artists":[{"id":"3pT9wrKIib4JGbSA4AOagZ","name":"Guilty Ghosts"},{"id":"4WnK1atCqqiU7DRaOChhKP","name":"Sea Oleena"}],"album":{"id":"75syGotaUKVhfDbqZ0cxT6","release_date":"2011-10-25","name":"Veils","artists":[{"id":"3pT9wrKIib4JGbSA4AOagZ","name":"Guilty Ghosts"}],"typ":"album","added_at":0},"duration":{"secs":435,"nanos":293000000},"explicit":false},{"id":"7sMWJ91VaBeYXPhdNyYAnP","name":"Une Lune étrange","artists":[{"id":"4r0FnBMOPmKACPLYhkcBtU","name":"L'Epee"}],"album":{"id":"368JbTrgbYXUiNXY7chThe","release_date":"2019-09-06","name":"Diabolique","artists":[{"id":"4r0FnBMOPmKACPLYhkcBtU","name":"L'Epee"}],"typ":"album","added_at":0},"duration":{"secs":294,"nanos":176000000},"explicit":false},{"id":"3qlQktUi0TAYNf1O5BPJ7c","name":"Sanctuary","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"album":{"id":"2sjt7XGkvXJGGvKYu0zm1y","release_date":"2017-06-02","name":"Reflections of a Floating World","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"typ":"album","added_at":0},"duration":{"secs":673,"nanos":666000000},"explicit":false},{"id":"1Wlzv8Pfmf2NdlfpxlT2d1","name":"Surveil","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"album":{"id":"71km1jpQM4OPEJIT0tdZ4y","release_date":"2019-05-10","name":"Colours. Reflect. Time. Loss.","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"typ":"album","added_at":0},"duration":{"secs":256,"nanos":927000000},"explicit":false},{"id":"0FkmVxMrScqDOY7D8WfI0I","name":"Wallwalker","artists":[{"id":"4qQyS8N0BHNkGQRi8xsha8","name":"Maserati"}],"album":{"id":"4iuLaMryWjj5JPk0WB8i5d","release_date":"2020-04-03","name":"Enter The Mirror","artists":[{"id":"4qQyS8N0BHNkGQRi8xsha8","name":"Maserati"}],"typ":"album","added_at":0},"duration":{"secs":474,"nanos":413000000},"explicit":false},{"id":"7y9USehMh5BWR0tWXsXJ5K","name":"Dopamine","artists":[{"id":"1CzKORB9IN0EjPEyeKBIkf","name":"Tides From Nebula"}],"album":{"id":"3kxzriTUAvJklocJHG7GH8","release_date":"2019-09-20","name":"From Voodoo to Zen","artists":[{"id":"1CzKORB9IN0EjPEyeKBIkf","name":"Tides From Nebula"}],"typ":"album","added_at":0},"duration":{"secs":289,"nanos":289000000},"explicit":false},{"id":"7bQ25jAJY3nh4kg6R3o0l7","name":"An Bat None","artists":[{"id":"6e0fDFs6QyTDvTcTDLFq9O","name":"Kairon; IRSE!"}],"album":{"id":"64m0oMCWJI6xNN7PmHmAfd","release_date":"2020-06-05","name":"An Bat None","artists":[{"id":"6e0fDFs6QyTDvTcTDLFq9O","name":"Kairon; IRSE!"}],"typ":"single","added_at":0},"duration":{"secs":364,"nanos":53000000},"explicit":false},{"id":"1a5nAUCFmxdnlM8wvQCAkB","name":"Andromeda - 2020 Anniversary Remix","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"album":{"id":"4IqAFXnkQLJdrTCg56vGiC","release_date":"2020-05-08","name":"Behind The Sun (2020 Anniversary Mixes)","artists":[{"id":"5GxyeQagayzZOg4UwffQlD","name":"Chicane"}],"typ":"album","added_at":0},"duration":{"secs":245,"nanos":722000000},"explicit":false},{"id":"0xKhLsivr3OKgdDgKPCJIg","name":"trash in bed","artists":[{"id":"34vLhockmYhf3LgznwyNaQ","name":"POLIÇA"}],"album":{"id":"1JfOpzjBU4zu2bdslhx0fR","release_date":"2019-10-09","name":"Driving","artists":[{"id":"34vLhockmYhf3LgznwyNaQ","name":"POLIÇA"}],"typ":"single","added_at":0},"duration":{"secs":273,"nanos":70000000},"explicit":false},{"id":"7eas0o7NnafjFrGLLbIf4X","name":"Made of Glass","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"0lzUwZgk995U284gk1z2lp","release_date":"2007-04-27","name":"Trilogy (Deluxe)","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":260,"nanos":333000000},"explicit":false},{"id":"3WuXcwmvgQeNQ3XXHwspin","name":"Fuckface","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"album":{"id":"6PgunyOBhNuTNn3Z7d5rGZ","release_date":"2015-04-21","name":"Gravitron","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"typ":"album","added_at":0},"duration":{"secs":172,"nanos":625000000},"explicit":true},{"id":"5Rl7NfQz4Y8NF13gaAKYhp","name":"Wildfire","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"album":{"id":"1cbv4SRJNSIB3IaLzMs18Y","release_date":"2019-05-10","name":"Colours. Reflect. Time. Loss.","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"typ":"album","added_at":0},"duration":{"secs":335,"nanos":367000000},"explicit":false},{"id":"7HRtkOonF9ofEiFiOnoqjv","name":"Repeater","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"5G71TdzImVKCnUNVMimPok","release_date":"2018-01-05","name":"Repeater","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"single","added_at":0},"duration":{"secs":820,"nanos":567000000},"explicit":false},{"id":"0gMYjcuAwOcCBGruZqj14t","name":"Illusory Motion","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"album":{"id":"4WD2n2uML96zPjzds22Ykl","release_date":"2019-07-12","name":"The Gold & Silver Sessions","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"typ":"album","added_at":0},"duration":{"secs":593,"nanos":386000000},"explicit":false},{"id":"2a1LntteluKnMMy2NyRlxo","name":"Coming in Hot","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"album":{"id":"6PgunyOBhNuTNn3Z7d5rGZ","release_date":"2015-04-21","name":"Gravitron","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"typ":"album","added_at":0},"duration":{"secs":234,"nanos":811000000},"explicit":false},{"id":"6mrIvQin3iYU3hvEDDf8Q2","name":"Howl Around","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"album":{"id":"1cbv4SRJNSIB3IaLzMs18Y","release_date":"2019-05-10","name":"Colours. Reflect. Time. Loss.","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"typ":"album","added_at":0},"duration":{"secs":273,"nanos":339000000},"explicit":false},{"id":"0rCDpuR1yZ7XY0icmwDO7f","name":"Amanecer","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"},{"id":"39YXQGcflynecg2L3APfqf","name":"Lostly"}],"album":{"id":"4qlgzddJg9ugLKoqNW31oF","release_date":"2018-12-07","name":"Music Rescues Me","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"album","added_at":0},"duration":{"secs":468,"nanos":10000000},"explicit":false},{"id":"05Ps8wHwPh5Ut5EfcIgxPZ","name":"Toba","artists":[{"id":"4Rcol4u0q89lypqKI83GDz","name":"Polynation"}],"album":{"id":"5kU3Q43bmLdARkMOCOLNkB","release_date":"2019-05-10","name":"Igneous","artists":[{"id":"4Rcol4u0q89lypqKI83GDz","name":"Polynation"}],"typ":"album","added_at":0},"duration":{"secs":397,"nanos":295000000},"explicit":false},{"id":"6VrIg3sqHuCmC4OPoH2Fas","name":"From A Distance","artists":[{"id":"62Jwsvqi7hW8TR9rAcfBXY","name":"Grandbrothers"}],"album":{"id":"3t3ONkP6ocLPX1cou9aaPD","release_date":"2017-10-20","name":"Open","artists":[{"id":"62Jwsvqi7hW8TR9rAcfBXY","name":"Grandbrothers"}],"typ":"album","added_at":0},"duration":{"secs":359,"nanos":186000000},"explicit":false},{"id":"6FAYqp5MXvNBmnHf0oZWaK","name":"Hearts Aflame","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"album":{"id":"3PxXHLkJ3ikkJKpTrxOXIn","release_date":"2011-06-09","name":"The Sayings of the Seers","artists":[{"id":"3OX4skiU9o7fxdi5Li7k5l","name":"Valley of the Sun"}],"typ":"single","added_at":0},"duration":{"secs":356,"nanos":767000000},"explicit":false},{"id":"6ngzbtL0bMpvVQdNwU6o99","name":"I See Through You","artists":[{"id":"16PcI6JjJuUfPlsX8Ffvfl","name":"Uncle Acid & The Deadbeats"}],"album":{"id":"2Lsp9h7yOgFyV2XwzkddT3","release_date":"2018-10-12","name":"Wasteland","artists":[{"id":"16PcI6JjJuUfPlsX8Ffvfl","name":"Uncle Acid & The Deadbeats"}],"typ":"album","added_at":0},"duration":{"secs":342,"nanos":813000000},"explicit":false},{"id":"0camMMxlV2V5Z0dDjaCwn1","name":"Admission","artists":[{"id":"4PxqJghOAEvatt0scJvili","name":"Torche"}],"album":{"id":"36ufOPW0tEptG0IeFAYXmn","release_date":"2019-07-12","name":"Admission","artists":[{"id":"4PxqJghOAEvatt0scJvili","name":"Torche"}],"typ":"album","added_at":0},"duration":{"secs":240,"nanos":780000000},"explicit":false},{"id":"27WK75uiBhpwYPKdp2zkbN","name":"Put Me Under","artists":[{"id":"3AEmdNd6qoMMKCkoIEdYrp","name":"Figueroa"},{"id":"3mvkWMe6swnknwscwvGCHO","name":"Amon Tobin"}],"album":{"id":"58RBjtk9H2O3LPPYEwvsMr","release_date":"2020-07-30","name":"The World As We Know It","artists":[{"id":"3AEmdNd6qoMMKCkoIEdYrp","name":"Figueroa"},{"id":"3mvkWMe6swnknwscwvGCHO","name":"Amon Tobin"}],"typ":"album","added_at":0},"duration":{"secs":227,"nanos":266000000},"explicit":false},{"id":"1mgIlvtm1aQr6ei17gDALV","name":"Loner Boogie","artists":[{"id":"4S2f4BosAW2oF9AfGEK8ZL","name":"Boy Azooga"}],"album":{"id":"1JIuboQphPsmFWxajY8dUY","release_date":"2018-06-08","name":"1, 2, Kung Fu!","artists":[{"id":"4S2f4BosAW2oF9AfGEK8ZL","name":"Boy Azooga"}],"typ":"album","added_at":0},"duration":{"secs":125,"nanos":213000000},"explicit":true},{"id":"4lLmiyaQ090m0QE70bKh0L","name":"Touchstone","artists":[{"id":"1PfOXooPSLQhOTNZGrXM90","name":"Solarstone"}],"album":{"id":"4luXI9nPKJ14Wk3QcrTxJA","release_date":"2010-06-28","name":"Touchstone","artists":[{"id":"1PfOXooPSLQhOTNZGrXM90","name":"Solarstone"}],"typ":"album","added_at":0},"duration":{"secs":533,"nanos":80000000},"explicit":false},{"id":"6gtDPegyWBxN8LCteqvT2b","name":"Hum","artists":[{"id":"3Cv5jiNHUHUvWwdmclhgOe","name":"Holographic Field"}],"album":{"id":"3osvHnt9ncEEOAGuCIESaZ","release_date":"2020-02-14","name":"Illuminate","artists":[{"id":"3Cv5jiNHUHUvWwdmclhgOe","name":"Holographic Field"}],"typ":"album","added_at":0},"duration":{"secs":464,"nanos":43000000},"explicit":false},{"id":"27tYOeyhHiQ6tpf1xJpYP1","name":"Feel Alive","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"album":{"id":"0lzUwZgk995U284gk1z2lp","release_date":"2007-04-27","name":"Trilogy (Deluxe)","artists":[{"id":"7jZM5w05mGhw6wTB1okhD9","name":"ATB"}],"typ":"album","added_at":0},"duration":{"secs":226,"nanos":306000000},"explicit":false},{"id":"1MQkhomMlwsYigfmswbEbx","name":"Laserface 01 (Aperture)","artists":[{"id":"0hprEC0nsWuQPSHag1O2Vi","name":"Gareth Emery"}],"album":{"id":"2mMCOoBqQK8xEdMVz7b7Ib","release_date":"2019-08-23","name":"Laserface 01 (Aperture)","artists":[{"id":"0hprEC0nsWuQPSHag1O2Vi","name":"Gareth Emery"}],"typ":"single","added_at":0},"duration":{"secs":153,"nanos":444000000},"explicit":false},{"id":"3j4Vby1HMunzRdUVDdqsMq","name":"Longing to Be the Mountain","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"4uEyNbDd094j3aB2jwYqWf","release_date":"2018-10-12","name":"Longing to Be the Mountain","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":622,"nanos":34000000},"explicit":false},{"id":"2rDoeqW5XWFGdFLRoRQu0I","name":"The Falling Veil","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"album":{"id":"2sjt7XGkvXJGGvKYu0zm1y","release_date":"2017-06-02","name":"Reflections of a Floating World","artists":[{"id":"1687IqXRdWmbRshgn194tT","name":"Elder"}],"typ":"album","added_at":0},"duration":{"secs":672,"nanos":640000000},"explicit":false},{"id":"4JIWvlXUnqQyhvp5evHXA0","name":"Dizzy","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"album":{"id":"4zTSeAQRnEnF8TMmxxj8xU","release_date":"2017-09-15","name":"Crashpad","artists":[{"id":"2ApGJ6o1AkNPjkFrnJQLKM","name":"Neuman"}],"typ":"album","added_at":0},"duration":{"secs":475,"nanos":371000000},"explicit":false},{"id":"1bFRcNmShQt11BTownItPk","name":"The New Delta","artists":[{"id":"1CzKORB9IN0EjPEyeKBIkf","name":"Tides From Nebula"}],"album":{"id":"3kxzriTUAvJklocJHG7GH8","release_date":"2019-09-20","name":"From Voodoo to Zen","artists":[{"id":"1CzKORB9IN0EjPEyeKBIkf","name":"Tides From Nebula"}],"typ":"album","added_at":0},"duration":{"secs":381,"nanos":0},"explicit":false},{"id":"2pHgLL7HlsSeHh8mLxr6zJ","name":"Proto World","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"album":{"id":"6PgunyOBhNuTNn3Z7d5rGZ","release_date":"2015-04-21","name":"Gravitron","artists":[{"id":"4TnftWQx6fF7k4Nviu7Nn6","name":"The Atomic Bitchwax"}],"typ":"album","added_at":0},"duration":{"secs":242,"nanos":980000000},"explicit":false},{"id":"2ohCd3jEmBzckeCV4gCRnm","name":"PCH","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"album":{"id":"3uqx22ScaYQujWq2lBvXuQ","release_date":"2020-02-28","name":"Simulcast","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"typ":"album","added_at":0},"duration":{"secs":200,"nanos":920000000},"explicit":false},{"id":"4BNzKmWATCHNTcmV0gfyIx","name":"Too Little Too Late","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"5G71TdzImVKCnUNVMimPok","release_date":"2018-01-05","name":"Repeater","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"single","added_at":0},"duration":{"secs":283,"nanos":219000000},"explicit":false},{"id":"1ZJsnaAo0kBGVVUvwMF31z","name":"Spirals","artists":[{"id":"31GFg2x20JkksUlQxN9BMe","name":"Monkey3"}],"album":{"id":"1bUQOPmwTrf80w3HoHhCdW","release_date":"2019-04-12","name":"Sphere","artists":[{"id":"31GFg2x20JkksUlQxN9BMe","name":"Monkey3"}],"typ":"album","added_at":0},"duration":{"secs":679,"nanos":440000000},"explicit":false},{"id":"4lpz1WAHFlOLfGtv9t9FMB","name":"Sophia","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"album":{"id":"1cbv4SRJNSIB3IaLzMs18Y","release_date":"2019-05-10","name":"Colours. Reflect. Time. Loss.","artists":[{"id":"3hImYGOkGn8Rsh9Vygcds2","name":"Maps"}],"typ":"album","added_at":0},"duration":{"secs":398,"nanos":431000000},"explicit":false},{"id":"0JQd5JTtHdIMdHOdbnDOcV","name":"Reciever","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"album":{"id":"01M0IlbLaRfUoddsrCXPhy","release_date":"2019-02-15","name":"Epoch (Deluxe Version)","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"typ":"album","added_at":0},"duration":{"secs":255,"nanos":209000000},"explicit":false},{"id":"1cme8gydNcO7BuidqEWcsb","name":"Exit the Soul","artists":[{"id":"79z0Z8E5uY2Fc7HO4VGerm","name":"Elephant Tree"}],"album":{"id":"5nFGsb0eYPYJRSsu57zDKU","release_date":"2020-04-24","name":"Habits","artists":[{"id":"79z0Z8E5uY2Fc7HO4VGerm","name":"Elephant Tree"}],"typ":"album","added_at":0},"duration":{"secs":439,"nanos":461000000},"explicit":false},{"id":"7GDGodzWVL6nCOBAhZ39rf","name":"Helios","artists":[{"id":"05lIUgmmsmTX2N9dCKc8rC","name":"Rival Consoles"}],"album":{"id":"474YduzMbDFNBzYBJNXdQp","release_date":"2015-05-04","name":"Odyssey / Sonne","artists":[{"id":"05lIUgmmsmTX2N9dCKc8rC","name":"Rival Consoles"}],"typ":"album","added_at":0},"duration":{"secs":301,"nanos":875000000},"explicit":false},{"id":"1dBje6EOpDBLdoKGo94DEa","name":"Rivers","artists":[{"id":"2BpAc5eK7Rz5GAwSp9UYXa","name":"The Tallest Man On Earth"}],"album":{"id":"78s3die4I0Q75cp2NKO6sc","release_date":"2016-08-17","name":"Rivers","artists":[{"id":"2BpAc5eK7Rz5GAwSp9UYXa","name":"The Tallest Man On Earth"}],"typ":"single","added_at":0},"duration":{"secs":236,"nanos":853000000},"explicit":false},{"id":"1vdN00jfVssgwJBMwmSAoT","name":"Spectre","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"album":{"id":"7HWdGPosPkb9GY5MOgLgSW","release_date":"2014-03-18","name":"Awake","artists":[{"id":"5oOhM2DFWab8XhSdQiITry","name":"Tycho"}],"typ":"album","added_at":0},"duration":{"secs":226,"nanos":911000000},"explicit":false},{"id":"0yFTbGu2HoARilyCjDh65X","name":"Sonic Riots","artists":[{"id":"62Jwsvqi7hW8TR9rAcfBXY","name":"Grandbrothers"}],"album":{"id":"3t3ONkP6ocLPX1cou9aaPD","release_date":"2017-10-20","name":"Open","artists":[{"id":"62Jwsvqi7hW8TR9rAcfBXY","name":"Grandbrothers"}],"typ":"album","added_at":0},"duration":{"secs":324,"nanos":66000000},"explicit":false},{"id":"3pAlKMwng8S0zlKL71glZD","name":"Odyssey","artists":[{"id":"05lIUgmmsmTX2N9dCKc8rC","name":"Rival Consoles"}],"album":{"id":"474YduzMbDFNBzYBJNXdQp","release_date":"2015-05-04","name":"Odyssey / Sonne","artists":[{"id":"05lIUgmmsmTX2N9dCKc8rC","name":"Rival Consoles"}],"typ":"album","added_at":0},"duration":{"secs":281,"nanos":980000000},"explicit":false},{"id":"5oeNNiNSE0UBRzNSzx5SKZ","name":"The Dreamer","artists":[{"id":"2BpAc5eK7Rz5GAwSp9UYXa","name":"The Tallest Man On Earth"}],"album":{"id":"2HJq69QcbyE2XCx2gRgWrU","release_date":"2010-11-09","name":"Sometimes The Blues Is Just A Passing Bird","artists":[{"id":"2BpAc5eK7Rz5GAwSp9UYXa","name":"The Tallest Man On Earth"}],"typ":"single","added_at":0},"duration":{"secs":245,"nanos":866000000},"explicit":false},{"id":"75dtuLXf7uNtQNAGMDIM7k","name":"Duality","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"album":{"id":"1LFQklxSuHVGySOXITOMS7","release_date":"2020-02-14","name":"Duality","artists":[{"id":"7wU1naftD3lNq7rNsiDvOR","name":"Paul van Dyk"}],"typ":"single","added_at":0},"duration":{"secs":218,"nanos":540000000},"explicit":false},{"id":"0ni6EruKbg11Q9PE5NwR2y","name":"Seven Hills","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"1m5TE9wAnq23iYCHRpGQml","release_date":"2017-11-17","name":"Vibraciones Doradas","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":446,"nanos":200000000},"explicit":false},{"id":"6o8Ix06SfOrcrRTVA51ng8","name":"Ritual (Matt Lange Remix)","artists":[{"id":"0IUq1plF3ON4Fboj1bE6kN","name":"Delerium"},{"id":"7B0uXJvJUTwwbeSToeZeJ4","name":"PHILDEL"},{"id":"2AmHV6vxRxvHdlxSHxnHE9","name":"Matt Lange"}],"album":{"id":"5wpwTPrkY6aUOXHEEWLtsI","release_date":"2016-09-02","name":"Ritual","artists":[{"id":"0IUq1plF3ON4Fboj1bE6kN","name":"Delerium"}],"typ":"single","added_at":0},"duration":{"secs":397,"nanos":393000000},"explicit":false},{"id":"7y4i7FLeTVQcJf31pbjduy","name":"Wash Off - KUU Remix","artists":[{"id":"6FQqZYVfTNQ1pCqfkwVFEa","name":"Foals"},{"id":"6TGsaPbyXTM7FAeHi68yp7","name":"KUU"}],"album":{"id":"34gxHZG9TvQgrRDGpR8Y6c","release_date":"2020-07-31","name":"Collected Reworks Vol. 2","artists":[{"id":"6FQqZYVfTNQ1pCqfkwVFEa","name":"Foals"}],"typ":"album","added_at":0},"duration":{"secs":391,"nanos":128000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "37i9dQZF1EM2u3joHU9FLd",
+    "collaborative": false,
+    "name": "Your Top Songs 2020",
+    "desc": "The songs you loved most this year, all wrapped up.",
+    "current_folder_id": 0,
+    "snapshot_id": "AZiMHwAAAAAAuPPx3M5OPzGjGXunximH",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "4811ZCD7pSqc2CVnrjCbop",
+      "name": "Cass Tech",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 134,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0X46c3LpHCvI3oNFgEwtiW",
+      "name": "Rescue - Lost Tapes",
+      "artists": [
+        {
+          "id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "Röyksopp"
+        }
+      ],
+      "album": {
+        "id": "61AAsbMmebhjwm9muiC2Nc",
+        "release_date": "2019-07-26",
+        "name": "Rescue (Lost Tapes)",
+        "artists": [
+          {
+            "id": "5nPOO9iTcrs9k6yFffPxjH",
+            "name": "Röyksopp"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 641,
+        "nanos": 250000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5xzYHFHrWveUisOJlWuZrP",
+      "name": "Send It on Over",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5p2SsnOtYMrUpcLuFvg2d8",
+      "name": "Overlap - 2020 Anniversary Remix",
+      "artists": [
+        {
+          "id": "5GxyeQagayzZOg4UwffQlD",
+          "name": "Chicane"
+        }
+      ],
+      "album": {
+        "id": "4IqAFXnkQLJdrTCg56vGiC",
+        "release_date": "2020-05-08",
+        "name": "Behind The Sun (2020 Anniversary Mixes)",
+        "artists": [
+          {
+            "id": "5GxyeQagayzZOg4UwffQlD",
+            "name": "Chicane"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 229,
+        "nanos": 951000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1gJOWwOOnOksLubE7aXRt5",
+      "name": "Not Today",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 218,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7k1ihRhIVBfTQLD9ZyUwwm",
+      "name": "Morning Song",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "4uEyNbDd094j3aB2jwYqWf",
+        "release_date": "2018-10-12",
+        "name": "Longing to Be the Mountain",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 589,
+        "nanos": 952000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "042E0cTatKhSR2VvavsFeo",
+      "name": "Andromeda - Lost Tapes",
+      "artists": [
+        {
+          "id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "Röyksopp"
+        }
+      ],
+      "album": {
+        "id": "6M1i8QFRhWs543DVdyJJEA",
+        "release_date": "2020-03-05",
+        "name": "Andromeda (Lost Tapes)",
+        "artists": [
+          {
+            "id": "5nPOO9iTcrs9k6yFffPxjH",
+            "name": "Röyksopp"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 316,
+        "nanos": 344000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1tilkebUAcNpJ7x1jSILHN",
+      "name": "Embers",
+      "artists": [
+        {
+          "id": "1687IqXRdWmbRshgn194tT",
+          "name": "Elder"
+        }
+      ],
+      "album": {
+        "id": "1m6KmerjAMzJSE9ozCSOPW",
+        "release_date": "2020-02-25",
+        "name": "Embers",
+        "artists": [
+          {
+            "id": "1687IqXRdWmbRshgn194tT",
+            "name": "Elder"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 647,
+        "nanos": 253000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6oiu94RYhyhhyAPCZ7bORm",
+      "name": "Baby Brother",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 142,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6rIh2ETnPnBxkFYjQb83SV",
+      "name": "Centurion",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "5G71TdzImVKCnUNVMimPok",
+        "release_date": "2018-01-05",
+        "name": "Repeater",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 356,
+        "nanos": 824000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4UByJ4BgsjwcswjOBqGGL8",
+      "name": "Wide",
+      "artists": [
+        {
+          "id": "1PtegeWYDiBNTVmbINxtgD",
+          "name": "Ah! Kosmos"
+        },
+        {
+          "id": "1vU6t6WslKMdyP0KUuI89b",
+          "name": "Özgür Yılmaz"
+        }
+      ],
+      "album": {
+        "id": "7tMVLJFr3WcFipXIkwupma",
+        "release_date": "2018-10-05",
+        "name": "Beautiful Swamp",
+        "artists": [
+          {
+            "id": "1PtegeWYDiBNTVmbINxtgD",
+            "name": "Ah! Kosmos"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 247,
+        "nanos": 552000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6G5WlYWBol5dk9lpn2XCgE",
+      "name": "It's Alright",
+      "artists": [
+        {
+          "id": "4TnftWQx6fF7k4Nviu7Nn6",
+          "name": "The Atomic Bitchwax"
+        }
+      ],
+      "album": {
+        "id": "6PgunyOBhNuTNn3Z7d5rGZ",
+        "release_date": "2015-04-21",
+        "name": "Gravitron",
+        "artists": [
+          {
+            "id": "4TnftWQx6fF7k4Nviu7Nn6",
+            "name": "The Atomic Bitchwax"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 176,
+        "nanos": 202000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "30zFYZ4P2yCtwHxKLQ6ikD",
+      "name": "Silver Pillbox",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 151,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5WE5KHo4lGk22mYNyjas2B",
+      "name": "Eta Carinae",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 481,
+        "nanos": 108000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3ZWW7SuBWXOHv24nZmfPLF",
+      "name": "Alright",
+      "artists": [
+        {
+          "id": "5oOhM2DFWab8XhSdQiITry",
+          "name": "Tycho"
+        }
+      ],
+      "album": {
+        "id": "3uqx22ScaYQujWq2lBvXuQ",
+        "release_date": "2020-02-28",
+        "name": "Simulcast",
+        "artists": [
+          {
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 242,
+        "nanos": 483000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0aSaj6pKPEC0pj476oAQSU",
+      "name": "No Way Man",
+      "artists": [
+        {
+          "id": "4TnftWQx6fF7k4Nviu7Nn6",
+          "name": "The Atomic Bitchwax"
+        }
+      ],
+      "album": {
+        "id": "6PgunyOBhNuTNn3Z7d5rGZ",
+        "release_date": "2015-04-21",
+        "name": "Gravitron",
+        "artists": [
+          {
+            "id": "4TnftWQx6fF7k4Nviu7Nn6",
+            "name": "The Atomic Bitchwax"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 202,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "24VAIVGurvupfuOY67JNby",
+      "name": "Bye Bye",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 147,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5wf7FSH0HXNWVCbP8KQXWI",
+      "name": "Red Star, Pt. 2 (Radio Edit)",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 281,
+        "nanos": 824000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6btBxRX5cmgzNw2uCNUU2K",
+      "name": "Old Engine Oil",
+      "artists": [
+        {
+          "id": "5q4eLKmqFVP0xII8087PHz",
+          "name": "The Budos Band"
+        }
+      ],
+      "album": {
+        "id": "21fq2HanTNvaBj5wbdfSqH",
+        "release_date": "2019-04-12",
+        "name": "V",
+        "artists": [
+          {
+            "id": "5q4eLKmqFVP0xII8087PHz",
+            "name": "The Budos Band"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4JYj9hS5mjeD65eiJXAIsr",
+      "name": "Sexecutioner",
+      "artists": [
+        {
+          "id": "4TnftWQx6fF7k4Nviu7Nn6",
+          "name": "The Atomic Bitchwax"
+        }
+      ],
+      "album": {
+        "id": "6PgunyOBhNuTNn3Z7d5rGZ",
+        "release_date": "2015-04-21",
+        "name": "Gravitron",
+        "artists": [
+          {
+            "id": "4TnftWQx6fF7k4Nviu7Nn6",
+            "name": "The Atomic Bitchwax"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 168,
+        "nanos": 280000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "01Ttb5SuPOpJkhAdDMH4h5",
+      "name": "Just a Name",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 230,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3pSQzoCF9QvhRNjGhjT8Af",
+      "name": "Red Star, Pt. 1 & 2",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 981,
+        "nanos": 162000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0FmpGZZQEVsFscfR6DQiwz",
+      "name": "The Animals - Pato Watson Remix",
+      "artists": [
+        {
+          "id": "0ucLPotcQNI7AViFytdhBz",
+          "name": "Ladytron"
+        },
+        {
+          "id": "5UBAh8nYFgoHlD4bFNlqJ4",
+          "name": "Pato Watson"
+        }
+      ],
+      "album": {
+        "id": "1Xiq5cGIfjaDbjrPUV9lFf",
+        "release_date": "2020-08-07",
+        "name": "The Animals (Pato Watson Remix)",
+        "artists": [
+          {
+            "id": "0ucLPotcQNI7AViFytdhBz",
+            "name": "Ladytron"
+          },
+          {
+            "id": "5UBAh8nYFgoHlD4bFNlqJ4",
+            "name": "Pato Watson"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 433,
+        "nanos": 38000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "17vETemaULU9bQSWIVhiPo",
+      "name": "Deep Light Burns",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "3PxXHLkJ3ikkJKpTrxOXIn",
+        "release_date": "2011-06-09",
+        "name": "The Sayings of the Seers",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 195,
+        "nanos": 11000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5NYBr0FMnv0krldutAeoQv",
+      "name": "Count Your Blessings",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 196,
+        "nanos": 346000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "50ZuJHZg2bjUI39nM0crEp",
+      "name": "Echo of a Waning Star",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 184,
+        "nanos": 789000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "792t8EgYh63rbbLlLOHK4L",
+      "name": "Diagram Girl - Beyond the Wizards Sleeve Re-Animation",
+      "artists": [
+        {
+          "id": "0DGGWrQLqX2Bli5KOPchgY",
+          "name": "Beyond The Wizards Sleeve"
+        },
+        {
+          "id": "3LRldYGJpCAQT5cZKQyi7o",
+          "name": "Hannah Peel"
+        }
+      ],
+      "album": {
+        "id": "4afAglFXDCC6ugGV5tMMMB",
+        "release_date": "2016-04-08",
+        "name": "Diagram Girl",
+        "artists": [
+          {
+            "id": "0DGGWrQLqX2Bli5KOPchgY",
+            "name": "Beyond The Wizards Sleeve"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 441,
+        "nanos": 854000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2NNgACKAjnBaqWc233BBKY",
+      "name": "No Ordinary Morning - The Thrillseekers Remix",
+      "artists": [
+        {
+          "id": "5GxyeQagayzZOg4UwffQlD",
+          "name": "Chicane"
+        },
+        {
+          "id": "1RYDKWzJnJtbTPYNsDswD5",
+          "name": "The Thrillseekers"
+        }
+      ],
+      "album": {
+        "id": "4IqAFXnkQLJdrTCg56vGiC",
+        "release_date": "2020-05-08",
+        "name": "Behind The Sun (2020 Anniversary Mixes)",
+        "artists": [
+          {
+            "id": "5GxyeQagayzZOg4UwffQlD",
+            "name": "Chicane"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 266,
+        "nanos": 548000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ZXvruzlqR9nfbm4ORwF0Q",
+      "name": "Whites of Their Eyes",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 150,
+        "nanos": 640000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4ng3LkXfbpEv3iIYAcLiK3",
+      "name": "Dead Star",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 237,
+        "nanos": 202000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7Cq7QA3Uy9H5O3uN87n1Zh",
+      "name": "Melody - Klangkarussell Remix",
+      "artists": [
+        {
+          "id": "7f5Zgnp2spUuuzKplmRkt7",
+          "name": "Lost Frequencies"
+        },
+        {
+          "id": "7KMqksf0UMdyA0UCf4R3ux",
+          "name": "James Blunt"
+        },
+        {
+          "id": "041iTeoMIwXMlShuQPIVKo",
+          "name": "Klangkarussell"
+        }
+      ],
+      "album": {
+        "id": "3Jj1oJIz7zAQy2Ku0s1Wpb",
+        "release_date": "2018-06-15",
+        "name": "Melody (Remixes, Pt. 1)",
+        "artists": [
+          {
+            "id": "7f5Zgnp2spUuuzKplmRkt7",
+            "name": "Lost Frequencies"
+          },
+          {
+            "id": "7KMqksf0UMdyA0UCf4R3ux",
+            "name": "James Blunt"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 709,
+        "nanos": 890000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3qBEBSPbGEuEnNfeiOlcDO",
+      "name": "Eternal Forever",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "7fVLUtzx2xVYcNd5icxdwC",
+        "release_date": "2016-04-28",
+        "name": "Volume Rock",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 288,
+        "nanos": 8000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7aSuQemicoz7O9Qn6KrSQ7",
+      "name": "Salty Words",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 179,
+        "nanos": 906000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3PaYdyct2eALKSgrG6oUb1",
+      "name": "Sun Shivers",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "4uEyNbDd094j3aB2jwYqWf",
+        "release_date": "2018-10-12",
+        "name": "Longing to Be the Mountain",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 209,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7682ZaKksp9zQnpfDkzysj",
+      "name": "Halcyon - 2020 Anniversary Remix",
+      "artists": [
+        {
+          "id": "5GxyeQagayzZOg4UwffQlD",
+          "name": "Chicane"
+        }
+      ],
+      "album": {
+        "id": "4IqAFXnkQLJdrTCg56vGiC",
+        "release_date": "2020-05-08",
+        "name": "Behind The Sun (2020 Anniversary Mixes)",
+        "artists": [
+          {
+            "id": "5GxyeQagayzZOg4UwffQlD",
+            "name": "Chicane"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 919000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6a6tuiFMXmzfy0nva7OR9S",
+      "name": "Just Reflecting",
+      "artists": [
+        {
+          "id": "3hImYGOkGn8Rsh9Vygcds2",
+          "name": "Maps"
+        }
+      ],
+      "album": {
+        "id": "71km1jpQM4OPEJIT0tdZ4y",
+        "release_date": "2019-05-10",
+        "name": "Colours. Reflect. Time. Loss.",
+        "artists": [
+          {
+            "id": "3hImYGOkGn8Rsh9Vygcds2",
+            "name": "Maps"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 343,
+        "nanos": 824000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5iN4mXSuKWUZ4XG82c7jRg",
+      "name": "Ready to Think",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 184,
+        "nanos": 986000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "549IprPsrPiQZVZRhp8JFD",
+      "name": "Orion",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "31XYyBvZDIm0ahg5Wni7Dx",
+        "release_date": "2016-05-20",
+        "name": "Orion",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 394,
+        "nanos": 336000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6fekGHLJPWZQZQhPJgcJfl",
+      "name": "The Best",
+      "artists": [
+        {
+          "id": "3K9muOlJVKLgH4SIwwZiDe",
+          "name": "Self Esteem"
+        }
+      ],
+      "album": {
+        "id": "1HkSxzhUUhZBEhgLSYenex",
+        "release_date": "2019-10-10",
+        "name": "Compliments Please (Deluxe)",
+        "artists": [
+          {
+            "id": "3K9muOlJVKLgH4SIwwZiDe",
+            "name": "Self Esteem"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 230,
+        "nanos": 146000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5g4HNyY9FO6zYBzgWjXzxO",
+      "name": "Church - Lost Tapes",
+      "artists": [
+        {
+          "id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "Röyksopp"
+        }
+      ],
+      "album": {
+        "id": "2KPEMokCiyzWLGX29Fn1WH",
+        "release_date": "2019-05-01",
+        "name": "Church (Lost Tapes)",
+        "artists": [
+          {
+            "id": "5nPOO9iTcrs9k6yFffPxjH",
+            "name": "Röyksopp"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 452,
+        "nanos": 888000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4COgNgO6bV9NqbTDLwbJd4",
+      "name": "Five and Tens",
+      "artists": [
+        {
+          "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+          "name": "Mattiel"
+        }
+      ],
+      "album": {
+        "id": "5sCCf61XBQqkPiijy2IByh",
+        "release_date": "2017-09-22",
+        "name": "Mattiel",
+        "artists": [
+          {
+            "id": "69ZtLNs4CNIFnf3Vq7wN5q",
+            "name": "Mattiel"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 122,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "27OqOm2QjM6pahdBzLeK2h",
+      "name": "Ecliptic",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 231,
+        "nanos": 192000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2aBRCCkYQdP0JeciE468Cv",
+      "name": "Renegade",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "0lzUwZgk995U284gk1z2lp",
+        "release_date": "2007-04-27",
+        "name": "Trilogy (Deluxe)",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 338,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6kyuNj8Pm7nY52GLmTh4KY",
+      "name": "I Just Don't Understand You - Lost Tapes",
+      "artists": [
+        {
+          "id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "Röyksopp"
+        }
+      ],
+      "album": {
+        "id": "3qmtKKphhcv3P7CiB7qxvB",
+        "release_date": "2019-09-13",
+        "name": "I Just Don't Understand You (Lost Tapes)",
+        "artists": [
+          {
+            "id": "5nPOO9iTcrs9k6yFffPxjH",
+            "name": "Röyksopp"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 276,
+        "nanos": 631000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Ar4PWB1GvXmyajoNjJEt1",
+      "name": "Both Sides",
+      "artists": [
+        {
+          "id": "3hImYGOkGn8Rsh9Vygcds2",
+          "name": "Maps"
+        }
+      ],
+      "album": {
+        "id": "71km1jpQM4OPEJIT0tdZ4y",
+        "release_date": "2019-05-10",
+        "name": "Colours. Reflect. Time. Loss.",
+        "artists": [
+          {
+            "id": "3hImYGOkGn8Rsh9Vygcds2",
+            "name": "Maps"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 272,
+        "nanos": 269000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0c0U4NnHDNfv70Zfjlpwtw",
+      "name": "Cosmonaut",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "4uEyNbDd094j3aB2jwYqWf",
+        "release_date": "2018-10-12",
+        "name": "Longing to Be the Mountain",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 237,
+        "nanos": 824000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5TwBvXxvk92NwPeARNVOHk",
+      "name": "War Claw",
+      "artists": [
+        {
+          "id": "4TnftWQx6fF7k4Nviu7Nn6",
+          "name": "The Atomic Bitchwax"
+        }
+      ],
+      "album": {
+        "id": "6PgunyOBhNuTNn3Z7d5rGZ",
+        "release_date": "2015-04-21",
+        "name": "Gravitron",
+        "artists": [
+          {
+            "id": "4TnftWQx6fF7k4Nviu7Nn6",
+            "name": "The Atomic Bitchwax"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 172,
+        "nanos": 686000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4zROqDCFtygCJHugAyGf6x",
+      "name": "Late August",
+      "artists": [
+        {
+          "id": "33HYZgdE7uEgBnA46ctcD7",
+          "name": "Erki Pärnoja"
+        }
+      ],
+      "album": {
+        "id": "60Yr9bv5GVw73XQxOPgjij",
+        "release_date": "2017-03-21",
+        "name": "Efterglow",
+        "artists": [
+          {
+            "id": "33HYZgdE7uEgBnA46ctcD7",
+            "name": "Erki Pärnoja"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 395,
+        "nanos": 97000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "61pIuMpkS687obAZ4jk6yJ",
+      "name": "Deleted Files",
+      "artists": [
+        {
+          "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+          "name": "Neuman"
+        }
+      ],
+      "album": {
+        "id": "4zTSeAQRnEnF8TMmxxj8xU",
+        "release_date": "2017-09-15",
+        "name": "Crashpad",
+        "artists": [
+          {
+            "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+            "name": "Neuman"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 718,
+        "nanos": 292000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Pu6hj32S8snktn1nosbYR",
+      "name": "Quickening",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "4uEyNbDd094j3aB2jwYqWf",
+        "release_date": "2018-10-12",
+        "name": "Longing to Be the Mountain",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 259,
+        "nanos": 914000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1PegwUCHFmpuV81dXMt3nh",
+      "name": "Outer Sunset",
+      "artists": [
+        {
+          "id": "5oOhM2DFWab8XhSdQiITry",
+          "name": "Tycho"
+        }
+      ],
+      "album": {
+        "id": "137NWAM1UiQ2cpJPidOhaG",
+        "release_date": "2020-01-29",
+        "name": "Outer Sunset",
+        "artists": [
+          {
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 250,
+        "nanos": 383000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4TaK6SAjHie2VGkiKzdZAc",
+      "name": "Everlasting Evening (feat. Sea Oleena)",
+      "artists": [
+        {
+          "id": "3pT9wrKIib4JGbSA4AOagZ",
+          "name": "Guilty Ghosts"
+        },
+        {
+          "id": "4WnK1atCqqiU7DRaOChhKP",
+          "name": "Sea Oleena"
+        }
+      ],
+      "album": {
+        "id": "75syGotaUKVhfDbqZ0cxT6",
+        "release_date": "2011-10-25",
+        "name": "Veils",
+        "artists": [
+          {
+            "id": "3pT9wrKIib4JGbSA4AOagZ",
+            "name": "Guilty Ghosts"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 435,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7sMWJ91VaBeYXPhdNyYAnP",
+      "name": "Une Lune étrange",
+      "artists": [
+        {
+          "id": "4r0FnBMOPmKACPLYhkcBtU",
+          "name": "L'Epee"
+        }
+      ],
+      "album": {
+        "id": "368JbTrgbYXUiNXY7chThe",
+        "release_date": "2019-09-06",
+        "name": "Diabolique",
+        "artists": [
+          {
+            "id": "4r0FnBMOPmKACPLYhkcBtU",
+            "name": "L'Epee"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 294,
+        "nanos": 176000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3qlQktUi0TAYNf1O5BPJ7c",
+      "name": "Sanctuary",
+      "artists": [
+        {
+          "id": "1687IqXRdWmbRshgn194tT",
+          "name": "Elder"
+        }
+      ],
+      "album": {
+        "id": "2sjt7XGkvXJGGvKYu0zm1y",
+        "release_date": "2017-06-02",
+        "name": "Reflections of a Floating World",
+        "artists": [
+          {
+            "id": "1687IqXRdWmbRshgn194tT",
+            "name": "Elder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 673,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Wlzv8Pfmf2NdlfpxlT2d1",
+      "name": "Surveil",
+      "artists": [
+        {
+          "id": "3hImYGOkGn8Rsh9Vygcds2",
+          "name": "Maps"
+        }
+      ],
+      "album": {
+        "id": "71km1jpQM4OPEJIT0tdZ4y",
+        "release_date": "2019-05-10",
+        "name": "Colours. Reflect. Time. Loss.",
+        "artists": [
+          {
+            "id": "3hImYGOkGn8Rsh9Vygcds2",
+            "name": "Maps"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 256,
+        "nanos": 927000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0FkmVxMrScqDOY7D8WfI0I",
+      "name": "Wallwalker",
+      "artists": [
+        {
+          "id": "4qQyS8N0BHNkGQRi8xsha8",
+          "name": "Maserati"
+        }
+      ],
+      "album": {
+        "id": "4iuLaMryWjj5JPk0WB8i5d",
+        "release_date": "2020-04-03",
+        "name": "Enter The Mirror",
+        "artists": [
+          {
+            "id": "4qQyS8N0BHNkGQRi8xsha8",
+            "name": "Maserati"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 474,
+        "nanos": 413000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7y9USehMh5BWR0tWXsXJ5K",
+      "name": "Dopamine",
+      "artists": [
+        {
+          "id": "1CzKORB9IN0EjPEyeKBIkf",
+          "name": "Tides From Nebula"
+        }
+      ],
+      "album": {
+        "id": "3kxzriTUAvJklocJHG7GH8",
+        "release_date": "2019-09-20",
+        "name": "From Voodoo to Zen",
+        "artists": [
+          {
+            "id": "1CzKORB9IN0EjPEyeKBIkf",
+            "name": "Tides From Nebula"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 289,
+        "nanos": 289000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7bQ25jAJY3nh4kg6R3o0l7",
+      "name": "An Bat None",
+      "artists": [
+        {
+          "id": "6e0fDFs6QyTDvTcTDLFq9O",
+          "name": "Kairon; IRSE!"
+        }
+      ],
+      "album": {
+        "id": "64m0oMCWJI6xNN7PmHmAfd",
+        "release_date": "2020-06-05",
+        "name": "An Bat None",
+        "artists": [
+          {
+            "id": "6e0fDFs6QyTDvTcTDLFq9O",
+            "name": "Kairon; IRSE!"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 364,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1a5nAUCFmxdnlM8wvQCAkB",
+      "name": "Andromeda - 2020 Anniversary Remix",
+      "artists": [
+        {
+          "id": "5GxyeQagayzZOg4UwffQlD",
+          "name": "Chicane"
+        }
+      ],
+      "album": {
+        "id": "4IqAFXnkQLJdrTCg56vGiC",
+        "release_date": "2020-05-08",
+        "name": "Behind The Sun (2020 Anniversary Mixes)",
+        "artists": [
+          {
+            "id": "5GxyeQagayzZOg4UwffQlD",
+            "name": "Chicane"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 245,
+        "nanos": 722000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0xKhLsivr3OKgdDgKPCJIg",
+      "name": "trash in bed",
+      "artists": [
+        {
+          "id": "34vLhockmYhf3LgznwyNaQ",
+          "name": "POLIÇA"
+        }
+      ],
+      "album": {
+        "id": "1JfOpzjBU4zu2bdslhx0fR",
+        "release_date": "2019-10-09",
+        "name": "Driving",
+        "artists": [
+          {
+            "id": "34vLhockmYhf3LgznwyNaQ",
+            "name": "POLIÇA"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 273,
+        "nanos": 70000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7eas0o7NnafjFrGLLbIf4X",
+      "name": "Made of Glass",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "0lzUwZgk995U284gk1z2lp",
+        "release_date": "2007-04-27",
+        "name": "Trilogy (Deluxe)",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 260,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3WuXcwmvgQeNQ3XXHwspin",
+      "name": "Fuckface",
+      "artists": [
+        {
+          "id": "4TnftWQx6fF7k4Nviu7Nn6",
+          "name": "The Atomic Bitchwax"
+        }
+      ],
+      "album": {
+        "id": "6PgunyOBhNuTNn3Z7d5rGZ",
+        "release_date": "2015-04-21",
+        "name": "Gravitron",
+        "artists": [
+          {
+            "id": "4TnftWQx6fF7k4Nviu7Nn6",
+            "name": "The Atomic Bitchwax"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 172,
+        "nanos": 625000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "5Rl7NfQz4Y8NF13gaAKYhp",
+      "name": "Wildfire",
+      "artists": [
+        {
+          "id": "3hImYGOkGn8Rsh9Vygcds2",
+          "name": "Maps"
+        }
+      ],
+      "album": {
+        "id": "1cbv4SRJNSIB3IaLzMs18Y",
+        "release_date": "2019-05-10",
+        "name": "Colours. Reflect. Time. Loss.",
+        "artists": [
+          {
+            "id": "3hImYGOkGn8Rsh9Vygcds2",
+            "name": "Maps"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 335,
+        "nanos": 367000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7HRtkOonF9ofEiFiOnoqjv",
+      "name": "Repeater",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "5G71TdzImVKCnUNVMimPok",
+        "release_date": "2018-01-05",
+        "name": "Repeater",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 820,
+        "nanos": 567000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0gMYjcuAwOcCBGruZqj14t",
+      "name": "Illusory Motion",
+      "artists": [
+        {
+          "id": "1687IqXRdWmbRshgn194tT",
+          "name": "Elder"
+        }
+      ],
+      "album": {
+        "id": "4WD2n2uML96zPjzds22Ykl",
+        "release_date": "2019-07-12",
+        "name": "The Gold & Silver Sessions",
+        "artists": [
+          {
+            "id": "1687IqXRdWmbRshgn194tT",
+            "name": "Elder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 593,
+        "nanos": 386000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2a1LntteluKnMMy2NyRlxo",
+      "name": "Coming in Hot",
+      "artists": [
+        {
+          "id": "4TnftWQx6fF7k4Nviu7Nn6",
+          "name": "The Atomic Bitchwax"
+        }
+      ],
+      "album": {
+        "id": "6PgunyOBhNuTNn3Z7d5rGZ",
+        "release_date": "2015-04-21",
+        "name": "Gravitron",
+        "artists": [
+          {
+            "id": "4TnftWQx6fF7k4Nviu7Nn6",
+            "name": "The Atomic Bitchwax"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 811000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6mrIvQin3iYU3hvEDDf8Q2",
+      "name": "Howl Around",
+      "artists": [
+        {
+          "id": "3hImYGOkGn8Rsh9Vygcds2",
+          "name": "Maps"
+        }
+      ],
+      "album": {
+        "id": "1cbv4SRJNSIB3IaLzMs18Y",
+        "release_date": "2019-05-10",
+        "name": "Colours. Reflect. Time. Loss.",
+        "artists": [
+          {
+            "id": "3hImYGOkGn8Rsh9Vygcds2",
+            "name": "Maps"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 273,
+        "nanos": 339000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0rCDpuR1yZ7XY0icmwDO7f",
+      "name": "Amanecer",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        },
+        {
+          "id": "39YXQGcflynecg2L3APfqf",
+          "name": "Lostly"
+        }
+      ],
+      "album": {
+        "id": "4qlgzddJg9ugLKoqNW31oF",
+        "release_date": "2018-12-07",
+        "name": "Music Rescues Me",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 468,
+        "nanos": 10000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "05Ps8wHwPh5Ut5EfcIgxPZ",
+      "name": "Toba",
+      "artists": [
+        {
+          "id": "4Rcol4u0q89lypqKI83GDz",
+          "name": "Polynation"
+        }
+      ],
+      "album": {
+        "id": "5kU3Q43bmLdARkMOCOLNkB",
+        "release_date": "2019-05-10",
+        "name": "Igneous",
+        "artists": [
+          {
+            "id": "4Rcol4u0q89lypqKI83GDz",
+            "name": "Polynation"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 397,
+        "nanos": 295000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6VrIg3sqHuCmC4OPoH2Fas",
+      "name": "From A Distance",
+      "artists": [
+        {
+          "id": "62Jwsvqi7hW8TR9rAcfBXY",
+          "name": "Grandbrothers"
+        }
+      ],
+      "album": {
+        "id": "3t3ONkP6ocLPX1cou9aaPD",
+        "release_date": "2017-10-20",
+        "name": "Open",
+        "artists": [
+          {
+            "id": "62Jwsvqi7hW8TR9rAcfBXY",
+            "name": "Grandbrothers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 359,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6FAYqp5MXvNBmnHf0oZWaK",
+      "name": "Hearts Aflame",
+      "artists": [
+        {
+          "id": "3OX4skiU9o7fxdi5Li7k5l",
+          "name": "Valley of the Sun"
+        }
+      ],
+      "album": {
+        "id": "3PxXHLkJ3ikkJKpTrxOXIn",
+        "release_date": "2011-06-09",
+        "name": "The Sayings of the Seers",
+        "artists": [
+          {
+            "id": "3OX4skiU9o7fxdi5Li7k5l",
+            "name": "Valley of the Sun"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 356,
+        "nanos": 767000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6ngzbtL0bMpvVQdNwU6o99",
+      "name": "I See Through You",
+      "artists": [
+        {
+          "id": "16PcI6JjJuUfPlsX8Ffvfl",
+          "name": "Uncle Acid & The Deadbeats"
+        }
+      ],
+      "album": {
+        "id": "2Lsp9h7yOgFyV2XwzkddT3",
+        "release_date": "2018-10-12",
+        "name": "Wasteland",
+        "artists": [
+          {
+            "id": "16PcI6JjJuUfPlsX8Ffvfl",
+            "name": "Uncle Acid & The Deadbeats"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 342,
+        "nanos": 813000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0camMMxlV2V5Z0dDjaCwn1",
+      "name": "Admission",
+      "artists": [
+        {
+          "id": "4PxqJghOAEvatt0scJvili",
+          "name": "Torche"
+        }
+      ],
+      "album": {
+        "id": "36ufOPW0tEptG0IeFAYXmn",
+        "release_date": "2019-07-12",
+        "name": "Admission",
+        "artists": [
+          {
+            "id": "4PxqJghOAEvatt0scJvili",
+            "name": "Torche"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 240,
+        "nanos": 780000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "27WK75uiBhpwYPKdp2zkbN",
+      "name": "Put Me Under",
+      "artists": [
+        {
+          "id": "3AEmdNd6qoMMKCkoIEdYrp",
+          "name": "Figueroa"
+        },
+        {
+          "id": "3mvkWMe6swnknwscwvGCHO",
+          "name": "Amon Tobin"
+        }
+      ],
+      "album": {
+        "id": "58RBjtk9H2O3LPPYEwvsMr",
+        "release_date": "2020-07-30",
+        "name": "The World As We Know It",
+        "artists": [
+          {
+            "id": "3AEmdNd6qoMMKCkoIEdYrp",
+            "name": "Figueroa"
+          },
+          {
+            "id": "3mvkWMe6swnknwscwvGCHO",
+            "name": "Amon Tobin"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 227,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1mgIlvtm1aQr6ei17gDALV",
+      "name": "Loner Boogie",
+      "artists": [
+        {
+          "id": "4S2f4BosAW2oF9AfGEK8ZL",
+          "name": "Boy Azooga"
+        }
+      ],
+      "album": {
+        "id": "1JIuboQphPsmFWxajY8dUY",
+        "release_date": "2018-06-08",
+        "name": "1, 2, Kung Fu!",
+        "artists": [
+          {
+            "id": "4S2f4BosAW2oF9AfGEK8ZL",
+            "name": "Boy Azooga"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 125,
+        "nanos": 213000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "4lLmiyaQ090m0QE70bKh0L",
+      "name": "Touchstone",
+      "artists": [
+        {
+          "id": "1PfOXooPSLQhOTNZGrXM90",
+          "name": "Solarstone"
+        }
+      ],
+      "album": {
+        "id": "4luXI9nPKJ14Wk3QcrTxJA",
+        "release_date": "2010-06-28",
+        "name": "Touchstone",
+        "artists": [
+          {
+            "id": "1PfOXooPSLQhOTNZGrXM90",
+            "name": "Solarstone"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 533,
+        "nanos": 80000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6gtDPegyWBxN8LCteqvT2b",
+      "name": "Hum",
+      "artists": [
+        {
+          "id": "3Cv5jiNHUHUvWwdmclhgOe",
+          "name": "Holographic Field"
+        }
+      ],
+      "album": {
+        "id": "3osvHnt9ncEEOAGuCIESaZ",
+        "release_date": "2020-02-14",
+        "name": "Illuminate",
+        "artists": [
+          {
+            "id": "3Cv5jiNHUHUvWwdmclhgOe",
+            "name": "Holographic Field"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 464,
+        "nanos": 43000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "27tYOeyhHiQ6tpf1xJpYP1",
+      "name": "Feel Alive",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "0lzUwZgk995U284gk1z2lp",
+        "release_date": "2007-04-27",
+        "name": "Trilogy (Deluxe)",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 226,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1MQkhomMlwsYigfmswbEbx",
+      "name": "Laserface 01 (Aperture)",
+      "artists": [
+        {
+          "id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "Gareth Emery"
+        }
+      ],
+      "album": {
+        "id": "2mMCOoBqQK8xEdMVz7b7Ib",
+        "release_date": "2019-08-23",
+        "name": "Laserface 01 (Aperture)",
+        "artists": [
+          {
+            "id": "0hprEC0nsWuQPSHag1O2Vi",
+            "name": "Gareth Emery"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 153,
+        "nanos": 444000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3j4Vby1HMunzRdUVDdqsMq",
+      "name": "Longing to Be the Mountain",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "4uEyNbDd094j3aB2jwYqWf",
+        "release_date": "2018-10-12",
+        "name": "Longing to Be the Mountain",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 622,
+        "nanos": 34000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2rDoeqW5XWFGdFLRoRQu0I",
+      "name": "The Falling Veil",
+      "artists": [
+        {
+          "id": "1687IqXRdWmbRshgn194tT",
+          "name": "Elder"
+        }
+      ],
+      "album": {
+        "id": "2sjt7XGkvXJGGvKYu0zm1y",
+        "release_date": "2017-06-02",
+        "name": "Reflections of a Floating World",
+        "artists": [
+          {
+            "id": "1687IqXRdWmbRshgn194tT",
+            "name": "Elder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 672,
+        "nanos": 640000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4JIWvlXUnqQyhvp5evHXA0",
+      "name": "Dizzy",
+      "artists": [
+        {
+          "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+          "name": "Neuman"
+        }
+      ],
+      "album": {
+        "id": "4zTSeAQRnEnF8TMmxxj8xU",
+        "release_date": "2017-09-15",
+        "name": "Crashpad",
+        "artists": [
+          {
+            "id": "2ApGJ6o1AkNPjkFrnJQLKM",
+            "name": "Neuman"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 475,
+        "nanos": 371000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1bFRcNmShQt11BTownItPk",
+      "name": "The New Delta",
+      "artists": [
+        {
+          "id": "1CzKORB9IN0EjPEyeKBIkf",
+          "name": "Tides From Nebula"
+        }
+      ],
+      "album": {
+        "id": "3kxzriTUAvJklocJHG7GH8",
+        "release_date": "2019-09-20",
+        "name": "From Voodoo to Zen",
+        "artists": [
+          {
+            "id": "1CzKORB9IN0EjPEyeKBIkf",
+            "name": "Tides From Nebula"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 381,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "2pHgLL7HlsSeHh8mLxr6zJ",
+      "name": "Proto World",
+      "artists": [
+        {
+          "id": "4TnftWQx6fF7k4Nviu7Nn6",
+          "name": "The Atomic Bitchwax"
+        }
+      ],
+      "album": {
+        "id": "6PgunyOBhNuTNn3Z7d5rGZ",
+        "release_date": "2015-04-21",
+        "name": "Gravitron",
+        "artists": [
+          {
+            "id": "4TnftWQx6fF7k4Nviu7Nn6",
+            "name": "The Atomic Bitchwax"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 242,
+        "nanos": 980000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2ohCd3jEmBzckeCV4gCRnm",
+      "name": "PCH",
+      "artists": [
+        {
+          "id": "5oOhM2DFWab8XhSdQiITry",
+          "name": "Tycho"
+        }
+      ],
+      "album": {
+        "id": "3uqx22ScaYQujWq2lBvXuQ",
+        "release_date": "2020-02-28",
+        "name": "Simulcast",
+        "artists": [
+          {
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 200,
+        "nanos": 920000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4BNzKmWATCHNTcmV0gfyIx",
+      "name": "Too Little Too Late",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "5G71TdzImVKCnUNVMimPok",
+        "release_date": "2018-01-05",
+        "name": "Repeater",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 283,
+        "nanos": 219000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ZJsnaAo0kBGVVUvwMF31z",
+      "name": "Spirals",
+      "artists": [
+        {
+          "id": "31GFg2x20JkksUlQxN9BMe",
+          "name": "Monkey3"
+        }
+      ],
+      "album": {
+        "id": "1bUQOPmwTrf80w3HoHhCdW",
+        "release_date": "2019-04-12",
+        "name": "Sphere",
+        "artists": [
+          {
+            "id": "31GFg2x20JkksUlQxN9BMe",
+            "name": "Monkey3"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 679,
+        "nanos": 440000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4lpz1WAHFlOLfGtv9t9FMB",
+      "name": "Sophia",
+      "artists": [
+        {
+          "id": "3hImYGOkGn8Rsh9Vygcds2",
+          "name": "Maps"
+        }
+      ],
+      "album": {
+        "id": "1cbv4SRJNSIB3IaLzMs18Y",
+        "release_date": "2019-05-10",
+        "name": "Colours. Reflect. Time. Loss.",
+        "artists": [
+          {
+            "id": "3hImYGOkGn8Rsh9Vygcds2",
+            "name": "Maps"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 398,
+        "nanos": 431000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0JQd5JTtHdIMdHOdbnDOcV",
+      "name": "Reciever",
+      "artists": [
+        {
+          "id": "5oOhM2DFWab8XhSdQiITry",
+          "name": "Tycho"
+        }
+      ],
+      "album": {
+        "id": "01M0IlbLaRfUoddsrCXPhy",
+        "release_date": "2019-02-15",
+        "name": "Epoch (Deluxe Version)",
+        "artists": [
+          {
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 255,
+        "nanos": 209000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1cme8gydNcO7BuidqEWcsb",
+      "name": "Exit the Soul",
+      "artists": [
+        {
+          "id": "79z0Z8E5uY2Fc7HO4VGerm",
+          "name": "Elephant Tree"
+        }
+      ],
+      "album": {
+        "id": "5nFGsb0eYPYJRSsu57zDKU",
+        "release_date": "2020-04-24",
+        "name": "Habits",
+        "artists": [
+          {
+            "id": "79z0Z8E5uY2Fc7HO4VGerm",
+            "name": "Elephant Tree"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 439,
+        "nanos": 461000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7GDGodzWVL6nCOBAhZ39rf",
+      "name": "Helios",
+      "artists": [
+        {
+          "id": "05lIUgmmsmTX2N9dCKc8rC",
+          "name": "Rival Consoles"
+        }
+      ],
+      "album": {
+        "id": "474YduzMbDFNBzYBJNXdQp",
+        "release_date": "2015-05-04",
+        "name": "Odyssey / Sonne",
+        "artists": [
+          {
+            "id": "05lIUgmmsmTX2N9dCKc8rC",
+            "name": "Rival Consoles"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 301,
+        "nanos": 875000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1dBje6EOpDBLdoKGo94DEa",
+      "name": "Rivers",
+      "artists": [
+        {
+          "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+          "name": "The Tallest Man On Earth"
+        }
+      ],
+      "album": {
+        "id": "78s3die4I0Q75cp2NKO6sc",
+        "release_date": "2016-08-17",
+        "name": "Rivers",
+        "artists": [
+          {
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 236,
+        "nanos": 853000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1vdN00jfVssgwJBMwmSAoT",
+      "name": "Spectre",
+      "artists": [
+        {
+          "id": "5oOhM2DFWab8XhSdQiITry",
+          "name": "Tycho"
+        }
+      ],
+      "album": {
+        "id": "7HWdGPosPkb9GY5MOgLgSW",
+        "release_date": "2014-03-18",
+        "name": "Awake",
+        "artists": [
+          {
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 226,
+        "nanos": 911000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0yFTbGu2HoARilyCjDh65X",
+      "name": "Sonic Riots",
+      "artists": [
+        {
+          "id": "62Jwsvqi7hW8TR9rAcfBXY",
+          "name": "Grandbrothers"
+        }
+      ],
+      "album": {
+        "id": "3t3ONkP6ocLPX1cou9aaPD",
+        "release_date": "2017-10-20",
+        "name": "Open",
+        "artists": [
+          {
+            "id": "62Jwsvqi7hW8TR9rAcfBXY",
+            "name": "Grandbrothers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 324,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3pAlKMwng8S0zlKL71glZD",
+      "name": "Odyssey",
+      "artists": [
+        {
+          "id": "05lIUgmmsmTX2N9dCKc8rC",
+          "name": "Rival Consoles"
+        }
+      ],
+      "album": {
+        "id": "474YduzMbDFNBzYBJNXdQp",
+        "release_date": "2015-05-04",
+        "name": "Odyssey / Sonne",
+        "artists": [
+          {
+            "id": "05lIUgmmsmTX2N9dCKc8rC",
+            "name": "Rival Consoles"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 281,
+        "nanos": 980000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5oeNNiNSE0UBRzNSzx5SKZ",
+      "name": "The Dreamer",
+      "artists": [
+        {
+          "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+          "name": "The Tallest Man On Earth"
+        }
+      ],
+      "album": {
+        "id": "2HJq69QcbyE2XCx2gRgWrU",
+        "release_date": "2010-11-09",
+        "name": "Sometimes The Blues Is Just A Passing Bird",
+        "artists": [
+          {
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 245,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "75dtuLXf7uNtQNAGMDIM7k",
+      "name": "Duality",
+      "artists": [
+        {
+          "id": "7wU1naftD3lNq7rNsiDvOR",
+          "name": "Paul van Dyk"
+        }
+      ],
+      "album": {
+        "id": "1LFQklxSuHVGySOXITOMS7",
+        "release_date": "2020-02-14",
+        "name": "Duality",
+        "artists": [
+          {
+            "id": "7wU1naftD3lNq7rNsiDvOR",
+            "name": "Paul van Dyk"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 218,
+        "nanos": 540000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ni6EruKbg11Q9PE5NwR2y",
+      "name": "Seven Hills",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "1m5TE9wAnq23iYCHRpGQml",
+        "release_date": "2017-11-17",
+        "name": "Vibraciones Doradas",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 446,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6o8Ix06SfOrcrRTVA51ng8",
+      "name": "Ritual (Matt Lange Remix)",
+      "artists": [
+        {
+          "id": "0IUq1plF3ON4Fboj1bE6kN",
+          "name": "Delerium"
+        },
+        {
+          "id": "7B0uXJvJUTwwbeSToeZeJ4",
+          "name": "PHILDEL"
+        },
+        {
+          "id": "2AmHV6vxRxvHdlxSHxnHE9",
+          "name": "Matt Lange"
+        }
+      ],
+      "album": {
+        "id": "5wpwTPrkY6aUOXHEEWLtsI",
+        "release_date": "2016-09-02",
+        "name": "Ritual",
+        "artists": [
+          {
+            "id": "0IUq1plF3ON4Fboj1bE6kN",
+            "name": "Delerium"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 397,
+        "nanos": 393000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7y4i7FLeTVQcJf31pbjduy",
+      "name": "Wash Off - KUU Remix",
+      "artists": [
+        {
+          "id": "6FQqZYVfTNQ1pCqfkwVFEa",
+          "name": "Foals"
+        },
+        {
+          "id": "6TGsaPbyXTM7FAeHi68yp7",
+          "name": "KUU"
+        }
+      ],
+      "album": {
+        "id": "34gxHZG9TvQgrRDGpR8Y6c",
+        "release_date": "2020-07-31",
+        "name": "Collected Reworks Vol. 2",
+        "artists": [
+          {
+            "id": "6FQqZYVfTNQ1pCqfkwVFEa",
+            "name": "Foals"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 391,
+        "nanos": 128000000
+      },
+      "explicit": false
+    }
+  ]
+}

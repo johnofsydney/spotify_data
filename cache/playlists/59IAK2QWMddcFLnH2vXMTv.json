@@ -1,1 +1,41 @@
-{"playlist":{"id":"59IAK2QWMddcFLnH2vXMTv","collaborative":false,"name":"Folkish","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAAm6PjcJC5hORsxC4AClnFHCaugpZ"},"tracks":[{"id":"2XvpMAHHUVuKodlo7BKqpv","name":"Demon Host","artists":[{"id":"7HeVXdOdMhLslVputGTZFQ","name":"Timber Timbre"}],"album":{"id":"79bRQkpKURXEnggeLVVxFq","release_date":"2009-06-30","name":"Timber Timbre","artists":[{"id":"7HeVXdOdMhLslVputGTZFQ","name":"Timber Timbre"}],"typ":"album","added_at":0},"duration":{"secs":219,"nanos":267000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "59IAK2QWMddcFLnH2vXMTv",
+    "collaborative": false,
+    "name": "Folkish",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAAm6PjcJC5hORsxC4AClnFHCaugpZ",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "2XvpMAHHUVuKodlo7BKqpv",
+      "name": "Demon Host",
+      "artists": [
+        {
+          "id": "7HeVXdOdMhLslVputGTZFQ",
+          "name": "Timber Timbre"
+        }
+      ],
+      "album": {
+        "id": "79bRQkpKURXEnggeLVVxFq",
+        "release_date": "2009-06-30",
+        "name": "Timber Timbre",
+        "artists": [
+          {
+            "id": "7HeVXdOdMhLslVputGTZFQ",
+            "name": "Timber Timbre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 219,
+        "nanos": 267000000
+      },
+      "explicit": false
+    }
+  ]
+}

@@ -1,1 +1,221 @@
-{"playlist":{"id":"0TABOc9GahRBwj9Em9YsDy","collaborative":false,"name":"BO All Music","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAACN9/vLCMhjdhlvckw/7vOhG0ge/j"},"tracks":[{"id":"0AO5Hky7kkE2Xd3XCwlZCA","name":"The Golden Path","artists":[{"id":"1GhPHrq36VKCY3ucVaZCfo","name":"The Chemical Brothers"},{"id":"16eRpMNXSQ15wuJoeqguaB","name":"The Flaming Lips"}],"album":{"id":"7uqmBZKWSQY20q1EMrV8dt","release_date":"2008-01-01","name":"Brotherhood","artists":[{"id":"1GhPHrq36VKCY3ucVaZCfo","name":"The Chemical Brothers"}],"typ":"compilation","added_at":0},"duration":{"secs":287,"nanos":440000000},"explicit":false},{"id":"4xTaOn06UiRHkq2ZUjWIqI","name":"Ego Tripping at the Gates of Hell","artists":[{"id":"16eRpMNXSQ15wuJoeqguaB","name":"The Flaming Lips"}],"album":{"id":"49LA20VMk65fQyEaIzYdvf","release_date":"2002-05-13","name":"Yoshimi Battles the Pink Robots","artists":[{"id":"16eRpMNXSQ15wuJoeqguaB","name":"The Flaming Lips"}],"typ":"album","added_at":0},"duration":{"secs":271,"nanos":466000000},"explicit":false},{"id":"38pNnyQFOzCpLN9gsKAqGj","name":"A Change at Christmas (Say It Isn't So)","artists":[{"id":"16eRpMNXSQ15wuJoeqguaB","name":"The Flaming Lips"}],"album":{"id":"602kxdvR8Ful5nYe57Vxzb","release_date":"2003-11-03","name":"Ego Tripping at the Gates of Hell","artists":[{"id":"16eRpMNXSQ15wuJoeqguaB","name":"The Flaming Lips"}],"typ":"album","added_at":0},"duration":{"secs":321,"nanos":133000000},"explicit":false},{"id":"0DQuXV3i0EtahGm5t1Z7jh","name":"The Golden Path - Radio Edit","artists":[{"id":"1GhPHrq36VKCY3ucVaZCfo","name":"The Chemical Brothers"},{"id":"16eRpMNXSQ15wuJoeqguaB","name":"The Flaming Lips"}],"album":{"id":"5gDLHPtaSYAMm3ielqB81m","release_date":"2003-09-15","name":"The Golden Path","artists":[{"id":"1GhPHrq36VKCY3ucVaZCfo","name":"The Chemical Brothers"},{"id":"16eRpMNXSQ15wuJoeqguaB","name":"The Flaming Lips"}],"typ":"single","added_at":0},"duration":{"secs":239,"nanos":999000000},"explicit":false},{"id":"5FgyCpXVPL3lJQNYDOHjuZ","name":"YSHK","artists":[{"id":"1vtBMVcsRYr8a4dJAmKtLB","name":"The Dharma Chain"}],"album":{"id":"00ppJreV0EznXizif7HcgA","release_date":"2024-06-21","name":"Nowhere","artists":[{"id":"1vtBMVcsRYr8a4dJAmKtLB","name":"The Dharma Chain"}],"typ":"album","added_at":0},"duration":{"secs":247,"nanos":68000000},"explicit":false},{"id":"6IR9UL1j0lAi2QaKP4CQoW","name":"Please Stay","artists":[{"id":"1PByAXvcWN91nfYuyatk3W","name":"The Cryin Shames"}],"album":{"id":"4lWjuwwU3h82oVwwoK0nqQ","release_date":"2024-04-12","name":"Please Stay (Joe Meek's Tea Chest Tapes)","artists":[{"id":"1PByAXvcWN91nfYuyatk3W","name":"The Cryin Shames"}],"typ":"album","added_at":0},"duration":{"secs":194,"nanos":813000000},"explicit":false},{"id":"3IX6nHfJiAwhIn3M1idiog","name":"Arundel (II)","artists":[{"id":"6ZWMXMg25PGVCaoYZXQSyn","name":"Papa M"}],"album":{"id":"6wnrwbpIWkG4UF1zPj3xsE","release_date":"1999-10-25","name":"Live From A Shark Cage","artists":[{"id":"6ZWMXMg25PGVCaoYZXQSyn","name":"Papa M"}],"typ":"album","added_at":0},"duration":{"secs":276,"nanos":733000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "0TABOc9GahRBwj9Em9YsDy",
+    "collaborative": false,
+    "name": "BO All Music",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAACN9/vLCMhjdhlvckw/7vOhG0ge/j",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "0AO5Hky7kkE2Xd3XCwlZCA",
+      "name": "The Golden Path",
+      "artists": [
+        {
+          "id": "1GhPHrq36VKCY3ucVaZCfo",
+          "name": "The Chemical Brothers"
+        },
+        {
+          "id": "16eRpMNXSQ15wuJoeqguaB",
+          "name": "The Flaming Lips"
+        }
+      ],
+      "album": {
+        "id": "7uqmBZKWSQY20q1EMrV8dt",
+        "release_date": "2008-01-01",
+        "name": "Brotherhood",
+        "artists": [
+          {
+            "id": "1GhPHrq36VKCY3ucVaZCfo",
+            "name": "The Chemical Brothers"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 287,
+        "nanos": 440000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4xTaOn06UiRHkq2ZUjWIqI",
+      "name": "Ego Tripping at the Gates of Hell",
+      "artists": [
+        {
+          "id": "16eRpMNXSQ15wuJoeqguaB",
+          "name": "The Flaming Lips"
+        }
+      ],
+      "album": {
+        "id": "49LA20VMk65fQyEaIzYdvf",
+        "release_date": "2002-05-13",
+        "name": "Yoshimi Battles the Pink Robots",
+        "artists": [
+          {
+            "id": "16eRpMNXSQ15wuJoeqguaB",
+            "name": "The Flaming Lips"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 271,
+        "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "38pNnyQFOzCpLN9gsKAqGj",
+      "name": "A Change at Christmas (Say It Isn't So)",
+      "artists": [
+        {
+          "id": "16eRpMNXSQ15wuJoeqguaB",
+          "name": "The Flaming Lips"
+        }
+      ],
+      "album": {
+        "id": "602kxdvR8Ful5nYe57Vxzb",
+        "release_date": "2003-11-03",
+        "name": "Ego Tripping at the Gates of Hell",
+        "artists": [
+          {
+            "id": "16eRpMNXSQ15wuJoeqguaB",
+            "name": "The Flaming Lips"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 321,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0DQuXV3i0EtahGm5t1Z7jh",
+      "name": "The Golden Path - Radio Edit",
+      "artists": [
+        {
+          "id": "1GhPHrq36VKCY3ucVaZCfo",
+          "name": "The Chemical Brothers"
+        },
+        {
+          "id": "16eRpMNXSQ15wuJoeqguaB",
+          "name": "The Flaming Lips"
+        }
+      ],
+      "album": {
+        "id": "5gDLHPtaSYAMm3ielqB81m",
+        "release_date": "2003-09-15",
+        "name": "The Golden Path",
+        "artists": [
+          {
+            "id": "1GhPHrq36VKCY3ucVaZCfo",
+            "name": "The Chemical Brothers"
+          },
+          {
+            "id": "16eRpMNXSQ15wuJoeqguaB",
+            "name": "The Flaming Lips"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 239,
+        "nanos": 999000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5FgyCpXVPL3lJQNYDOHjuZ",
+      "name": "YSHK",
+      "artists": [
+        {
+          "id": "1vtBMVcsRYr8a4dJAmKtLB",
+          "name": "The Dharma Chain"
+        }
+      ],
+      "album": {
+        "id": "00ppJreV0EznXizif7HcgA",
+        "release_date": "2024-06-21",
+        "name": "Nowhere",
+        "artists": [
+          {
+            "id": "1vtBMVcsRYr8a4dJAmKtLB",
+            "name": "The Dharma Chain"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 247,
+        "nanos": 68000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6IR9UL1j0lAi2QaKP4CQoW",
+      "name": "Please Stay",
+      "artists": [
+        {
+          "id": "1PByAXvcWN91nfYuyatk3W",
+          "name": "The Cryin Shames"
+        }
+      ],
+      "album": {
+        "id": "4lWjuwwU3h82oVwwoK0nqQ",
+        "release_date": "2024-04-12",
+        "name": "Please Stay (Joe Meek's Tea Chest Tapes)",
+        "artists": [
+          {
+            "id": "1PByAXvcWN91nfYuyatk3W",
+            "name": "The Cryin Shames"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 194,
+        "nanos": 813000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3IX6nHfJiAwhIn3M1idiog",
+      "name": "Arundel (II)",
+      "artists": [
+        {
+          "id": "6ZWMXMg25PGVCaoYZXQSyn",
+          "name": "Papa M"
+        }
+      ],
+      "album": {
+        "id": "6wnrwbpIWkG4UF1zPj3xsE",
+        "release_date": "1999-10-25",
+        "name": "Live From A Shark Cage",
+        "artists": [
+          {
+            "id": "6ZWMXMg25PGVCaoYZXQSyn",
+            "name": "Papa M"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 276,
+        "nanos": 733000000
+      },
+      "explicit": false
+    }
+  ]
+}

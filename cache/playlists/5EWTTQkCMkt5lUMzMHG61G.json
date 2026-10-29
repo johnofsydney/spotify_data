@@ -1,1 +1,69 @@
-{"playlist":{"id":"5EWTTQkCMkt5lUMzMHG61G","collaborative":false,"name":"November '19","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAA2q76Dw6+dYrYCJj0h0S7lg5nRwu"},"tracks":[{"id":"2f2ZTONoX0vVlSCj3F8Aie","name":"I Fucked Up I Was a Child","artists":[{"id":"3g2slv6elrXxGnXqy7Q2ap","name":"Les Big Byrd"}],"album":{"id":"5K46u7YstEAGOuj1whWtoe","release_date":"2018-10-12","name":"Iran Iraq IKEA","artists":[{"id":"3g2slv6elrXxGnXqy7Q2ap","name":"Les Big Byrd"}],"typ":"album","added_at":0},"duration":{"secs":283,"nanos":613000000},"explicit":true},{"id":"6wtqAZUAJN40hdzU0o54yR","name":"Little Girl","artists":[{"id":"18H0sAptzdwid08XGg1Lcj","name":"Death From Above 1979"}],"album":{"id":"5yXPmeafzEeoQlVDLsAngy","release_date":"2004-09-28","name":"You're A Woman, I'm A Machine","artists":[{"id":"18H0sAptzdwid08XGg1Lcj","name":"Death From Above 1979"}],"typ":"album","added_at":0},"duration":{"secs":240,"nanos":80000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "5EWTTQkCMkt5lUMzMHG61G",
+    "collaborative": false,
+    "name": "November '19",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAA2q76Dw6+dYrYCJj0h0S7lg5nRwu",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "2f2ZTONoX0vVlSCj3F8Aie",
+      "name": "I Fucked Up I Was a Child",
+      "artists": [
+        {
+          "id": "3g2slv6elrXxGnXqy7Q2ap",
+          "name": "Les Big Byrd"
+        }
+      ],
+      "album": {
+        "id": "5K46u7YstEAGOuj1whWtoe",
+        "release_date": "2018-10-12",
+        "name": "Iran Iraq IKEA",
+        "artists": [
+          {
+            "id": "3g2slv6elrXxGnXqy7Q2ap",
+            "name": "Les Big Byrd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 283,
+        "nanos": 613000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "6wtqAZUAJN40hdzU0o54yR",
+      "name": "Little Girl",
+      "artists": [
+        {
+          "id": "18H0sAptzdwid08XGg1Lcj",
+          "name": "Death From Above 1979"
+        }
+      ],
+      "album": {
+        "id": "5yXPmeafzEeoQlVDLsAngy",
+        "release_date": "2004-09-28",
+        "name": "You're A Woman, I'm A Machine",
+        "artists": [
+          {
+            "id": "18H0sAptzdwid08XGg1Lcj",
+            "name": "Death From Above 1979"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 240,
+        "nanos": 80000000
+      },
+      "explicit": false
+    }
+  ]
+}

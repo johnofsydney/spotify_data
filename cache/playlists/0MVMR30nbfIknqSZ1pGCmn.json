@@ -1,1 +1,321 @@
-{"playlist":{"id":"0MVMR30nbfIknqSZ1pGCmn","collaborative":false,"name":"BO Taylor","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAD1vGX0nWApej8+xMLffTVf7ytAgc"},"tracks":[{"id":"6Ck9WerfsyvC4v4AylUoDp","name":"I Know Places","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"5fy0X0JmZRZnVa2UEicIOl","release_date":"2014-01-01","name":"1989","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":195,"nanos":706000000},"explicit":false},{"id":"3RauEVgRgj1IuWdJ9fDs70","name":"The Man","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"1NAmidJlEaVgA3MpcPFYGq","release_date":"2019-08-23","name":"Lover","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":190,"nanos":360000000},"explicit":false},{"id":"2yLa0QULdQr0qAIvVwN6B5","name":"...Ready For It?","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"6DEjYFkNZh67HP7R9PSZvv","release_date":"2017-11-10","name":"reputation","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":208,"nanos":186000000},"explicit":false},{"id":"4y5bvROuBDPr5fuwXbIBZR","name":"Paper Rings","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"1NAmidJlEaVgA3MpcPFYGq","release_date":"2019-08-23","name":"Lover","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":222,"nanos":400000000},"explicit":false},{"id":"6RRNNciQGZEXnqk8SQ9yv5","name":"You Need To Calm Down","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"1NAmidJlEaVgA3MpcPFYGq","release_date":"2019-08-23","name":"Lover","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":171,"nanos":360000000},"explicit":false},{"id":"7EpVQjqtKygiwJIASxMWNg","name":"Out Of The Woods","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"5fy0X0JmZRZnVa2UEicIOl","release_date":"2014-01-01","name":"1989","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":235,"nanos":800000000},"explicit":false},{"id":"0TvQLMecTE8utzoNmvXRbK","name":"Bad Blood","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"5fy0X0JmZRZnVa2UEicIOl","release_date":"2014-01-01","name":"1989","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":211,"nanos":933000000},"explicit":false},{"id":"3fVnlF4pGqWI9flVENcT28","name":"Wildest Dreams","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"5fy0X0JmZRZnVa2UEicIOl","release_date":"2014-01-01","name":"1989","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":220,"nanos":440000000},"explicit":false},{"id":"0ug5NqcwcFR2xrfTkc7k8e","name":"Style","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"1yGbNOtRIgdIiGHOEBaZWf","release_date":"2014-01-01","name":"1989 (Deluxe)","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":231,"nanos":0},"explicit":false},{"id":"6aLOekfwbytwWvQftxTEF0","name":"All You Had To Do Was Stay","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"1yGbNOtRIgdIiGHOEBaZWf","release_date":"2014-01-01","name":"1989 (Deluxe)","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":193,"nanos":293000000},"explicit":false},{"id":"0cqRj7pUJDkTCEsJkx8snD","name":"Shake It Off","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"1yGbNOtRIgdIiGHOEBaZWf","release_date":"2014-01-01","name":"1989 (Deluxe)","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":219,"nanos":200000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "0MVMR30nbfIknqSZ1pGCmn",
+    "collaborative": false,
+    "name": "BO Taylor",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAD1vGX0nWApej8+xMLffTVf7ytAgc",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "6Ck9WerfsyvC4v4AylUoDp",
+      "name": "I Know Places",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "5fy0X0JmZRZnVa2UEicIOl",
+        "release_date": "2014-01-01",
+        "name": "1989",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 195,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3RauEVgRgj1IuWdJ9fDs70",
+      "name": "The Man",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 190,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2yLa0QULdQr0qAIvVwN6B5",
+      "name": "...Ready For It?",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "6DEjYFkNZh67HP7R9PSZvv",
+        "release_date": "2017-11-10",
+        "name": "reputation",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 208,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4y5bvROuBDPr5fuwXbIBZR",
+      "name": "Paper Rings",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6RRNNciQGZEXnqk8SQ9yv5",
+      "name": "You Need To Calm Down",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 171,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7EpVQjqtKygiwJIASxMWNg",
+      "name": "Out Of The Woods",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "5fy0X0JmZRZnVa2UEicIOl",
+        "release_date": "2014-01-01",
+        "name": "1989",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 235,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0TvQLMecTE8utzoNmvXRbK",
+      "name": "Bad Blood",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "5fy0X0JmZRZnVa2UEicIOl",
+        "release_date": "2014-01-01",
+        "name": "1989",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3fVnlF4pGqWI9flVENcT28",
+      "name": "Wildest Dreams",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "5fy0X0JmZRZnVa2UEicIOl",
+        "release_date": "2014-01-01",
+        "name": "1989",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 220,
+        "nanos": 440000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ug5NqcwcFR2xrfTkc7k8e",
+      "name": "Style",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1yGbNOtRIgdIiGHOEBaZWf",
+        "release_date": "2014-01-01",
+        "name": "1989 (Deluxe)",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 231,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "6aLOekfwbytwWvQftxTEF0",
+      "name": "All You Had To Do Was Stay",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1yGbNOtRIgdIiGHOEBaZWf",
+        "release_date": "2014-01-01",
+        "name": "1989 (Deluxe)",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 193,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0cqRj7pUJDkTCEsJkx8snD",
+      "name": "Shake It Off",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1yGbNOtRIgdIiGHOEBaZWf",
+        "release_date": "2014-01-01",
+        "name": "1989 (Deluxe)",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 219,
+        "nanos": 200000000
+      },
+      "explicit": false
+    }
+  ]
+}

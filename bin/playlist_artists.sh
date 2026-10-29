@@ -28,7 +28,8 @@ while IFS=$'\t' read -r id snapshot; do
     continue
   fi
   # Stage then move: an interrupted fetch must not leave a file that later passes the snapshot check.
-  spotify_player get item -i "$id" playlist > "$file.tmp"
+  spotify_player get item -i "$id" playlist |
+    jq '.playlist |= (. + {owner_id: .owner[1]} | del(.owner))' > "$file.tmp"
   mv "$file.tmp" "$file"
   fetched=$((fetched + 1))
 done < <(jq -r '.[] | [.id, .snapshot_id] | @tsv' <<< "$listing")

@@ -1,1 +1,321 @@
-{"playlist":{"id":"42an8pFsF9AJbMKR37aOCT","collaborative":false,"name":"British Masters","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAADKJqe3wxlCTaHX3mfWsbN9YZ2F4K"},"tracks":[{"id":"5W5MRU12dpuOnd5WmWzian","name":"In The Heat Of The Moment","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"album":{"id":"5cfXTQrZrvIb7C8slwdqkN","release_date":"2015-03-02","name":"Chasing Yesterday (Deluxe)","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"typ":"album","added_at":0},"duration":{"secs":209,"nanos":480000000},"explicit":false},{"id":"5gAFjMCJToR9Qgj1i6Jgb9","name":"Holy Mountain","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"album":{"id":"78GME3qVL2ZmNpGF5lXLnm","release_date":"2017-11-24","name":"Who Built The Moon? (Deluxe)","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"typ":"album","added_at":0},"duration":{"secs":234,"nanos":880000000},"explicit":false},{"id":"29g2m4Tfh6IgqU5GuakUlg","name":"Black Star Dancing","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"album":{"id":"2aq32TQZkWO7wWGTWrINHr","release_date":"2021-06-11","name":"Back the Way We Came: Vol. 1 (2011 - 2021)","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"typ":"album","added_at":0},"duration":{"secs":262,"nanos":373000000},"explicit":false},{"id":"5TvV1LV4Gl0D3aDY1TXlXT","name":"Love Comes in Waves","artists":[{"id":"0DCLBHSfbqLoGK3ikLGPxc","name":"Andy Bell"}],"album":{"id":"2Xt22gwrtjMKQQAayKbw4R","release_date":"2020-10-09","name":"The View from Halfway Down","artists":[{"id":"0DCLBHSfbqLoGK3ikLGPxc","name":"Andy Bell"}],"typ":"album","added_at":0},"duration":{"secs":288,"nanos":575000000},"explicit":false},{"id":"1L9e8KXnYj9YH8i93f9VX3","name":"Skywalker","artists":[{"id":"0DCLBHSfbqLoGK3ikLGPxc","name":"Andy Bell"}],"album":{"id":"2Xt22gwrtjMKQQAayKbw4R","release_date":"2020-10-09","name":"The View from Halfway Down","artists":[{"id":"0DCLBHSfbqLoGK3ikLGPxc","name":"Andy Bell"}],"typ":"album","added_at":0},"duration":{"secs":382,"nanos":161000000},"explicit":false},{"id":"15eNIiLXDvNmSqphTk8bQd","name":"Lock All The Doors","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"album":{"id":"5cfXTQrZrvIb7C8slwdqkN","release_date":"2015-03-02","name":"Chasing Yesterday (Deluxe)","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"typ":"album","added_at":0},"duration":{"secs":221,"nanos":960000000},"explicit":false},{"id":"0HLUNrbWZdyUDWVKy3X9JH","name":"Pretty Boy","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"album":{"id":"0H47zdiavh551uJHvO4Nfx","release_date":"2022-10-31","name":"Pretty Boy","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"typ":"single","added_at":0},"duration":{"secs":295,"nanos":54000000},"explicit":false},{"id":"6XcJvlNd4fPyEZTg6YW2xE","name":"Long Live The Strange","artists":[{"id":"6ho33Vt1tjZyf8m7Z5NZhx","name":"Gaz Coombes"}],"album":{"id":"6ZbeAO3P5TePTAeA0hgfVP","release_date":"2023-01-13","name":"Turn The Car Around","artists":[{"id":"6ho33Vt1tjZyf8m7Z5NZhx","name":"Gaz Coombes"}],"typ":"album","added_at":0},"duration":{"secs":263,"nanos":725000000},"explicit":false},{"id":"3OycLR3U65iIJXrIQYVpIK","name":"World’s Strongest Man","artists":[{"id":"6ho33Vt1tjZyf8m7Z5NZhx","name":"Gaz Coombes"}],"album":{"id":"3GNgyMVDg6PSVsOxFfHZsO","release_date":"2018-05-04","name":"World’s Strongest Man","artists":[{"id":"6ho33Vt1tjZyf8m7Z5NZhx","name":"Gaz Coombes"}],"typ":"album","added_at":0},"duration":{"secs":208,"nanos":116000000},"explicit":true},{"id":"0gD6YmnQexNO8cXYduOSLC","name":"Walk The Walk","artists":[{"id":"6ho33Vt1tjZyf8m7Z5NZhx","name":"Gaz Coombes"}],"album":{"id":"3GNgyMVDg6PSVsOxFfHZsO","release_date":"2018-05-04","name":"World’s Strongest Man","artists":[{"id":"6ho33Vt1tjZyf8m7Z5NZhx","name":"Gaz Coombes"}],"typ":"album","added_at":0},"duration":{"secs":236,"nanos":213000000},"explicit":false},{"id":"1ex80qUwJkggNfraKWNz27","name":"Monaco","artists":[{"id":"0WPY9nnBy01s5QOt4o4oQX","name":"Ride"}],"album":{"id":"1rbccis9sgHx4uxWseWez3","release_date":"2024-03-29","name":"Interplay","artists":[{"id":"0WPY9nnBy01s5QOt4o4oQX","name":"Ride"}],"typ":"album","added_at":0},"duration":{"secs":255,"nanos":440000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "42an8pFsF9AJbMKR37aOCT",
+    "collaborative": false,
+    "name": "British Masters",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAADKJqe3wxlCTaHX3mfWsbN9YZ2F4K",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "5W5MRU12dpuOnd5WmWzian",
+      "name": "In The Heat Of The Moment",
+      "artists": [
+        {
+          "id": "7sjttK1WcZeyLPn3IsQ62L",
+          "name": "Noel Gallagher's High Flying Birds"
+        }
+      ],
+      "album": {
+        "id": "5cfXTQrZrvIb7C8slwdqkN",
+        "release_date": "2015-03-02",
+        "name": "Chasing Yesterday (Deluxe)",
+        "artists": [
+          {
+            "id": "7sjttK1WcZeyLPn3IsQ62L",
+            "name": "Noel Gallagher's High Flying Birds"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 209,
+        "nanos": 480000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5gAFjMCJToR9Qgj1i6Jgb9",
+      "name": "Holy Mountain",
+      "artists": [
+        {
+          "id": "7sjttK1WcZeyLPn3IsQ62L",
+          "name": "Noel Gallagher's High Flying Birds"
+        }
+      ],
+      "album": {
+        "id": "78GME3qVL2ZmNpGF5lXLnm",
+        "release_date": "2017-11-24",
+        "name": "Who Built The Moon? (Deluxe)",
+        "artists": [
+          {
+            "id": "7sjttK1WcZeyLPn3IsQ62L",
+            "name": "Noel Gallagher's High Flying Birds"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 880000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "29g2m4Tfh6IgqU5GuakUlg",
+      "name": "Black Star Dancing",
+      "artists": [
+        {
+          "id": "7sjttK1WcZeyLPn3IsQ62L",
+          "name": "Noel Gallagher's High Flying Birds"
+        }
+      ],
+      "album": {
+        "id": "2aq32TQZkWO7wWGTWrINHr",
+        "release_date": "2021-06-11",
+        "name": "Back the Way We Came: Vol. 1 (2011 - 2021)",
+        "artists": [
+          {
+            "id": "7sjttK1WcZeyLPn3IsQ62L",
+            "name": "Noel Gallagher's High Flying Birds"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 262,
+        "nanos": 373000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5TvV1LV4Gl0D3aDY1TXlXT",
+      "name": "Love Comes in Waves",
+      "artists": [
+        {
+          "id": "0DCLBHSfbqLoGK3ikLGPxc",
+          "name": "Andy Bell"
+        }
+      ],
+      "album": {
+        "id": "2Xt22gwrtjMKQQAayKbw4R",
+        "release_date": "2020-10-09",
+        "name": "The View from Halfway Down",
+        "artists": [
+          {
+            "id": "0DCLBHSfbqLoGK3ikLGPxc",
+            "name": "Andy Bell"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 288,
+        "nanos": 575000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1L9e8KXnYj9YH8i93f9VX3",
+      "name": "Skywalker",
+      "artists": [
+        {
+          "id": "0DCLBHSfbqLoGK3ikLGPxc",
+          "name": "Andy Bell"
+        }
+      ],
+      "album": {
+        "id": "2Xt22gwrtjMKQQAayKbw4R",
+        "release_date": "2020-10-09",
+        "name": "The View from Halfway Down",
+        "artists": [
+          {
+            "id": "0DCLBHSfbqLoGK3ikLGPxc",
+            "name": "Andy Bell"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 382,
+        "nanos": 161000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "15eNIiLXDvNmSqphTk8bQd",
+      "name": "Lock All The Doors",
+      "artists": [
+        {
+          "id": "7sjttK1WcZeyLPn3IsQ62L",
+          "name": "Noel Gallagher's High Flying Birds"
+        }
+      ],
+      "album": {
+        "id": "5cfXTQrZrvIb7C8slwdqkN",
+        "release_date": "2015-03-02",
+        "name": "Chasing Yesterday (Deluxe)",
+        "artists": [
+          {
+            "id": "7sjttK1WcZeyLPn3IsQ62L",
+            "name": "Noel Gallagher's High Flying Birds"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 221,
+        "nanos": 960000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0HLUNrbWZdyUDWVKy3X9JH",
+      "name": "Pretty Boy",
+      "artists": [
+        {
+          "id": "7sjttK1WcZeyLPn3IsQ62L",
+          "name": "Noel Gallagher's High Flying Birds"
+        }
+      ],
+      "album": {
+        "id": "0H47zdiavh551uJHvO4Nfx",
+        "release_date": "2022-10-31",
+        "name": "Pretty Boy",
+        "artists": [
+          {
+            "id": "7sjttK1WcZeyLPn3IsQ62L",
+            "name": "Noel Gallagher's High Flying Birds"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 295,
+        "nanos": 54000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6XcJvlNd4fPyEZTg6YW2xE",
+      "name": "Long Live The Strange",
+      "artists": [
+        {
+          "id": "6ho33Vt1tjZyf8m7Z5NZhx",
+          "name": "Gaz Coombes"
+        }
+      ],
+      "album": {
+        "id": "6ZbeAO3P5TePTAeA0hgfVP",
+        "release_date": "2023-01-13",
+        "name": "Turn The Car Around",
+        "artists": [
+          {
+            "id": "6ho33Vt1tjZyf8m7Z5NZhx",
+            "name": "Gaz Coombes"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 263,
+        "nanos": 725000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3OycLR3U65iIJXrIQYVpIK",
+      "name": "World’s Strongest Man",
+      "artists": [
+        {
+          "id": "6ho33Vt1tjZyf8m7Z5NZhx",
+          "name": "Gaz Coombes"
+        }
+      ],
+      "album": {
+        "id": "3GNgyMVDg6PSVsOxFfHZsO",
+        "release_date": "2018-05-04",
+        "name": "World’s Strongest Man",
+        "artists": [
+          {
+            "id": "6ho33Vt1tjZyf8m7Z5NZhx",
+            "name": "Gaz Coombes"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 208,
+        "nanos": 116000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "0gD6YmnQexNO8cXYduOSLC",
+      "name": "Walk The Walk",
+      "artists": [
+        {
+          "id": "6ho33Vt1tjZyf8m7Z5NZhx",
+          "name": "Gaz Coombes"
+        }
+      ],
+      "album": {
+        "id": "3GNgyMVDg6PSVsOxFfHZsO",
+        "release_date": "2018-05-04",
+        "name": "World’s Strongest Man",
+        "artists": [
+          {
+            "id": "6ho33Vt1tjZyf8m7Z5NZhx",
+            "name": "Gaz Coombes"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 236,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ex80qUwJkggNfraKWNz27",
+      "name": "Monaco",
+      "artists": [
+        {
+          "id": "0WPY9nnBy01s5QOt4o4oQX",
+          "name": "Ride"
+        }
+      ],
+      "album": {
+        "id": "1rbccis9sgHx4uxWseWez3",
+        "release_date": "2024-03-29",
+        "name": "Interplay",
+        "artists": [
+          {
+            "id": "0WPY9nnBy01s5QOt4o4oQX",
+            "name": "Ride"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 255,
+        "nanos": 440000000
+      },
+      "explicit": false
+    }
+  ]
+}

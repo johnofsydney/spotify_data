@@ -1,1 +1,1177 @@
-{"playlist":{"id":"2LNprww3noOR3J5FWLqY1Y","collaborative":false,"name":"Energetic House Vibes","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAACIQcbzXNORAHT16HY2laWyQbM9F0"},"tracks":[{"id":"787Y2idwCU2Rk60Prv4wpr","name":"Saving Up","artists":[{"id":"205i7E8fNVfojowcQSfK9m","name":"Dom Dolla"}],"album":{"id":"3XTTqxcEOZgaTobJlRefvF","release_date":"2023-10-06","name":"Saving Up","artists":[{"id":"205i7E8fNVfojowcQSfK9m","name":"Dom Dolla"}],"typ":"single","added_at":0},"duration":{"secs":207,"nanos":514000000},"explicit":false},{"id":"74nEGIzIefJhJ5qX7NeIAz","name":"Beggin'","artists":[{"id":"5Igpc9iLZ3YGtKeYfSrrOE","name":"Chris Lake"},{"id":"5ITI6SEoUZMIXXkzCfr4oE","name":"Aluna"}],"album":{"id":"4PCf8xkYY6ZlrQh48AQP1V","release_date":"2023-04-20","name":"Beggin'","artists":[{"id":"5Igpc9iLZ3YGtKeYfSrrOE","name":"Chris Lake"},{"id":"5ITI6SEoUZMIXXkzCfr4oE","name":"Aluna"}],"typ":"single","added_at":0},"duration":{"secs":183,"nanos":397000000},"explicit":false},{"id":"3hQSct6Ay5azm9dfFxHixY","name":"Voodoo","artists":[{"id":"4VNQWV2y1E97Eqo2D5UTjx","name":"Gorgon City"}],"album":{"id":"34yu5063EpoaKKir1m0q9e","release_date":"2023-07-21","name":"Salvation","artists":[{"id":"4VNQWV2y1E97Eqo2D5UTjx","name":"Gorgon City"}],"typ":"album","added_at":0},"duration":{"secs":214,"nanos":120000000},"explicit":false},{"id":"4ASOMWcJUrwEpjJy4GEijz","name":"California Dreamin' (feat. High Jinx)","artists":[{"id":"7tm9Tuc70geXOOyKhtZHIj","name":"Chris Lorenzo"},{"id":"0XFmkmsCbCoR7wlqaZdt64","name":"High Jinx"}],"album":{"id":"4QNJtrJyZlV4CMzvQqPcjW","release_date":"2021-10-08","name":"California Dreamin' (feat. High Jinx)","artists":[{"id":"7tm9Tuc70geXOOyKhtZHIj","name":"Chris Lorenzo"}],"typ":"single","added_at":0},"duration":{"secs":196,"nanos":899000000},"explicit":false},{"id":"4bz8Z7squfs2Yji2DwoujR","name":"Asking","artists":[{"id":"39B7ChWwrWDs7zXlsu3MoP","name":"Sonny Fodera"},{"id":"1yqxFtPHKcGcv6SXZNdyT9","name":"MK"},{"id":"4DWuml4Jf6K81b5rAPwMb6","name":"Clementine Douglas"}],"album":{"id":"1UrVUYOo7y1pAo7EJYQOmZ","release_date":"2023-07-07","name":"Asking","artists":[{"id":"39B7ChWwrWDs7zXlsu3MoP","name":"Sonny Fodera"},{"id":"1yqxFtPHKcGcv6SXZNdyT9","name":"MK"},{"id":"4DWuml4Jf6K81b5rAPwMb6","name":"Clementine Douglas"}],"typ":"single","added_at":0},"duration":{"secs":191,"nanos":590000000},"explicit":false},{"id":"1HrMWH5GUdK6Yi94rbANJA","name":"Cola","artists":[{"id":"240wlM8vDrf6S4zCyzGj2W","name":"CAMELPHAT"},{"id":"2vf4pRsEY6LpL5tKmqWb64","name":"Elderbrook"}],"album":{"id":"4Mz3YFnTKm7JbuOi25mDWH","release_date":"2017-06-16","name":"Cola","artists":[{"id":"240wlM8vDrf6S4zCyzGj2W","name":"CAMELPHAT"},{"id":"2vf4pRsEY6LpL5tKmqWb64","name":"Elderbrook"}],"typ":"single","added_at":0},"duration":{"secs":223,"nanos":869000000},"explicit":false},{"id":"5w9upngVRHNjdZcRC7Xxr2","name":"Delilah (pull me out of this)","artists":[{"id":"4oLeXFyACqeem2VImYeBFe","name":"Fred again.."},{"id":"3WtrH1zNpzoPSz6XpwCh6y","name":"Delilah Montagu"}],"album":{"id":"5q2iMctlDvEMYVIawF6Vop","release_date":"2022-10-28","name":"Actual Life 3 (January 1 - September 9 2022)","artists":[{"id":"4oLeXFyACqeem2VImYeBFe","name":"Fred again.."}],"typ":"album","added_at":0},"duration":{"secs":250,"nanos":702000000},"explicit":false},{"id":"7nionv2ijjqUlg9m5iWPTc","name":"Feel My Needs","artists":[{"id":"0FBRY66KVaAiddGVefikLB","name":"WEISS"}],"album":{"id":"1DhXzsPrJjFpwOKRPV2Hpu","release_date":"2018-05-04","name":"Feel My Needs","artists":[{"id":"0FBRY66KVaAiddGVefikLB","name":"WEISS"}],"typ":"single","added_at":0},"duration":{"secs":208,"nanos":524000000},"explicit":false},{"id":"0agQ9vIV7NP4dntGKLcCXO","name":"Somebody (2024)","artists":[{"id":"2AsusXITU8P25dlRNhcAbG","name":"Gotye"},{"id":"1VJ0briNOlXRtJUAzoUJdt","name":"FISHER"},{"id":"5Igpc9iLZ3YGtKeYfSrrOE","name":"Chris Lake"},{"id":"6hk7Yq1DU9QcCCrz9uc0Ti","name":"Kimbra"},{"id":"5fAwPpS78sokZdpktoSUE8","name":"Sante Sansone"}],"album":{"id":"5eKQYtDqVmrHPZoKHG1LlH","release_date":"2024-02-09","name":"Somebody (2024)","artists":[{"id":"2AsusXITU8P25dlRNhcAbG","name":"Gotye"},{"id":"1VJ0briNOlXRtJUAzoUJdt","name":"FISHER"},{"id":"5Igpc9iLZ3YGtKeYfSrrOE","name":"Chris Lake"}],"typ":"single","added_at":0},"duration":{"secs":153,"nanos":518000000},"explicit":false},{"id":"4N1MFKjziFHH4IS3RYYUrU","name":"My Love","artists":[{"id":"1dgdvbogmctybPrGEcnYf6","name":"Route 94"},{"id":"4ScCswdRlyA23odg9thgIO","name":"Jess Glynne"}],"album":{"id":"4ZD1KnBqghtSAEyqrZAkU4","release_date":"2014-02-28","name":"My Love","artists":[{"id":"1dgdvbogmctybPrGEcnYf6","name":"Route 94"},{"id":"4ScCswdRlyA23odg9thgIO","name":"Jess Glynne"}],"typ":"single","added_at":0},"duration":{"secs":259,"nanos":933000000},"explicit":false},{"id":"02QE4LsAj7DBjMRxolGE8a","name":"More Baby","artists":[{"id":"5Igpc9iLZ3YGtKeYfSrrOE","name":"Chris Lake"},{"id":"5ITI6SEoUZMIXXkzCfr4oE","name":"Aluna"}],"album":{"id":"1Pei7Y5MNZQvfkDWds5EWa","release_date":"2023-09-15","name":"More Baby","artists":[{"id":"5Igpc9iLZ3YGtKeYfSrrOE","name":"Chris Lake"},{"id":"5ITI6SEoUZMIXXkzCfr4oE","name":"Aluna"}],"typ":"single","added_at":0},"duration":{"secs":175,"nanos":856000000},"explicit":false},{"id":"5Bux5dq6CHM7pJLlrx8R3f","name":"All That You Need (feat. Caroline Byrne)","artists":[{"id":"4VNQWV2y1E97Eqo2D5UTjx","name":"Gorgon City"},{"id":"2tVd9Bpt5Li9UsmKwhJ1nG","name":"Caroline Byrne"}],"album":{"id":"7jrTX2qU8wtMghbkLSpezV","release_date":"2024-04-04","name":"All That You Need (feat. Caroline Byrne)","artists":[{"id":"4VNQWV2y1E97Eqo2D5UTjx","name":"Gorgon City"},{"id":"2tVd9Bpt5Li9UsmKwhJ1nG","name":"Caroline Byrne"}],"typ":"single","added_at":0},"duration":{"secs":178,"nanos":132000000},"explicit":false},{"id":"6Ea2oEzysv4UECGNxL1IEW","name":"Eat Your Man (with Nelly Furtado)","artists":[{"id":"205i7E8fNVfojowcQSfK9m","name":"Dom Dolla"},{"id":"2jw70GZXlAI8QzWeY2bgRc","name":"Nelly Furtado"}],"album":{"id":"6UC9oEbksP0m0Sfl1sgVEQ","release_date":"2023-06-02","name":"Eat Your Man (with Nelly Furtado)","artists":[{"id":"205i7E8fNVfojowcQSfK9m","name":"Dom Dolla"},{"id":"2jw70GZXlAI8QzWeY2bgRc","name":"Nelly Furtado"}],"typ":"single","added_at":0},"duration":{"secs":197,"nanos":164000000},"explicit":false},{"id":"6JjSoJ2laV4ZbKNb9nybvh","name":"MAMI","artists":[{"id":"7tm9Tuc70geXOOyKhtZHIj","name":"Chris Lorenzo"},{"id":"1AHswQqsDNmu1xaE8KpBne","name":"Cobrah"}],"album":{"id":"6fdfCmP6hJg0gqFobszTYB","release_date":"2022-07-22","name":"MAMI","artists":[{"id":"7tm9Tuc70geXOOyKhtZHIj","name":"Chris Lorenzo"},{"id":"1AHswQqsDNmu1xaE8KpBne","name":"Cobrah"}],"typ":"single","added_at":0},"duration":{"secs":247,"nanos":896000000},"explicit":true},{"id":"023H4I7HJnxRqsc9cqeFKV","name":"I Got U","artists":[{"id":"61lyPtntblHJvA7FMMhi7E","name":"Duke Dumont"},{"id":"4Q6nIcaBED8qUel8bBx6Cr","name":"Jax Jones"}],"album":{"id":"5U06Y2CHfkglWCTyqY98pN","release_date":"2014-01-01","name":"I Got U","artists":[{"id":"61lyPtntblHJvA7FMMhi7E","name":"Duke Dumont"}],"typ":"single","added_at":0},"duration":{"secs":285,"nanos":596000000},"explicit":false},{"id":"5Z8Dj3LtbyCMiwE86rhg2f","name":"Marea (we’ve lost dancing)","artists":[{"id":"4oLeXFyACqeem2VImYeBFe","name":"Fred again.."},{"id":"4TvhRzxIL1le2PWCeUqxQw","name":"The Blessed Madonna"}],"album":{"id":"6o86bV7TAt5x4exc2qLDqC","release_date":"2021-04-15","name":"Actual Life (April 14 - December 17 2020)","artists":[{"id":"4oLeXFyACqeem2VImYeBFe","name":"Fred again.."}],"typ":"album","added_at":0},"duration":{"secs":285,"nanos":375000000},"explicit":false},{"id":"6m3DkpGqoeQJxfekL3ZLHJ","name":"Cure My Desire (feat. Clementine Douglas)","artists":[{"id":"7sK4hnuUOXw6VStDw0q8NI","name":"Hannah Wants"},{"id":"4DWuml4Jf6K81b5rAPwMb6","name":"Clementine Douglas"}],"album":{"id":"1ZZvjjvaGhVOIf4Y7zzxPU","release_date":"2022-09-23","name":"Cure My Desire (feat. Clementine Douglas)","artists":[{"id":"7sK4hnuUOXw6VStDw0q8NI","name":"Hannah Wants"},{"id":"4DWuml4Jf6K81b5rAPwMb6","name":"Clementine Douglas"}],"typ":"single","added_at":0},"duration":{"secs":179,"nanos":78000000},"explicit":false},{"id":"2n6qz4opcJlHsEpI8030YM","name":"Check Out","artists":[{"id":"4q0N3EI67tVnAeeaXbNQIj","name":"J. Worra"},{"id":"37fzXndf2fxVrk7qarhyo0","name":"Leo Stannard"}],"album":{"id":"1i9flcfwW08i5ynf4YZHsb","release_date":"2021-11-05","name":"Check Out","artists":[{"id":"4q0N3EI67tVnAeeaXbNQIj","name":"J. Worra"},{"id":"37fzXndf2fxVrk7qarhyo0","name":"Leo Stannard"}],"typ":"single","added_at":0},"duration":{"secs":174,"nanos":138000000},"explicit":false},{"id":"59QDyqLww2pxyg9ijOPO7f","name":"Rhyme Dust","artists":[{"id":"1yqxFtPHKcGcv6SXZNdyT9","name":"MK"},{"id":"205i7E8fNVfojowcQSfK9m","name":"Dom Dolla"}],"album":{"id":"1vSO4N7cwo4pBywCSGF5BR","release_date":"2023-02-24","name":"Rhyme Dust","artists":[{"id":"1yqxFtPHKcGcv6SXZNdyT9","name":"MK"},{"id":"205i7E8fNVfojowcQSfK9m","name":"Dom Dolla"}],"typ":"single","added_at":0},"duration":{"secs":181,"nanos":364000000},"explicit":false},{"id":"7dsImih2L25fa6qjNphBI7","name":"Turn off the Lights","artists":[{"id":"5Igpc9iLZ3YGtKeYfSrrOE","name":"Chris Lake"},{"id":"2GtBFxIWM3H6wRI2uzZvyt","name":"Alexis Roberts"}],"album":{"id":"132voEBLKSWmTV959PQuiC","release_date":"2018-02-23","name":"Turn off the Lights","artists":[{"id":"5Igpc9iLZ3YGtKeYfSrrOE","name":"Chris Lake"},{"id":"2GtBFxIWM3H6wRI2uzZvyt","name":"Alexis Roberts"}],"typ":"single","added_at":0},"duration":{"secs":210,"nanos":546000000},"explicit":false},{"id":"77VqW84V88aKD8Bi8CzEsP","name":"You've Done Enough","artists":[{"id":"4VNQWV2y1E97Eqo2D5UTjx","name":"Gorgon City"},{"id":"7LvvNoUPwTZpgXDWBRrfHg","name":"DRAMA"}],"album":{"id":"3r4dG6bUfL4jasKeo50kLE","release_date":"2021-06-25","name":"Olympia","artists":[{"id":"4VNQWV2y1E97Eqo2D5UTjx","name":"Gorgon City"}],"typ":"album","added_at":0},"duration":{"secs":212,"nanos":893000000},"explicit":false},{"id":"2VuzBUB5V9AlpniCUhaszP","name":"Fake ID (Coke & Rum Remix)","artists":[{"id":"7i9j813KFoSBMldGqlh2Z1","name":"Riton"},{"id":"59iOp415oyqGlBHyAhu4z3","name":"Kah-Lo"},{"id":"77uLXqHKG5n6UYMUr0b0e5","name":"GEE LEE"}],"album":{"id":"33UfArB1wqUntTPUbsFmUD","release_date":"2022-12-15","name":"Fake ID (Coke & Rum Remix)","artists":[{"id":"7i9j813KFoSBMldGqlh2Z1","name":"Riton"},{"id":"59iOp415oyqGlBHyAhu4z3","name":"Kah-Lo"},{"id":"77uLXqHKG5n6UYMUr0b0e5","name":"GEE LEE"}],"typ":"single","added_at":0},"duration":{"secs":126,"nanos":720000000},"explicit":true},{"id":"23RoR84KodL5HWvUTneQ1w","name":"(It Goes Like) Nanana - Edit","artists":[{"id":"2mLA48B366zkELXYx7hcDN","name":"Peggy Gou"}],"album":{"id":"2LVDNOUUy2g8517ZEtQIcK","release_date":"2023-06-15","name":"(It Goes Like) Nanana [Edit]","artists":[{"id":"2mLA48B366zkELXYx7hcDN","name":"Peggy Gou"}],"typ":"single","added_at":0},"duration":{"secs":231,"nanos":545000000},"explicit":false},{"id":"4vyG9ZhHT8MKJE5mTICMFC","name":"Still Sleepless","artists":[{"id":"0Cs47vvRsPgEfliBU9KDiB","name":"D.O.D"},{"id":"4S9LNSZusH3XflT3g32bqB","name":"Carla Monroe"}],"album":{"id":"0R8Q1Ssj8x17w30NUas7yu","release_date":"2021-09-17","name":"Still Sleepless","artists":[{"id":"0Cs47vvRsPgEfliBU9KDiB","name":"D.O.D"},{"id":"4S9LNSZusH3XflT3g32bqB","name":"Carla Monroe"}],"typ":"single","added_at":0},"duration":{"secs":162,"nanos":879000000},"explicit":false},{"id":"1vW12BfxjOQKYElBm9ttW9","name":"Billie (loving arms)","artists":[{"id":"4oLeXFyACqeem2VImYeBFe","name":"Fred again.."}],"album":{"id":"0SFtIrRytNI4kcf93Tbhdf","release_date":"2021-11-19","name":"Actual Life 2 (February 2 - October 15 2021)","artists":[{"id":"4oLeXFyACqeem2VImYeBFe","name":"Fred again.."}],"typ":"album","added_at":0},"duration":{"secs":217,"nanos":265000000},"explicit":false},{"id":"2LxdNADWier3MKTei8FbOY","name":"I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)","artists":[{"id":"5nki7yRhxgM509M5ADlN1p","name":"Oliver Heldens"},{"id":"3yDIp0kaq9EFKe07X1X2rz","name":"Nile Rodgers"},{"id":"1ilcpQQeF5mmvfO682aDgJ","name":"House Gospel Choir"}],"album":{"id":"7rE2qU0GsiIiNd4VPupV3B","release_date":"2022-05-06","name":"I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)","artists":[{"id":"5nki7yRhxgM509M5ADlN1p","name":"Oliver Heldens"},{"id":"3yDIp0kaq9EFKe07X1X2rz","name":"Nile Rodgers"},{"id":"1ilcpQQeF5mmvfO682aDgJ","name":"House Gospel Choir"}],"typ":"single","added_at":0},"duration":{"secs":157,"nanos":205000000},"explicit":false},{"id":"5D1zGVDJTOqwaGSzYw5TtP","name":"Red Light Green Light - For Club Play Only, Pt. 6","artists":[{"id":"61lyPtntblHJvA7FMMhi7E","name":"Duke Dumont"},{"id":"6GaWtlUT3oavD9SEzhZrA1","name":"Shaun Ross"}],"album":{"id":"7Fg3ZnH71oqPnuNNUMYK5w","release_date":"2019-02-22","name":"Red Light Green Light (For Club Play Only, Pt. 6)","artists":[{"id":"61lyPtntblHJvA7FMMhi7E","name":"Duke Dumont"},{"id":"6GaWtlUT3oavD9SEzhZrA1","name":"Shaun Ross"}],"typ":"single","added_at":0},"duration":{"secs":211,"nanos":208000000},"explicit":false},{"id":"3DLWVhaowApIGw1JnJj6GS","name":"Lose Control","artists":[{"id":"43BxCL6t4c73BQnIJtry5v","name":"James Hype"}],"album":{"id":"1OYS1FK3tnJ8JhbWuUZaqE","release_date":"2023-05-12","name":"Lose Control","artists":[{"id":"43BxCL6t4c73BQnIJtry5v","name":"James Hype"}],"typ":"single","added_at":0},"duration":{"secs":173,"nanos":437000000},"explicit":false},{"id":"587xXusqiMW9gSXkNK8Zxf","name":"What A Life (feat. Stevie Appleton)","artists":[{"id":"7kNqXtgeIwFtelmRjWv205","name":"John Summit"},{"id":"2T86EVnDCP64EaVKRXIcRx","name":"Guz"},{"id":"5qMHOzLlXeOEjOncWYtRfZ","name":"Stevie Appleton"}],"album":{"id":"4RO7rFebSw6zSFrOAMCjVw","release_date":"2022-07-29","name":"What A Life (feat. Stevie Appleton)","artists":[{"id":"7kNqXtgeIwFtelmRjWv205","name":"John Summit"},{"id":"2T86EVnDCP64EaVKRXIcRx","name":"Guz"},{"id":"5qMHOzLlXeOEjOncWYtRfZ","name":"Stevie Appleton"}],"typ":"single","added_at":0},"duration":{"secs":171,"nanos":547000000},"explicit":false},{"id":"5XFktAerFHxM4tp7EhzTrh","name":"Lost","artists":[{"id":"5pkU7zjIzHgfN1n91e51r3","name":"RSCL"},{"id":"3zW0xazqnHoq9QV9zBROVC","name":"it's murph"},{"id":"5rweLVovWSRNfeuVvzPcCq","name":"Twin Diplomacy"},{"id":"2qAHim7arWxVIhri5JpBry","name":"Jack August"}],"album":{"id":"1QaaHgza1m23gXfowZ8ZHS","release_date":"2022-11-04","name":"Lost","artists":[{"id":"5pkU7zjIzHgfN1n91e51r3","name":"RSCL"},{"id":"3zW0xazqnHoq9QV9zBROVC","name":"it's murph"},{"id":"5rweLVovWSRNfeuVvzPcCq","name":"Twin Diplomacy"}],"typ":"single","added_at":0},"duration":{"secs":153,"nanos":182000000},"explicit":false},{"id":"7o5PIzzMQexd3GuVKgdabC","name":"Somebody To Love - Extended Mix","artists":[{"id":"5Dyfxq0ZrFjjeFBdSNxDbo","name":"YOTTO"},{"id":"5CkVLGKUJkIc1pmSk10QP4","name":"Eli & Fur"}],"album":{"id":"0H4wuU2aIXCZJCSL2E5y8W","release_date":"2025-03-13","name":"Somebody To Love","artists":[{"id":"5Dyfxq0ZrFjjeFBdSNxDbo","name":"YOTTO"},{"id":"5CkVLGKUJkIc1pmSk10QP4","name":"Eli & Fur"}],"typ":"single","added_at":0},"duration":{"secs":322,"nanos":692000000},"explicit":false},{"id":"5geHvVSKwIF0UIXBwA9LxQ","name":"Feel The Light (Tritonia 532)","artists":[{"id":"6s69joiC63fdwO83zTquv8","name":"Kudus"}],"album":{"id":"1nERIXh9Tosh0NMO4VkPhP","release_date":"2026-04-03","name":"Tritonia 532","artists":[{"id":"6CR9AszjwycQRK0V7XDKuK","name":"Tritonal Tritonia Radio"}],"typ":"album","added_at":0},"duration":{"secs":243,"nanos":689000000},"explicit":false},{"id":"7djI6L6sfibr6XXV35283u","name":"Head Spin (Tritonia 532)","artists":[{"id":"2ZiXlRpANBshMELAuhkv33","name":"Lycii"}],"album":{"id":"1nERIXh9Tosh0NMO4VkPhP","release_date":"2026-04-03","name":"Tritonia 532","artists":[{"id":"6CR9AszjwycQRK0V7XDKuK","name":"Tritonal Tritonia Radio"}],"typ":"album","added_at":0},"duration":{"secs":299,"nanos":33000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "2LNprww3noOR3J5FWLqY1Y",
+    "collaborative": false,
+    "name": "Energetic House Vibes",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAACIQcbzXNORAHT16HY2laWyQbM9F0",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "787Y2idwCU2Rk60Prv4wpr",
+      "name": "Saving Up",
+      "artists": [
+        {
+          "id": "205i7E8fNVfojowcQSfK9m",
+          "name": "Dom Dolla"
+        }
+      ],
+      "album": {
+        "id": "3XTTqxcEOZgaTobJlRefvF",
+        "release_date": "2023-10-06",
+        "name": "Saving Up",
+        "artists": [
+          {
+            "id": "205i7E8fNVfojowcQSfK9m",
+            "name": "Dom Dolla"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 207,
+        "nanos": 514000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "74nEGIzIefJhJ5qX7NeIAz",
+      "name": "Beggin'",
+      "artists": [
+        {
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake"
+        },
+        {
+          "id": "5ITI6SEoUZMIXXkzCfr4oE",
+          "name": "Aluna"
+        }
+      ],
+      "album": {
+        "id": "4PCf8xkYY6ZlrQh48AQP1V",
+        "release_date": "2023-04-20",
+        "name": "Beggin'",
+        "artists": [
+          {
+            "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+            "name": "Chris Lake"
+          },
+          {
+            "id": "5ITI6SEoUZMIXXkzCfr4oE",
+            "name": "Aluna"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 183,
+        "nanos": 397000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3hQSct6Ay5azm9dfFxHixY",
+      "name": "Voodoo",
+      "artists": [
+        {
+          "id": "4VNQWV2y1E97Eqo2D5UTjx",
+          "name": "Gorgon City"
+        }
+      ],
+      "album": {
+        "id": "34yu5063EpoaKKir1m0q9e",
+        "release_date": "2023-07-21",
+        "name": "Salvation",
+        "artists": [
+          {
+            "id": "4VNQWV2y1E97Eqo2D5UTjx",
+            "name": "Gorgon City"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 214,
+        "nanos": 120000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4ASOMWcJUrwEpjJy4GEijz",
+      "name": "California Dreamin' (feat. High Jinx)",
+      "artists": [
+        {
+          "id": "7tm9Tuc70geXOOyKhtZHIj",
+          "name": "Chris Lorenzo"
+        },
+        {
+          "id": "0XFmkmsCbCoR7wlqaZdt64",
+          "name": "High Jinx"
+        }
+      ],
+      "album": {
+        "id": "4QNJtrJyZlV4CMzvQqPcjW",
+        "release_date": "2021-10-08",
+        "name": "California Dreamin' (feat. High Jinx)",
+        "artists": [
+          {
+            "id": "7tm9Tuc70geXOOyKhtZHIj",
+            "name": "Chris Lorenzo"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 196,
+        "nanos": 899000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4bz8Z7squfs2Yji2DwoujR",
+      "name": "Asking",
+      "artists": [
+        {
+          "id": "39B7ChWwrWDs7zXlsu3MoP",
+          "name": "Sonny Fodera"
+        },
+        {
+          "id": "1yqxFtPHKcGcv6SXZNdyT9",
+          "name": "MK"
+        },
+        {
+          "id": "4DWuml4Jf6K81b5rAPwMb6",
+          "name": "Clementine Douglas"
+        }
+      ],
+      "album": {
+        "id": "1UrVUYOo7y1pAo7EJYQOmZ",
+        "release_date": "2023-07-07",
+        "name": "Asking",
+        "artists": [
+          {
+            "id": "39B7ChWwrWDs7zXlsu3MoP",
+            "name": "Sonny Fodera"
+          },
+          {
+            "id": "1yqxFtPHKcGcv6SXZNdyT9",
+            "name": "MK"
+          },
+          {
+            "id": "4DWuml4Jf6K81b5rAPwMb6",
+            "name": "Clementine Douglas"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 590000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1HrMWH5GUdK6Yi94rbANJA",
+      "name": "Cola",
+      "artists": [
+        {
+          "id": "240wlM8vDrf6S4zCyzGj2W",
+          "name": "CAMELPHAT"
+        },
+        {
+          "id": "2vf4pRsEY6LpL5tKmqWb64",
+          "name": "Elderbrook"
+        }
+      ],
+      "album": {
+        "id": "4Mz3YFnTKm7JbuOi25mDWH",
+        "release_date": "2017-06-16",
+        "name": "Cola",
+        "artists": [
+          {
+            "id": "240wlM8vDrf6S4zCyzGj2W",
+            "name": "CAMELPHAT"
+          },
+          {
+            "id": "2vf4pRsEY6LpL5tKmqWb64",
+            "name": "Elderbrook"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 223,
+        "nanos": 869000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5w9upngVRHNjdZcRC7Xxr2",
+      "name": "Delilah (pull me out of this)",
+      "artists": [
+        {
+          "id": "4oLeXFyACqeem2VImYeBFe",
+          "name": "Fred again.."
+        },
+        {
+          "id": "3WtrH1zNpzoPSz6XpwCh6y",
+          "name": "Delilah Montagu"
+        }
+      ],
+      "album": {
+        "id": "5q2iMctlDvEMYVIawF6Vop",
+        "release_date": "2022-10-28",
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "artists": [
+          {
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again.."
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 250,
+        "nanos": 702000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7nionv2ijjqUlg9m5iWPTc",
+      "name": "Feel My Needs",
+      "artists": [
+        {
+          "id": "0FBRY66KVaAiddGVefikLB",
+          "name": "WEISS"
+        }
+      ],
+      "album": {
+        "id": "1DhXzsPrJjFpwOKRPV2Hpu",
+        "release_date": "2018-05-04",
+        "name": "Feel My Needs",
+        "artists": [
+          {
+            "id": "0FBRY66KVaAiddGVefikLB",
+            "name": "WEISS"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 208,
+        "nanos": 524000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0agQ9vIV7NP4dntGKLcCXO",
+      "name": "Somebody (2024)",
+      "artists": [
+        {
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye"
+        },
+        {
+          "id": "1VJ0briNOlXRtJUAzoUJdt",
+          "name": "FISHER"
+        },
+        {
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake"
+        },
+        {
+          "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+          "name": "Kimbra"
+        },
+        {
+          "id": "5fAwPpS78sokZdpktoSUE8",
+          "name": "Sante Sansone"
+        }
+      ],
+      "album": {
+        "id": "5eKQYtDqVmrHPZoKHG1LlH",
+        "release_date": "2024-02-09",
+        "name": "Somebody (2024)",
+        "artists": [
+          {
+            "id": "2AsusXITU8P25dlRNhcAbG",
+            "name": "Gotye"
+          },
+          {
+            "id": "1VJ0briNOlXRtJUAzoUJdt",
+            "name": "FISHER"
+          },
+          {
+            "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+            "name": "Chris Lake"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 153,
+        "nanos": 518000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4N1MFKjziFHH4IS3RYYUrU",
+      "name": "My Love",
+      "artists": [
+        {
+          "id": "1dgdvbogmctybPrGEcnYf6",
+          "name": "Route 94"
+        },
+        {
+          "id": "4ScCswdRlyA23odg9thgIO",
+          "name": "Jess Glynne"
+        }
+      ],
+      "album": {
+        "id": "4ZD1KnBqghtSAEyqrZAkU4",
+        "release_date": "2014-02-28",
+        "name": "My Love",
+        "artists": [
+          {
+            "id": "1dgdvbogmctybPrGEcnYf6",
+            "name": "Route 94"
+          },
+          {
+            "id": "4ScCswdRlyA23odg9thgIO",
+            "name": "Jess Glynne"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 259,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "02QE4LsAj7DBjMRxolGE8a",
+      "name": "More Baby",
+      "artists": [
+        {
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake"
+        },
+        {
+          "id": "5ITI6SEoUZMIXXkzCfr4oE",
+          "name": "Aluna"
+        }
+      ],
+      "album": {
+        "id": "1Pei7Y5MNZQvfkDWds5EWa",
+        "release_date": "2023-09-15",
+        "name": "More Baby",
+        "artists": [
+          {
+            "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+            "name": "Chris Lake"
+          },
+          {
+            "id": "5ITI6SEoUZMIXXkzCfr4oE",
+            "name": "Aluna"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 175,
+        "nanos": 856000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Bux5dq6CHM7pJLlrx8R3f",
+      "name": "All That You Need (feat. Caroline Byrne)",
+      "artists": [
+        {
+          "id": "4VNQWV2y1E97Eqo2D5UTjx",
+          "name": "Gorgon City"
+        },
+        {
+          "id": "2tVd9Bpt5Li9UsmKwhJ1nG",
+          "name": "Caroline Byrne"
+        }
+      ],
+      "album": {
+        "id": "7jrTX2qU8wtMghbkLSpezV",
+        "release_date": "2024-04-04",
+        "name": "All That You Need (feat. Caroline Byrne)",
+        "artists": [
+          {
+            "id": "4VNQWV2y1E97Eqo2D5UTjx",
+            "name": "Gorgon City"
+          },
+          {
+            "id": "2tVd9Bpt5Li9UsmKwhJ1nG",
+            "name": "Caroline Byrne"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 178,
+        "nanos": 132000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Ea2oEzysv4UECGNxL1IEW",
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "artists": [
+        {
+          "id": "205i7E8fNVfojowcQSfK9m",
+          "name": "Dom Dolla"
+        },
+        {
+          "id": "2jw70GZXlAI8QzWeY2bgRc",
+          "name": "Nelly Furtado"
+        }
+      ],
+      "album": {
+        "id": "6UC9oEbksP0m0Sfl1sgVEQ",
+        "release_date": "2023-06-02",
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "artists": [
+          {
+            "id": "205i7E8fNVfojowcQSfK9m",
+            "name": "Dom Dolla"
+          },
+          {
+            "id": "2jw70GZXlAI8QzWeY2bgRc",
+            "name": "Nelly Furtado"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 197,
+        "nanos": 164000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6JjSoJ2laV4ZbKNb9nybvh",
+      "name": "MAMI",
+      "artists": [
+        {
+          "id": "7tm9Tuc70geXOOyKhtZHIj",
+          "name": "Chris Lorenzo"
+        },
+        {
+          "id": "1AHswQqsDNmu1xaE8KpBne",
+          "name": "Cobrah"
+        }
+      ],
+      "album": {
+        "id": "6fdfCmP6hJg0gqFobszTYB",
+        "release_date": "2022-07-22",
+        "name": "MAMI",
+        "artists": [
+          {
+            "id": "7tm9Tuc70geXOOyKhtZHIj",
+            "name": "Chris Lorenzo"
+          },
+          {
+            "id": "1AHswQqsDNmu1xaE8KpBne",
+            "name": "Cobrah"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 247,
+        "nanos": 896000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "023H4I7HJnxRqsc9cqeFKV",
+      "name": "I Got U",
+      "artists": [
+        {
+          "id": "61lyPtntblHJvA7FMMhi7E",
+          "name": "Duke Dumont"
+        },
+        {
+          "id": "4Q6nIcaBED8qUel8bBx6Cr",
+          "name": "Jax Jones"
+        }
+      ],
+      "album": {
+        "id": "5U06Y2CHfkglWCTyqY98pN",
+        "release_date": "2014-01-01",
+        "name": "I Got U",
+        "artists": [
+          {
+            "id": "61lyPtntblHJvA7FMMhi7E",
+            "name": "Duke Dumont"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 285,
+        "nanos": 596000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Z8Dj3LtbyCMiwE86rhg2f",
+      "name": "Marea (we’ve lost dancing)",
+      "artists": [
+        {
+          "id": "4oLeXFyACqeem2VImYeBFe",
+          "name": "Fred again.."
+        },
+        {
+          "id": "4TvhRzxIL1le2PWCeUqxQw",
+          "name": "The Blessed Madonna"
+        }
+      ],
+      "album": {
+        "id": "6o86bV7TAt5x4exc2qLDqC",
+        "release_date": "2021-04-15",
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "artists": [
+          {
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again.."
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 285,
+        "nanos": 375000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6m3DkpGqoeQJxfekL3ZLHJ",
+      "name": "Cure My Desire (feat. Clementine Douglas)",
+      "artists": [
+        {
+          "id": "7sK4hnuUOXw6VStDw0q8NI",
+          "name": "Hannah Wants"
+        },
+        {
+          "id": "4DWuml4Jf6K81b5rAPwMb6",
+          "name": "Clementine Douglas"
+        }
+      ],
+      "album": {
+        "id": "1ZZvjjvaGhVOIf4Y7zzxPU",
+        "release_date": "2022-09-23",
+        "name": "Cure My Desire (feat. Clementine Douglas)",
+        "artists": [
+          {
+            "id": "7sK4hnuUOXw6VStDw0q8NI",
+            "name": "Hannah Wants"
+          },
+          {
+            "id": "4DWuml4Jf6K81b5rAPwMb6",
+            "name": "Clementine Douglas"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 179,
+        "nanos": 78000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2n6qz4opcJlHsEpI8030YM",
+      "name": "Check Out",
+      "artists": [
+        {
+          "id": "4q0N3EI67tVnAeeaXbNQIj",
+          "name": "J. Worra"
+        },
+        {
+          "id": "37fzXndf2fxVrk7qarhyo0",
+          "name": "Leo Stannard"
+        }
+      ],
+      "album": {
+        "id": "1i9flcfwW08i5ynf4YZHsb",
+        "release_date": "2021-11-05",
+        "name": "Check Out",
+        "artists": [
+          {
+            "id": "4q0N3EI67tVnAeeaXbNQIj",
+            "name": "J. Worra"
+          },
+          {
+            "id": "37fzXndf2fxVrk7qarhyo0",
+            "name": "Leo Stannard"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 174,
+        "nanos": 138000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "59QDyqLww2pxyg9ijOPO7f",
+      "name": "Rhyme Dust",
+      "artists": [
+        {
+          "id": "1yqxFtPHKcGcv6SXZNdyT9",
+          "name": "MK"
+        },
+        {
+          "id": "205i7E8fNVfojowcQSfK9m",
+          "name": "Dom Dolla"
+        }
+      ],
+      "album": {
+        "id": "1vSO4N7cwo4pBywCSGF5BR",
+        "release_date": "2023-02-24",
+        "name": "Rhyme Dust",
+        "artists": [
+          {
+            "id": "1yqxFtPHKcGcv6SXZNdyT9",
+            "name": "MK"
+          },
+          {
+            "id": "205i7E8fNVfojowcQSfK9m",
+            "name": "Dom Dolla"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 181,
+        "nanos": 364000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7dsImih2L25fa6qjNphBI7",
+      "name": "Turn off the Lights",
+      "artists": [
+        {
+          "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+          "name": "Chris Lake"
+        },
+        {
+          "id": "2GtBFxIWM3H6wRI2uzZvyt",
+          "name": "Alexis Roberts"
+        }
+      ],
+      "album": {
+        "id": "132voEBLKSWmTV959PQuiC",
+        "release_date": "2018-02-23",
+        "name": "Turn off the Lights",
+        "artists": [
+          {
+            "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+            "name": "Chris Lake"
+          },
+          {
+            "id": "2GtBFxIWM3H6wRI2uzZvyt",
+            "name": "Alexis Roberts"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 210,
+        "nanos": 546000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "77VqW84V88aKD8Bi8CzEsP",
+      "name": "You've Done Enough",
+      "artists": [
+        {
+          "id": "4VNQWV2y1E97Eqo2D5UTjx",
+          "name": "Gorgon City"
+        },
+        {
+          "id": "7LvvNoUPwTZpgXDWBRrfHg",
+          "name": "DRAMA"
+        }
+      ],
+      "album": {
+        "id": "3r4dG6bUfL4jasKeo50kLE",
+        "release_date": "2021-06-25",
+        "name": "Olympia",
+        "artists": [
+          {
+            "id": "4VNQWV2y1E97Eqo2D5UTjx",
+            "name": "Gorgon City"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 212,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2VuzBUB5V9AlpniCUhaszP",
+      "name": "Fake ID (Coke & Rum Remix)",
+      "artists": [
+        {
+          "id": "7i9j813KFoSBMldGqlh2Z1",
+          "name": "Riton"
+        },
+        {
+          "id": "59iOp415oyqGlBHyAhu4z3",
+          "name": "Kah-Lo"
+        },
+        {
+          "id": "77uLXqHKG5n6UYMUr0b0e5",
+          "name": "GEE LEE"
+        }
+      ],
+      "album": {
+        "id": "33UfArB1wqUntTPUbsFmUD",
+        "release_date": "2022-12-15",
+        "name": "Fake ID (Coke & Rum Remix)",
+        "artists": [
+          {
+            "id": "7i9j813KFoSBMldGqlh2Z1",
+            "name": "Riton"
+          },
+          {
+            "id": "59iOp415oyqGlBHyAhu4z3",
+            "name": "Kah-Lo"
+          },
+          {
+            "id": "77uLXqHKG5n6UYMUr0b0e5",
+            "name": "GEE LEE"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 126,
+        "nanos": 720000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "23RoR84KodL5HWvUTneQ1w",
+      "name": "(It Goes Like) Nanana - Edit",
+      "artists": [
+        {
+          "id": "2mLA48B366zkELXYx7hcDN",
+          "name": "Peggy Gou"
+        }
+      ],
+      "album": {
+        "id": "2LVDNOUUy2g8517ZEtQIcK",
+        "release_date": "2023-06-15",
+        "name": "(It Goes Like) Nanana [Edit]",
+        "artists": [
+          {
+            "id": "2mLA48B366zkELXYx7hcDN",
+            "name": "Peggy Gou"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 231,
+        "nanos": 545000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4vyG9ZhHT8MKJE5mTICMFC",
+      "name": "Still Sleepless",
+      "artists": [
+        {
+          "id": "0Cs47vvRsPgEfliBU9KDiB",
+          "name": "D.O.D"
+        },
+        {
+          "id": "4S9LNSZusH3XflT3g32bqB",
+          "name": "Carla Monroe"
+        }
+      ],
+      "album": {
+        "id": "0R8Q1Ssj8x17w30NUas7yu",
+        "release_date": "2021-09-17",
+        "name": "Still Sleepless",
+        "artists": [
+          {
+            "id": "0Cs47vvRsPgEfliBU9KDiB",
+            "name": "D.O.D"
+          },
+          {
+            "id": "4S9LNSZusH3XflT3g32bqB",
+            "name": "Carla Monroe"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 162,
+        "nanos": 879000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1vW12BfxjOQKYElBm9ttW9",
+      "name": "Billie (loving arms)",
+      "artists": [
+        {
+          "id": "4oLeXFyACqeem2VImYeBFe",
+          "name": "Fred again.."
+        }
+      ],
+      "album": {
+        "id": "0SFtIrRytNI4kcf93Tbhdf",
+        "release_date": "2021-11-19",
+        "name": "Actual Life 2 (February 2 - October 15 2021)",
+        "artists": [
+          {
+            "id": "4oLeXFyACqeem2VImYeBFe",
+            "name": "Fred again.."
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 217,
+        "nanos": 265000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2LxdNADWier3MKTei8FbOY",
+      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+      "artists": [
+        {
+          "id": "5nki7yRhxgM509M5ADlN1p",
+          "name": "Oliver Heldens"
+        },
+        {
+          "id": "3yDIp0kaq9EFKe07X1X2rz",
+          "name": "Nile Rodgers"
+        },
+        {
+          "id": "1ilcpQQeF5mmvfO682aDgJ",
+          "name": "House Gospel Choir"
+        }
+      ],
+      "album": {
+        "id": "7rE2qU0GsiIiNd4VPupV3B",
+        "release_date": "2022-05-06",
+        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+        "artists": [
+          {
+            "id": "5nki7yRhxgM509M5ADlN1p",
+            "name": "Oliver Heldens"
+          },
+          {
+            "id": "3yDIp0kaq9EFKe07X1X2rz",
+            "name": "Nile Rodgers"
+          },
+          {
+            "id": "1ilcpQQeF5mmvfO682aDgJ",
+            "name": "House Gospel Choir"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 157,
+        "nanos": 205000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5D1zGVDJTOqwaGSzYw5TtP",
+      "name": "Red Light Green Light - For Club Play Only, Pt. 6",
+      "artists": [
+        {
+          "id": "61lyPtntblHJvA7FMMhi7E",
+          "name": "Duke Dumont"
+        },
+        {
+          "id": "6GaWtlUT3oavD9SEzhZrA1",
+          "name": "Shaun Ross"
+        }
+      ],
+      "album": {
+        "id": "7Fg3ZnH71oqPnuNNUMYK5w",
+        "release_date": "2019-02-22",
+        "name": "Red Light Green Light (For Club Play Only, Pt. 6)",
+        "artists": [
+          {
+            "id": "61lyPtntblHJvA7FMMhi7E",
+            "name": "Duke Dumont"
+          },
+          {
+            "id": "6GaWtlUT3oavD9SEzhZrA1",
+            "name": "Shaun Ross"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 208000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3DLWVhaowApIGw1JnJj6GS",
+      "name": "Lose Control",
+      "artists": [
+        {
+          "id": "43BxCL6t4c73BQnIJtry5v",
+          "name": "James Hype"
+        }
+      ],
+      "album": {
+        "id": "1OYS1FK3tnJ8JhbWuUZaqE",
+        "release_date": "2023-05-12",
+        "name": "Lose Control",
+        "artists": [
+          {
+            "id": "43BxCL6t4c73BQnIJtry5v",
+            "name": "James Hype"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 173,
+        "nanos": 437000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "587xXusqiMW9gSXkNK8Zxf",
+      "name": "What A Life (feat. Stevie Appleton)",
+      "artists": [
+        {
+          "id": "7kNqXtgeIwFtelmRjWv205",
+          "name": "John Summit"
+        },
+        {
+          "id": "2T86EVnDCP64EaVKRXIcRx",
+          "name": "Guz"
+        },
+        {
+          "id": "5qMHOzLlXeOEjOncWYtRfZ",
+          "name": "Stevie Appleton"
+        }
+      ],
+      "album": {
+        "id": "4RO7rFebSw6zSFrOAMCjVw",
+        "release_date": "2022-07-29",
+        "name": "What A Life (feat. Stevie Appleton)",
+        "artists": [
+          {
+            "id": "7kNqXtgeIwFtelmRjWv205",
+            "name": "John Summit"
+          },
+          {
+            "id": "2T86EVnDCP64EaVKRXIcRx",
+            "name": "Guz"
+          },
+          {
+            "id": "5qMHOzLlXeOEjOncWYtRfZ",
+            "name": "Stevie Appleton"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 171,
+        "nanos": 547000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5XFktAerFHxM4tp7EhzTrh",
+      "name": "Lost",
+      "artists": [
+        {
+          "id": "5pkU7zjIzHgfN1n91e51r3",
+          "name": "RSCL"
+        },
+        {
+          "id": "3zW0xazqnHoq9QV9zBROVC",
+          "name": "it's murph"
+        },
+        {
+          "id": "5rweLVovWSRNfeuVvzPcCq",
+          "name": "Twin Diplomacy"
+        },
+        {
+          "id": "2qAHim7arWxVIhri5JpBry",
+          "name": "Jack August"
+        }
+      ],
+      "album": {
+        "id": "1QaaHgza1m23gXfowZ8ZHS",
+        "release_date": "2022-11-04",
+        "name": "Lost",
+        "artists": [
+          {
+            "id": "5pkU7zjIzHgfN1n91e51r3",
+            "name": "RSCL"
+          },
+          {
+            "id": "3zW0xazqnHoq9QV9zBROVC",
+            "name": "it's murph"
+          },
+          {
+            "id": "5rweLVovWSRNfeuVvzPcCq",
+            "name": "Twin Diplomacy"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 153,
+        "nanos": 182000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7o5PIzzMQexd3GuVKgdabC",
+      "name": "Somebody To Love - Extended Mix",
+      "artists": [
+        {
+          "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+          "name": "YOTTO"
+        },
+        {
+          "id": "5CkVLGKUJkIc1pmSk10QP4",
+          "name": "Eli & Fur"
+        }
+      ],
+      "album": {
+        "id": "0H4wuU2aIXCZJCSL2E5y8W",
+        "release_date": "2025-03-13",
+        "name": "Somebody To Love",
+        "artists": [
+          {
+            "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+            "name": "YOTTO"
+          },
+          {
+            "id": "5CkVLGKUJkIc1pmSk10QP4",
+            "name": "Eli & Fur"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 322,
+        "nanos": 692000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5geHvVSKwIF0UIXBwA9LxQ",
+      "name": "Feel The Light (Tritonia 532)",
+      "artists": [
+        {
+          "id": "6s69joiC63fdwO83zTquv8",
+          "name": "Kudus"
+        }
+      ],
+      "album": {
+        "id": "1nERIXh9Tosh0NMO4VkPhP",
+        "release_date": "2026-04-03",
+        "name": "Tritonia 532",
+        "artists": [
+          {
+            "id": "6CR9AszjwycQRK0V7XDKuK",
+            "name": "Tritonal Tritonia Radio"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 243,
+        "nanos": 689000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7djI6L6sfibr6XXV35283u",
+      "name": "Head Spin (Tritonia 532)",
+      "artists": [
+        {
+          "id": "2ZiXlRpANBshMELAuhkv33",
+          "name": "Lycii"
+        }
+      ],
+      "album": {
+        "id": "1nERIXh9Tosh0NMO4VkPhP",
+        "release_date": "2026-04-03",
+        "name": "Tritonia 532",
+        "artists": [
+          {
+            "id": "6CR9AszjwycQRK0V7XDKuK",
+            "name": "Tritonal Tritonia Radio"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 299,
+        "nanos": 33000000
+      },
+      "explicit": false
+    }
+  ]
+}

@@ -1,1 +1,309 @@
-{"playlist":{"id":"2UVeIhYDpFNa0Xk69uWLpf","collaborative":false,"name":"Modern Psychedelia","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAADC37jJ+Pgvzo4fpPVogcfCVtNJam"},"tracks":[{"id":"4CUF6Bo28V7hbfJR5tt1Tl","name":"Hi No Tori","artists":[{"id":"2i3LPFJ85TQROM0zjHYaQq","name":"Golden Bug"},{"id":"5LXazUnFrXvd2aVAiwCcdh","name":"Vega Voga"},{"id":"2joJCoCL4EmiVqic3vZn7n","name":"The Limiñanas"}],"album":{"id":"2oSolXLlRXUTvOASAHg4VD","release_date":"2024-10-04","name":"Piscolabis II","artists":[{"id":"2i3LPFJ85TQROM0zjHYaQq","name":"Golden Bug"}],"typ":"album","added_at":0},"duration":{"secs":267,"nanos":432000000},"explicit":false},{"id":"0DQuXV3i0EtahGm5t1Z7jh","name":"The Golden Path - Radio Edit","artists":[{"id":"1GhPHrq36VKCY3ucVaZCfo","name":"The Chemical Brothers"},{"id":"16eRpMNXSQ15wuJoeqguaB","name":"The Flaming Lips"}],"album":{"id":"5gDLHPtaSYAMm3ielqB81m","release_date":"2003-09-15","name":"The Golden Path","artists":[{"id":"1GhPHrq36VKCY3ucVaZCfo","name":"The Chemical Brothers"},{"id":"16eRpMNXSQ15wuJoeqguaB","name":"The Flaming Lips"}],"typ":"single","added_at":0},"duration":{"secs":239,"nanos":999000000},"explicit":false},{"id":"6Prcel5XODQO4MmnrdGS1r","name":"New Day","artists":[{"id":"07dZirN9KFAGIHeBvSDfuO","name":"Night Beats"}],"album":{"id":"1DGCLu0B5zZ5YPlcHrK3O7","release_date":"2021-06-04","name":"Outlaw R&B","artists":[{"id":"07dZirN9KFAGIHeBvSDfuO","name":"Night Beats"}],"typ":"album","added_at":0},"duration":{"secs":212,"nanos":110000000},"explicit":false},{"id":"4Kyrgijl4H54vU652vzGqu","name":"Wish Me Away","artists":[{"id":"1dwirHaSjsKJUYDHgvl2op","name":"GIFT"}],"album":{"id":"7dUddrl6x5eTf7PRZNbh5z","release_date":"2024-08-23","name":"Illuminator","artists":[{"id":"1dwirHaSjsKJUYDHgvl2op","name":"GIFT"}],"typ":"album","added_at":0},"duration":{"secs":238,"nanos":350000000},"explicit":false},{"id":"5tkZ15I9YRVg9teUwDn9hx","name":"Three Dimensional Sound Glitch","artists":[{"id":"2xtRcChgdje74dlpd3Hz4G","name":"Firefriend"}],"album":{"id":"4nr0HWyknupCigbi93hvsX","release_date":"2021-04-23","name":"Dead Icons","artists":[{"id":"2xtRcChgdje74dlpd3Hz4G","name":"Firefriend"}],"typ":"album","added_at":0},"duration":{"secs":260,"nanos":0},"explicit":false},{"id":"6SmM9btYTxc3Nz37hG8znd","name":"Dead Icons","artists":[{"id":"2xtRcChgdje74dlpd3Hz4G","name":"Firefriend"}],"album":{"id":"4nr0HWyknupCigbi93hvsX","release_date":"2021-04-23","name":"Dead Icons","artists":[{"id":"2xtRcChgdje74dlpd3Hz4G","name":"Firefriend"}],"typ":"album","added_at":0},"duration":{"secs":265,"nanos":658000000},"explicit":false},{"id":"5Yi7EOLgzz77e4uSgzdECT","name":"His Head","artists":[{"id":"1vtBMVcsRYr8a4dJAmKtLB","name":"The Dharma Chain"}],"album":{"id":"00ppJreV0EznXizif7HcgA","release_date":"2024-06-21","name":"Nowhere","artists":[{"id":"1vtBMVcsRYr8a4dJAmKtLB","name":"The Dharma Chain"}],"typ":"album","added_at":0},"duration":{"secs":247,"nanos":262000000},"explicit":false},{"id":"3FjGKUwwVSWb2nXccIhvPU","name":"Regicide","artists":[{"id":"0pPa2J0HCTVmaL8PurSeoC","name":"New Candys"}],"album":{"id":"2VBAxCXsNaW3aZLCjqnb41","release_date":"2025-03-05","name":"Regicide","artists":[{"id":"0pPa2J0HCTVmaL8PurSeoC","name":"New Candys"}],"typ":"single","added_at":0},"duration":{"secs":258,"nanos":500000000},"explicit":false},{"id":"7fIpaFvaekXUk2IH4tf9CH","name":"Clockwork","artists":[{"id":"1vtBMVcsRYr8a4dJAmKtLB","name":"The Dharma Chain"}],"album":{"id":"00ppJreV0EznXizif7HcgA","release_date":"2024-06-21","name":"Nowhere","artists":[{"id":"1vtBMVcsRYr8a4dJAmKtLB","name":"The Dharma Chain"}],"typ":"album","added_at":0},"duration":{"secs":233,"nanos":975000000},"explicit":false},{"id":"5k1fkR9tLkzAbZluW8cn0z","name":"Streamline","artists":[{"id":"1tDQd4CIJM6ttVNFJBnopB","name":"Motrik"}],"album":{"id":"1uGMKGsI4o1zRCTwRkTcEb","release_date":"2021-11-12","name":"MOON: The Cosmic Electrics of MOTRIK","artists":[{"id":"1tDQd4CIJM6ttVNFJBnopB","name":"Motrik"}],"typ":"album","added_at":0},"duration":{"secs":274,"nanos":387000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "2UVeIhYDpFNa0Xk69uWLpf",
+    "collaborative": false,
+    "name": "Modern Psychedelia",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAADC37jJ+Pgvzo4fpPVogcfCVtNJam",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "4CUF6Bo28V7hbfJR5tt1Tl",
+      "name": "Hi No Tori",
+      "artists": [
+        {
+          "id": "2i3LPFJ85TQROM0zjHYaQq",
+          "name": "Golden Bug"
+        },
+        {
+          "id": "5LXazUnFrXvd2aVAiwCcdh",
+          "name": "Vega Voga"
+        },
+        {
+          "id": "2joJCoCL4EmiVqic3vZn7n",
+          "name": "The Limiñanas"
+        }
+      ],
+      "album": {
+        "id": "2oSolXLlRXUTvOASAHg4VD",
+        "release_date": "2024-10-04",
+        "name": "Piscolabis II",
+        "artists": [
+          {
+            "id": "2i3LPFJ85TQROM0zjHYaQq",
+            "name": "Golden Bug"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 267,
+        "nanos": 432000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0DQuXV3i0EtahGm5t1Z7jh",
+      "name": "The Golden Path - Radio Edit",
+      "artists": [
+        {
+          "id": "1GhPHrq36VKCY3ucVaZCfo",
+          "name": "The Chemical Brothers"
+        },
+        {
+          "id": "16eRpMNXSQ15wuJoeqguaB",
+          "name": "The Flaming Lips"
+        }
+      ],
+      "album": {
+        "id": "5gDLHPtaSYAMm3ielqB81m",
+        "release_date": "2003-09-15",
+        "name": "The Golden Path",
+        "artists": [
+          {
+            "id": "1GhPHrq36VKCY3ucVaZCfo",
+            "name": "The Chemical Brothers"
+          },
+          {
+            "id": "16eRpMNXSQ15wuJoeqguaB",
+            "name": "The Flaming Lips"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 239,
+        "nanos": 999000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Prcel5XODQO4MmnrdGS1r",
+      "name": "New Day",
+      "artists": [
+        {
+          "id": "07dZirN9KFAGIHeBvSDfuO",
+          "name": "Night Beats"
+        }
+      ],
+      "album": {
+        "id": "1DGCLu0B5zZ5YPlcHrK3O7",
+        "release_date": "2021-06-04",
+        "name": "Outlaw R&B",
+        "artists": [
+          {
+            "id": "07dZirN9KFAGIHeBvSDfuO",
+            "name": "Night Beats"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 212,
+        "nanos": 110000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Kyrgijl4H54vU652vzGqu",
+      "name": "Wish Me Away",
+      "artists": [
+        {
+          "id": "1dwirHaSjsKJUYDHgvl2op",
+          "name": "GIFT"
+        }
+      ],
+      "album": {
+        "id": "7dUddrl6x5eTf7PRZNbh5z",
+        "release_date": "2024-08-23",
+        "name": "Illuminator",
+        "artists": [
+          {
+            "id": "1dwirHaSjsKJUYDHgvl2op",
+            "name": "GIFT"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 238,
+        "nanos": 350000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5tkZ15I9YRVg9teUwDn9hx",
+      "name": "Three Dimensional Sound Glitch",
+      "artists": [
+        {
+          "id": "2xtRcChgdje74dlpd3Hz4G",
+          "name": "Firefriend"
+        }
+      ],
+      "album": {
+        "id": "4nr0HWyknupCigbi93hvsX",
+        "release_date": "2021-04-23",
+        "name": "Dead Icons",
+        "artists": [
+          {
+            "id": "2xtRcChgdje74dlpd3Hz4G",
+            "name": "Firefriend"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 260,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "6SmM9btYTxc3Nz37hG8znd",
+      "name": "Dead Icons",
+      "artists": [
+        {
+          "id": "2xtRcChgdje74dlpd3Hz4G",
+          "name": "Firefriend"
+        }
+      ],
+      "album": {
+        "id": "4nr0HWyknupCigbi93hvsX",
+        "release_date": "2021-04-23",
+        "name": "Dead Icons",
+        "artists": [
+          {
+            "id": "2xtRcChgdje74dlpd3Hz4G",
+            "name": "Firefriend"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 265,
+        "nanos": 658000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Yi7EOLgzz77e4uSgzdECT",
+      "name": "His Head",
+      "artists": [
+        {
+          "id": "1vtBMVcsRYr8a4dJAmKtLB",
+          "name": "The Dharma Chain"
+        }
+      ],
+      "album": {
+        "id": "00ppJreV0EznXizif7HcgA",
+        "release_date": "2024-06-21",
+        "name": "Nowhere",
+        "artists": [
+          {
+            "id": "1vtBMVcsRYr8a4dJAmKtLB",
+            "name": "The Dharma Chain"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 247,
+        "nanos": 262000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3FjGKUwwVSWb2nXccIhvPU",
+      "name": "Regicide",
+      "artists": [
+        {
+          "id": "0pPa2J0HCTVmaL8PurSeoC",
+          "name": "New Candys"
+        }
+      ],
+      "album": {
+        "id": "2VBAxCXsNaW3aZLCjqnb41",
+        "release_date": "2025-03-05",
+        "name": "Regicide",
+        "artists": [
+          {
+            "id": "0pPa2J0HCTVmaL8PurSeoC",
+            "name": "New Candys"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 258,
+        "nanos": 500000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7fIpaFvaekXUk2IH4tf9CH",
+      "name": "Clockwork",
+      "artists": [
+        {
+          "id": "1vtBMVcsRYr8a4dJAmKtLB",
+          "name": "The Dharma Chain"
+        }
+      ],
+      "album": {
+        "id": "00ppJreV0EznXizif7HcgA",
+        "release_date": "2024-06-21",
+        "name": "Nowhere",
+        "artists": [
+          {
+            "id": "1vtBMVcsRYr8a4dJAmKtLB",
+            "name": "The Dharma Chain"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 233,
+        "nanos": 975000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5k1fkR9tLkzAbZluW8cn0z",
+      "name": "Streamline",
+      "artists": [
+        {
+          "id": "1tDQd4CIJM6ttVNFJBnopB",
+          "name": "Motrik"
+        }
+      ],
+      "album": {
+        "id": "1uGMKGsI4o1zRCTwRkTcEb",
+        "release_date": "2021-11-12",
+        "name": "MOON: The Cosmic Electrics of MOTRIK",
+        "artists": [
+          {
+            "id": "1tDQd4CIJM6ttVNFJBnopB",
+            "name": "Motrik"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 274,
+        "nanos": 387000000
+      },
+      "explicit": false
+    }
+  ]
+}

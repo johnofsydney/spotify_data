@@ -1,1 +1,657 @@
-{"playlist":{"id":"6JCgT6D7SE6Jdiqd0DcsZZ","collaborative":false,"name":"BO Causa, Tuber, etc","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAIHfows0rmpeTmO0gmr9fWXEXC+Bo"},"tracks":[{"id":"2ANsD5yDGCl5Sx8I10LBgs","name":"The Drop","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"1m5TE9wAnq23iYCHRpGQml","release_date":"2017-11-17","name":"Vibraciones Doradas","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":434,"nanos":891000000},"explicit":false},{"id":"3WAN4EVagW8liC98oDML7v","name":"Dust Meridian","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"7jgyHzoVQYoBtmVejt49dv","release_date":"2016-03-18","name":"Return to Sky","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":608,"nanos":178000000},"explicit":false},{"id":"2cDul5J9xrmbKi4C5zwaox","name":"Dawn Passage","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"7jgyHzoVQYoBtmVejt49dv","release_date":"2016-03-18","name":"Return to Sky","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":500,"nanos":314000000},"explicit":false},{"id":"6xh3SuXNDO3YpenqqyEKA7","name":"Return to Sky","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"7jgyHzoVQYoBtmVejt49dv","release_date":"2016-03-18","name":"Return to Sky","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":698,"nanos":169000000},"explicit":false},{"id":"6R8DZYIo9OlEf0S7R5tJtj","name":"El Fuego","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"1m5TE9wAnq23iYCHRpGQml","release_date":"2017-11-17","name":"Vibraciones Doradas","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":685,"nanos":38000000},"explicit":false},{"id":"0ni6EruKbg11Q9PE5NwR2y","name":"Seven Hills","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"album":{"id":"1m5TE9wAnq23iYCHRpGQml","release_date":"2017-11-17","name":"Vibraciones Doradas","artists":[{"id":"1TAcaMoUlvLpTUzh18TzDY","name":"Causa Sui"}],"typ":"album","added_at":0},"duration":{"secs":446,"nanos":200000000},"explicit":false},{"id":"2B3IQ0p5jG3oDNU4L3MvRY","name":"Desert Overcrowded","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1beRrVJVYBsqGzJEpiO8EY","release_date":"2014-02-25","name":"Desert Overcrowded","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":602,"nanos":849000000},"explicit":false},{"id":"1X4phJ3Buh9vdCVqnE6L4J","name":"Firebird","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1beRrVJVYBsqGzJEpiO8EY","release_date":"2014-02-25","name":"Desert Overcrowded","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":420,"nanos":209000000},"explicit":false},{"id":"4eu0bUOZkTyF7NQMpiuNe5","name":"Out of the Blue","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1vyG3fmO1VzDNETtkSPAmm","release_date":"2017-06-16","name":"Out of the Blue","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":426,"nanos":456000000},"explicit":false},{"id":"6g1qaCcUdJN9ETIhvkk6GS","name":"Sucker Punch","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1beRrVJVYBsqGzJEpiO8EY","release_date":"2014-02-25","name":"Desert Overcrowded","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":459,"nanos":206000000},"explicit":false},{"id":"5A9jLabzBYSu1wH9nFn2Fa","name":"Cat Class","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1vyG3fmO1VzDNETtkSPAmm","release_date":"2017-06-16","name":"Out of the Blue","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":407,"nanos":700000000},"explicit":false},{"id":"7ojBFgh49ZXhIwN7itgd22","name":"Moon Rabbit","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1vyG3fmO1VzDNETtkSPAmm","release_date":"2017-06-16","name":"Out of the Blue","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":390,"nanos":839000000},"explicit":false},{"id":"2biukFgZwtScfI6YUE8yPy","name":"Noman","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"album":{"id":"1vyG3fmO1VzDNETtkSPAmm","release_date":"2017-06-16","name":"Out of the Blue","artists":[{"id":"4CCgsvOxdBae0m79AEb5pU","name":"Tuber"}],"typ":"album","added_at":0},"duration":{"secs":494,"nanos":783000000},"explicit":false},{"id":"3aLKBtPywmWi1XLLDf8fr4","name":"LHC","artists":[{"id":"7BIt8dmieIJhheLq5UVQaH","name":"Monomyth"}],"album":{"id":"6Ht9xKDR6XmlzuPT9dVWaW","release_date":"2016-03-18","name":"Exo","artists":[{"id":"7BIt8dmieIJhheLq5UVQaH","name":"Monomyth"}],"typ":"album","added_at":0},"duration":{"secs":586,"nanos":920000000},"explicit":false},{"id":"4VCK4gOLEUMWwnPoC6gyL4","name":"Prithvi","artists":[{"id":"4idYdwYKM9exGep2RkwHcE","name":"My Sleeping Karma"}],"album":{"id":"0FqsHR28a9RnnhkjYMpzCm","release_date":"2015-05-29","name":"Moksha","artists":[{"id":"4idYdwYKM9exGep2RkwHcE","name":"My Sleeping Karma"}],"typ":"album","added_at":0},"duration":{"secs":389,"nanos":213000000},"explicit":false},{"id":"5cx3NMy4Akae65SsHkgctJ","name":"Sarasvati","artists":[{"id":"4idYdwYKM9exGep2RkwHcE","name":"My Sleeping Karma"}],"album":{"id":"25Sqet8eEemU4dGikfeToQ","release_date":"2010-03-26","name":"TRI","artists":[{"id":"4idYdwYKM9exGep2RkwHcE","name":"My Sleeping Karma"}],"typ":"album","added_at":0},"duration":{"secs":364,"nanos":520000000},"explicit":false},{"id":"34SZCPh3rDG547VHj1Ehgk","name":"VI.II","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"album":{"id":"1wtko8N1v6n5Lywt1oRW6b","release_date":"2019-05-10","name":"VI","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"typ":"album","added_at":0},"duration":{"secs":532,"nanos":31000000},"explicit":false},{"id":"4Xsscua7Eh9WgK0wruTJ12","name":"VI.IV","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"album":{"id":"1wtko8N1v6n5Lywt1oRW6b","release_date":"2019-05-10","name":"VI","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"typ":"album","added_at":0},"duration":{"secs":664,"nanos":347000000},"explicit":false},{"id":"3PG7z14GnTJ34lwfk5UIdC","name":"Delving","artists":[{"id":"3s596fAjCmoXEGdAZLy8EW","name":"delving"}],"album":{"id":"2KG51JDtjZGfxM2usME9SM","release_date":"2021-06-11","name":"Hirschbrunnen","artists":[{"id":"3s596fAjCmoXEGdAZLy8EW","name":"delving"}],"typ":"album","added_at":0},"duration":{"secs":420,"nanos":942000000},"explicit":false},{"id":"5No9BuKo4IfYpvabmijbrK","name":"III.I","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"album":{"id":"0SzemBi6IYecTfxyQZvW9k","release_date":"2013-02-12","name":"III","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"typ":"album","added_at":0},"duration":{"secs":447,"nanos":253000000},"explicit":false},{"id":"1zjbwk0fL9n7OSKtawHmK3","name":"V.I","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"album":{"id":"5tCUlxZVcl894wMVXYghHu","release_date":"2017-08-18","name":"V","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"typ":"album","added_at":0},"duration":{"secs":765,"nanos":106000000},"explicit":false},{"id":"6rbe6QeydcqMaZ7FXSB6fG","name":"V.V","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"album":{"id":"5tCUlxZVcl894wMVXYghHu","release_date":"2017-08-18","name":"V","artists":[{"id":"06C98uwTFduwmzsuaLWFA9","name":"Papir"}],"typ":"album","added_at":0},"duration":{"secs":603,"nanos":453000000},"explicit":false},{"id":"1t5rEvsVk0InxV61cwfAAP","name":"T=0","artists":[{"id":"6y7JROCNqvfjytVoVjTeTq","name":"Ahkmed"}],"album":{"id":"3GeEwQ0qr78W7yPzMPkIhl","release_date":"2016-08-06","name":"In Your Neck of the Dying Woods","artists":[{"id":"6y7JROCNqvfjytVoVjTeTq","name":"Ahkmed"}],"typ":"single","added_at":0},"duration":{"secs":460,"nanos":496000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "6JCgT6D7SE6Jdiqd0DcsZZ",
+    "collaborative": false,
+    "name": "BO Causa, Tuber, etc",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAIHfows0rmpeTmO0gmr9fWXEXC+Bo",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "2ANsD5yDGCl5Sx8I10LBgs",
+      "name": "The Drop",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "1m5TE9wAnq23iYCHRpGQml",
+        "release_date": "2017-11-17",
+        "name": "Vibraciones Doradas",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 434,
+        "nanos": 891000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3WAN4EVagW8liC98oDML7v",
+      "name": "Dust Meridian",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "7jgyHzoVQYoBtmVejt49dv",
+        "release_date": "2016-03-18",
+        "name": "Return to Sky",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 608,
+        "nanos": 178000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2cDul5J9xrmbKi4C5zwaox",
+      "name": "Dawn Passage",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "7jgyHzoVQYoBtmVejt49dv",
+        "release_date": "2016-03-18",
+        "name": "Return to Sky",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 500,
+        "nanos": 314000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6xh3SuXNDO3YpenqqyEKA7",
+      "name": "Return to Sky",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "7jgyHzoVQYoBtmVejt49dv",
+        "release_date": "2016-03-18",
+        "name": "Return to Sky",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 698,
+        "nanos": 169000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6R8DZYIo9OlEf0S7R5tJtj",
+      "name": "El Fuego",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "1m5TE9wAnq23iYCHRpGQml",
+        "release_date": "2017-11-17",
+        "name": "Vibraciones Doradas",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 685,
+        "nanos": 38000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ni6EruKbg11Q9PE5NwR2y",
+      "name": "Seven Hills",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "1m5TE9wAnq23iYCHRpGQml",
+        "release_date": "2017-11-17",
+        "name": "Vibraciones Doradas",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 446,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2B3IQ0p5jG3oDNU4L3MvRY",
+      "name": "Desert Overcrowded",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1beRrVJVYBsqGzJEpiO8EY",
+        "release_date": "2014-02-25",
+        "name": "Desert Overcrowded",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 602,
+        "nanos": 849000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1X4phJ3Buh9vdCVqnE6L4J",
+      "name": "Firebird",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1beRrVJVYBsqGzJEpiO8EY",
+        "release_date": "2014-02-25",
+        "name": "Desert Overcrowded",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 420,
+        "nanos": 209000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4eu0bUOZkTyF7NQMpiuNe5",
+      "name": "Out of the Blue",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1vyG3fmO1VzDNETtkSPAmm",
+        "release_date": "2017-06-16",
+        "name": "Out of the Blue",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 426,
+        "nanos": 456000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6g1qaCcUdJN9ETIhvkk6GS",
+      "name": "Sucker Punch",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1beRrVJVYBsqGzJEpiO8EY",
+        "release_date": "2014-02-25",
+        "name": "Desert Overcrowded",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 459,
+        "nanos": 206000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5A9jLabzBYSu1wH9nFn2Fa",
+      "name": "Cat Class",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1vyG3fmO1VzDNETtkSPAmm",
+        "release_date": "2017-06-16",
+        "name": "Out of the Blue",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 407,
+        "nanos": 700000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7ojBFgh49ZXhIwN7itgd22",
+      "name": "Moon Rabbit",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1vyG3fmO1VzDNETtkSPAmm",
+        "release_date": "2017-06-16",
+        "name": "Out of the Blue",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 390,
+        "nanos": 839000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2biukFgZwtScfI6YUE8yPy",
+      "name": "Noman",
+      "artists": [
+        {
+          "id": "4CCgsvOxdBae0m79AEb5pU",
+          "name": "Tuber"
+        }
+      ],
+      "album": {
+        "id": "1vyG3fmO1VzDNETtkSPAmm",
+        "release_date": "2017-06-16",
+        "name": "Out of the Blue",
+        "artists": [
+          {
+            "id": "4CCgsvOxdBae0m79AEb5pU",
+            "name": "Tuber"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 494,
+        "nanos": 783000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3aLKBtPywmWi1XLLDf8fr4",
+      "name": "LHC",
+      "artists": [
+        {
+          "id": "7BIt8dmieIJhheLq5UVQaH",
+          "name": "Monomyth"
+        }
+      ],
+      "album": {
+        "id": "6Ht9xKDR6XmlzuPT9dVWaW",
+        "release_date": "2016-03-18",
+        "name": "Exo",
+        "artists": [
+          {
+            "id": "7BIt8dmieIJhheLq5UVQaH",
+            "name": "Monomyth"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 586,
+        "nanos": 920000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4VCK4gOLEUMWwnPoC6gyL4",
+      "name": "Prithvi",
+      "artists": [
+        {
+          "id": "4idYdwYKM9exGep2RkwHcE",
+          "name": "My Sleeping Karma"
+        }
+      ],
+      "album": {
+        "id": "0FqsHR28a9RnnhkjYMpzCm",
+        "release_date": "2015-05-29",
+        "name": "Moksha",
+        "artists": [
+          {
+            "id": "4idYdwYKM9exGep2RkwHcE",
+            "name": "My Sleeping Karma"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 389,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5cx3NMy4Akae65SsHkgctJ",
+      "name": "Sarasvati",
+      "artists": [
+        {
+          "id": "4idYdwYKM9exGep2RkwHcE",
+          "name": "My Sleeping Karma"
+        }
+      ],
+      "album": {
+        "id": "25Sqet8eEemU4dGikfeToQ",
+        "release_date": "2010-03-26",
+        "name": "TRI",
+        "artists": [
+          {
+            "id": "4idYdwYKM9exGep2RkwHcE",
+            "name": "My Sleeping Karma"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 364,
+        "nanos": 520000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "34SZCPh3rDG547VHj1Ehgk",
+      "name": "VI.II",
+      "artists": [
+        {
+          "id": "06C98uwTFduwmzsuaLWFA9",
+          "name": "Papir"
+        }
+      ],
+      "album": {
+        "id": "1wtko8N1v6n5Lywt1oRW6b",
+        "release_date": "2019-05-10",
+        "name": "VI",
+        "artists": [
+          {
+            "id": "06C98uwTFduwmzsuaLWFA9",
+            "name": "Papir"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 532,
+        "nanos": 31000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Xsscua7Eh9WgK0wruTJ12",
+      "name": "VI.IV",
+      "artists": [
+        {
+          "id": "06C98uwTFduwmzsuaLWFA9",
+          "name": "Papir"
+        }
+      ],
+      "album": {
+        "id": "1wtko8N1v6n5Lywt1oRW6b",
+        "release_date": "2019-05-10",
+        "name": "VI",
+        "artists": [
+          {
+            "id": "06C98uwTFduwmzsuaLWFA9",
+            "name": "Papir"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 664,
+        "nanos": 347000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3PG7z14GnTJ34lwfk5UIdC",
+      "name": "Delving",
+      "artists": [
+        {
+          "id": "3s596fAjCmoXEGdAZLy8EW",
+          "name": "delving"
+        }
+      ],
+      "album": {
+        "id": "2KG51JDtjZGfxM2usME9SM",
+        "release_date": "2021-06-11",
+        "name": "Hirschbrunnen",
+        "artists": [
+          {
+            "id": "3s596fAjCmoXEGdAZLy8EW",
+            "name": "delving"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 420,
+        "nanos": 942000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5No9BuKo4IfYpvabmijbrK",
+      "name": "III.I",
+      "artists": [
+        {
+          "id": "06C98uwTFduwmzsuaLWFA9",
+          "name": "Papir"
+        }
+      ],
+      "album": {
+        "id": "0SzemBi6IYecTfxyQZvW9k",
+        "release_date": "2013-02-12",
+        "name": "III",
+        "artists": [
+          {
+            "id": "06C98uwTFduwmzsuaLWFA9",
+            "name": "Papir"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 447,
+        "nanos": 253000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1zjbwk0fL9n7OSKtawHmK3",
+      "name": "V.I",
+      "artists": [
+        {
+          "id": "06C98uwTFduwmzsuaLWFA9",
+          "name": "Papir"
+        }
+      ],
+      "album": {
+        "id": "5tCUlxZVcl894wMVXYghHu",
+        "release_date": "2017-08-18",
+        "name": "V",
+        "artists": [
+          {
+            "id": "06C98uwTFduwmzsuaLWFA9",
+            "name": "Papir"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 765,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6rbe6QeydcqMaZ7FXSB6fG",
+      "name": "V.V",
+      "artists": [
+        {
+          "id": "06C98uwTFduwmzsuaLWFA9",
+          "name": "Papir"
+        }
+      ],
+      "album": {
+        "id": "5tCUlxZVcl894wMVXYghHu",
+        "release_date": "2017-08-18",
+        "name": "V",
+        "artists": [
+          {
+            "id": "06C98uwTFduwmzsuaLWFA9",
+            "name": "Papir"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 603,
+        "nanos": 453000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1t5rEvsVk0InxV61cwfAAP",
+      "name": "T=0",
+      "artists": [
+        {
+          "id": "6y7JROCNqvfjytVoVjTeTq",
+          "name": "Ahkmed"
+        }
+      ],
+      "album": {
+        "id": "3GeEwQ0qr78W7yPzMPkIhl",
+        "release_date": "2016-08-06",
+        "name": "In Your Neck of the Dying Woods",
+        "artists": [
+          {
+            "id": "6y7JROCNqvfjytVoVjTeTq",
+            "name": "Ahkmed"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 460,
+        "nanos": 496000000
+      },
+      "explicit": false
+    }
+  ]
+}

@@ -1,1 +1,1481 @@
-{"playlist":{"id":"37i9dQZF1EJte4XRjWxS8r","collaborative":false,"name":"SJ + John","owner":["REDACTED","REDACTED"],"desc":"A Blend of music for John and SJ.","current_folder_id":0,"snapshot_id":"AAAAAAAAAACj9VjA0lGwbqnw7eDgBhSo"},"tracks":[{"id":"22skzmqfdWrjJylampe0kt","name":"Can't Hold Us (feat. Ray Dalton)","artists":[{"id":"3JhNCzhSMTxs9WLGJJxWOY","name":"Macklemore"},{"id":"5mZJerulcERBZV7xnhrVp1","name":"Ryan Lewis"},{"id":"5BcAKTbp20cv7tC5VqPFoC","name":"Macklemore & Ryan Lewis"},{"id":"4e0nWw2r4BoQSKPQ2zpU13","name":"Ray Dalton"}],"album":{"id":"5QWHes9ODwn42DHTifGkXd","release_date":"2012-10-09","name":"The Heist","artists":[{"id":"3JhNCzhSMTxs9WLGJJxWOY","name":"Macklemore"},{"id":"5mZJerulcERBZV7xnhrVp1","name":"Ryan Lewis"},{"id":"5BcAKTbp20cv7tC5VqPFoC","name":"Macklemore & Ryan Lewis"}],"typ":"album","added_at":0},"duration":{"secs":258,"nanos":431000000},"explicit":false},{"id":"57iDDD9N9tTWe75x6qhStw","name":"Bitter Sweet Symphony - Remastered 2016","artists":[{"id":"2cGwlqi3k18jFpUyTrsR84","name":"The Verve"}],"album":{"id":"52AeC4gwbxDfFlLHgK1ByD","release_date":"1997-09-29","name":"Urban Hymns (Remastered 2016)","artists":[{"id":"2cGwlqi3k18jFpUyTrsR84","name":"The Verve"}],"typ":"album","added_at":0},"duration":{"secs":357,"nanos":266000000},"explicit":false},{"id":"2uXlHCUbq9OMUwx3hrk06o","name":"Riptide","artists":[{"id":"10exVja0key0uqUkk6LJRT","name":"Vance Joy"}],"album":{"id":"2biVG6BYnVVSwLYd1OjbPT","release_date":"2014-08-05","name":"Dream Your Life Away (Deluxe Edition)","artists":[{"id":"10exVja0key0uqUkk6LJRT","name":"Vance Joy"}],"typ":"album","added_at":0},"duration":{"secs":204,"nanos":280000000},"explicit":false},{"id":"2YiCMmONQcoMPX2bV1LxE0","name":"Everybody Wants To Rule The World","artists":[{"id":"4bthk9UfsYUYdcFyqxmSUU","name":"Tears For Fears"}],"album":{"id":"5STbVtgFy6y7uPshY1RRqb","release_date":"1985-02-25","name":"Songs From The Big Chair","artists":[{"id":"4bthk9UfsYUYdcFyqxmSUU","name":"Tears For Fears"}],"typ":"album","added_at":0},"duration":{"secs":251,"nanos":480000000},"explicit":false},{"id":"3jGM9F4swMDXsWSIv5ePmX","name":"Cocksucker Blues","artists":[{"id":"602nksrzSSXE16wRC7QuhD","name":"Beasts Of Bourbon"}],"album":{"id":"0kt5H2SuXNaCeaCOJjFPvp","release_date":"1991-01-01","name":"The Low Road","artists":[{"id":"602nksrzSSXE16wRC7QuhD","name":"Beasts Of Bourbon"}],"typ":"album","added_at":0},"duration":{"secs":293,"nanos":973000000},"explicit":false},{"id":"1t6tQ0ETeOIDl5cscjEC55","name":"Brimful of Asha","artists":[{"id":"3Kf7VEIRWquxrNIuyJZnfF","name":"Cornershop"}],"album":{"id":"73LY6QtbR0xA3l5RUBXxjf","release_date":"1997","name":"When I Was Born For The 7th Time (Expanded)","artists":[{"id":"3Kf7VEIRWquxrNIuyJZnfF","name":"Cornershop"}],"typ":"album","added_at":0},"duration":{"secs":317,"nanos":26000000},"explicit":false},{"id":"1nZdyIah6DY2RfzYBWtcHF","name":"Cry For Me","artists":[{"id":"5m5cTNJ2RxfxKpGULocV9T","name":"The Cruel Sea"}],"album":{"id":"1ohaAMzfXNdSQKzJCw1del","release_date":"1991","name":"This Is Not The Way Home","artists":[{"id":"5m5cTNJ2RxfxKpGULocV9T","name":"The Cruel Sea"}],"typ":"album","added_at":0},"duration":{"secs":323,"nanos":333000000},"explicit":false},{"id":"1LzNfuep1bnAUR9skqdHCK","name":"Fade Into You","artists":[{"id":"37w38cCSGgKLdayTRjna4W","name":"Mazzy Star"}],"album":{"id":"5K18gTgac0q6Jma5HkV1vA","release_date":"1993-10-05","name":"So Tonight That I Might See","artists":[{"id":"37w38cCSGgKLdayTRjna4W","name":"Mazzy Star"}],"typ":"album","added_at":0},"duration":{"secs":295,"nanos":600000000},"explicit":false},{"id":"11hcBLPtbMp4aQI6zGQLub","name":"Patient Zero","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"album":{"id":"4hF2gTGuPYlykYuphDxi8J","release_date":"2026-09-25","name":"The Life of a Showgirl: The Encore","artists":[{"id":"06HL4z0CvFAxyc27GXpf02","name":"Taylor Swift"}],"typ":"album","added_at":0},"duration":{"secs":225,"nanos":868000000},"explicit":false},{"id":"2aGw77pZqli064JiPuXYRi","name":"I'm Like A Bird","artists":[{"id":"2jw70GZXlAI8QzWeY2bgRc","name":"Nelly Furtado"}],"album":{"id":"0emt7fmxNjW3lb37nTOXR0","release_date":"2000","name":"Whoa, Nelly! (Expanded Edition)","artists":[{"id":"2jw70GZXlAI8QzWeY2bgRc","name":"Nelly Furtado"}],"typ":"album","added_at":0},"duration":{"secs":243,"nanos":160000000},"explicit":false},{"id":"1uvyZBs4IZYRebHIB1747m","name":"Purple Rain","artists":[{"id":"5a2EaR3hamoenG9rDuVn8j","name":"Prince"}],"album":{"id":"2umoqwMrmjBBPeaqgYu6J9","release_date":"1984-06-25","name":"Purple Rain","artists":[{"id":"5a2EaR3hamoenG9rDuVn8j","name":"Prince"}],"typ":"album","added_at":0},"duration":{"secs":521,"nanos":866000000},"explicit":false},{"id":"1KGi9sZVMeszgZOWivFpxs","name":"No Scrubs","artists":[{"id":"0TImkz4nPqjegtVSMZnMRq","name":"TLC"}],"album":{"id":"1CvjjpvqVMoyprsf74bpYW","release_date":"1999-02-23","name":"Fanmail","artists":[{"id":"0TImkz4nPqjegtVSMZnMRq","name":"TLC"}],"typ":"album","added_at":0},"duration":{"secs":214,"nanos":400000000},"explicit":false},{"id":"5MkC4l5EgOeLTd0CNb7IJz","name":"The One - Luca Perry Remix","artists":[{"id":"7qHOphlWaJrfFa0BqpayDG","name":"Planningtorock"},{"id":"1bXcjniAGkBlQMLKRbdep4","name":"Luca Perry"},{"id":"3X2DdnmoANw8Rg8luHyZQb","name":"Romy"}],"album":{"id":"5zSWPYacliqrPek1nqQFj1","release_date":"2026-08-21","name":"The One (Luca Perry Remix)","artists":[{"id":"7qHOphlWaJrfFa0BqpayDG","name":"Planningtorock"},{"id":"1bXcjniAGkBlQMLKRbdep4","name":"Luca Perry"},{"id":"3X2DdnmoANw8Rg8luHyZQb","name":"Romy"}],"typ":"single","added_at":0},"duration":{"secs":268,"nanos":29000000},"explicit":false},{"id":"6kyuywi2Df7hmMBX1ET4Hx","name":"Twentyfourseven (feat. Melanie Blatt) - Radio Version","artists":[{"id":"4L8MIM7AXmq6jb0tRix4JT","name":"Artful Dodger"},{"id":"4BRTEC6URTQGoAzqLkstaT","name":"Melanie Blatt"}],"album":{"id":"04Drel0MRTcZbVAmEe23JT","release_date":"2000-11-20","name":"It's All About the Stragglers","artists":[{"id":"4L8MIM7AXmq6jb0tRix4JT","name":"Artful Dodger"}],"typ":"album","added_at":0},"duration":{"secs":228,"nanos":800000000},"explicit":false},{"id":"18LJyRPtECmqZNxYWrhiZS","name":"Heartbeat - Estiva Remix","artists":[{"id":"3LOXsWYvJPnBVnQzCquxAs","name":"Hessian"},{"id":"6zd0ClAbzCmZ9qReLzekUV","name":"Courtney Storm"},{"id":"1ltDgA6tV4utKM6y1BOYIE","name":"Estiva"}],"album":{"id":"6daUDDSdvVnXGaDOxRoZnC","release_date":"2026-08-24","name":"Heartbeat (Estiva Remix)","artists":[{"id":"3LOXsWYvJPnBVnQzCquxAs","name":"Hessian"},{"id":"6zd0ClAbzCmZ9qReLzekUV","name":"Courtney Storm"},{"id":"1ltDgA6tV4utKM6y1BOYIE","name":"Estiva"}],"typ":"single","added_at":0},"duration":{"secs":246,"nanos":562000000},"explicit":false},{"id":"0z1b34WikhOH9ZxU8QDWcv","name":"One Headlight","artists":[{"id":"0jJNGWrpjGIHUdTTJiIYeB","name":"The Wallflowers"}],"album":{"id":"2BOlaNQt6WJ1HO5pQcKHGh","release_date":"1996-01-01","name":"Bringing Down The Horse","artists":[{"id":"0jJNGWrpjGIHUdTTJiIYeB","name":"The Wallflowers"}],"typ":"album","added_at":0},"duration":{"secs":312,"nanos":626000000},"explicit":false},{"id":"3sgOjO09wOwrjBhA70OfDV","name":"Happy Again","artists":[{"id":"1l9d7B8W0IHy3LqWsxP2SH","name":"Phantogram"}],"album":{"id":"4H1TE5m2eltLhVKVuB53b1","release_date":"2024-10-18","name":"Memory Of A Day","artists":[{"id":"1l9d7B8W0IHy3LqWsxP2SH","name":"Phantogram"}],"typ":"album","added_at":0},"duration":{"secs":242,"nanos":730000000},"explicit":false},{"id":"4IU1RL4BKvFyXtbTwaHAvW","name":"Ventura Highway","artists":[{"id":"35U9lQaRWSQISxQAB94Meo","name":"America"},{"id":"4Fgf6RvuWpiwDXSE7Vammx","name":"George Martin"}],"album":{"id":"7eqBAR9pblivMBOI70q2um","release_date":"1972","name":"Homecoming","artists":[{"id":"35U9lQaRWSQISxQAB94Meo","name":"America"}],"typ":"album","added_at":0},"duration":{"secs":211,"nanos":680000000},"explicit":false},{"id":"45SwD2agfyXWlW9qSJDH9t","name":"Ghost Horses","artists":[{"id":"1CzKORB9IN0EjPEyeKBIkf","name":"Tides From Nebula"}],"album":{"id":"3kxzriTUAvJklocJHG7GH8","release_date":"2019-09-20","name":"From Voodoo to Zen","artists":[{"id":"1CzKORB9IN0EjPEyeKBIkf","name":"Tides From Nebula"}],"typ":"album","added_at":0},"duration":{"secs":353,"nanos":0},"explicit":false},{"id":"53qkszfgztIvkFyF31GfdQ","name":"Dreams - 2001 Remaster","artists":[{"id":"08GQAI4eElDnROBrJRGE0X","name":"Fleetwood Mac"}],"album":{"id":"04bZvSsD7bbuKyeEdMABLF","release_date":"1977","name":"Rumours","artists":[{"id":"08GQAI4eElDnROBrJRGE0X","name":"Fleetwood Mac"}],"typ":"album","added_at":0},"duration":{"secs":258,"nanos":816000000},"explicit":false},{"id":"35KiiILklye1JRRctaLUb4","name":"Holocene","artists":[{"id":"4LEiUm1SRbFMgfqnQTwUbQ","name":"Bon Iver"}],"album":{"id":"2LpfNj3vB5rOXfaawLcOBg","release_date":"2011-06-21","name":"Bon Iver, Bon Iver","artists":[{"id":"4LEiUm1SRbFMgfqnQTwUbQ","name":"Bon Iver"}],"typ":"album","added_at":0},"duration":{"secs":336,"nanos":613000000},"explicit":true},{"id":"7zkLpY72g6lKQbiHDqri1S","name":"Sunrise","artists":[{"id":"2Kx7MNY7cI1ENniW7vT30N","name":"Norah Jones"}],"album":{"id":"7GaAXgbFSpcJOiLlFGYyOL","release_date":"2004-01-01","name":"Feels Like Home","artists":[{"id":"2Kx7MNY7cI1ENniW7vT30N","name":"Norah Jones"}],"typ":"album","added_at":0},"duration":{"secs":200,"nanos":626000000},"explicit":false},{"id":"4sYn64V9gqP6bpkOGw5B9k","name":"Your Hand In Mine - Remastered","artists":[{"id":"1uQWmt1OhuHGRKmZ2ZcL6p","name":"Explosions In The Sky"}],"album":{"id":"49buCcKCJwxvdl0R2dMoIU","release_date":"2003-11-04","name":"The Earth Is Not a Cold Dead Place (Anniversary Edition)","artists":[{"id":"1uQWmt1OhuHGRKmZ2ZcL6p","name":"Explosions In The Sky"}],"typ":"album","added_at":0},"duration":{"secs":497,"nanos":26000000},"explicit":false},{"id":"2M9ro2krNb7nr7HSprkEgo","name":"Fast Car","artists":[{"id":"7oPgCQqMMXEXrNau5vxYZP","name":"Tracy Chapman"}],"album":{"id":"6hmmX5UP4rIvOpGSaPerV8","release_date":"1988-04-05","name":"Tracy Chapman","artists":[{"id":"7oPgCQqMMXEXrNau5vxYZP","name":"Tracy Chapman"}],"typ":"album","added_at":0},"duration":{"secs":296,"nanos":800000000},"explicit":false},{"id":"3fH4KjXFYMmljxrcGrbPj9","name":"Don't You (Forget About Me)","artists":[{"id":"6hN9F0iuULZYWXppob22Aj","name":"Simple Minds"}],"album":{"id":"4YimfceN1R0nOS9CefIFhm","release_date":"1985","name":"Once Upon A Time (Super Deluxe)","artists":[{"id":"6hN9F0iuULZYWXppob22Aj","name":"Simple Minds"}],"typ":"album","added_at":0},"duration":{"secs":263,"nanos":40000000},"explicit":false},{"id":"1d6KS9GH06JAd19uiBy9IE","name":"Ironic - 2015 Remaster","artists":[{"id":"6ogn9necmbUdCppmNnGOdi","name":"Alanis Morissette"}],"album":{"id":"5Ap3F8CxjjsQKZGASDcHNA","release_date":"1995","name":"Jagged Little Pill (2015 Remaster)","artists":[{"id":"6ogn9necmbUdCppmNnGOdi","name":"Alanis Morissette"}],"typ":"album","added_at":0},"duration":{"secs":230,"nanos":0},"explicit":false},{"id":"0bRNszTbTFLNlunAeh7eom","name":"Sharp Dressed Man (2008 Remaster)","artists":[{"id":"2AM4ilv6UzW0uMRuqKtDgN","name":"ZZ Top"}],"album":{"id":"4KW6YVbF8E3kexYcl0k4IK","release_date":"1983-03-23","name":"Eliminator","artists":[{"id":"2AM4ilv6UzW0uMRuqKtDgN","name":"ZZ Top"}],"typ":"album","added_at":0},"duration":{"secs":258,"nanos":26000000},"explicit":false},{"id":"6si71supnBUhddjR2FJc2L","name":"White Flag","artists":[{"id":"2mpeljBig2IXLXRAFO9AAs","name":"Dido"}],"album":{"id":"7HlZFlk0jJq3Bb03AOyMTE","release_date":"2003","name":"Life For Rent","artists":[{"id":"2mpeljBig2IXLXRAFO9AAs","name":"Dido"}],"typ":"album","added_at":0},"duration":{"secs":240,"nanos":40000000},"explicit":false},{"id":"4xiyq1iRdsxuU1BPUJ490Z","name":"Close To Me","artists":[{"id":"7bu3H8JO7d0UbMoVzbo70s","name":"The Cure"}],"album":{"id":"1keBgl5vblFhSc3nMZxPXG","release_date":"1985-08-26","name":"The Head On The Door (Remastered)","artists":[{"id":"7bu3H8JO7d0UbMoVzbo70s","name":"The Cure"}],"typ":"album","added_at":0},"duration":{"secs":203,"nanos":266000000},"explicit":false},{"id":"0smyCrJiibi2uwCiq5R1vj","name":"Save Tonight","artists":[{"id":"3ngKsDXZAssmljeXCvEgOe","name":"Eagle-Eye Cherry"}],"album":{"id":"0zS5fFa2I679lrdhSPAyIe","release_date":"1998-01-01","name":"Desireless","artists":[{"id":"3ngKsDXZAssmljeXCvEgOe","name":"Eagle-Eye Cherry"}],"typ":"album","added_at":0},"duration":{"secs":242,"nanos":733000000},"explicit":false},{"id":"1RCtHLyq1xIbgGMrYRrKJ2","name":"Under the Milky Way","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"album":{"id":"3gz1CZk5wFg2inBuUWDa8x","release_date":"1988-02-16","name":"Starfish","artists":[{"id":"2ZfogSsOWP4mVfEqfpLXCt","name":"The Church"}],"typ":"album","added_at":0},"duration":{"secs":297,"nanos":600000000},"explicit":false},{"id":"7wCmS9TTVUcIhRalDYFgPy","name":"Where Is My Mind? - 2007 Remaster","artists":[{"id":"6zvul52xwTWzilBZl6BUbT","name":"Pixies"}],"album":{"id":"50j4Wm1b9hLpSpPIA39Vp9","release_date":"1988-03-21","name":"Surfer Rosa (2007 Remaster)","artists":[{"id":"6zvul52xwTWzilBZl6BUbT","name":"Pixies"}],"typ":"album","added_at":0},"duration":{"secs":234,"nanos":973000000},"explicit":false},{"id":"3QszJeuSyyZQmD9pY1tqpo","name":"I Would Die 4 U","artists":[{"id":"5a2EaR3hamoenG9rDuVn8j","name":"Prince"}],"album":{"id":"2umoqwMrmjBBPeaqgYu6J9","release_date":"1984-06-25","name":"Purple Rain","artists":[{"id":"5a2EaR3hamoenG9rDuVn8j","name":"Prince"}],"typ":"album","added_at":0},"duration":{"secs":169,"nanos":666000000},"explicit":false},{"id":"6qspW4YKycviDFjHBOaqUY","name":"Waterfalls","artists":[{"id":"0TImkz4nPqjegtVSMZnMRq","name":"TLC"}],"album":{"id":"5eg56dCpFn32neJak2vk0f","release_date":"1994-11-15","name":"Crazysexycool","artists":[{"id":"0TImkz4nPqjegtVSMZnMRq","name":"TLC"}],"typ":"album","added_at":0},"duration":{"secs":279,"nanos":506000000},"explicit":false},{"id":"6sleEAnBH0sZMe0pOQNidG","name":"Stand Back","artists":[{"id":"7crPfGd2k81ekOoSqQKWWz","name":"Stevie Nicks"}],"album":{"id":"2zLZzOfiwQ4hnPCu2gVtKB","release_date":"1991-08-30","name":"Timespace - The Best Of Stevie Nicks","artists":[{"id":"7crPfGd2k81ekOoSqQKWWz","name":"Stevie Nicks"}],"typ":"compilation","added_at":0},"duration":{"secs":297,"nanos":93000000},"explicit":false},{"id":"3MFa9idQuY4iJLWsZl3tIQ","name":"Young Hearts Run Free","artists":[{"id":"3S34Unhn5yRcaH5K9aU5Et","name":"Candi Staton"}],"album":{"id":"39ntuIhbcC8rsmRV2qXkmZ","release_date":"1976","name":"Young Hearts Run Free (US Internet Release)","artists":[{"id":"3S34Unhn5yRcaH5K9aU5Et","name":"Candi Staton"}],"typ":"album","added_at":0},"duration":{"secs":248,"nanos":360000000},"explicit":false},{"id":"54bO2CHOgGN44oWmAqib0I","name":"Gold on the Ceiling - 2021 Remaster","artists":[{"id":"7mnBLXK823vNxN3UWB7Gfz","name":"The Black Keys"}],"album":{"id":"15TCQN0DHHM3XX4TfnNkV8","release_date":"2011","name":"El Camino (2021 Remaster)","artists":[{"id":"7mnBLXK823vNxN3UWB7Gfz","name":"The Black Keys"}],"typ":"album","added_at":0},"duration":{"secs":224,"nanos":490000000},"explicit":false},{"id":"1OxcIUqVmVYxT6427tbhDW","name":"Fly Away","artists":[{"id":"5gznATMVO85ZcLTkE9ULU7","name":"Lenny Kravitz"}],"album":{"id":"6MCNMOCRsh6nxs7PNzc0zN","release_date":"1998-05-12","name":"5","artists":[{"id":"5gznATMVO85ZcLTkE9ULU7","name":"Lenny Kravitz"}],"typ":"album","added_at":0},"duration":{"secs":221,"nanos":332000000},"explicit":false},{"id":"7tokOMPzSHbLJVZh8an2Nq","name":"Let My Baby Ride","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"album":{"id":"6QyepVbPWpjsQZAEgqmDsJ","release_date":"1998-08-11","name":"Come on In","artists":[{"id":"2drMeidRg4jc07neGOL0Ip","name":"R.L. Burnside"}],"typ":"album","added_at":0},"duration":{"secs":180,"nanos":466000000},"explicit":false},{"id":"10Nmj3JCNoMeBQ87uw5j8k","name":"Dani California","artists":[{"id":"0L8ExT028jH3ddEcZwqJJ5","name":"Red Hot Chili Peppers"}],"album":{"id":"7xl50xr9NDkd3i2kBbzsNZ","release_date":"2006-05-09","name":"Stadium Arcadium","artists":[{"id":"0L8ExT028jH3ddEcZwqJJ5","name":"Red Hot Chili Peppers"}],"typ":"album","added_at":0},"duration":{"secs":282,"nanos":160000000},"explicit":false},{"id":"41wI0OQ8RR6vt49ovhvYlh","name":"All A Mystery","artists":[{"id":"1l9d7B8W0IHy3LqWsxP2SH","name":"Phantogram"}],"album":{"id":"4H1TE5m2eltLhVKVuB53b1","release_date":"2024-10-18","name":"Memory Of A Day","artists":[{"id":"1l9d7B8W0IHy3LqWsxP2SH","name":"Phantogram"}],"typ":"album","added_at":0},"duration":{"secs":189,"nanos":53000000},"explicit":false},{"id":"0BzTjRJQjOxMZpCAGnPXhp","name":"Evergreen (feat. Caamp)","artists":[{"id":"4qU7IJSReZnsLy5907Mtau","name":"Richy Mitch & The Coal Miners"},{"id":"0wyMPXGfOuQzNR54ujR9Ix","name":"Caamp"}],"album":{"id":"4fzAuOHpDdUDAdIHYbaVjW","release_date":"2024-08-09","name":"Evergreen (feat. Caamp)","artists":[{"id":"4qU7IJSReZnsLy5907Mtau","name":"Richy Mitch & The Coal Miners"},{"id":"0wyMPXGfOuQzNR54ujR9Ix","name":"Caamp"}],"typ":"single","added_at":0},"duration":{"secs":177,"nanos":512000000},"explicit":false},{"id":"2QzS8BLvE0Xl8J3fNRWG3Z","name":"Right / Wrong","artists":[{"id":"07dZirN9KFAGIHeBvSDfuO","name":"Night Beats"}],"album":{"id":"2ujUmWEVM55Cd8ldz0yDNr","release_date":"2016-01-29","name":"Who Sold My Generation","artists":[{"id":"07dZirN9KFAGIHeBvSDfuO","name":"Night Beats"}],"typ":"album","added_at":0},"duration":{"secs":168,"nanos":291000000},"explicit":false},{"id":"3Pbp7cUCx4d3OAkZSCoNvn","name":"Scared To Start","artists":[{"id":"4j96cMcT8GRi11qbvo1cLQ","name":"Michael Marcagi"}],"album":{"id":"3NpeIWhWsxU7d3XL5KEh39","release_date":"2024-01-12","name":"Scared To Start","artists":[{"id":"4j96cMcT8GRi11qbvo1cLQ","name":"Michael Marcagi"}],"typ":"single","added_at":0},"duration":{"secs":159,"nanos":636000000},"explicit":false},{"id":"7CIKMtUUz31yX6MNX2nGbB","name":"Towers","artists":[{"id":"4LEiUm1SRbFMgfqnQTwUbQ","name":"Bon Iver"}],"album":{"id":"2LpfNj3vB5rOXfaawLcOBg","release_date":"2011-06-21","name":"Bon Iver, Bon Iver","artists":[{"id":"4LEiUm1SRbFMgfqnQTwUbQ","name":"Bon Iver"}],"typ":"album","added_at":0},"duration":{"secs":188,"nanos":40000000},"explicit":true},{"id":"3Kj2EWpIBnvETsYq4cq0IH","name":"Big Black Car","artists":[{"id":"5sXaGoRLSpd7VeyZrLkKwt","name":"Gregory Alan Isakov"}],"album":{"id":"06UoTVgpPiGnRPGjowrG3g","release_date":"2009-01-01","name":"This Empty Northern Hemisphere","artists":[{"id":"5sXaGoRLSpd7VeyZrLkKwt","name":"Gregory Alan Isakov"}],"typ":"album","added_at":0},"duration":{"secs":217,"nanos":466000000},"explicit":false},{"id":"01etzQv4bFBeE6E99a6xvc","name":"So Long, Lonesome","artists":[{"id":"1uQWmt1OhuHGRKmZ2ZcL6p","name":"Explosions In The Sky"}],"album":{"id":"0eufTqrmqa0x0A5MnzkEvT","release_date":"2007-01-01","name":"All of a Sudden I Miss Everyone","artists":[{"id":"1uQWmt1OhuHGRKmZ2ZcL6p","name":"Explosions In The Sky"}],"typ":"album","added_at":0},"duration":{"secs":220,"nanos":373000000},"explicit":false},{"id":"1Ae9EtPyWZcTCinDMsRVuU","name":"Rivers and Roads","artists":[{"id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head And The Heart"}],"album":{"id":"15lkFyKpy4kj06C9n5vecU","release_date":"2011","name":"The Head And The Heart (15th Anniversary Edition)","artists":[{"id":"0n94vC3S9c3mb2HyNAOcjg","name":"The Head And The Heart"}],"typ":"album","added_at":0},"duration":{"secs":283,"nanos":899000000},"explicit":false},{"id":"5LMFJD2DgJyafuXf2wMLX3","name":"Radionoize","artists":[{"id":"1CzKORB9IN0EjPEyeKBIkf","name":"Tides From Nebula"}],"album":{"id":"3kxzriTUAvJklocJHG7GH8","release_date":"2019-09-20","name":"From Voodoo to Zen","artists":[{"id":"1CzKORB9IN0EjPEyeKBIkf","name":"Tides From Nebula"}],"typ":"album","added_at":0},"duration":{"secs":389,"nanos":710000000},"explicit":false},{"id":"10nyNJ6zNy2YVYLrcwLccB","name":"No Surprises","artists":[{"id":"4Z8W4fKeB5YxbusRsdQVPb","name":"Radiohead"}],"album":{"id":"6dVIqQ8qmQ5GBnJ9shOYGE","release_date":"1997-05-28","name":"OK Computer","artists":[{"id":"4Z8W4fKeB5YxbusRsdQVPb","name":"Radiohead"}],"typ":"album","added_at":0},"duration":{"secs":229,"nanos":120000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "37i9dQZF1EJte4XRjWxS8r",
+    "collaborative": false,
+    "name": "SJ + John",
+    "desc": "A Blend of music for John and SJ.",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAAAAAAACj9VjA0lGwbqnw7eDgBhSo",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "22skzmqfdWrjJylampe0kt",
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "artists": [
+        {
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore"
+        },
+        {
+          "id": "5mZJerulcERBZV7xnhrVp1",
+          "name": "Ryan Lewis"
+        },
+        {
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis"
+        },
+        {
+          "id": "4e0nWw2r4BoQSKPQ2zpU13",
+          "name": "Ray Dalton"
+        }
+      ],
+      "album": {
+        "id": "5QWHes9ODwn42DHTifGkXd",
+        "release_date": "2012-10-09",
+        "name": "The Heist",
+        "artists": [
+          {
+            "id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "name": "Macklemore"
+          },
+          {
+            "id": "5mZJerulcERBZV7xnhrVp1",
+            "name": "Ryan Lewis"
+          },
+          {
+            "id": "5BcAKTbp20cv7tC5VqPFoC",
+            "name": "Macklemore & Ryan Lewis"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 258,
+        "nanos": 431000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "57iDDD9N9tTWe75x6qhStw",
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "artists": [
+        {
+          "id": "2cGwlqi3k18jFpUyTrsR84",
+          "name": "The Verve"
+        }
+      ],
+      "album": {
+        "id": "52AeC4gwbxDfFlLHgK1ByD",
+        "release_date": "1997-09-29",
+        "name": "Urban Hymns (Remastered 2016)",
+        "artists": [
+          {
+            "id": "2cGwlqi3k18jFpUyTrsR84",
+            "name": "The Verve"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 357,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2uXlHCUbq9OMUwx3hrk06o",
+      "name": "Riptide",
+      "artists": [
+        {
+          "id": "10exVja0key0uqUkk6LJRT",
+          "name": "Vance Joy"
+        }
+      ],
+      "album": {
+        "id": "2biVG6BYnVVSwLYd1OjbPT",
+        "release_date": "2014-08-05",
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "artists": [
+          {
+            "id": "10exVja0key0uqUkk6LJRT",
+            "name": "Vance Joy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 280000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2YiCMmONQcoMPX2bV1LxE0",
+      "name": "Everybody Wants To Rule The World",
+      "artists": [
+        {
+          "id": "4bthk9UfsYUYdcFyqxmSUU",
+          "name": "Tears For Fears"
+        }
+      ],
+      "album": {
+        "id": "5STbVtgFy6y7uPshY1RRqb",
+        "release_date": "1985-02-25",
+        "name": "Songs From The Big Chair",
+        "artists": [
+          {
+            "id": "4bthk9UfsYUYdcFyqxmSUU",
+            "name": "Tears For Fears"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 251,
+        "nanos": 480000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3jGM9F4swMDXsWSIv5ePmX",
+      "name": "Cocksucker Blues",
+      "artists": [
+        {
+          "id": "602nksrzSSXE16wRC7QuhD",
+          "name": "Beasts Of Bourbon"
+        }
+      ],
+      "album": {
+        "id": "0kt5H2SuXNaCeaCOJjFPvp",
+        "release_date": "1991-01-01",
+        "name": "The Low Road",
+        "artists": [
+          {
+            "id": "602nksrzSSXE16wRC7QuhD",
+            "name": "Beasts Of Bourbon"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 293,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1t6tQ0ETeOIDl5cscjEC55",
+      "name": "Brimful of Asha",
+      "artists": [
+        {
+          "id": "3Kf7VEIRWquxrNIuyJZnfF",
+          "name": "Cornershop"
+        }
+      ],
+      "album": {
+        "id": "73LY6QtbR0xA3l5RUBXxjf",
+        "release_date": "1997",
+        "name": "When I Was Born For The 7th Time (Expanded)",
+        "artists": [
+          {
+            "id": "3Kf7VEIRWquxrNIuyJZnfF",
+            "name": "Cornershop"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 317,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1nZdyIah6DY2RfzYBWtcHF",
+      "name": "Cry For Me",
+      "artists": [
+        {
+          "id": "5m5cTNJ2RxfxKpGULocV9T",
+          "name": "The Cruel Sea"
+        }
+      ],
+      "album": {
+        "id": "1ohaAMzfXNdSQKzJCw1del",
+        "release_date": "1991",
+        "name": "This Is Not The Way Home",
+        "artists": [
+          {
+            "id": "5m5cTNJ2RxfxKpGULocV9T",
+            "name": "The Cruel Sea"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 323,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1LzNfuep1bnAUR9skqdHCK",
+      "name": "Fade Into You",
+      "artists": [
+        {
+          "id": "37w38cCSGgKLdayTRjna4W",
+          "name": "Mazzy Star"
+        }
+      ],
+      "album": {
+        "id": "5K18gTgac0q6Jma5HkV1vA",
+        "release_date": "1993-10-05",
+        "name": "So Tonight That I Might See",
+        "artists": [
+          {
+            "id": "37w38cCSGgKLdayTRjna4W",
+            "name": "Mazzy Star"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 295,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "11hcBLPtbMp4aQI6zGQLub",
+      "name": "Patient Zero",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "4hF2gTGuPYlykYuphDxi8J",
+        "release_date": "2026-09-25",
+        "name": "The Life of a Showgirl: The Encore",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 225,
+        "nanos": 868000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2aGw77pZqli064JiPuXYRi",
+      "name": "I'm Like A Bird",
+      "artists": [
+        {
+          "id": "2jw70GZXlAI8QzWeY2bgRc",
+          "name": "Nelly Furtado"
+        }
+      ],
+      "album": {
+        "id": "0emt7fmxNjW3lb37nTOXR0",
+        "release_date": "2000",
+        "name": "Whoa, Nelly! (Expanded Edition)",
+        "artists": [
+          {
+            "id": "2jw70GZXlAI8QzWeY2bgRc",
+            "name": "Nelly Furtado"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 243,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1uvyZBs4IZYRebHIB1747m",
+      "name": "Purple Rain",
+      "artists": [
+        {
+          "id": "5a2EaR3hamoenG9rDuVn8j",
+          "name": "Prince"
+        }
+      ],
+      "album": {
+        "id": "2umoqwMrmjBBPeaqgYu6J9",
+        "release_date": "1984-06-25",
+        "name": "Purple Rain",
+        "artists": [
+          {
+            "id": "5a2EaR3hamoenG9rDuVn8j",
+            "name": "Prince"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 521,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1KGi9sZVMeszgZOWivFpxs",
+      "name": "No Scrubs",
+      "artists": [
+        {
+          "id": "0TImkz4nPqjegtVSMZnMRq",
+          "name": "TLC"
+        }
+      ],
+      "album": {
+        "id": "1CvjjpvqVMoyprsf74bpYW",
+        "release_date": "1999-02-23",
+        "name": "Fanmail",
+        "artists": [
+          {
+            "id": "0TImkz4nPqjegtVSMZnMRq",
+            "name": "TLC"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 214,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5MkC4l5EgOeLTd0CNb7IJz",
+      "name": "The One - Luca Perry Remix",
+      "artists": [
+        {
+          "id": "7qHOphlWaJrfFa0BqpayDG",
+          "name": "Planningtorock"
+        },
+        {
+          "id": "1bXcjniAGkBlQMLKRbdep4",
+          "name": "Luca Perry"
+        },
+        {
+          "id": "3X2DdnmoANw8Rg8luHyZQb",
+          "name": "Romy"
+        }
+      ],
+      "album": {
+        "id": "5zSWPYacliqrPek1nqQFj1",
+        "release_date": "2026-08-21",
+        "name": "The One (Luca Perry Remix)",
+        "artists": [
+          {
+            "id": "7qHOphlWaJrfFa0BqpayDG",
+            "name": "Planningtorock"
+          },
+          {
+            "id": "1bXcjniAGkBlQMLKRbdep4",
+            "name": "Luca Perry"
+          },
+          {
+            "id": "3X2DdnmoANw8Rg8luHyZQb",
+            "name": "Romy"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 268,
+        "nanos": 29000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6kyuywi2Df7hmMBX1ET4Hx",
+      "name": "Twentyfourseven (feat. Melanie Blatt) - Radio Version",
+      "artists": [
+        {
+          "id": "4L8MIM7AXmq6jb0tRix4JT",
+          "name": "Artful Dodger"
+        },
+        {
+          "id": "4BRTEC6URTQGoAzqLkstaT",
+          "name": "Melanie Blatt"
+        }
+      ],
+      "album": {
+        "id": "04Drel0MRTcZbVAmEe23JT",
+        "release_date": "2000-11-20",
+        "name": "It's All About the Stragglers",
+        "artists": [
+          {
+            "id": "4L8MIM7AXmq6jb0tRix4JT",
+            "name": "Artful Dodger"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 228,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "18LJyRPtECmqZNxYWrhiZS",
+      "name": "Heartbeat - Estiva Remix",
+      "artists": [
+        {
+          "id": "3LOXsWYvJPnBVnQzCquxAs",
+          "name": "Hessian"
+        },
+        {
+          "id": "6zd0ClAbzCmZ9qReLzekUV",
+          "name": "Courtney Storm"
+        },
+        {
+          "id": "1ltDgA6tV4utKM6y1BOYIE",
+          "name": "Estiva"
+        }
+      ],
+      "album": {
+        "id": "6daUDDSdvVnXGaDOxRoZnC",
+        "release_date": "2026-08-24",
+        "name": "Heartbeat (Estiva Remix)",
+        "artists": [
+          {
+            "id": "3LOXsWYvJPnBVnQzCquxAs",
+            "name": "Hessian"
+          },
+          {
+            "id": "6zd0ClAbzCmZ9qReLzekUV",
+            "name": "Courtney Storm"
+          },
+          {
+            "id": "1ltDgA6tV4utKM6y1BOYIE",
+            "name": "Estiva"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 246,
+        "nanos": 562000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0z1b34WikhOH9ZxU8QDWcv",
+      "name": "One Headlight",
+      "artists": [
+        {
+          "id": "0jJNGWrpjGIHUdTTJiIYeB",
+          "name": "The Wallflowers"
+        }
+      ],
+      "album": {
+        "id": "2BOlaNQt6WJ1HO5pQcKHGh",
+        "release_date": "1996-01-01",
+        "name": "Bringing Down The Horse",
+        "artists": [
+          {
+            "id": "0jJNGWrpjGIHUdTTJiIYeB",
+            "name": "The Wallflowers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 312,
+        "nanos": 626000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3sgOjO09wOwrjBhA70OfDV",
+      "name": "Happy Again",
+      "artists": [
+        {
+          "id": "1l9d7B8W0IHy3LqWsxP2SH",
+          "name": "Phantogram"
+        }
+      ],
+      "album": {
+        "id": "4H1TE5m2eltLhVKVuB53b1",
+        "release_date": "2024-10-18",
+        "name": "Memory Of A Day",
+        "artists": [
+          {
+            "id": "1l9d7B8W0IHy3LqWsxP2SH",
+            "name": "Phantogram"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 242,
+        "nanos": 730000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4IU1RL4BKvFyXtbTwaHAvW",
+      "name": "Ventura Highway",
+      "artists": [
+        {
+          "id": "35U9lQaRWSQISxQAB94Meo",
+          "name": "America"
+        },
+        {
+          "id": "4Fgf6RvuWpiwDXSE7Vammx",
+          "name": "George Martin"
+        }
+      ],
+      "album": {
+        "id": "7eqBAR9pblivMBOI70q2um",
+        "release_date": "1972",
+        "name": "Homecoming",
+        "artists": [
+          {
+            "id": "35U9lQaRWSQISxQAB94Meo",
+            "name": "America"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 680000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "45SwD2agfyXWlW9qSJDH9t",
+      "name": "Ghost Horses",
+      "artists": [
+        {
+          "id": "1CzKORB9IN0EjPEyeKBIkf",
+          "name": "Tides From Nebula"
+        }
+      ],
+      "album": {
+        "id": "3kxzriTUAvJklocJHG7GH8",
+        "release_date": "2019-09-20",
+        "name": "From Voodoo to Zen",
+        "artists": [
+          {
+            "id": "1CzKORB9IN0EjPEyeKBIkf",
+            "name": "Tides From Nebula"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 353,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "53qkszfgztIvkFyF31GfdQ",
+      "name": "Dreams - 2001 Remaster",
+      "artists": [
+        {
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac"
+        }
+      ],
+      "album": {
+        "id": "04bZvSsD7bbuKyeEdMABLF",
+        "release_date": "1977",
+        "name": "Rumours",
+        "artists": [
+          {
+            "id": "08GQAI4eElDnROBrJRGE0X",
+            "name": "Fleetwood Mac"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 258,
+        "nanos": 816000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "35KiiILklye1JRRctaLUb4",
+      "name": "Holocene",
+      "artists": [
+        {
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver"
+        }
+      ],
+      "album": {
+        "id": "2LpfNj3vB5rOXfaawLcOBg",
+        "release_date": "2011-06-21",
+        "name": "Bon Iver, Bon Iver",
+        "artists": [
+          {
+            "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+            "name": "Bon Iver"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 336,
+        "nanos": 613000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "7zkLpY72g6lKQbiHDqri1S",
+      "name": "Sunrise",
+      "artists": [
+        {
+          "id": "2Kx7MNY7cI1ENniW7vT30N",
+          "name": "Norah Jones"
+        }
+      ],
+      "album": {
+        "id": "7GaAXgbFSpcJOiLlFGYyOL",
+        "release_date": "2004-01-01",
+        "name": "Feels Like Home",
+        "artists": [
+          {
+            "id": "2Kx7MNY7cI1ENniW7vT30N",
+            "name": "Norah Jones"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 200,
+        "nanos": 626000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4sYn64V9gqP6bpkOGw5B9k",
+      "name": "Your Hand In Mine - Remastered",
+      "artists": [
+        {
+          "id": "1uQWmt1OhuHGRKmZ2ZcL6p",
+          "name": "Explosions In The Sky"
+        }
+      ],
+      "album": {
+        "id": "49buCcKCJwxvdl0R2dMoIU",
+        "release_date": "2003-11-04",
+        "name": "The Earth Is Not a Cold Dead Place (Anniversary Edition)",
+        "artists": [
+          {
+            "id": "1uQWmt1OhuHGRKmZ2ZcL6p",
+            "name": "Explosions In The Sky"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 497,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2M9ro2krNb7nr7HSprkEgo",
+      "name": "Fast Car",
+      "artists": [
+        {
+          "id": "7oPgCQqMMXEXrNau5vxYZP",
+          "name": "Tracy Chapman"
+        }
+      ],
+      "album": {
+        "id": "6hmmX5UP4rIvOpGSaPerV8",
+        "release_date": "1988-04-05",
+        "name": "Tracy Chapman",
+        "artists": [
+          {
+            "id": "7oPgCQqMMXEXrNau5vxYZP",
+            "name": "Tracy Chapman"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 296,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3fH4KjXFYMmljxrcGrbPj9",
+      "name": "Don't You (Forget About Me)",
+      "artists": [
+        {
+          "id": "6hN9F0iuULZYWXppob22Aj",
+          "name": "Simple Minds"
+        }
+      ],
+      "album": {
+        "id": "4YimfceN1R0nOS9CefIFhm",
+        "release_date": "1985",
+        "name": "Once Upon A Time (Super Deluxe)",
+        "artists": [
+          {
+            "id": "6hN9F0iuULZYWXppob22Aj",
+            "name": "Simple Minds"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 263,
+        "nanos": 40000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1d6KS9GH06JAd19uiBy9IE",
+      "name": "Ironic - 2015 Remaster",
+      "artists": [
+        {
+          "id": "6ogn9necmbUdCppmNnGOdi",
+          "name": "Alanis Morissette"
+        }
+      ],
+      "album": {
+        "id": "5Ap3F8CxjjsQKZGASDcHNA",
+        "release_date": "1995",
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "artists": [
+          {
+            "id": "6ogn9necmbUdCppmNnGOdi",
+            "name": "Alanis Morissette"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 230,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "0bRNszTbTFLNlunAeh7eom",
+      "name": "Sharp Dressed Man (2008 Remaster)",
+      "artists": [
+        {
+          "id": "2AM4ilv6UzW0uMRuqKtDgN",
+          "name": "ZZ Top"
+        }
+      ],
+      "album": {
+        "id": "4KW6YVbF8E3kexYcl0k4IK",
+        "release_date": "1983-03-23",
+        "name": "Eliminator",
+        "artists": [
+          {
+            "id": "2AM4ilv6UzW0uMRuqKtDgN",
+            "name": "ZZ Top"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 258,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6si71supnBUhddjR2FJc2L",
+      "name": "White Flag",
+      "artists": [
+        {
+          "id": "2mpeljBig2IXLXRAFO9AAs",
+          "name": "Dido"
+        }
+      ],
+      "album": {
+        "id": "7HlZFlk0jJq3Bb03AOyMTE",
+        "release_date": "2003",
+        "name": "Life For Rent",
+        "artists": [
+          {
+            "id": "2mpeljBig2IXLXRAFO9AAs",
+            "name": "Dido"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 240,
+        "nanos": 40000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4xiyq1iRdsxuU1BPUJ490Z",
+      "name": "Close To Me",
+      "artists": [
+        {
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure"
+        }
+      ],
+      "album": {
+        "id": "1keBgl5vblFhSc3nMZxPXG",
+        "release_date": "1985-08-26",
+        "name": "The Head On The Door (Remastered)",
+        "artists": [
+          {
+            "id": "7bu3H8JO7d0UbMoVzbo70s",
+            "name": "The Cure"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 203,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0smyCrJiibi2uwCiq5R1vj",
+      "name": "Save Tonight",
+      "artists": [
+        {
+          "id": "3ngKsDXZAssmljeXCvEgOe",
+          "name": "Eagle-Eye Cherry"
+        }
+      ],
+      "album": {
+        "id": "0zS5fFa2I679lrdhSPAyIe",
+        "release_date": "1998-01-01",
+        "name": "Desireless",
+        "artists": [
+          {
+            "id": "3ngKsDXZAssmljeXCvEgOe",
+            "name": "Eagle-Eye Cherry"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 242,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1RCtHLyq1xIbgGMrYRrKJ2",
+      "name": "Under the Milky Way",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "3gz1CZk5wFg2inBuUWDa8x",
+        "release_date": "1988-02-16",
+        "name": "Starfish",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 297,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7wCmS9TTVUcIhRalDYFgPy",
+      "name": "Where Is My Mind? - 2007 Remaster",
+      "artists": [
+        {
+          "id": "6zvul52xwTWzilBZl6BUbT",
+          "name": "Pixies"
+        }
+      ],
+      "album": {
+        "id": "50j4Wm1b9hLpSpPIA39Vp9",
+        "release_date": "1988-03-21",
+        "name": "Surfer Rosa (2007 Remaster)",
+        "artists": [
+          {
+            "id": "6zvul52xwTWzilBZl6BUbT",
+            "name": "Pixies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3QszJeuSyyZQmD9pY1tqpo",
+      "name": "I Would Die 4 U",
+      "artists": [
+        {
+          "id": "5a2EaR3hamoenG9rDuVn8j",
+          "name": "Prince"
+        }
+      ],
+      "album": {
+        "id": "2umoqwMrmjBBPeaqgYu6J9",
+        "release_date": "1984-06-25",
+        "name": "Purple Rain",
+        "artists": [
+          {
+            "id": "5a2EaR3hamoenG9rDuVn8j",
+            "name": "Prince"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 169,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6qspW4YKycviDFjHBOaqUY",
+      "name": "Waterfalls",
+      "artists": [
+        {
+          "id": "0TImkz4nPqjegtVSMZnMRq",
+          "name": "TLC"
+        }
+      ],
+      "album": {
+        "id": "5eg56dCpFn32neJak2vk0f",
+        "release_date": "1994-11-15",
+        "name": "Crazysexycool",
+        "artists": [
+          {
+            "id": "0TImkz4nPqjegtVSMZnMRq",
+            "name": "TLC"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 279,
+        "nanos": 506000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6sleEAnBH0sZMe0pOQNidG",
+      "name": "Stand Back",
+      "artists": [
+        {
+          "id": "7crPfGd2k81ekOoSqQKWWz",
+          "name": "Stevie Nicks"
+        }
+      ],
+      "album": {
+        "id": "2zLZzOfiwQ4hnPCu2gVtKB",
+        "release_date": "1991-08-30",
+        "name": "Timespace - The Best Of Stevie Nicks",
+        "artists": [
+          {
+            "id": "7crPfGd2k81ekOoSqQKWWz",
+            "name": "Stevie Nicks"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 297,
+        "nanos": 93000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3MFa9idQuY4iJLWsZl3tIQ",
+      "name": "Young Hearts Run Free",
+      "artists": [
+        {
+          "id": "3S34Unhn5yRcaH5K9aU5Et",
+          "name": "Candi Staton"
+        }
+      ],
+      "album": {
+        "id": "39ntuIhbcC8rsmRV2qXkmZ",
+        "release_date": "1976",
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "artists": [
+          {
+            "id": "3S34Unhn5yRcaH5K9aU5Et",
+            "name": "Candi Staton"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 248,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "54bO2CHOgGN44oWmAqib0I",
+      "name": "Gold on the Ceiling - 2021 Remaster",
+      "artists": [
+        {
+          "id": "7mnBLXK823vNxN3UWB7Gfz",
+          "name": "The Black Keys"
+        }
+      ],
+      "album": {
+        "id": "15TCQN0DHHM3XX4TfnNkV8",
+        "release_date": "2011",
+        "name": "El Camino (2021 Remaster)",
+        "artists": [
+          {
+            "id": "7mnBLXK823vNxN3UWB7Gfz",
+            "name": "The Black Keys"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 224,
+        "nanos": 490000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1OxcIUqVmVYxT6427tbhDW",
+      "name": "Fly Away",
+      "artists": [
+        {
+          "id": "5gznATMVO85ZcLTkE9ULU7",
+          "name": "Lenny Kravitz"
+        }
+      ],
+      "album": {
+        "id": "6MCNMOCRsh6nxs7PNzc0zN",
+        "release_date": "1998-05-12",
+        "name": "5",
+        "artists": [
+          {
+            "id": "5gznATMVO85ZcLTkE9ULU7",
+            "name": "Lenny Kravitz"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 221,
+        "nanos": 332000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7tokOMPzSHbLJVZh8an2Nq",
+      "name": "Let My Baby Ride",
+      "artists": [
+        {
+          "id": "2drMeidRg4jc07neGOL0Ip",
+          "name": "R.L. Burnside"
+        }
+      ],
+      "album": {
+        "id": "6QyepVbPWpjsQZAEgqmDsJ",
+        "release_date": "1998-08-11",
+        "name": "Come on In",
+        "artists": [
+          {
+            "id": "2drMeidRg4jc07neGOL0Ip",
+            "name": "R.L. Burnside"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 180,
+        "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "10Nmj3JCNoMeBQ87uw5j8k",
+      "name": "Dani California",
+      "artists": [
+        {
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers"
+        }
+      ],
+      "album": {
+        "id": "7xl50xr9NDkd3i2kBbzsNZ",
+        "release_date": "2006-05-09",
+        "name": "Stadium Arcadium",
+        "artists": [
+          {
+            "id": "0L8ExT028jH3ddEcZwqJJ5",
+            "name": "Red Hot Chili Peppers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 282,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "41wI0OQ8RR6vt49ovhvYlh",
+      "name": "All A Mystery",
+      "artists": [
+        {
+          "id": "1l9d7B8W0IHy3LqWsxP2SH",
+          "name": "Phantogram"
+        }
+      ],
+      "album": {
+        "id": "4H1TE5m2eltLhVKVuB53b1",
+        "release_date": "2024-10-18",
+        "name": "Memory Of A Day",
+        "artists": [
+          {
+            "id": "1l9d7B8W0IHy3LqWsxP2SH",
+            "name": "Phantogram"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 189,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0BzTjRJQjOxMZpCAGnPXhp",
+      "name": "Evergreen (feat. Caamp)",
+      "artists": [
+        {
+          "id": "4qU7IJSReZnsLy5907Mtau",
+          "name": "Richy Mitch & The Coal Miners"
+        },
+        {
+          "id": "0wyMPXGfOuQzNR54ujR9Ix",
+          "name": "Caamp"
+        }
+      ],
+      "album": {
+        "id": "4fzAuOHpDdUDAdIHYbaVjW",
+        "release_date": "2024-08-09",
+        "name": "Evergreen (feat. Caamp)",
+        "artists": [
+          {
+            "id": "4qU7IJSReZnsLy5907Mtau",
+            "name": "Richy Mitch & The Coal Miners"
+          },
+          {
+            "id": "0wyMPXGfOuQzNR54ujR9Ix",
+            "name": "Caamp"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 177,
+        "nanos": 512000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2QzS8BLvE0Xl8J3fNRWG3Z",
+      "name": "Right / Wrong",
+      "artists": [
+        {
+          "id": "07dZirN9KFAGIHeBvSDfuO",
+          "name": "Night Beats"
+        }
+      ],
+      "album": {
+        "id": "2ujUmWEVM55Cd8ldz0yDNr",
+        "release_date": "2016-01-29",
+        "name": "Who Sold My Generation",
+        "artists": [
+          {
+            "id": "07dZirN9KFAGIHeBvSDfuO",
+            "name": "Night Beats"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 168,
+        "nanos": 291000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3Pbp7cUCx4d3OAkZSCoNvn",
+      "name": "Scared To Start",
+      "artists": [
+        {
+          "id": "4j96cMcT8GRi11qbvo1cLQ",
+          "name": "Michael Marcagi"
+        }
+      ],
+      "album": {
+        "id": "3NpeIWhWsxU7d3XL5KEh39",
+        "release_date": "2024-01-12",
+        "name": "Scared To Start",
+        "artists": [
+          {
+            "id": "4j96cMcT8GRi11qbvo1cLQ",
+            "name": "Michael Marcagi"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 159,
+        "nanos": 636000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7CIKMtUUz31yX6MNX2nGbB",
+      "name": "Towers",
+      "artists": [
+        {
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver"
+        }
+      ],
+      "album": {
+        "id": "2LpfNj3vB5rOXfaawLcOBg",
+        "release_date": "2011-06-21",
+        "name": "Bon Iver, Bon Iver",
+        "artists": [
+          {
+            "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+            "name": "Bon Iver"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 188,
+        "nanos": 40000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "3Kj2EWpIBnvETsYq4cq0IH",
+      "name": "Big Black Car",
+      "artists": [
+        {
+          "id": "5sXaGoRLSpd7VeyZrLkKwt",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "album": {
+        "id": "06UoTVgpPiGnRPGjowrG3g",
+        "release_date": "2009-01-01",
+        "name": "This Empty Northern Hemisphere",
+        "artists": [
+          {
+            "id": "5sXaGoRLSpd7VeyZrLkKwt",
+            "name": "Gregory Alan Isakov"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 217,
+        "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "01etzQv4bFBeE6E99a6xvc",
+      "name": "So Long, Lonesome",
+      "artists": [
+        {
+          "id": "1uQWmt1OhuHGRKmZ2ZcL6p",
+          "name": "Explosions In The Sky"
+        }
+      ],
+      "album": {
+        "id": "0eufTqrmqa0x0A5MnzkEvT",
+        "release_date": "2007-01-01",
+        "name": "All of a Sudden I Miss Everyone",
+        "artists": [
+          {
+            "id": "1uQWmt1OhuHGRKmZ2ZcL6p",
+            "name": "Explosions In The Sky"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 220,
+        "nanos": 373000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Ae9EtPyWZcTCinDMsRVuU",
+      "name": "Rivers and Roads",
+      "artists": [
+        {
+          "id": "0n94vC3S9c3mb2HyNAOcjg",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "album": {
+        "id": "15lkFyKpy4kj06C9n5vecU",
+        "release_date": "2011",
+        "name": "The Head And The Heart (15th Anniversary Edition)",
+        "artists": [
+          {
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 283,
+        "nanos": 899000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5LMFJD2DgJyafuXf2wMLX3",
+      "name": "Radionoize",
+      "artists": [
+        {
+          "id": "1CzKORB9IN0EjPEyeKBIkf",
+          "name": "Tides From Nebula"
+        }
+      ],
+      "album": {
+        "id": "3kxzriTUAvJklocJHG7GH8",
+        "release_date": "2019-09-20",
+        "name": "From Voodoo to Zen",
+        "artists": [
+          {
+            "id": "1CzKORB9IN0EjPEyeKBIkf",
+            "name": "Tides From Nebula"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 389,
+        "nanos": 710000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "10nyNJ6zNy2YVYLrcwLccB",
+      "name": "No Surprises",
+      "artists": [
+        {
+          "id": "4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead"
+        }
+      ],
+      "album": {
+        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+        "release_date": "1997-05-28",
+        "name": "OK Computer",
+        "artists": [
+          {
+            "id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "name": "Radiohead"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 229,
+        "nanos": 120000000
+      },
+      "explicit": false
+    }
+  ]
+}

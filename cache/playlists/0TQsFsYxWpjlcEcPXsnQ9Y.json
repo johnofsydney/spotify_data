@@ -1,1 +1,41 @@
-{"playlist":{"id":"0TQsFsYxWpjlcEcPXsnQ9Y","collaborative":false,"name":"August '20","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAAs+tQU1hQOfqTtBh3HZ9a43Jy7QT"},"tracks":[{"id":"1ZC0ZX4XNisVYgM5TxVe4J","name":"Annapurna - Radio Edit","artists":[{"id":"37kQjANSQM1tmkTwvB5M96","name":"Protoculture"}],"album":{"id":"7C9hEKNYNMggV63Hr1ngpC","release_date":"2014-05-02","name":"Music Is More Than Mathematics","artists":[{"id":"37kQjANSQM1tmkTwvB5M96","name":"Protoculture"}],"typ":"album","added_at":0},"duration":{"secs":233,"nanos":500000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "0TQsFsYxWpjlcEcPXsnQ9Y",
+    "collaborative": false,
+    "name": "August '20",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAAs+tQU1hQOfqTtBh3HZ9a43Jy7QT",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "1ZC0ZX4XNisVYgM5TxVe4J",
+      "name": "Annapurna - Radio Edit",
+      "artists": [
+        {
+          "id": "37kQjANSQM1tmkTwvB5M96",
+          "name": "Protoculture"
+        }
+      ],
+      "album": {
+        "id": "7C9hEKNYNMggV63Hr1ngpC",
+        "release_date": "2014-05-02",
+        "name": "Music Is More Than Mathematics",
+        "artists": [
+          {
+            "id": "37kQjANSQM1tmkTwvB5M96",
+            "name": "Protoculture"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 233,
+        "nanos": 500000000
+      },
+      "explicit": false
+    }
+  ]
+}

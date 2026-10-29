@@ -1,1 +1,713 @@
-{"playlist":{"id":"2gi6X00GG3M8Y9qH2rRdfk","collaborative":false,"name":"sad songs","owner":["REDACTED","REDACTED"],"desc":"","current_folder_id":0,"snapshot_id":"AAAAHXSJYFMKhnxGQeJsaQHtUiW5l9xW"},"tracks":[{"id":"7wsrilmtSiKwsufCcpDIAE","name":"Hold On","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"album":{"id":"6IDrWwIChSMjJqkd9ZZA6K","release_date":"2003-09-08","name":"Amazing Grace","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"typ":"album","added_at":0},"duration":{"secs":234,"nanos":400000000},"explicit":false},{"id":"1xBa0Dg6OwrA8jCLS44c5n","name":"Oh Baby","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"album":{"id":"6IDrWwIChSMjJqkd9ZZA6K","release_date":"2003-09-08","name":"Amazing Grace","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"typ":"album","added_at":0},"duration":{"secs":250,"nanos":293000000},"explicit":false},{"id":"2dNcajANPqB8c7f3I1Aekt","name":"Lord Let It Rain On Me","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"album":{"id":"6IDrWwIChSMjJqkd9ZZA6K","release_date":"2003-09-08","name":"Amazing Grace","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"typ":"album","added_at":0},"duration":{"secs":220,"nanos":800000000},"explicit":false},{"id":"4aUCovTNe98WnwE6AIl0pU","name":"Ladies and Gentlemen We Are Floating in Space","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"album":{"id":"4GMgNPA4fMv3U0QQsdRLJk","release_date":"1997-06-16","name":"Ladies & Gentlemen We Are Floating In Space","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"typ":"album","added_at":0},"duration":{"secs":234,"nanos":53000000},"explicit":false},{"id":"2EW4Wu7bZhEyHd8LzJR1DU","name":"Broken Heart","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"album":{"id":"4GMgNPA4fMv3U0QQsdRLJk","release_date":"1997-06-16","name":"Ladies & Gentlemen We Are Floating In Space","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"typ":"album","added_at":0},"duration":{"secs":398,"nanos":306000000},"explicit":false},{"id":"2gaomvOiiIbP8QhJGXcPu4","name":"Carrion","artists":[{"id":"5zhn89Em2jWUUWdpcLO3YL","name":"Sea Power"}],"album":{"id":"4Sjd55LN5050BG0sqHigoR","release_date":"2003-06-02","name":"The Decline of British Sea Power","artists":[{"id":"5zhn89Em2jWUUWdpcLO3YL","name":"Sea Power"}],"typ":"album","added_at":0},"duration":{"secs":246,"nanos":66000000},"explicit":false},{"id":"53PkA8aXiwH4ppa0V0iO7o","name":"oh baby","artists":[{"id":"066X20Nz7iquqkkCW6Jxy6","name":"LCD Soundsystem"}],"album":{"id":"4AF1M7bGCFL3LHCtXUUXw5","release_date":"2017-09-01","name":"american dream","artists":[{"id":"066X20Nz7iquqkkCW6Jxy6","name":"LCD Soundsystem"}],"typ":"album","added_at":0},"duration":{"secs":349,"nanos":452000000},"explicit":false},{"id":"4L883Hie8OZjyZDxR8wExR","name":"Northwest Passage","artists":[{"id":"6ZWMXMg25PGVCaoYZXQSyn","name":"Papa M"}],"album":{"id":"3NCwxdYt3bEcp0g1g8Yth0","release_date":"2001-11-05","name":"\"Whatever, Mortal\"","artists":[{"id":"6ZWMXMg25PGVCaoYZXQSyn","name":"Papa M"}],"typ":"album","added_at":0},"duration":{"secs":344,"nanos":280000000},"explicit":false},{"id":"4tD8P4Nd8VVXPnz9imssUk","name":"Can't Remember Your Name","artists":[{"id":"3UzCWOTeYccowgWOPqpItb","name":"The Holy"}],"album":{"id":"3tBqF2sYpADeesELIf3HK8","release_date":"2016-08-10","name":"More Escher and Random Notes - EP","artists":[{"id":"3UzCWOTeYccowgWOPqpItb","name":"The Holy"}],"typ":"single","added_at":0},"duration":{"secs":234,"nanos":306000000},"explicit":false},{"id":"60k0xRw1oYUwZYp4e2iue8","name":"american dream","artists":[{"id":"066X20Nz7iquqkkCW6Jxy6","name":"LCD Soundsystem"}],"album":{"id":"4AF1M7bGCFL3LHCtXUUXw5","release_date":"2017-09-01","name":"american dream","artists":[{"id":"066X20Nz7iquqkkCW6Jxy6","name":"LCD Soundsystem"}],"typ":"album","added_at":0},"duration":{"secs":366,"nanos":660000000},"explicit":false},{"id":"2f2ZTONoX0vVlSCj3F8Aie","name":"I Fucked Up I Was a Child","artists":[{"id":"3g2slv6elrXxGnXqy7Q2ap","name":"Les Big Byrd"}],"album":{"id":"5K46u7YstEAGOuj1whWtoe","release_date":"2018-10-12","name":"Iran Iraq IKEA","artists":[{"id":"3g2slv6elrXxGnXqy7Q2ap","name":"Les Big Byrd"}],"typ":"album","added_at":0},"duration":{"secs":283,"nanos":613000000},"explicit":true},{"id":"4IYpxel53Y7F0KQaG4FmsI","name":"Please Stay","artists":[{"id":"1PByAXvcWN91nfYuyatk3W","name":"The Cryin Shames"}],"album":{"id":"4CLVbzomFE3uWrAWOpFyq5","release_date":"2013-03-18","name":"The Place Beyond the Pines (Derek Cianfrance's Original Motion Picture Soundtrack)","artists":[{"id":"34Ai24gPz5YJ8NbksiNFef","name":"Mike Patton"}],"typ":"album","added_at":0},"duration":{"secs":196,"nanos":506000000},"explicit":false},{"id":"6tGldcIJJwByOYCjJglMAs","name":"There's No Other Like My Baby","artists":[{"id":"7rewR1TVjhisjI6gauUamf","name":"The Crystals"}],"album":{"id":"11ho9FxQbJjMbQn1P1yWpm","release_date":"2011-02-22","name":"Da Doo Ron Ron: The Very Best of The Crystals","artists":[{"id":"7rewR1TVjhisjI6gauUamf","name":"The Crystals"}],"typ":"compilation","added_at":0},"duration":{"secs":149,"nanos":906000000},"explicit":false},{"id":"6ahGhgMNCBXB6HosAebksf","name":"Losing You - Mono Version","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"album":{"id":"6t4BECovfkgGTrtbqmTlZf","release_date":"1988-01-01","name":"The Silver Collection","artists":[{"id":"5zaXYwewAXedKNCff45U5l","name":"Dusty Springfield"}],"typ":"compilation","added_at":0},"duration":{"secs":180,"nanos":666000000},"explicit":false},{"id":"3nVr75rx4FFrXGkuwU5CCg","name":"Red Rock Riviera","artists":[{"id":"5zhn89Em2jWUUWdpcLO3YL","name":"Sea Power"}],"album":{"id":"2MrqGKcS9kWgY7UTbv13TK","release_date":"2013-12-02","name":"From the Sea to the Land Beyond","artists":[{"id":"5zhn89Em2jWUUWdpcLO3YL","name":"Sea Power"}],"typ":"album","added_at":0},"duration":{"secs":413,"nanos":476000000},"explicit":false},{"id":"6AaenV3zr7U7gDF8dmLh12","name":"Olympians","artists":[{"id":"6tCENAD2FBfIMyygJMeOJV","name":"Fuck Buttons"}],"album":{"id":"7tilRUU7WANATJdxhMO3p8","release_date":"2009-10-20","name":"Tarot Sport","artists":[{"id":"6tCENAD2FBfIMyygJMeOJV","name":"Fuck Buttons"}],"typ":"album","added_at":0},"duration":{"secs":654,"nanos":840000000},"explicit":false},{"id":"0piWYpm3L2Ss0UOAH0hl4G","name":"Always Together With You","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"album":{"id":"49GJe3Q8FSAhfLgrQlulXl","release_date":"2021-11-02","name":"Always Together With You","artists":[{"id":"6DKmuXxXASTF6xaJwcTfjv","name":"Spiritualized"}],"typ":"single","added_at":0},"duration":{"secs":398,"nanos":53000000},"explicit":false},{"id":"7iJnp45aNKpi8TMEU2JjXn","name":"Dead in the Water - Live at Rté 2fm Studios, Dublin (Bonus Track)","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"album":{"id":"78GME3qVL2ZmNpGF5lXLnm","release_date":"2017-11-24","name":"Who Built The Moon? (Deluxe)","artists":[{"id":"7sjttK1WcZeyLPn3IsQ62L","name":"Noel Gallagher's High Flying Birds"}],"typ":"album","added_at":0},"duration":{"secs":321,"nanos":693000000},"explicit":false},{"id":"1dBje6EOpDBLdoKGo94DEa","name":"Rivers","artists":[{"id":"2BpAc5eK7Rz5GAwSp9UYXa","name":"The Tallest Man On Earth"}],"album":{"id":"78s3die4I0Q75cp2NKO6sc","release_date":"2016-08-17","name":"Rivers","artists":[{"id":"2BpAc5eK7Rz5GAwSp9UYXa","name":"The Tallest Man On Earth"}],"typ":"single","added_at":0},"duration":{"secs":236,"nanos":853000000},"explicit":false},{"id":"4ng3LkXfbpEv3iIYAcLiK3","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"album":{"id":"61xzWO2b7xmrvLm4C3M36t","release_date":"2020-03-20","name":"Dead Star","artists":[{"id":"06D0YfeNZgBA7XWQ79Y42R","name":"King Buffalo"}],"typ":"album","added_at":0},"duration":{"secs":237,"nanos":202000000},"explicit":false},{"id":"7nv19dw0BgruZXzO3aztFO","name":"Like There Was a Door","artists":[{"id":"6swk8GFDoEZ1cFDX70xyuO","name":"Daniel Norgren"}],"album":{"id":"0hkMK6ReaSNmmMvFhxIiR9","release_date":"2015-04-15","name":"Alabursy","artists":[{"id":"6swk8GFDoEZ1cFDX70xyuO","name":"Daniel Norgren"}],"typ":"album","added_at":0},"duration":{"secs":300,"nanos":840000000},"explicit":false},{"id":"0UY273xiyFkLX6dI6rI07D","name":"My Rock Is Crumbling","artists":[{"id":"6swk8GFDoEZ1cFDX70xyuO","name":"Daniel Norgren"}],"album":{"id":"37IJFAwNwGt5EV8aTw0E22","release_date":"2015-10-16","name":"The Green Stone","artists":[{"id":"6swk8GFDoEZ1cFDX70xyuO","name":"Daniel Norgren"}],"typ":"album","added_at":0},"duration":{"secs":196,"nanos":280000000},"explicit":false},{"id":"4ZjyvQTR8OhmaGBDulNLjQ","name":"As Long as We Last","artists":[{"id":"6swk8GFDoEZ1cFDX70xyuO","name":"Daniel Norgren"}],"album":{"id":"0hkMK6ReaSNmmMvFhxIiR9","release_date":"2015-04-15","name":"Alabursy","artists":[{"id":"6swk8GFDoEZ1cFDX70xyuO","name":"Daniel Norgren"}],"typ":"album","added_at":0},"duration":{"secs":335,"nanos":426000000},"explicit":false},{"id":"7rL602DQps4QmrrjbinLzP","name":"Afterlife","artists":[{"id":"3kjuyTCjPG1WMFCiyc5IuB","name":"Arcade Fire"}],"album":{"id":"2brwuyGZ2lLqWnBX6U4MQT","release_date":"2013","name":"Reflektor","artists":[{"id":"3kjuyTCjPG1WMFCiyc5IuB","name":"Arcade Fire"}],"typ":"album","added_at":0},"duration":{"secs":352,"nanos":754000000},"explicit":false},{"id":"6Thn8AOHIwPCkf2O4ZgfC2","name":"Song for Zula","artists":[{"id":"57kIMCLPgkzQlXjblX7XXP","name":"Phosphorescent"}],"album":{"id":"6rAJ4I8SpPMJj0guCZiAI8","release_date":"2013-03-19","name":"Muchacho","artists":[{"id":"57kIMCLPgkzQlXjblX7XXP","name":"Phosphorescent"}],"typ":"album","added_at":0},"duration":{"secs":370,"nanos":200000000},"explicit":false}]}
+{
+  "playlist": {
+    "id": "2gi6X00GG3M8Y9qH2rRdfk",
+    "collaborative": false,
+    "name": "sad songs",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAHXSJYFMKhnxGQeJsaQHtUiW5l9xW",
+    "owner_id":"REDACTED"
+  },
+  "tracks": [
+    {
+      "id": "7wsrilmtSiKwsufCcpDIAE",
+      "name": "Hold On",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "6IDrWwIChSMjJqkd9ZZA6K",
+        "release_date": "2003-09-08",
+        "name": "Amazing Grace",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1xBa0Dg6OwrA8jCLS44c5n",
+      "name": "Oh Baby",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "6IDrWwIChSMjJqkd9ZZA6K",
+        "release_date": "2003-09-08",
+        "name": "Amazing Grace",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 250,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2dNcajANPqB8c7f3I1Aekt",
+      "name": "Lord Let It Rain On Me",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "6IDrWwIChSMjJqkd9ZZA6K",
+        "release_date": "2003-09-08",
+        "name": "Amazing Grace",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 220,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4aUCovTNe98WnwE6AIl0pU",
+      "name": "Ladies and Gentlemen We Are Floating in Space",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "4GMgNPA4fMv3U0QQsdRLJk",
+        "release_date": "1997-06-16",
+        "name": "Ladies & Gentlemen We Are Floating In Space",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2EW4Wu7bZhEyHd8LzJR1DU",
+      "name": "Broken Heart",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "4GMgNPA4fMv3U0QQsdRLJk",
+        "release_date": "1997-06-16",
+        "name": "Ladies & Gentlemen We Are Floating In Space",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 398,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2gaomvOiiIbP8QhJGXcPu4",
+      "name": "Carrion",
+      "artists": [
+        {
+          "id": "5zhn89Em2jWUUWdpcLO3YL",
+          "name": "Sea Power"
+        }
+      ],
+      "album": {
+        "id": "4Sjd55LN5050BG0sqHigoR",
+        "release_date": "2003-06-02",
+        "name": "The Decline of British Sea Power",
+        "artists": [
+          {
+            "id": "5zhn89Em2jWUUWdpcLO3YL",
+            "name": "Sea Power"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 246,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "53PkA8aXiwH4ppa0V0iO7o",
+      "name": "oh baby",
+      "artists": [
+        {
+          "id": "066X20Nz7iquqkkCW6Jxy6",
+          "name": "LCD Soundsystem"
+        }
+      ],
+      "album": {
+        "id": "4AF1M7bGCFL3LHCtXUUXw5",
+        "release_date": "2017-09-01",
+        "name": "american dream",
+        "artists": [
+          {
+            "id": "066X20Nz7iquqkkCW6Jxy6",
+            "name": "LCD Soundsystem"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 349,
+        "nanos": 452000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4L883Hie8OZjyZDxR8wExR",
+      "name": "Northwest Passage",
+      "artists": [
+        {
+          "id": "6ZWMXMg25PGVCaoYZXQSyn",
+          "name": "Papa M"
+        }
+      ],
+      "album": {
+        "id": "3NCwxdYt3bEcp0g1g8Yth0",
+        "release_date": "2001-11-05",
+        "name": "\"Whatever, Mortal\"",
+        "artists": [
+          {
+            "id": "6ZWMXMg25PGVCaoYZXQSyn",
+            "name": "Papa M"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 344,
+        "nanos": 280000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4tD8P4Nd8VVXPnz9imssUk",
+      "name": "Can't Remember Your Name",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "3tBqF2sYpADeesELIf3HK8",
+        "release_date": "2016-08-10",
+        "name": "More Escher and Random Notes - EP",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "60k0xRw1oYUwZYp4e2iue8",
+      "name": "american dream",
+      "artists": [
+        {
+          "id": "066X20Nz7iquqkkCW6Jxy6",
+          "name": "LCD Soundsystem"
+        }
+      ],
+      "album": {
+        "id": "4AF1M7bGCFL3LHCtXUUXw5",
+        "release_date": "2017-09-01",
+        "name": "american dream",
+        "artists": [
+          {
+            "id": "066X20Nz7iquqkkCW6Jxy6",
+            "name": "LCD Soundsystem"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 366,
+        "nanos": 660000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2f2ZTONoX0vVlSCj3F8Aie",
+      "name": "I Fucked Up I Was a Child",
+      "artists": [
+        {
+          "id": "3g2slv6elrXxGnXqy7Q2ap",
+          "name": "Les Big Byrd"
+        }
+      ],
+      "album": {
+        "id": "5K46u7YstEAGOuj1whWtoe",
+        "release_date": "2018-10-12",
+        "name": "Iran Iraq IKEA",
+        "artists": [
+          {
+            "id": "3g2slv6elrXxGnXqy7Q2ap",
+            "name": "Les Big Byrd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 283,
+        "nanos": 613000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "4IYpxel53Y7F0KQaG4FmsI",
+      "name": "Please Stay",
+      "artists": [
+        {
+          "id": "1PByAXvcWN91nfYuyatk3W",
+          "name": "The Cryin Shames"
+        }
+      ],
+      "album": {
+        "id": "4CLVbzomFE3uWrAWOpFyq5",
+        "release_date": "2013-03-18",
+        "name": "The Place Beyond the Pines (Derek Cianfrance's Original Motion Picture Soundtrack)",
+        "artists": [
+          {
+            "id": "34Ai24gPz5YJ8NbksiNFef",
+            "name": "Mike Patton"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 196,
+        "nanos": 506000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6tGldcIJJwByOYCjJglMAs",
+      "name": "There's No Other Like My Baby",
+      "artists": [
+        {
+          "id": "7rewR1TVjhisjI6gauUamf",
+          "name": "The Crystals"
+        }
+      ],
+      "album": {
+        "id": "11ho9FxQbJjMbQn1P1yWpm",
+        "release_date": "2011-02-22",
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "artists": [
+          {
+            "id": "7rewR1TVjhisjI6gauUamf",
+            "name": "The Crystals"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 149,
+        "nanos": 906000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6ahGhgMNCBXB6HosAebksf",
+      "name": "Losing You - Mono Version",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "6t4BECovfkgGTrtbqmTlZf",
+        "release_date": "1988-01-01",
+        "name": "The Silver Collection",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 180,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3nVr75rx4FFrXGkuwU5CCg",
+      "name": "Red Rock Riviera",
+      "artists": [
+        {
+          "id": "5zhn89Em2jWUUWdpcLO3YL",
+          "name": "Sea Power"
+        }
+      ],
+      "album": {
+        "id": "2MrqGKcS9kWgY7UTbv13TK",
+        "release_date": "2013-12-02",
+        "name": "From the Sea to the Land Beyond",
+        "artists": [
+          {
+            "id": "5zhn89Em2jWUUWdpcLO3YL",
+            "name": "Sea Power"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 413,
+        "nanos": 476000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6AaenV3zr7U7gDF8dmLh12",
+      "name": "Olympians",
+      "artists": [
+        {
+          "id": "6tCENAD2FBfIMyygJMeOJV",
+          "name": "Fuck Buttons"
+        }
+      ],
+      "album": {
+        "id": "7tilRUU7WANATJdxhMO3p8",
+        "release_date": "2009-10-20",
+        "name": "Tarot Sport",
+        "artists": [
+          {
+            "id": "6tCENAD2FBfIMyygJMeOJV",
+            "name": "Fuck Buttons"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 654,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0piWYpm3L2Ss0UOAH0hl4G",
+      "name": "Always Together With You",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "49GJe3Q8FSAhfLgrQlulXl",
+        "release_date": "2021-11-02",
+        "name": "Always Together With You",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 398,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7iJnp45aNKpi8TMEU2JjXn",
+      "name": "Dead in the Water - Live at Rté 2fm Studios, Dublin (Bonus Track)",
+      "artists": [
+        {
+          "id": "7sjttK1WcZeyLPn3IsQ62L",
+          "name": "Noel Gallagher's High Flying Birds"
+        }
+      ],
+      "album": {
+        "id": "78GME3qVL2ZmNpGF5lXLnm",
+        "release_date": "2017-11-24",
+        "name": "Who Built The Moon? (Deluxe)",
+        "artists": [
+          {
+            "id": "7sjttK1WcZeyLPn3IsQ62L",
+            "name": "Noel Gallagher's High Flying Birds"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 321,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1dBje6EOpDBLdoKGo94DEa",
+      "name": "Rivers",
+      "artists": [
+        {
+          "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+          "name": "The Tallest Man On Earth"
+        }
+      ],
+      "album": {
+        "id": "78s3die4I0Q75cp2NKO6sc",
+        "release_date": "2016-08-17",
+        "name": "Rivers",
+        "artists": [
+          {
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 236,
+        "nanos": 853000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4ng3LkXfbpEv3iIYAcLiK3",
+      "name": "Dead Star",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 237,
+        "nanos": 202000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7nv19dw0BgruZXzO3aztFO",
+      "name": "Like There Was a Door",
+      "artists": [
+        {
+          "id": "6swk8GFDoEZ1cFDX70xyuO",
+          "name": "Daniel Norgren"
+        }
+      ],
+      "album": {
+        "id": "0hkMK6ReaSNmmMvFhxIiR9",
+        "release_date": "2015-04-15",
+        "name": "Alabursy",
+        "artists": [
+          {
+            "id": "6swk8GFDoEZ1cFDX70xyuO",
+            "name": "Daniel Norgren"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 300,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0UY273xiyFkLX6dI6rI07D",
+      "name": "My Rock Is Crumbling",
+      "artists": [
+        {
+          "id": "6swk8GFDoEZ1cFDX70xyuO",
+          "name": "Daniel Norgren"
+        }
+      ],
+      "album": {
+        "id": "37IJFAwNwGt5EV8aTw0E22",
+        "release_date": "2015-10-16",
+        "name": "The Green Stone",
+        "artists": [
+          {
+            "id": "6swk8GFDoEZ1cFDX70xyuO",
+            "name": "Daniel Norgren"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 196,
+        "nanos": 280000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4ZjyvQTR8OhmaGBDulNLjQ",
+      "name": "As Long as We Last",
+      "artists": [
+        {
+          "id": "6swk8GFDoEZ1cFDX70xyuO",
+          "name": "Daniel Norgren"
+        }
+      ],
+      "album": {
+        "id": "0hkMK6ReaSNmmMvFhxIiR9",
+        "release_date": "2015-04-15",
+        "name": "Alabursy",
+        "artists": [
+          {
+            "id": "6swk8GFDoEZ1cFDX70xyuO",
+            "name": "Daniel Norgren"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 335,
+        "nanos": 426000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7rL602DQps4QmrrjbinLzP",
+      "name": "Afterlife",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "2brwuyGZ2lLqWnBX6U4MQT",
+        "release_date": "2013",
+        "name": "Reflektor",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 352,
+        "nanos": 754000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Thn8AOHIwPCkf2O4ZgfC2",
+      "name": "Song for Zula",
+      "artists": [
+        {
+          "id": "57kIMCLPgkzQlXjblX7XXP",
+          "name": "Phosphorescent"
+        }
+      ],
+      "album": {
+        "id": "6rAJ4I8SpPMJj0guCZiAI8",
+        "release_date": "2013-03-19",
+        "name": "Muchacho",
+        "artists": [
+          {
+            "id": "57kIMCLPgkzQlXjblX7XXP",
+            "name": "Phosphorescent"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 370,
+        "nanos": 200000000
+      },
+      "explicit": false
+    }
+  ]
+}
