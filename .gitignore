@@ -7,3 +7,4 @@
 # Local scratch.
 *.tmp
 .DS_Store
+.refresh.log
