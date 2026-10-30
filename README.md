@@ -260,8 +260,9 @@ something my listening does not record — King Buffalo have been my favourite
 band for years, tour constantly, and have ten deliberately-placed tracks and no
 studio album since 2021, so nothing else in this data knows it.
 
-At 0.15 it lifts an artist who already has other evidence rather than carrying
-one alone: an artist present *only* through it lands around 90th. Raising the
+At 0.12 it lifts an artist who already has other evidence rather than carrying
+one alone: an artist present *only* through it, with a single track there, scores
+about 14 and lands around 250th. Raising the
 weight, or making it a floor rather than an addition, would change that.
 
 ### Why these weights, and why they should stay put
@@ -288,7 +289,7 @@ to either.
 
 ### An activity signal exists and is nearly switched off
 
-`activity` scores recent non-reissue releases. It sits at 0.06 because it is
+`activity` scores recent non-reissue releases. It sits at 0.03 because it is
 wrong for the purpose. King Buffalo tour relentlessly and have not released a
 studio album since 2021, so a release-based measure of activity demotes exactly
 the artist I would most want a gig alert for. Spotify exposes no touring data
@@ -314,8 +315,8 @@ real choices, just old ones, and want a cleanup rather than a discount.
 `history/rankings.csv` gains the top fifty every week, one row per artist:
 
 ```
-date,rank,artist,score,top,spread,tracks,followed,dedicated,favourite,activity,weights
-2026-10-30,1,"ZZ Top",79.8,1,5.0,49.0,y,y,Y,0.50,271ea7e7
+date,rank,artist,score,yearly,yearly_years,top,spread,tracks,followed,dedicated,favourite,activity,weights
+"2026-10-30",2,"ZZ Top",60.2,2.25,2,1,5,19,1,1,1,0.5,"6b07ed97"
 ```
 
 Every signal is stored beside the score, so a movement can be attributed rather
@@ -355,6 +356,16 @@ my highest-scoring artists point at.
 my data, and scores the rest by the summed favourite-score of whoever
 recommended them — so a nod from my third-ranked artist outweighs one from my
 three hundredth. It makes no API calls; the edges are already on disk.
+
+**The yearly wraps count as known, but they fade.** Charting once in 2016 does
+not mean I remember the artist now, and a forgotten artist is worth
+rediscovering. The decay-weighted wrap score from `yearly_artists.json` keeps an
+artist known while it is above what a single track scores three years back
+(0.50 at a three-year half-life). A one-off is forgotten after three years;
+ten tracks in a year takes about thirteen. `DISCOVER_FORGET_YEARS` changes the
+three. The all-time playlist is not used here: it has no dates, so nothing in it
+could ever fade. Saved, followed, liked and top-track artists never fade, because
+they are still in my library.
 
 **It cannot tell a find from a household name.** The CLI exposes no popularity
 or follower count, so an artist I obviously know but have never saved looks
