@@ -1,0 +1,13 @@
+# Artists to keep out of discover_artists.md.
+# Spotify exposes no popularity figure through the CLI, so a household name I
+# simply do not have saved is indistinguishable from a genuine find. One name
+# per line, matched exactly. Lines starting with # are ignored.
+AC/DC
+Deep Purple
+Led Zeppelin
+Lynyrd Skynyrd
+Mötley Crüe
+Nirvana
+Ozzy Osbourne
+Pink Floyd
+The Rolling Stones

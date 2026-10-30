@@ -60,6 +60,7 @@ the following week to carry rather than aborting the run.
 | `bin/top_tracks_artists.sh` | `top_tracks_artists_<date>.md` | Artists in my top tracks. Dated, one file per run. |
 | `bin/playlist_artists.sh` | `playlist_artists.md` | Artists across all playlists. Caches; `--force` to refetch. |
 | `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Weights in `weights.json`. |
+| `bin/discover_artists.sh` | `discover_artists.md` | Artists I do not have, ranked by which of my favourites point at them. Offline. |
 
 Run them in that order; `favourite_artists.sh` reads the files the others write
 and makes no network calls of its own.
@@ -218,6 +219,23 @@ exposes no date to decay it by.
 
 `Starred` and `Liked from Radio` are legacy but keep full weight; they record
 real choices, just old ones, and want a cleanup rather than a discount.
+
+## Finding music I do not know
+
+Each cached artist carries twenty `related_artists` from Spotify. Across 463
+artists that is some nine thousand edges, and the ones worth reading are those
+my highest-scoring artists point at.
+
+`discover_artists.sh` collects every edge, drops any artist already anywhere in
+my data, and scores the rest by the summed favourite-score of whoever
+recommended them — so a nod from my third-ranked artist outweighs one from my
+three hundredth. It makes no API calls; the edges are already on disk.
+
+**It cannot tell a find from a household name.** The CLI exposes no popularity
+or follower count, so an artist I obviously know but have never saved looks
+exactly like a discovery — Led Zeppelin and AC/DC both placed in the first
+twenty. Vote counts do not separate them either. `discover_exclude.txt` is the
+fix, one name per line, maintained by hand.
 
 ## Data in here
 
