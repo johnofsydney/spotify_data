@@ -132,12 +132,12 @@ alone. `favourite_artists.sh` combines them into a single 0-100 score.
 
 | Signal | Column | Weight | What it means |
 | --- | --- | --- | --- |
-| Yearly wraps | `yearly` | 0.25 | Their tracks across every "Your Top Songs &lt;year&gt;" playlist, each year weighted by recency. Ten years of Spotify's own measurement of what I actually played — the deepest evidence in the data, and the signal that gets my reference cases right unprompted. |
+| Yearly wraps | `yearly` | 0.30 | Their tracks across every "Your Top Songs &lt;year&gt;" playlist, each year weighted by recency. Ten years of Spotify's own measurement of what I actually played — the deepest evidence in the data, and the signal that gets my reference cases right unprompted. |
 | Top tracks | `top` | 0.18 | How many of my 50 current top tracks are theirs. Spotify returns a short-term window, so this is the only signal that reflects *now*. Weighted to keep the chart moving between wraps. |
 | Playlist spread | `spread` | 0.16 | How many *different* playlists hold two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
-| Playlist tracks | `tracks` | 0.10 | Track credits across my playlists, capped at `TRACK_CAP` (5) per playlist. Uncapped it measured catalogue size and how thorough a compilation felt on the day: a 41-track Best Of outvoted ten years of listening. The cap is the same idea as `spread` requiring two tracks before a playlist counts. |
+| Playlist tracks | `tracks` | 0.10 | Track credits across my playlists, capped at `track_cap` (5) per playlist. Uncapped it measured catalogue size and how thorough a compilation felt on the day: a 41-track Best Of outvoted ten years of listening. The cap is the same idea as `spread` requiring two tracks before a playlist counts. |
 | Favourites playlist | `FAV` | 0.12 | Whether they are in the playlist I keep by hand. The one place I can tell the ranking something the data does not record. |
-| Dedicated playlist | `ded` | 0.09 | Whether more than half of a playlist of five or more tracks is theirs. |
+| Dedicated playlist | `ded` | 0.04 | Whether more than half of a playlist of five or more tracks is theirs. Binary and undated: three Best Ofs score the same as one, and one built in 2018 scores the same as one built last month. Priced against `yearly` it is worth about one decent year of charting — at 0.09 it was worth a decade of it, which put artists I rarely play above ones I play constantly. |
 | Followed | `fol` | 0.07 | Deliberate, but binary and cheap: you follow once and forget. |
 | Recording activity | `rel3y` | 0.03 | New albums and singles over three years, reissues excluded. Nearly off — see below. |
 | All-time top songs | `alltime` | 0.00 | Off. Spotify does not keep it current — two readings a day apart returned an identical snapshot id, and `history/alltime_snapshots.csv` watches whether that ever changes. The yearly wraps say the same thing with dates attached, so this is exported but not scored. |
@@ -155,12 +155,8 @@ by Spotify called exactly `Your Top Songs <year>`. Nothing has to be configured,
 no personal playlist id is committed, and a year saved later — a 2026 wrap next
 December, or an older one backfilled — is picked up by the next run on its own.
 
-Each year's tracks are weighted by recency, halving every `half_life_years` in
-`yearly_weights.json`:
-
-```json
-{ "half_life_years": 3 }
-```
+Each year's tracks are weighted by recency, halving every
+`tuning.yearly_half_life_years` in `weights.json`.
 
 At a half-life of 3 the newest wrap counts 1.00, three years back 0.50, and 2016
 0.13. Without the decay a long-abandoned favourite outvotes what I actually
@@ -212,9 +208,17 @@ album-length addition buries every other signal.
 Weights live in `weights.json`, one line per signal, and nowhere else:
 
 ```json
-{ "yearly": 0.25, "top": 0.18, "spread": 0.16, "favourite": 0.12,
-  "tracks": 0.10, "dedicated": 0.09, "followed": 0.07,
-  "activity": 0.03, "alltime": 0.00, "liked": 0.00 }
+{
+  "weights": {
+    "yearly": 0.30, "top": 0.18, "spread": 0.16, "favourite": 0.12,
+    "tracks": 0.10, "followed": 0.07, "dedicated": 0.04,
+    "activity": 0.03, "alltime": 0.00, "liked": 0.00
+  },
+  "tuning": {
+    "yearly_half_life_years": 3, "track_cap": 5, "min_playlist_tracks": 3,
+    "dedicated_min_playlist": 5, "dedicated_min_share": 0.5, "activity_years": 3
+  }
+}
 ```
 
 **They must sum to 1, or to 100 if you prefer percentages.** Anything else
@@ -226,8 +230,11 @@ ranking and yesterday's 70 no longer means what today's does.
 A weight of `0` keeps a signal wired in and displayed while contributing
 nothing, which is how liked tracks are handled.
 
-`DED_SHARE` (0.5) and `DED_SIZE` (5) set what counts as a dedicated playlist.
-`MIN_TRACKS` (default 3) sets how many playlist appearances an artist needs to
+Everything that moves a score lives in this one file. `weights` is checked to
+sum to 1; `tuning` holds the thresholds the weights act on, and is not, because
+they are not shares of anything. `dedicated_min_share` (0.5) and
+`dedicated_min_playlist` (5) set what counts as a dedicated playlist.
+`min_playlist_tracks` (3) sets how many playlist appearances an artist needs to
 appear at all, absent any other signal. Without a floor the ranking is mostly
 noise: most artists in my playlists appear exactly once. After the zero-weighted
 playlists and that floor, 482 artists are ranked.

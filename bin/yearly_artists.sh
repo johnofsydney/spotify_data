@@ -5,7 +5,7 @@ root="$(cd "$(dirname "$0")/.." && pwd)"
 cache="$root/cache/yearly"
 out="$root/yearly_artists.md"
 json="$root/yearly_artists.json"
-weights_file="$root/yearly_weights.json"
+weights_file="$root/weights.json"
 
 force=0
 if [ "${1:-}" = "--force" ]; then
@@ -15,7 +15,7 @@ elif [ -n "${1:-}" ]; then
   exit 64
 fi
 
-half_life=$(jq -r '.half_life_years' "$weights_file")
+half_life=$(jq -r '.tuning.yearly_half_life_years' "$weights_file")
 
 mkdir -p "$cache"
 

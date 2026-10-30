@@ -1,12 +1,22 @@
 {
-  "yearly": 0.25,
-  "top": 0.18,
-  "spread": 0.16,
-  "favourite": 0.12,
-  "tracks": 0.10,
-  "dedicated": 0.09,
-  "followed": 0.07,
-  "activity": 0.03,
-  "alltime": 0.00,
-  "liked": 0.00
+  "weights": {
+    "yearly": 0.30,
+    "top": 0.18,
+    "spread": 0.16,
+    "favourite": 0.12,
+    "tracks": 0.10,
+    "followed": 0.07,
+    "dedicated": 0.04,
+    "activity": 0.03,
+    "alltime": 0.00,
+    "liked": 0.00
+  },
+  "tuning": {
+    "yearly_half_life_years": 3,
+    "track_cap": 5,
+    "min_playlist_tracks": 3,
+    "dedicated_min_playlist": 5,
+    "dedicated_min_share": 0.5,
+    "activity_years": 3
+  }
 }

@@ -1,7 +1,7 @@
 [
   {
     "rank": 1,
-    "score": 290,
+    "score": 313,
     "votes": 12,
     "name": "Black Lung",
     "from": [
@@ -12,18 +12,18 @@
   },
   {
     "rank": 2,
-    "score": 237,
+    "score": 258,
     "votes": 14,
     "name": "Savanah",
     "from": [
       "Tuber",
       "Psychlona",
-      "Maha Sohona"
+      "Khan"
     ]
   },
   {
     "rank": 3,
-    "score": 217,
+    "score": 235,
     "votes": 8,
     "name": "Mount Hush",
     "from": [
@@ -34,7 +34,7 @@
   },
   {
     "rank": 4,
-    "score": 187,
+    "score": 196,
     "votes": 9,
     "name": "The Confederate Dead",
     "from": [
@@ -45,7 +45,7 @@
   },
   {
     "rank": 5,
-    "score": 183,
+    "score": 195,
     "votes": 8,
     "name": "Sons of Arrakis",
     "from": [
@@ -56,7 +56,7 @@
   },
   {
     "rank": 6,
-    "score": 183,
+    "score": 191,
     "votes": 11,
     "name": "Black Market Karma",
     "from": [
@@ -67,29 +67,18 @@
   },
   {
     "rank": 7,
-    "score": 181,
+    "score": 185,
     "votes": 12,
     "name": "The Raconteurs",
     "from": [
-      "TV On The Radio",
       "Silversun Pickups",
+      "TV On The Radio",
       "The Dandy Warhols"
     ]
   },
   {
     "rank": 8,
-    "score": 171,
-    "votes": 7,
-    "name": "Mantra Machine",
-    "from": [
-      "Causa Sui",
-      "Tuber",
-      "Maha Sohona"
-    ]
-  },
-  {
-    "rank": 9,
-    "score": 170,
+    "score": 180,
     "votes": 9,
     "name": "Sasquatch",
     "from": [
@@ -99,19 +88,19 @@
     ]
   },
   {
-    "rank": 10,
-    "score": 163,
-    "votes": 6,
-    "name": "The Best Pessimist",
+    "rank": 9,
+    "score": 179,
+    "votes": 7,
+    "name": "Mantra Machine",
     "from": [
-      "God Is An Astronaut",
-      "sleepmakeswaves",
-      "If These Trees Could Talk"
+      "Causa Sui",
+      "Tuber",
+      "Monkey3"
     ]
   },
   {
-    "rank": 11,
-    "score": 152,
+    "rank": 10,
+    "score": 176,
     "votes": 11,
     "name": "JES",
     "from": [
@@ -121,8 +110,19 @@
     ]
   },
   {
+    "rank": 11,
+    "score": 162,
+    "votes": 7,
+    "name": "Rank 1",
+    "from": [
+      "Paul van Dyk",
+      "Chicane",
+      "Binary Finary"
+    ]
+  },
+  {
     "rank": 12,
-    "score": 152,
+    "score": 160,
     "votes": 7,
     "name": "The Spyrals",
     "from": [
@@ -133,6 +133,28 @@
   },
   {
     "rank": 13,
+    "score": 158,
+    "votes": 6,
+    "name": "The Best Pessimist",
+    "from": [
+      "God Is An Astronaut",
+      "sleepmakeswaves",
+      "If These Trees Could Talk"
+    ]
+  },
+  {
+    "rank": 14,
+    "score": 149,
+    "votes": 6,
+    "name": "Room Service",
+    "from": [
+      "GHOSTWOMAN",
+      "New Candys",
+      "José Junior"
+    ]
+  },
+  {
+    "rank": 15,
     "score": 148,
     "votes": 9,
     "name": "Franz Ferdinand",
@@ -143,41 +165,8 @@
     ]
   },
   {
-    "rank": 14,
-    "score": 147,
-    "votes": 7,
-    "name": "Rank 1",
-    "from": [
-      "Paul van Dyk",
-      "Chicane",
-      "Binary Finary"
-    ]
-  },
-  {
-    "rank": 15,
-    "score": 144,
-    "votes": 6,
-    "name": "Room Service",
-    "from": [
-      "GHOSTWOMAN",
-      "New Candys",
-      "José Junior"
-    ]
-  },
-  {
     "rank": 16,
-    "score": 129,
-    "votes": 7,
-    "name": "Cage The Elephant",
-    "from": [
-      "Kings of Leon",
-      "Pixies",
-      "Phantogram"
-    ]
-  },
-  {
-    "rank": 17,
-    "score": 126,
+    "score": 133,
     "votes": 6,
     "name": "YORK",
     "from": [
@@ -187,8 +176,19 @@
     ]
   },
   {
+    "rank": 17,
+    "score": 130,
+    "votes": 7,
+    "name": "Cage The Elephant",
+    "from": [
+      "Kings of Leon",
+      "Pixies",
+      "Phantogram"
+    ]
+  },
+  {
     "rank": 18,
-    "score": 120,
+    "score": 129,
     "votes": 5,
     "name": "Three Drives",
     "from": [
@@ -199,40 +199,7 @@
   },
   {
     "rank": 19,
-    "score": 120,
-    "votes": 7,
-    "name": "Jamie xx",
-    "from": [
-      "Barry Can't Swim",
-      "Kelly Lee Owens",
-      "Underworld"
-    ]
-  },
-  {
-    "rank": 20,
-    "score": 119,
-    "votes": 4,
-    "name": "The Everywheres",
-    "from": [
-      "Night Beats",
-      "GHOSTWOMAN",
-      "New Candys"
-    ]
-  },
-  {
-    "rank": 21,
-    "score": 119,
-    "votes": 3,
-    "name": "The Postal Service",
-    "from": [
-      "LCD Soundsystem",
-      "The Flaming Lips",
-      "Silversun Pickups"
-    ]
-  },
-  {
-    "rank": 22,
-    "score": 118,
+    "score": 127,
     "votes": 7,
     "name": "Margarita Witch Cult",
     "from": [
@@ -242,19 +209,41 @@
     ]
   },
   {
-    "rank": 23,
-    "score": 118,
+    "rank": 20,
+    "score": 126,
     "votes": 6,
-    "name": "Galaxie 500",
+    "name": "4 Strings",
     "from": [
-      "Spiritualized",
-      "Ride",
-      "Deerhunter"
+      "Paul van Dyk",
+      "Chicane",
+      "Cosmic Gate"
     ]
   },
   {
-    "rank": 24,
-    "score": 118,
+    "rank": 21,
+    "score": 125,
+    "votes": 7,
+    "name": "Jamie xx",
+    "from": [
+      "Barry Can't Swim",
+      "Kelly Lee Owens",
+      "Underworld"
+    ]
+  },
+  {
+    "rank": 22,
+    "score": 123,
+    "votes": 4,
+    "name": "The Everywheres",
+    "from": [
+      "Night Beats",
+      "GHOSTWOMAN",
+      "New Candys"
+    ]
+  },
+  {
+    "rank": 23,
+    "score": 121,
     "votes": 5,
     "name": "The Walking Who",
     "from": [
@@ -264,8 +253,8 @@
     ]
   },
   {
-    "rank": 25,
-    "score": 117,
+    "rank": 24,
+    "score": 121,
     "votes": 8,
     "name": "Electric Light Orchestra",
     "from": [
@@ -275,19 +264,8 @@
     ]
   },
   {
-    "rank": 26,
-    "score": 117,
-    "votes": 7,
-    "name": "Empire Of The Sun",
-    "from": [
-      "Kings of Leon",
-      "Phantogram",
-      "Tame Impala"
-    ]
-  },
-  {
-    "rank": 27,
-    "score": 115,
+    "rank": 25,
+    "score": 121,
     "votes": 5,
     "name": "Ambrose Kenny-Smith",
     "from": [
@@ -297,30 +275,19 @@
     ]
   },
   {
-    "rank": 28,
-    "score": 114,
-    "votes": 4,
-    "name": "Grizzly Bear",
-    "from": [
-      "LCD Soundsystem",
-      "Arcade Fire",
-      "Future Islands"
-    ]
-  },
-  {
-    "rank": 29,
-    "score": 111,
+    "rank": 26,
+    "score": 119,
     "votes": 6,
-    "name": "4 Strings",
+    "name": "Galaxie 500",
     "from": [
-      "Paul van Dyk",
-      "Chicane",
-      "Fragma"
+      "Spiritualized",
+      "Ride",
+      "Deerhunter"
     ]
   },
   {
-    "rank": 30,
-    "score": 110,
+    "rank": 27,
+    "score": 118,
     "votes": 6,
     "name": "Mandrake Handshake",
     "from": [
@@ -330,8 +297,30 @@
     ]
   },
   {
-    "rank": 31,
-    "score": 110,
+    "rank": 28,
+    "score": 115,
+    "votes": 7,
+    "name": "Empire Of The Sun",
+    "from": [
+      "Kings of Leon",
+      "Phantogram",
+      "Tame Impala"
+    ]
+  },
+  {
+    "rank": 29,
+    "score": 114,
+    "votes": 3,
+    "name": "The Postal Service",
+    "from": [
+      "LCD Soundsystem",
+      "The Flaming Lips",
+      "Silversun Pickups"
+    ]
+  },
+  {
+    "rank": 30,
+    "score": 114,
     "votes": 6,
     "name": "Darkfield",
     "from": [
@@ -341,52 +330,8 @@
     ]
   },
   {
-    "rank": 32,
-    "score": 109,
-    "votes": 5,
-    "name": "Red Hot Chili Peppers",
-    "from": [
-      "Kings of Leon",
-      "Pixies",
-      "The Smashing Pumpkins"
-    ]
-  },
-  {
-    "rank": 33,
-    "score": 106,
-    "votes": 3,
-    "name": "Benny Benassi",
-    "from": [
-      "The Chemical Brothers",
-      "ATB",
-      "The Prodigy"
-    ]
-  },
-  {
-    "rank": 34,
-    "score": 105,
-    "votes": 6,
-    "name": "Daphni",
-    "from": [
-      "Kelly Lee Owens",
-      "HAAi",
-      "Floating Points"
-    ]
-  },
-  {
-    "rank": 35,
-    "score": 105,
-    "votes": 5,
-    "name": "Sparklehorse",
-    "from": [
-      "Spiritualized",
-      "Mogwai",
-      "The Smile"
-    ]
-  },
-  {
-    "rank": 36,
-    "score": 104,
+    "rank": 31,
+    "score": 113,
     "votes": 4,
     "name": "Three Drives On A Vinyl",
     "from": [
@@ -396,63 +341,30 @@
     ]
   },
   {
-    "rank": 37,
-    "score": 102,
+    "rank": 32,
+    "score": 111,
     "votes": 6,
-    "name": "Wall of Death",
+    "name": "Daphni",
     "from": [
-      "The Dharma Chain",
-      "Firefriend",
-      "Motrik"
+      "Kelly Lee Owens",
+      "HAAi",
+      "Daniel Avery"
     ]
   },
   {
-    "rank": 38,
-    "score": 102,
-    "votes": 5,
-    "name": "Aerosmith",
-    "from": [
-      "Black Sabbath",
-      "U2",
-      "Led Zeppelin"
-    ]
-  },
-  {
-    "rank": 39,
-    "score": 102,
+    "rank": 33,
+    "score": 110,
     "votes": 4,
-    "name": "Richard Ashcroft",
+    "name": "Grizzly Bear",
     "from": [
-      "Noel Gallagher's High Flying Birds",
-      "Johnny Marr",
-      "Doves"
+      "LCD Soundsystem",
+      "Arcade Fire",
+      "Future Islands"
     ]
   },
   {
-    "rank": 40,
-    "score": 100,
-    "votes": 4,
-    "name": "Saxon Shore",
-    "from": [
-      "sleepmakeswaves",
-      "Explosions In The Sky",
-      "Caspian"
-    ]
-  },
-  {
-    "rank": 41,
-    "score": 100,
-    "votes": 4,
-    "name": "Van Halen",
-    "from": [
-      "ZZ Top",
-      "Led Zeppelin",
-      "Iron Maiden"
-    ]
-  },
-  {
-    "rank": 42,
-    "score": 100,
+    "rank": 34,
+    "score": 109,
     "votes": 6,
     "name": "Flavor Crystals",
     "from": [
@@ -462,105 +374,8 @@
     ]
   },
   {
-    "rank": 43,
-    "score": 98,
-    "votes": 5,
-    "name": "Duran Duran",
-    "from": [
-      "New Order",
-      "The Cure",
-      "INXS"
-    ]
-  },
-  {
-    "rank": 44,
-    "score": 98,
-    "votes": 3,
-    "name": "Roy Orbison",
-    "from": [
-      "Dusty Springfield",
-      "The Beach Boys",
-      "Dion"
-    ]
-  },
-  {
-    "rank": 45,
-    "score": 97,
-    "votes": 4,
-    "name": "Rocket Mike",
-    "from": [
-      "Mattiel",
-      "Beyond The Wizards Sleeve",
-      "The Limiñanas"
-    ]
-  },
-  {
-    "rank": 46,
-    "score": 97,
-    "votes": 6,
-    "name": "Miike Snow",
-    "from": [
-      "Ladyhawke",
-      "TV On The Radio",
-      "CHVRCHES"
-    ]
-  },
-  {
-    "rank": 47,
-    "score": 97,
-    "votes": 2,
-    "name": "Crazy Town",
-    "from": [
-      "The Chemical Brothers",
-      "Caesars"
-    ]
-  },
-  {
-    "rank": 48,
-    "score": 97,
-    "votes": 2,
-    "name": "White Town",
-    "from": [
-      "The Chemical Brothers",
-      "Caesars"
-    ]
-  },
-  {
-    "rank": 49,
-    "score": 95,
-    "votes": 7,
-    "name": "Jack White",
-    "from": [
-      "Death From Above 1979",
-      "Angine de Poitrine",
-      "Black Rebel Motorcycle Club"
-    ]
-  },
-  {
-    "rank": 50,
-    "score": 94,
-    "votes": 5,
-    "name": "Cast",
-    "from": [
-      "Noel Gallagher's High Flying Birds",
-      "Primal Scream",
-      "The Stone Roses"
-    ]
-  },
-  {
-    "rank": 51,
-    "score": 93,
-    "votes": 4,
-    "name": "Alice In Chains",
-    "from": [
-      "Black Sabbath",
-      "The Smashing Pumpkins",
-      "Queens of the Stone Age"
-    ]
-  },
-  {
-    "rank": 52,
-    "score": 93,
+    "rank": 35,
+    "score": 107,
     "votes": 7,
     "name": "Cristoph",
     "from": [
@@ -570,128 +385,237 @@
     ]
   },
   {
-    "rank": 53,
-    "score": 92,
+    "rank": 36,
+    "score": 106,
+    "votes": 5,
+    "name": "Sparklehorse",
+    "from": [
+      "Spiritualized",
+      "Mogwai",
+      "The Smile"
+    ]
+  },
+  {
+    "rank": 37,
+    "score": 104,
+    "votes": 3,
+    "name": "Benny Benassi",
+    "from": [
+      "The Chemical Brothers",
+      "ATB",
+      "The Prodigy"
+    ]
+  },
+  {
+    "rank": 38,
+    "score": 104,
+    "votes": 5,
+    "name": "Red Hot Chili Peppers",
+    "from": [
+      "Kings of Leon",
+      "Pixies",
+      "The Smashing Pumpkins"
+    ]
+  },
+  {
+    "rank": 39,
+    "score": 104,
+    "votes": 6,
+    "name": "Wall of Death",
+    "from": [
+      "The Dharma Chain",
+      "Firefriend",
+      "Motrik"
+    ]
+  },
+  {
+    "rank": 40,
+    "score": 104,
     "votes": 4,
-    "name": "Rage Against The Machine",
+    "name": "Richard Ashcroft",
+    "from": [
+      "Noel Gallagher's High Flying Birds",
+      "Johnny Marr",
+      "Doves"
+    ]
+  },
+  {
+    "rank": 41,
+    "score": 103,
+    "votes": 4,
+    "name": "Saxon Shore",
+    "from": [
+      "sleepmakeswaves",
+      "Explosions In The Sky",
+      "Caspian"
+    ]
+  },
+  {
+    "rank": 42,
+    "score": 102,
+    "votes": 6,
+    "name": "Miike Snow",
+    "from": [
+      "Ladyhawke",
+      "TV On The Radio",
+      "CHVRCHES"
+    ]
+  },
+  {
+    "rank": 43,
+    "score": 101,
+    "votes": 4,
+    "name": "Rocket Mike",
+    "from": [
+      "Beyond The Wizards Sleeve",
+      "Mattiel",
+      "The Limiñanas"
+    ]
+  },
+  {
+    "rank": 44,
+    "score": 99,
+    "votes": 7,
+    "name": "Jack White",
+    "from": [
+      "Angine de Poitrine",
+      "Death From Above 1979",
+      "Black Rebel Motorcycle Club"
+    ]
+  },
+  {
+    "rank": 45,
+    "score": 99,
+    "votes": 5,
+    "name": "Aerosmith",
     "from": [
       "Black Sabbath",
-      "Queens of the Stone Age",
-      "The Prodigy"
+      "U2",
+      "Led Zeppelin"
+    ]
+  },
+  {
+    "rank": 46,
+    "score": 98,
+    "votes": 5,
+    "name": "Cast",
+    "from": [
+      "Noel Gallagher's High Flying Birds",
+      "Primal Scream",
+      "The Stone Roses"
+    ]
+  },
+  {
+    "rank": 47,
+    "score": 96,
+    "votes": 5,
+    "name": "Duran Duran",
+    "from": [
+      "New Order",
+      "The Cure",
+      "INXS"
+    ]
+  },
+  {
+    "rank": 48,
+    "score": 96,
+    "votes": 4,
+    "name": "Van Halen",
+    "from": [
+      "ZZ Top",
+      "Led Zeppelin",
+      "Ozzy Osbourne"
+    ]
+  },
+  {
+    "rank": 49,
+    "score": 95,
+    "votes": 5,
+    "name": "Cambrian Explosion",
+    "from": [
+      "Monomyth",
+      "Papir",
+      "delving"
+    ]
+  },
+  {
+    "rank": 50,
+    "score": 94,
+    "votes": 6,
+    "name": "Cold War Kids",
+    "from": [
+      "Silversun Pickups",
+      "TV On The Radio",
+      "The Kills"
+    ]
+  },
+  {
+    "rank": 51,
+    "score": 93,
+    "votes": 2,
+    "name": "Crazy Town",
+    "from": [
+      "The Chemical Brothers",
+      "Caesars"
+    ]
+  },
+  {
+    "rank": 52,
+    "score": 93,
+    "votes": 2,
+    "name": "White Town",
+    "from": [
+      "The Chemical Brothers",
+      "Caesars"
+    ]
+  },
+  {
+    "rank": 53,
+    "score": 92,
+    "votes": 6,
+    "name": "Red Desert",
+    "from": [
+      "Swan Valley Heights",
+      "The Heavy Eyes",
+      "The Atomic Bitchwax"
     ]
   },
   {
     "rank": 54,
     "score": 92,
-    "votes": 4,
-    "name": "Soundgarden",
+    "votes": 8,
+    "name": "The Drifters",
     "from": [
-      "Black Sabbath",
-      "The Smashing Pumpkins",
-      "Queens of the Stone Age"
+      "The Marvelettes",
+      "The Crystals",
+      "The Supremes"
     ]
   },
   {
     "rank": 55,
-    "score": 91,
-    "votes": 4,
-    "name": "The White Stripes",
+    "score": 92,
+    "votes": 3,
+    "name": "Roy Orbison",
     "from": [
-      "Caesars",
-      "Pixies",
-      "The Black Keys"
+      "Dusty Springfield",
+      "The Beach Boys",
+      "Dion"
     ]
   },
   {
     "rank": 56,
     "score": 91,
-    "votes": 4,
-    "name": "Guns N' Roses",
+    "votes": 7,
+    "name": "Lykke Li",
     "from": [
-      "Black Sabbath",
-      "Pink Floyd",
-      "Iron Maiden"
+      "Phantogram",
+      "Fred again..",
+      "The xx"
     ]
   },
   {
     "rank": 57,
     "score": 91,
-    "votes": 4,
-    "name": "Trailer Trash Tracys",
-    "from": [
-      "Maps",
-      "The Raveonettes",
-      "Porcelain Raft"
-    ]
-  },
-  {
-    "rank": 58,
-    "score": 90,
-    "votes": 6,
-    "name": "Cold War Kids",
-    "from": [
-      "TV On The Radio",
-      "Silversun Pickups",
-      "The Kills"
-    ]
-  },
-  {
-    "rank": 59,
-    "score": 89,
-    "votes": 4,
-    "name": "The Kooks",
-    "from": [
-      "Kings of Leon",
-      "Noel Gallagher's High Flying Birds",
-      "Foals"
-    ]
-  },
-  {
-    "rank": 60,
-    "score": 89,
-    "votes": 2,
-    "name": "Vampire Weekend",
-    "from": [
-      "LCD Soundsystem",
-      "Arcade Fire"
-    ]
-  },
-  {
-    "rank": 61,
-    "score": 88,
-    "votes": 4,
-    "name": "Embrace",
-    "from": [
-      "Noel Gallagher's High Flying Birds",
-      "Doves",
-      "Elbow"
-    ]
-  },
-  {
-    "rank": 62,
-    "score": 87,
-    "votes": 5,
-    "name": "Otis Redding",
-    "from": [
-      "Dusty Springfield",
-      "The Supremes",
-      "Stevie Wonder"
-    ]
-  },
-  {
-    "rank": 63,
-    "score": 87,
-    "votes": 4,
-    "name": "The Auras",
-    "from": [
-      "The Dharma Chain",
-      "New Candys",
-      "Firefriend"
-    ]
-  },
-  {
-    "rank": 64,
-    "score": 87,
     "votes": 3,
     "name": "The Groovy Nobody",
     "from": [
@@ -701,40 +625,128 @@
     ]
   },
   {
+    "rank": 58,
+    "score": 89,
+    "votes": 4,
+    "name": "The Auras",
+    "from": [
+      "The Dharma Chain",
+      "New Candys",
+      "Firefriend"
+    ]
+  },
+  {
+    "rank": 59,
+    "score": 89,
+    "votes": 7,
+    "name": "Dosem",
+    "from": [
+      "Estiva",
+      "Durante",
+      "Sasha"
+    ]
+  },
+  {
+    "rank": 60,
+    "score": 89,
+    "votes": 5,
+    "name": "Harry Styles",
+    "from": [
+      "Taylor Swift",
+      "Tame Impala",
+      "Robyn"
+    ]
+  },
+  {
+    "rank": 61,
+    "score": 88,
+    "votes": 6,
+    "name": "The Lumineers",
+    "from": [
+      "Kings of Leon",
+      "Bon Iver",
+      "Mumford & Sons"
+    ]
+  },
+  {
+    "rank": 62,
+    "score": 88,
+    "votes": 4,
+    "name": "YENISEI",
+    "from": [
+      "Tides From Nebula",
+      "hubris.",
+      "Exxasens"
+    ]
+  },
+  {
+    "rank": 63,
+    "score": 88,
+    "votes": 4,
+    "name": "Mauro Picotto",
+    "from": [
+      "Paul van Dyk",
+      "Binary Finary",
+      "Cosmic Gate"
+    ]
+  },
+  {
+    "rank": 64,
+    "score": 87,
+    "votes": 9,
+    "name": "Marsh",
+    "from": [
+      "YOTTO",
+      "Durante",
+      "Trilucid"
+    ]
+  },
+  {
     "rank": 65,
     "score": 87,
-    "votes": 3,
-    "name": "Steppenwolf",
+    "votes": 6,
+    "name": "Rainbows Are Free",
     "from": [
-      "ZZ Top",
-      "Led Zeppelin",
-      "The Rolling Stones"
+      "Orchid",
+      "The Atomic Bitchwax",
+      "The Kings Of Frog Island"
     ]
   },
   {
     "rank": 66,
     "score": 87,
-    "votes": 3,
-    "name": "The Who",
+    "votes": 4,
+    "name": "Embrace",
     "from": [
-      "ZZ Top",
-      "Led Zeppelin",
-      "The Rolling Stones"
+      "Noel Gallagher's High Flying Birds",
+      "Doves",
+      "Elbow"
     ]
   },
   {
     "rank": 67,
-    "score": 86,
-    "votes": 3,
-    "name": "Belle and Sebastian",
+    "score": 87,
+    "votes": 4,
+    "name": "The White Stripes",
     "from": [
-      "Spiritualized",
-      "The Flaming Lips",
-      "Yo La Tengo"
+      "Caesars",
+      "Pixies",
+      "The Black Keys"
     ]
   },
   {
     "rank": 68,
+    "score": 86,
+    "votes": 4,
+    "name": "Alice In Chains",
+    "from": [
+      "Black Sabbath",
+      "The Smashing Pumpkins",
+      "Queens of the Stone Age"
+    ]
+  },
+  {
+    "rank": 69,
     "score": 86,
     "votes": 3,
     "name": "Basement Jaxx",
@@ -745,19 +757,128 @@
     ]
   },
   {
-    "rank": 69,
-    "score": 85,
-    "votes": 5,
-    "name": "Cambrian Explosion",
+    "rank": 70,
+    "score": 86,
+    "votes": 4,
+    "name": "The Kooks",
     "from": [
-      "Monomyth",
-      "Papir",
-      "Yuri Gagarin (SWE)"
+      "Noel Gallagher's High Flying Birds",
+      "Kings of Leon",
+      "Jake Bugg"
     ]
   },
   {
-    "rank": 70,
+    "rank": 71,
+    "score": 86,
+    "votes": 4,
+    "name": "Trailer Trash Tracys",
+    "from": [
+      "Maps",
+      "The Raveonettes",
+      "Porcelain Raft"
+    ]
+  },
+  {
+    "rank": 72,
+    "score": 86,
+    "votes": 3,
+    "name": "Belle and Sebastian",
+    "from": [
+      "Spiritualized",
+      "The Flaming Lips",
+      "Yo La Tengo"
+    ]
+  },
+  {
+    "rank": 73,
+    "score": 86,
+    "votes": 4,
+    "name": "Three 'N One",
+    "from": [
+      "Paul van Dyk",
+      "Binary Finary",
+      "Fragma"
+    ]
+  },
+  {
+    "rank": 74,
+    "score": 86,
+    "votes": 4,
+    "name": "Soundgarden",
+    "from": [
+      "Black Sabbath",
+      "The Smashing Pumpkins",
+      "Queens of the Stone Age"
+    ]
+  },
+  {
+    "rank": 75,
     "score": 85,
+    "votes": 4,
+    "name": "Rage Against The Machine",
+    "from": [
+      "Black Sabbath",
+      "Dropkick Murphys",
+      "Queens of the Stone Age"
+    ]
+  },
+  {
+    "rank": 76,
+    "score": 85,
+    "votes": 5,
+    "name": "Otis Redding",
+    "from": [
+      "Dusty Springfield",
+      "The Supremes",
+      "Stevie Wonder"
+    ]
+  },
+  {
+    "rank": 77,
+    "score": 84,
+    "votes": 3,
+    "name": "Steppenwolf",
+    "from": [
+      "ZZ Top",
+      "Led Zeppelin",
+      "The Rolling Stones"
+    ]
+  },
+  {
+    "rank": 78,
+    "score": 84,
+    "votes": 3,
+    "name": "The Who",
+    "from": [
+      "ZZ Top",
+      "Led Zeppelin",
+      "The Rolling Stones"
+    ]
+  },
+  {
+    "rank": 79,
+    "score": 84,
+    "votes": 2,
+    "name": "Vampire Weekend",
+    "from": [
+      "LCD Soundsystem",
+      "Arcade Fire"
+    ]
+  },
+  {
+    "rank": 80,
+    "score": 83,
+    "votes": 5,
+    "name": "Kodomo",
+    "from": [
+      "Tycho",
+      "Ulrich Schnauss",
+      "Yppah"
+    ]
+  },
+  {
+    "rank": 81,
+    "score": 83,
     "votes": 4,
     "name": "Depeche Mode",
     "from": [
@@ -767,51 +888,18 @@
     ]
   },
   {
-    "rank": 71,
-    "score": 85,
-    "votes": 6,
-    "name": "Red Desert",
-    "from": [
-      "Swan Valley Heights",
-      "The Heavy Eyes",
-      "The Atomic Bitchwax"
-    ]
-  },
-  {
-    "rank": 72,
-    "score": 84,
-    "votes": 4,
-    "name": "YENISEI",
-    "from": [
-      "Tides From Nebula",
-      "hubris.",
-      "Exxasens"
-    ]
-  },
-  {
-    "rank": 73,
-    "score": 84,
-    "votes": 4,
-    "name": "Aretha Franklin",
-    "from": [
-      "Dusty Springfield",
-      "The Supremes",
-      "Stevie Wonder"
-    ]
-  },
-  {
-    "rank": 74,
+    "rank": 82,
     "score": 83,
-    "votes": 8,
-    "name": "The Drifters",
+    "votes": 4,
+    "name": "Alex Ebert",
     "from": [
-      "The Marvelettes",
-      "The Supremes",
-      "The Crystals"
+      "Mattiel",
+      "Daniel Norgren",
+      "Junip"
     ]
   },
   {
-    "rank": 75,
+    "rank": 83,
     "score": 83,
     "votes": 6,
     "name": "The Vines",
@@ -822,30 +910,19 @@
     ]
   },
   {
-    "rank": 76,
+    "rank": 84,
     "score": 83,
     "votes": 4,
-    "name": "Alex Ebert",
+    "name": "Guns N' Roses",
     "from": [
-      "Mattiel",
-      "Junip",
-      "Daniel Norgren"
+      "Black Sabbath",
+      "Pink Floyd",
+      "Ozzy Osbourne"
     ]
   },
   {
-    "rank": 77,
-    "score": 83,
-    "votes": 5,
-    "name": "Public Image Ltd.",
-    "from": [
-      "The Church",
-      "The Fall",
-      "Gary Numan"
-    ]
-  },
-  {
-    "rank": 78,
-    "score": 83,
+    "rank": 85,
+    "score": 81,
     "votes": 5,
     "name": "Sam Cooke",
     "from": [
@@ -855,107 +932,8 @@
     ]
   },
   {
-    "rank": 79,
-    "score": 83,
-    "votes": 3,
-    "name": "Geese",
-    "from": [
-      "LCD Soundsystem",
-      "Angine de Poitrine",
-      "King Gizzard & The Lizard Wizard"
-    ]
-  },
-  {
-    "rank": 80,
-    "score": 82,
-    "votes": 6,
-    "name": "Rainbows Are Free",
-    "from": [
-      "Orchid",
-      "The Atomic Bitchwax",
-      "The Kings Of Frog Island"
-    ]
-  },
-  {
-    "rank": 81,
-    "score": 82,
-    "votes": 5,
-    "name": "Harry Styles",
-    "from": [
-      "Taylor Swift",
-      "Tame Impala",
-      "Robyn"
-    ]
-  },
-  {
-    "rank": 82,
-    "score": 81,
-    "votes": 4,
-    "name": "Mauro Picotto",
-    "from": [
-      "Paul van Dyk",
-      "Binary Finary",
-      "Fragma"
-    ]
-  },
-  {
-    "rank": 83,
-    "score": 81,
-    "votes": 5,
-    "name": "Kodomo",
-    "from": [
-      "Tycho",
-      "Ulrich Schnauss",
-      "Yppah"
-    ]
-  },
-  {
-    "rank": 84,
-    "score": 80,
-    "votes": 7,
-    "name": "Dosem",
-    "from": [
-      "Estiva",
-      "Durante",
-      "Sasha"
-    ]
-  },
-  {
-    "rank": 85,
-    "score": 80,
-    "votes": 6,
-    "name": "The Lumineers",
-    "from": [
-      "Kings of Leon",
-      "Bon Iver",
-      "Florence + The Machine"
-    ]
-  },
-  {
     "rank": 86,
-    "score": 80,
-    "votes": 7,
-    "name": "Lykke Li",
-    "from": [
-      "Phantogram",
-      "Fred again..",
-      "The xx"
-    ]
-  },
-  {
-    "rank": 87,
-    "score": 80,
-    "votes": 4,
-    "name": "Three 'N One",
-    "from": [
-      "Paul van Dyk",
-      "Binary Finary",
-      "Fragma"
-    ]
-  },
-  {
-    "rank": 88,
-    "score": 79,
+    "score": 81,
     "votes": 4,
     "name": "The Crooked Rugs",
     "from": [
@@ -965,8 +943,74 @@
     ]
   },
   {
+    "rank": 87,
+    "score": 80,
+    "votes": 5,
+    "name": "Liset Alea",
+    "from": [
+      "Booka Shade",
+      "Cubicolor",
+      "Kaktus Einarsson"
+    ]
+  },
+  {
+    "rank": 88,
+    "score": 80,
+    "votes": 4,
+    "name": "Aretha Franklin",
+    "from": [
+      "Dusty Springfield",
+      "The Supremes",
+      "Stevie Wonder"
+    ]
+  },
+  {
     "rank": 89,
+    "score": 80,
+    "votes": 3,
+    "name": "Geese",
+    "from": [
+      "LCD Soundsystem",
+      "Angine de Poitrine",
+      "King Gizzard & The Lizard Wizard"
+    ]
+  },
+  {
+    "rank": 90,
+    "score": 80,
+    "votes": 6,
+    "name": "The Police",
+    "from": [
+      "The Cure",
+      "U2",
+      "Pink Floyd"
+    ]
+  },
+  {
+    "rank": 91,
+    "score": 79,
+    "votes": 6,
+    "name": "Betty Everett",
+    "from": [
+      "The Marvelettes",
+      "The Crystals",
+      "The Supremes"
+    ]
+  },
+  {
+    "rank": 92,
     "score": 78,
+    "votes": 6,
+    "name": "Florence + The Machine",
+    "from": [
+      "CHVRCHES",
+      "Gang of Youths",
+      "Robyn"
+    ]
+  },
+  {
+    "rank": 93,
+    "score": 77,
     "votes": 5,
     "name": "De La Soul",
     "from": [
@@ -976,73 +1020,30 @@
     ]
   },
   {
-    "rank": 90,
-    "score": 78,
-    "votes": 3,
-    "name": "KISS",
-    "from": [
-      "Black Sabbath",
-      "Iron Maiden",
-      "Ozzy Osbourne"
-    ]
-  },
-  {
-    "rank": 91,
-    "score": 78,
-    "votes": 3,
-    "name": "Metallica",
-    "from": [
-      "Black Sabbath",
-      "Iron Maiden",
-      "Ozzy Osbourne"
-    ]
-  },
-  {
-    "rank": 92,
-    "score": 78,
-    "votes": 3,
-    "name": "Pantera",
-    "from": [
-      "Black Sabbath",
-      "Iron Maiden",
-      "Ozzy Osbourne"
-    ]
-  },
-  {
-    "rank": 93,
-    "score": 78,
-    "votes": 2,
-    "name": "Boston",
-    "from": [
-      "ZZ Top",
-      "Led Zeppelin"
-    ]
-  },
-  {
     "rank": 94,
     "score": 77,
-    "votes": 9,
-    "name": "Marsh",
+    "votes": 3,
+    "name": "Iron & Wine",
     "from": [
-      "YOTTO",
-      "Durante",
-      "Cubicolor"
+      "The National",
+      "Bon Iver",
+      "Phosphorescent"
     ]
   },
   {
     "rank": 95,
-    "score": 77,
-    "votes": 3,
-    "name": "Lenny Kravitz",
+    "score": 76,
+    "votes": 4,
+    "name": "Class Actress",
     "from": [
-      "Kings of Leon",
-      "INXS",
-      "U2"
+      "The Raveonettes",
+      "Ladytron",
+      "POLIÇA"
     ]
   },
   {
     "rank": 96,
-    "score": 77,
+    "score": 76,
     "votes": 5,
     "name": "Peter Bjorn and John",
     "from": [
@@ -1054,133 +1055,6 @@
   {
     "rank": 97,
     "score": 76,
-    "votes": 4,
-    "name": "The Human League",
-    "from": [
-      "New Order",
-      "INXS",
-      "Talking Heads"
-    ]
-  },
-  {
-    "rank": 98,
-    "score": 76,
-    "votes": 2,
-    "name": "Grasscut",
-    "from": [
-      "Maps",
-      "Fuck Buttons"
-    ]
-  },
-  {
-    "rank": 99,
-    "score": 75,
-    "votes": 2,
-    "name": "Tom Petty",
-    "from": [
-      "ZZ Top",
-      "The Rolling Stones"
-    ]
-  },
-  {
-    "rank": 100,
-    "score": 75,
-    "votes": 6,
-    "name": "The Police",
-    "from": [
-      "The Cure",
-      "U2",
-      "Pink Floyd"
-    ]
-  },
-  {
-    "rank": 101,
-    "score": 74,
-    "votes": 4,
-    "name": "Class Actress",
-    "from": [
-      "The Raveonettes",
-      "Ladytron",
-      "POLIÇA"
-    ]
-  },
-  {
-    "rank": 102,
-    "score": 73,
-    "votes": 6,
-    "name": "Betty Everett",
-    "from": [
-      "The Marvelettes",
-      "The Supremes",
-      "The Crystals"
-    ]
-  },
-  {
-    "rank": 103,
-    "score": 73,
-    "votes": 3,
-    "name": "Iron & Wine",
-    "from": [
-      "The National",
-      "Bon Iver",
-      "Phosphorescent"
-    ]
-  },
-  {
-    "rank": 104,
-    "score": 73,
-    "votes": 2,
-    "name": "Kid Francescoli",
-    "from": [
-      "Röyksopp",
-      "Still Corners"
-    ]
-  },
-  {
-    "rank": 105,
-    "score": 72,
-    "votes": 4,
-    "name": "DjRUM",
-    "from": [
-      "Floating Points",
-      "Daniel Avery",
-      "Rival Consoles"
-    ]
-  },
-  {
-    "rank": 106,
-    "score": 72,
-    "votes": 2,
-    "name": "Boys Noize",
-    "from": [
-      "The Chemical Brothers",
-      "Soulwax"
-    ]
-  },
-  {
-    "rank": 107,
-    "score": 72,
-    "votes": 2,
-    "name": "Ultra Naté",
-    "from": [
-      "The Chemical Brothers",
-      "Faithless"
-    ]
-  },
-  {
-    "rank": 108,
-    "score": 72,
-    "votes": 3,
-    "name": "Colbey",
-    "from": [
-      "GHOSTWOMAN",
-      "World News",
-      "Magic Shoppe"
-    ]
-  },
-  {
-    "rank": 109,
-    "score": 71,
     "votes": 5,
     "name": "Daryl Hall & John Oates",
     "from": [
@@ -1190,19 +1064,125 @@
     ]
   },
   {
-    "rank": 110,
-    "score": 71,
-    "votes": 5,
-    "name": "Liset Alea",
+    "rank": 98,
+    "score": 75,
+    "votes": 2,
+    "name": "Kid Francescoli",
     "from": [
-      "Booka Shade",
-      "Cubicolor",
-      "Kaktus Einarsson"
+      "Röyksopp",
+      "Still Corners"
     ]
   },
   {
-    "rank": 111,
-    "score": 71,
+    "rank": 99,
+    "score": 75,
+    "votes": 3,
+    "name": "Blossoms",
+    "from": [
+      "Noel Gallagher's High Flying Birds",
+      "Johnny Marr",
+      "Jake Bugg"
+    ]
+  },
+  {
+    "rank": 100,
+    "score": 74,
+    "votes": 2,
+    "name": "Ultra Naté",
+    "from": [
+      "The Chemical Brothers",
+      "Faithless"
+    ]
+  },
+  {
+    "rank": 101,
+    "score": 74,
+    "votes": 5,
+    "name": "Ocean Colour Scene",
+    "from": [
+      "Primal Scream",
+      "The Stone Roses",
+      "The Jam"
+    ]
+  },
+  {
+    "rank": 102,
+    "score": 74,
+    "votes": 2,
+    "name": "Boys Noize",
+    "from": [
+      "The Chemical Brothers",
+      "Soulwax"
+    ]
+  },
+  {
+    "rank": 103,
+    "score": 74,
+    "votes": 2,
+    "name": "Boston",
+    "from": [
+      "ZZ Top",
+      "Led Zeppelin"
+    ]
+  },
+  {
+    "rank": 104,
+    "score": 73,
+    "votes": 3,
+    "name": "Colbey",
+    "from": [
+      "GHOSTWOMAN",
+      "World News",
+      "Magic Shoppe"
+    ]
+  },
+  {
+    "rank": 105,
+    "score": 73,
+    "votes": 4,
+    "name": "Hazemaze",
+    "from": [
+      "Orchid",
+      "Swan Valley Heights",
+      "Black Rainbows"
+    ]
+  },
+  {
+    "rank": 106,
+    "score": 73,
+    "votes": 4,
+    "name": "The Libertines",
+    "from": [
+      "Noel Gallagher's High Flying Birds",
+      "The Stone Roses",
+      "The Coral"
+    ]
+  },
+  {
+    "rank": 107,
+    "score": 73,
+    "votes": 4,
+    "name": "DjRUM",
+    "from": [
+      "Daniel Avery",
+      "Floating Points",
+      "Rival Consoles"
+    ]
+  },
+  {
+    "rank": 108,
+    "score": 73,
+    "votes": 9,
+    "name": "LTN",
+    "from": [
+      "Estiva",
+      "Trilucid",
+      "ANUQRAM"
+    ]
+  },
+  {
+    "rank": 109,
+    "score": 73,
     "votes": 3,
     "name": "Mousey",
     "from": [
@@ -1212,30 +1192,51 @@
     ]
   },
   {
-    "rank": 112,
-    "score": 71,
-    "votes": 3,
-    "name": "Foo Fighters",
+    "rank": 110,
+    "score": 73,
+    "votes": 4,
+    "name": "Deathchant",
     "from": [
-      "Kings of Leon",
-      "The Smashing Pumpkins",
-      "Queens of the Stone Age"
+      "Green Lung",
+      "Slomosa",
+      "Kal-El"
+    ]
+  },
+  {
+    "rank": 111,
+    "score": 72,
+    "votes": 7,
+    "name": "Nils Hoffmann",
+    "from": [
+      "YOTTO",
+      "Kidnap",
+      "Klangkarussell"
+    ]
+  },
+  {
+    "rank": 112,
+    "score": 72,
+    "votes": 2,
+    "name": "Grasscut",
+    "from": [
+      "Maps",
+      "Fuck Buttons"
     ]
   },
   {
     "rank": 113,
-    "score": 70,
-    "votes": 3,
-    "name": "Bad Liquor Pond",
+    "score": 72,
+    "votes": 8,
+    "name": "Felix Raphael",
     "from": [
-      "Night Beats",
-      "Wooden Shjips",
-      "Magic Shoppe"
+      "Kidnap",
+      "Cubicolor",
+      "Kaktus Einarsson"
     ]
   },
   {
     "rank": 114,
-    "score": 70,
+    "score": 72,
     "votes": 3,
     "name": "Dead Ghosts",
     "from": [
@@ -1246,51 +1247,40 @@
   },
   {
     "rank": 115,
-    "score": 70,
-    "votes": 5,
-    "name": "Ocean Colour Scene",
+    "score": 72,
+    "votes": 8,
+    "name": "Parallel Voices",
     "from": [
-      "Primal Scream",
-      "The Stone Roses",
-      "The Jam"
+      "Jon Gurd",
+      "Trilucid",
+      "Yeadon"
     ]
   },
   {
     "rank": 116,
-    "score": 69,
+    "score": 72,
     "votes": 3,
-    "name": "Blossoms",
+    "name": "Bad Liquor Pond",
     "from": [
-      "Noel Gallagher's High Flying Birds",
-      "Johnny Marr",
-      "Jake Bugg"
+      "Night Beats",
+      "Wooden Shjips",
+      "Magic Shoppe"
     ]
   },
   {
     "rank": 117,
-    "score": 69,
-    "votes": 4,
-    "name": "School Of Seven Bells",
+    "score": 71,
+    "votes": 5,
+    "name": "Public Image Ltd.",
     "from": [
-      "Maps",
-      "POLIÇA",
-      "Porcelain Raft"
+      "The Church",
+      "The Jesus and Mary Chain",
+      "The Fall"
     ]
   },
   {
     "rank": 118,
-    "score": 69,
-    "votes": 4,
-    "name": "Young Galaxy",
-    "from": [
-      "Maps",
-      "POLIÇA",
-      "Porcelain Raft"
-    ]
-  },
-  {
-    "rank": 119,
-    "score": 68,
+    "score": 71,
     "votes": 4,
     "name": "Mokhov",
     "from": [
@@ -1300,8 +1290,29 @@
     ]
   },
   {
+    "rank": 119,
+    "score": 71,
+    "votes": 2,
+    "name": "Tom Petty",
+    "from": [
+      "ZZ Top",
+      "The Rolling Stones"
+    ]
+  },
+  {
     "rank": 120,
-    "score": 68,
+    "score": 71,
+    "votes": 4,
+    "name": "The Human League",
+    "from": [
+      "New Order",
+      "INXS",
+      "Talking Heads"
+    ]
+  },
+  {
+    "rank": 121,
+    "score": 70,
     "votes": 3,
     "name": "DOPE LEMON",
     "from": [
@@ -1311,114 +1322,63 @@
     ]
   },
   {
-    "rank": 121,
-    "score": 68,
-    "votes": 2,
-    "name": "The Animals",
-    "from": [
-      "Black Sabbath",
-      "The Clash"
-    ]
-  },
-  {
     "rank": 122,
-    "score": 68,
-    "votes": 2,
-    "name": "Bob Seger",
+    "score": 70,
+    "votes": 4,
+    "name": "Ben Howard",
     "from": [
-      "ZZ Top",
-      "Steve Earle"
+      "The National",
+      "The Tallest Man On Earth",
+      "Nick Mulvey"
     ]
   },
   {
     "rank": 123,
-    "score": 67,
-    "votes": 4,
-    "name": "Hazemaze",
+    "score": 70,
+    "votes": 3,
+    "name": "KISS",
     "from": [
-      "Orchid",
-      "Swan Valley Heights",
-      "Black Rainbows"
+      "Black Sabbath",
+      "Ozzy Osbourne",
+      "Iron Maiden"
     ]
   },
   {
     "rank": 124,
-    "score": 67,
-    "votes": 2,
-    "name": "System Of A Down",
+    "score": 70,
+    "votes": 3,
+    "name": "Metallica",
     "from": [
       "Black Sabbath",
-      "Ozzy Osbourne"
+      "Ozzy Osbourne",
+      "Iron Maiden"
     ]
   },
   {
     "rank": 125,
-    "score": 67,
-    "votes": 4,
-    "name": "Deathchant",
+    "score": 70,
+    "votes": 3,
+    "name": "Pantera",
     "from": [
-      "Green Lung",
-      "Slomosa",
-      "Kal-El"
+      "Black Sabbath",
+      "Ozzy Osbourne",
+      "Iron Maiden"
     ]
   },
   {
     "rank": 126,
-    "score": 66,
-    "votes": 1,
-    "name": "Billy Squier",
+    "score": 70,
+    "votes": 4,
+    "name": "Miley Cyrus",
     "from": [
-      "ZZ Top"
+      "Taylor Swift",
+      "Robyn",
+      "Dua Lipa"
     ]
   },
   {
     "rank": 127,
-    "score": 66,
-    "votes": 1,
-    "name": "Foghat",
-    "from": [
-      "ZZ Top"
-    ]
-  },
-  {
-    "rank": 128,
-    "score": 66,
-    "votes": 1,
-    "name": "Free",
-    "from": [
-      "ZZ Top"
-    ]
-  },
-  {
-    "rank": 129,
-    "score": 66,
-    "votes": 1,
-    "name": "Ram Jam",
-    "from": [
-      "ZZ Top"
-    ]
-  },
-  {
-    "rank": 130,
-    "score": 66,
-    "votes": 1,
-    "name": "Steve Miller Band",
-    "from": [
-      "ZZ Top"
-    ]
-  },
-  {
-    "rank": 131,
-    "score": 66,
-    "votes": 1,
-    "name": "Ted Nugent",
-    "from": [
-      "ZZ Top"
-    ]
-  },
-  {
-    "rank": 132,
-    "score": 66,
+    "score": 69,
     "votes": 4,
     "name": "Brasstronaut",
     "from": [
@@ -1428,8 +1388,73 @@
     ]
   },
   {
+    "rank": 128,
+    "score": 69,
+    "votes": 3,
+    "name": "Lenny Kravitz",
+    "from": [
+      "Kings of Leon",
+      "INXS",
+      "U2"
+    ]
+  },
+  {
+    "rank": 129,
+    "score": 69,
+    "votes": 5,
+    "name": "Albert Collins",
+    "from": [
+      "The Fabulous Thunderbirds",
+      "Jimmie Vaughan",
+      "Muddy Waters"
+    ]
+  },
+  {
+    "rank": 130,
+    "score": 69,
+    "votes": 5,
+    "name": "Buddy Guy",
+    "from": [
+      "The Fabulous Thunderbirds",
+      "Jimmie Vaughan",
+      "Muddy Waters"
+    ]
+  },
+  {
+    "rank": 131,
+    "score": 68,
+    "votes": 3,
+    "name": "Lilys",
+    "from": [
+      "Swervedriver",
+      "Ride",
+      "Pia Fraus"
+    ]
+  },
+  {
+    "rank": 132,
+    "score": 68,
+    "votes": 5,
+    "name": "Jan Johnston",
+    "from": [
+      "Solarstone",
+      "Sasha",
+      "BT"
+    ]
+  },
+  {
     "rank": 133,
-    "score": 66,
+    "score": 68,
+    "votes": 2,
+    "name": "Worries And Other Plants",
+    "from": [
+      "GHOSTWOMAN",
+      "José Junior"
+    ]
+  },
+  {
+    "rank": 134,
+    "score": 67,
     "votes": 5,
     "name": "Pavel Dovgal",
     "from": [
@@ -1439,7 +1464,50 @@
     ]
   },
   {
-    "rank": 134,
+    "rank": 135,
+    "score": 67,
+    "votes": 2,
+    "name": "Kylie Minogue",
+    "from": [
+      "The Chemical Brothers",
+      "Robyn"
+    ]
+  },
+  {
+    "rank": 136,
+    "score": 67,
+    "votes": 5,
+    "name": "The Maccabees",
+    "from": [
+      "Doves",
+      "Elbow",
+      "The Horrors"
+    ]
+  },
+  {
+    "rank": 137,
+    "score": 66,
+    "votes": 3,
+    "name": "Comacozer",
+    "from": [
+      "Causa Sui",
+      "Yuri Gagarin (SWE)",
+      "Ahkmed"
+    ]
+  },
+  {
+    "rank": 138,
+    "score": 66,
+    "votes": 4,
+    "name": "Lady Gaga",
+    "from": [
+      "Taylor Swift",
+      "Dua Lipa",
+      "Lana Del Rey"
+    ]
+  },
+  {
+    "rank": 139,
     "score": 66,
     "votes": 5,
     "name": "The Von Bondies",
@@ -1450,178 +1518,123 @@
     ]
   },
   {
-    "rank": 135,
-    "score": 66,
-    "votes": 5,
-    "name": "Neneh Cherry",
-    "from": [
-      "The Dandy Warhols",
-      "Björk",
-      "The Prodigy"
-    ]
-  },
-  {
-    "rank": 136,
-    "score": 65,
-    "votes": 5,
-    "name": "Albert Collins",
-    "from": [
-      "The Fabulous Thunderbirds",
-      "Jimmie Vaughan",
-      "Muddy Waters"
-    ]
-  },
-  {
-    "rank": 137,
-    "score": 65,
-    "votes": 5,
-    "name": "Buddy Guy",
-    "from": [
-      "The Fabulous Thunderbirds",
-      "Jimmie Vaughan",
-      "Muddy Waters"
-    ]
-  },
-  {
-    "rank": 138,
-    "score": 65,
-    "votes": 6,
-    "name": "Florence + The Machine",
-    "from": [
-      "CHVRCHES",
-      "Gang of Youths",
-      "The Temper Trap"
-    ]
-  },
-  {
-    "rank": 139,
-    "score": 65,
-    "votes": 2,
-    "name": "Worries And Other Plants",
-    "from": [
-      "GHOSTWOMAN",
-      "José Junior"
-    ]
-  },
-  {
     "rank": 140,
-    "score": 65,
-    "votes": 3,
-    "name": "Glasser",
+    "score": 66,
+    "votes": 4,
+    "name": "School Of Seven Bells",
     "from": [
       "Maps",
       "POLIÇA",
-      "Bear In Heaven"
+      "Porcelain Raft"
     ]
   },
   {
     "rank": 141,
-    "score": 65,
+    "score": 66,
     "votes": 4,
-    "name": "The Libertines",
+    "name": "Young Galaxy",
     "from": [
-      "Noel Gallagher's High Flying Birds",
-      "The Stone Roses",
-      "The Coral"
+      "Maps",
+      "POLIÇA",
+      "Porcelain Raft"
     ]
   },
   {
     "rank": 142,
     "score": 65,
-    "votes": 3,
-    "name": "Lilys",
+    "votes": 4,
+    "name": "Daniel Kandi",
     "from": [
-      "Swervedriver",
-      "Ride",
-      "Pia Fraus"
+      "Eco",
+      "Kyau & Albert",
+      "Orkidea"
     ]
   },
   {
     "rank": 143,
-    "score": 63,
-    "votes": 4,
-    "name": "Miley Cyrus",
+    "score": 65,
+    "votes": 2,
+    "name": "Bob Seger",
     "from": [
-      "Taylor Swift",
-      "Robyn",
-      "Dua Lipa"
+      "ZZ Top",
+      "Steve Earle"
     ]
   },
   {
     "rank": 144,
-    "score": 63,
+    "score": 65,
     "votes": 4,
-    "name": "Andrew Bird",
+    "name": "Airwave",
     "from": [
-      "Junip",
-      "Midlake",
-      "The Tallest Man On Earth"
+      "Eco",
+      "Chris Bekker",
+      "Fred Baker"
     ]
   },
   {
     "rank": 145,
-    "score": 63,
-    "votes": 4,
-    "name": "7Horse",
-    "from": [
-      "Cam Cole",
-      "R.L. Burnside",
-      "Black Rebel Motorcycle Club"
-    ]
-  },
-  {
-    "rank": 146,
-    "score": 63,
-    "votes": 4,
-    "name": "Carved Into the Sun",
-    "from": [
-      "hubris.",
-      "Exxasens",
-      "Meniscus"
-    ]
-  },
-  {
-    "rank": 147,
-    "score": 63,
-    "votes": 3,
-    "name": "Comacozer",
-    "from": [
-      "Causa Sui",
-      "Yuri Gagarin (SWE)",
-      "Ahkmed"
-    ]
-  },
-  {
-    "rank": 148,
-    "score": 63,
+    "score": 65,
     "votes": 4,
     "name": "Billie Eilish",
     "from": [
       "Taylor Swift",
-      "Imogen Heap",
+      "Lana Del Rey",
+      "Imogen Heap"
+    ]
+  },
+  {
+    "rank": 146,
+    "score": 65,
+    "votes": 3,
+    "name": "Ariana Grande",
+    "from": [
+      "Taylor Swift",
+      "Dua Lipa",
       "Lana Del Rey"
     ]
   },
   {
-    "rank": 149,
-    "score": 62,
-    "votes": 4,
-    "name": "Capital Cities",
+    "rank": 147,
+    "score": 65,
+    "votes": 3,
+    "name": "Selena Gomez",
     "from": [
-      "Caesars",
-      "Gotye",
-      "Daft Punk"
+      "Taylor Swift",
+      "Dua Lipa",
+      "Lana Del Rey"
     ]
   },
   {
-    "rank": 150,
-    "score": 62,
+    "rank": 148,
+    "score": 64,
     "votes": 3,
     "name": "Blind Yeo",
     "from": [
       "Andy Bell",
       "Lord Fascinator",
       "MEMORIALS"
+    ]
+  },
+  {
+    "rank": 149,
+    "score": 64,
+    "votes": 6,
+    "name": "Enamour",
+    "from": [
+      "YOTTO",
+      "Durante",
+      "Cubicolor"
+    ]
+  },
+  {
+    "rank": 150,
+    "score": 64,
+    "votes": 4,
+    "name": "7Horse",
+    "from": [
+      "Cam Cole",
+      "R.L. Burnside",
+      "Black Rebel Motorcycle Club"
     ]
   }
 ]

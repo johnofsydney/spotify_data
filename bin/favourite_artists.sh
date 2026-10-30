@@ -16,18 +16,22 @@ done
 
 json="${out%.md}.json"
 
-min_tracks="${MIN_TRACKS:-3}"
-ded_share="${DED_SHARE:-0.5}"
-ded_size="${DED_SIZE:-5}"
-track_cap="${TRACK_CAP:-5}"
-
 # Accepts weights summing to 1 or to 100; anything else is a mistake, not a scale.
-w=$(jq '
-  ([.[]] | add) as $sum
+w=$(jq '.weights
+  | ([.[]] | add) as $sum
   | if ($sum - 1 | fabs) < 0.0001 then .
     elif ($sum - 100 | fabs) < 0.0001 then map_values(. / 100)
     else error("weights must sum to 1 or 100, got \($sum)")
     end' "$weights_file")
+
+# The whole config travels into the sidecar: tuning moves a score as surely as a weight.
+config=$(jq -c '.' "$weights_file")
+t() { jq -r ".tuning.$1" "$weights_file"; }
+min_tracks=$(t min_playlist_tracks)
+ded_share=$(t dedicated_min_share)
+ded_size=$(t dedicated_min_playlist)
+track_cap=$(t track_cap)
+activity_years=$(t activity_years)
 
 top_file=$(ls -1 "$root"/top_tracks_artists_*.md | sort | tail -1)
 
@@ -63,7 +67,7 @@ playlists=$(jq -s --argjson w "$pw" --argjson cap "$track_cap" '
 # Spotify's typ does not distinguish a reissue from new work, so a heritage act's
 # remaster churn reads as activity. Counting releases over a window discriminates
 # where a latest-release date cannot: a reissued back catalogue is sporadic.
-activity=$([ -d "$root/cache/artists" ] && jq -s --arg since "$(date -v-${ACTIVITY_YEARS:-3}y +%F 2>/dev/null || date -d "${ACTIVITY_YEARS:-3} years ago" +%F)" '
+activity=$([ -d "$root/cache/artists" ] && jq -s --arg since "$(date -v-${activity_years}y +%F 2>/dev/null || date -d "$activity_years years ago" +%F)" '
   def fresh: select(.name | test("remaster|remix|anniversar|deluxe|edition|collection|greatest|best of|live at|live in|live from|the complete|volume|vol\\.|singles|b-sides|rarit|reissue|demos|studio demo|original recording|sessions|unreleased|outtake|\\bmix\\)|\\bmix$"; "i") | not);
   [.[] | {key: .artist.name,
           value: (([.albums[] | fresh | select(.typ == "album"  and .release_date > $since)] | length) as $a
@@ -94,6 +98,7 @@ jq -n -r \
   --argjson favourites "$favourites" \
   --argjson activity "$activity" \
   --argjson w "$w" \
+  --argjson cfg "$config" \
   --argjson min "$min_tracks" '
   def norm($n; $max): if $max > 0 then (($n / $max) | sqrt) else 0 end;
 
@@ -140,7 +145,7 @@ jq -n -r \
          yearly: .value[11], yearly_years: .value[12], alltime: .value[2], top: .value[3], liked: .value[4], spread: .value[5],
          tracks: .value[6], followed: (.value[7] == 1), dedicated: (.value[8] == 1),
          favourite: (.value[9] == 1), activity: .value[10]})
-  | {weights: $w, artists: .}' > "$json"
+  | {config: $cfg, artists: .}' > "$json"
 
 jq -r '.artists[] | [.score, .name, .yearly, .top, .spread, .tracks,
               (if .followed then 1 else 0 end), (if .dedicated then 1 else 0 end),

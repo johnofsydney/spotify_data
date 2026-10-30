@@ -10,7 +10,7 @@ today="${HISTORY_DATE:-$(date +%F)}"
 # series records them: a change in weights is a discontinuity, not a trend. The
 # weights are read from the sidecar, not from weights.json, so the stamp cannot
 # describe a run it did not come from.
-weights=$(jq -c -S '.weights' "$root/favourite_artists.json" | shasum -a 256)
+weights=$(jq -c -S '.config' "$root/favourite_artists.json" | shasum -a 256)
 weights="${weights:0:8}"
 
 [ -f "$file" ] || echo "date,rank,artist,score,yearly,yearly_years,top,spread,tracks,followed,dedicated,favourite,activity,weights" > "$file"
