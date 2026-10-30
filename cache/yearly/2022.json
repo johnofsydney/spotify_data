@@ -1,0 +1,2865 @@
+{
+  "playlist": {
+    "id": "37i9dQZF1F0sijgNaJdgit",
+    "collaborative": false,
+    "name": "Your Top Songs 2022",
+    "desc": "Spotify Wrapped presents the songs that you loved most this year.",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAANruyflPGesr/+N92j5zYMj7yNRi"
+  },
+  "tracks": [
+    {
+      "id": "4CMObZi8wKUSruORHR33Ur",
+      "name": "Acheron",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "05JGXayELtqAq1xS3SF3UR",
+        "release_date": "2021-12-03",
+        "name": "Acheron",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 621,
+        "nanos": 114000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "09SvE4RSe1Unl1Ta2Fj98N",
+      "name": "Burning",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 393,
+        "nanos": 138000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0oA9vP6QfgHaYmRIQdBVNE",
+      "name": "Delving",
+      "artists": [
+        {
+          "id": "3s596fAjCmoXEGdAZLy8EW",
+          "name": "delving"
+        }
+      ],
+      "album": {
+        "id": "3tZgsGW8S5hwLJwiN995yi",
+        "release_date": "2021-06-11",
+        "name": "Hirschbrunnen",
+        "artists": [
+          {
+            "id": "3s596fAjCmoXEGdAZLy8EW",
+            "name": "delving"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 420,
+        "nanos": 942000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2yWCmDy74d92mKcOYP3cZX",
+      "name": "Zephyr",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "05JGXayELtqAq1xS3SF3UR",
+        "release_date": "2021-12-03",
+        "name": "Acheron",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 565,
+        "nanos": 717000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2y9Me04be6zHla3lLtgRdr",
+      "name": "Hebetation",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 270,
+        "nanos": 927000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6oZ34RBFihnNtvZxEma7vd",
+      "name": "My First Knife Fight",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "3CmsvVszy1JQpKtgoGvWV5",
+        "release_date": "2019-08-23",
+        "name": "My First Knife Fight",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 185,
+        "nanos": 961000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4qsvPS5w6gvDZtpG5bxY0d",
+      "name": "Leaves",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 581,
+        "nanos": 962000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6AaenV3zr7U7gDF8dmLh12",
+      "name": "Olympians",
+      "artists": [
+        {
+          "id": "6tCENAD2FBfIMyygJMeOJV",
+          "name": "Fuck Buttons"
+        }
+      ],
+      "album": {
+        "id": "7tilRUU7WANATJdxhMO3p8",
+        "release_date": "2009-10-20",
+        "name": "Tarot Sport",
+        "artists": [
+          {
+            "id": "6tCENAD2FBfIMyygJMeOJV",
+            "name": "Fuck Buttons"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 654,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5MMZuXP2T00hubJSt87Dfe",
+      "name": "Shadows",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "05JGXayELtqAq1xS3SF3UR",
+        "release_date": "2021-12-03",
+        "name": "Acheron",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 634,
+        "nanos": 880000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "69XHGNndQVQgVPzPUoCSug",
+      "name": "The Heavy Seed",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "4H3bnLkoy1DIfkeFHJhO1a",
+        "release_date": "2019-09-06",
+        "name": "The Heavy Seed",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 786,
+        "nanos": 13000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0d24tfB8EHo81c4laZAPeg",
+      "name": "VI.II",
+      "artists": [
+        {
+          "id": "06C98uwTFduwmzsuaLWFA9",
+          "name": "Papir"
+        }
+      ],
+      "album": {
+        "id": "4ZwbGprhbhYrPa0DS7Lf1w",
+        "release_date": "2019-05-10",
+        "name": "VI",
+        "artists": [
+          {
+            "id": "06C98uwTFduwmzsuaLWFA9",
+            "name": "Papir"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 532,
+        "nanos": 31000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6nSNqflsnd83CsuIfk40MU",
+      "name": "The Mainline Song / The Lockdown Song",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "0wdHJFFkHOoRMOAHpUJTAT",
+        "release_date": "2022-03-07",
+        "name": "The Mainline Song / The Lockdown Song",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 355,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3Eco3lv0gTsnseUVMto9AP",
+      "name": "Regenerator",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "3xArGf5JGYwsFcWIo62v4w",
+        "release_date": "2022-09-02",
+        "name": "Regenerator",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 577,
+        "nanos": 920000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7FNpKaXLfW5XDpIHb0x7j7",
+      "name": "Vaporizer Woman",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "4H3bnLkoy1DIfkeFHJhO1a",
+        "release_date": "2019-09-06",
+        "name": "The Heavy Seed",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 384,
+        "nanos": 583000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0mJZgkuYODrCI3oOv3XJ9M",
+      "name": "Luftslott",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 479,
+        "nanos": 968000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5PERNjdN7B4jqwAbRBYLaw",
+      "name": "The Reflecting Pool",
+      "artists": [
+        {
+          "id": "3s596fAjCmoXEGdAZLy8EW",
+          "name": "delving"
+        }
+      ],
+      "album": {
+        "id": "3tZgsGW8S5hwLJwiN995yi",
+        "release_date": "2021-06-11",
+        "name": "Hirschbrunnen",
+        "artists": [
+          {
+            "id": "3s596fAjCmoXEGdAZLy8EW",
+            "name": "delving"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 570,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6l7pUoX6mBOq5X7OrNBdEA",
+      "name": "Cerberus",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "05JGXayELtqAq1xS3SF3UR",
+        "release_date": "2021-12-03",
+        "name": "Acheron",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 586,
+        "nanos": 432000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3T7Wh91xnXOH10HMljZAKl",
+      "name": "The Lisbon Maru",
+      "artists": [
+        {
+          "id": "6tCENAD2FBfIMyygJMeOJV",
+          "name": "Fuck Buttons"
+        }
+      ],
+      "album": {
+        "id": "7tilRUU7WANATJdxhMO3p8",
+        "release_date": "2009-10-20",
+        "name": "Tarot Sport",
+        "artists": [
+          {
+            "id": "6tCENAD2FBfIMyygJMeOJV",
+            "name": "Fuck Buttons"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 559,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0s0DjMUXoqtxUmmPZ0kdRs",
+      "name": "Orbit X",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 442,
+        "nanos": 297000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3kUpt9DVX6i2T7NxnBVLBk",
+      "name": "Feels Like Wasting My Life Is Taking Forever",
+      "artists": [
+        {
+          "id": "3g2slv6elrXxGnXqy7Q2ap",
+          "name": "Les Big Byrd"
+        }
+      ],
+      "album": {
+        "id": "7575vkKvrFfjOmhPW2XM6l",
+        "release_date": "2022-11-25",
+        "name": "Eternal Light Brigade",
+        "artists": [
+          {
+            "id": "3g2slv6elrXxGnXqy7Q2ap",
+            "name": "Les Big Byrd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 231,
+        "nanos": 760000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "105UzCP1C1laJEheyU2xp9",
+      "name": "Locusts",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 387,
+        "nanos": 56000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4CMpRgLSDDnZFhPO1McQHw",
+      "name": "Ultramarine",
+      "artists": [
+        {
+          "id": "3s596fAjCmoXEGdAZLy8EW",
+          "name": "delving"
+        }
+      ],
+      "album": {
+        "id": "3tZgsGW8S5hwLJwiN995yi",
+        "release_date": "2021-06-11",
+        "name": "Hirschbrunnen",
+        "artists": [
+          {
+            "id": "3s596fAjCmoXEGdAZLy8EW",
+            "name": "delving"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 472,
+        "nanos": 825000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6bcRkWchLR9gjIQYjFTxyd",
+      "name": "A Black Star",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 504,
+        "nanos": 250000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2v4X6AqCiHK2jQFBgaOtbu",
+      "name": "Enemy of My Enemy",
+      "artists": [
+        {
+          "id": "29Wmfm1CojrjQ3aQP0FI65",
+          "name": "All Them Witches"
+        }
+      ],
+      "album": {
+        "id": "7j6skpqor6kgLs7NoPCC0j",
+        "release_date": "2020-09-04",
+        "name": "Nothing as the Ideal",
+        "artists": [
+          {
+            "id": "29Wmfm1CojrjQ3aQP0FI65",
+            "name": "All Them Witches"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 209,
+        "nanos": 643000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4aGLhymY7OFW3MirKPT72k",
+      "name": "Mercury",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "3xArGf5JGYwsFcWIo62v4w",
+        "release_date": "2022-09-02",
+        "name": "Regenerator",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 270,
+        "nanos": 402000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "585Yb59BqUZVCYczAQKWqB",
+      "name": "Einstürzende Plattenbauten",
+      "artists": [
+        {
+          "id": "3s596fAjCmoXEGdAZLy8EW",
+          "name": "delving"
+        }
+      ],
+      "album": {
+        "id": "3tZgsGW8S5hwLJwiN995yi",
+        "release_date": "2021-06-11",
+        "name": "Hirschbrunnen",
+        "artists": [
+          {
+            "id": "3s596fAjCmoXEGdAZLy8EW",
+            "name": "delving"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 219,
+        "nanos": 869000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1kBVAKh9VqBhr1jZKBnoUa",
+      "name": "Transmitter",
+      "artists": [
+        {
+          "id": "5zhn89Em2jWUUWdpcLO3YL",
+          "name": "Sea Power"
+        }
+      ],
+      "album": {
+        "id": "57F1SCsLtRIZLBcA6g1Wlh",
+        "release_date": "2022-02-18",
+        "name": "Everything Was Forever",
+        "artists": [
+          {
+            "id": "5zhn89Em2jWUUWdpcLO3YL",
+            "name": "Sea Power"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 276,
+        "nanos": 920000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5XktK7gsQ6RkbtWdNdS6l1",
+      "name": "The Children of Coyote Woman",
+      "artists": [
+        {
+          "id": "29Wmfm1CojrjQ3aQP0FI65",
+          "name": "All Them Witches"
+        }
+      ],
+      "album": {
+        "id": "7j6skpqor6kgLs7NoPCC0j",
+        "release_date": "2020-09-04",
+        "name": "Nothing as the Ideal",
+        "artists": [
+          {
+            "id": "29Wmfm1CojrjQ3aQP0FI65",
+            "name": "All Them Witches"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 216,
+        "nanos": 370000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Ut9VAMBvzjTZVvvOWFmGf",
+      "name": "Hours",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "3xArGf5JGYwsFcWIo62v4w",
+        "release_date": "2022-09-02",
+        "name": "Regenerator",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 297,
+        "nanos": 343000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6TH5Bc3Q5VBWuUTvjN7VAZ",
+      "name": "Take a Swim in God's Washing Machine",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "4H3bnLkoy1DIfkeFHJhO1a",
+        "release_date": "2019-09-06",
+        "name": "The Heavy Seed",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 486,
+        "nanos": 3000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6YSLlmfb6taF1hwv2w1D1X",
+      "name": "Scavengers",
+      "artists": [
+        {
+          "id": "2tmKg669vSH9NCEdnz4Y6s",
+          "name": "Maha Sohona"
+        }
+      ],
+      "album": {
+        "id": "5c4FFpt8snFUtCyxydXu0U",
+        "release_date": "2021-06-18",
+        "name": "Endless Searcher",
+        "artists": [
+          {
+            "id": "2tmKg669vSH9NCEdnz4Y6s",
+            "name": "Maha Sohona"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 238,
+        "nanos": 245000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0evMzrmDw6SkNgWnrIRmhV",
+      "name": "Eyes Like Dead Stars",
+      "artists": [
+        {
+          "id": "3g2slv6elrXxGnXqy7Q2ap",
+          "name": "Les Big Byrd"
+        }
+      ],
+      "album": {
+        "id": "7575vkKvrFfjOmhPW2XM6l",
+        "release_date": "2022-11-25",
+        "name": "Eternal Light Brigade",
+        "artists": [
+          {
+            "id": "3g2slv6elrXxGnXqy7Q2ap",
+            "name": "Les Big Byrd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 447,
+        "nanos": 469000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7pbFaT2yOrvXuZ2rIxvAAf",
+      "name": "Interlude",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "3xArGf5JGYwsFcWIo62v4w",
+        "release_date": "2022-09-02",
+        "name": "Regenerator",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 177,
+        "nanos": 23000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1kcn9xOzVCsD9dJje7ih4X",
+      "name": "Lazy Bones",
+      "artists": [
+        {
+          "id": "538ZIoOw6wW1xdjuIaQHOS",
+          "name": "Brant Bjork"
+        }
+      ],
+      "album": {
+        "id": "36Lf0Mx1e57ogNhoY2ywv2",
+        "release_date": "1999",
+        "name": "Jalamanta",
+        "artists": [
+          {
+            "id": "538ZIoOw6wW1xdjuIaQHOS",
+            "name": "Brant Bjork"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 87,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1XYhn54eCztm0leiGvheM2",
+      "name": "Nostalgia - Solarstone Retouch",
+      "artists": [
+        {
+          "id": "5eqThkuR9VjiLuYfzESTp7",
+          "name": "ZOYA"
+        },
+        {
+          "id": "1PfOXooPSLQhOTNZGrXM90",
+          "name": "Solarstone"
+        }
+      ],
+      "album": {
+        "id": "4GYo0hRqXeHOSpHG6rFUJm",
+        "release_date": "2022-04-22",
+        "name": "Pure Trance 9 Retouch EP",
+        "artists": [
+          {
+            "id": "1PfOXooPSLQhOTNZGrXM90",
+            "name": "Solarstone"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 410,
+        "nanos": 387000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7HMpY53QIyMFAlcZqKfYAY",
+      "name": "Run To Stay",
+      "artists": [
+        {
+          "id": "5QNbh0ZAR2vNr8KwnQDBGH",
+          "name": "Constant Smiles"
+        }
+      ],
+      "album": {
+        "id": "6MnbaOo8YFnOKE03JxA2tH",
+        "release_date": "2021-11-12",
+        "name": "Paragons",
+        "artists": [
+          {
+            "id": "5QNbh0ZAR2vNr8KwnQDBGH",
+            "name": "Constant Smiles"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 157,
+        "nanos": 929000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5WE5KHo4lGk22mYNyjas2B",
+      "name": "Eta Carinae",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 481,
+        "nanos": 108000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "79eSyI9oEUMD0X7oODtk5E",
+      "name": "Soar",
+      "artists": [
+        {
+          "id": "53B8p4TVFXCtarwosey71M",
+          "name": "Eco"
+        }
+      ],
+      "album": {
+        "id": "2wt5Q7CWb1RlEa2rQQWlOo",
+        "release_date": "2016-10-14",
+        "name": "Wolves",
+        "artists": [
+          {
+            "id": "53B8p4TVFXCtarwosey71M",
+            "name": "Eco"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 354,
+        "nanos": 500000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ckR8DXq9CAonlG7mqqt1l",
+      "name": "Parka",
+      "artists": [
+        {
+          "id": "3B44Q8phYcGWZQ8smSgQTH",
+          "name": "The Parks"
+        }
+      ],
+      "album": {
+        "id": "4nMvDFgEJL8QOySRZWwbK7",
+        "release_date": "2021-08-11",
+        "name": "Greener Realms",
+        "artists": [
+          {
+            "id": "3B44Q8phYcGWZQ8smSgQTH",
+            "name": "The Parks"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 237,
+        "nanos": 482000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2ownDSIYHvydbtauGZW4ln",
+      "name": "You Will Never Work In Television Again",
+      "artists": [
+        {
+          "id": "6styCzc1Ej4NxISL0LiigM",
+          "name": "The Smile"
+        }
+      ],
+      "album": {
+        "id": "009EjjwUjtdjvH7UP0wHzi",
+        "release_date": "2022-05-13",
+        "name": "A Light for Attracting Attention",
+        "artists": [
+          {
+            "id": "6styCzc1Ej4NxISL0LiigM",
+            "name": "The Smile"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 168,
+        "nanos": 172000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "5TZbDoSfKFm30smKZy7bK2",
+      "name": "Mammoth",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "3xArGf5JGYwsFcWIo62v4w",
+        "release_date": "2022-09-02",
+        "name": "Regenerator",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 372,
+        "nanos": 859000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "66KkkjCxTqcZK2bAkw77pF",
+      "name": "VI.III",
+      "artists": [
+        {
+          "id": "06C98uwTFduwmzsuaLWFA9",
+          "name": "Papir"
+        }
+      ],
+      "album": {
+        "id": "4ZwbGprhbhYrPa0DS7Lf1w",
+        "release_date": "2019-05-10",
+        "name": "VI",
+        "artists": [
+          {
+            "id": "06C98uwTFduwmzsuaLWFA9",
+            "name": "Papir"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 558,
+        "nanos": 691000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "76365icROsgrLvYVImAnyP",
+      "name": "Age of Anxiety I",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "2sAePf08xIp4tnDlMUCV8B",
+        "release_date": "2022-05-06",
+        "name": "WE",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 327,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2yh1I2eQHpE53pVe8lEtGW",
+      "name": "Sanctuary",
+      "artists": [
+        {
+          "id": "1687IqXRdWmbRshgn194tT",
+          "name": "Elder"
+        }
+      ],
+      "album": {
+        "id": "2eWevmwjCu5OVtu1wPb07e",
+        "release_date": "2018-06-29",
+        "name": "Reflections of a Floating World",
+        "artists": [
+          {
+            "id": "1687IqXRdWmbRshgn194tT",
+            "name": "Elder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 673,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3pSQzoCF9QvhRNjGhjT8Af",
+      "name": "Red Star, Pt. 1 & 2",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 981,
+        "nanos": 162000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3uM6ra3Grw4R8VrOiMHizK",
+      "name": "The Lonely Soldier",
+      "artists": [
+        {
+          "id": "53B8p4TVFXCtarwosey71M",
+          "name": "Eco"
+        }
+      ],
+      "album": {
+        "id": "2wt5Q7CWb1RlEa2rQQWlOo",
+        "release_date": "2016-10-14",
+        "name": "Wolves",
+        "artists": [
+          {
+            "id": "53B8p4TVFXCtarwosey71M",
+            "name": "Eco"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 333,
+        "nanos": 982000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6kJ3mQMsj54DvxTAbmDBk1",
+      "name": "I used to be lost but now i'm just gone",
+      "artists": [
+        {
+          "id": "3g2slv6elrXxGnXqy7Q2ap",
+          "name": "Les Big Byrd"
+        }
+      ],
+      "album": {
+        "id": "7575vkKvrFfjOmhPW2XM6l",
+        "release_date": "2022-11-25",
+        "name": "Eternal Light Brigade",
+        "artists": [
+          {
+            "id": "3g2slv6elrXxGnXqy7Q2ap",
+            "name": "Les Big Byrd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 239,
+        "nanos": 319000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6tscrLoT7rBHdMbO9ULa2s",
+      "name": "Love Comes In Waves",
+      "artists": [
+        {
+          "id": "0DCLBHSfbqLoGK3ikLGPxc",
+          "name": "Andy Bell"
+        }
+      ],
+      "album": {
+        "id": "0yi31ZU6ExOztOpHCg9EfO",
+        "release_date": "2020-10-09",
+        "name": "The View from Halfway Down",
+        "artists": [
+          {
+            "id": "0DCLBHSfbqLoGK3ikLGPxc",
+            "name": "Andy Bell"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 288,
+        "nanos": 575000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0I1RX1s7wITTeR0BKVIHN4",
+      "name": "Grifter",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 317,
+        "nanos": 686000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0IXCddfLWxZwMQLYjbhadu",
+      "name": "Athena",
+      "artists": [
+        {
+          "id": "136eH4t69aKT2UuS36z3Qo",
+          "name": "Tristen"
+        }
+      ],
+      "album": {
+        "id": "47NZrIYd31OR7PJQioOkWV",
+        "release_date": "2021-06-04",
+        "name": "Aquatic Flowers",
+        "artists": [
+          {
+            "id": "136eH4t69aKT2UuS36z3Qo",
+            "name": "Tristen"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 181,
+        "nanos": 120000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0i2FLEi8zore3rcO5J3ymH",
+      "name": "The Sound of all Things",
+      "artists": [
+        {
+          "id": "79ckv9yY9WAKcH8KfrvmiP",
+          "name": "Lorelle Meets The Obsolete"
+        }
+      ],
+      "album": {
+        "id": "0c17vcp3oIKDTDbQGITTVR",
+        "release_date": "2016-09-16",
+        "name": "Balance",
+        "artists": [
+          {
+            "id": "79ckv9yY9WAKcH8KfrvmiP",
+            "name": "Lorelle Meets The Obsolete"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 381,
+        "nanos": 868000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4WMRvLLiGuCe3PhviwXdto",
+      "name": "Speak in Capitals - Uppercase Drumming Version",
+      "artists": [
+        {
+          "id": "4znPt0HV6Ik0iR8sR4GAJE",
+          "name": "Ulrich Schnauss"
+        },
+        {
+          "id": "2znlsLYmsxcWmzouD3zhmr",
+          "name": "Mark Peters"
+        },
+        {
+          "id": "1gO6pesKtR7fUrduZ5j89Y",
+          "name": "Jan Philipp Janzen"
+        }
+      ],
+      "album": {
+        "id": "5V1CNyhSZZrcZY29MDZLjO",
+        "release_date": "2022-02-25",
+        "name": "Destiny Waiving Köln Versionen EP",
+        "artists": [
+          {
+            "id": "4znPt0HV6Ik0iR8sR4GAJE",
+            "name": "Ulrich Schnauss"
+          },
+          {
+            "id": "2znlsLYmsxcWmzouD3zhmr",
+            "name": "Mark Peters"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 271,
+        "nanos": 358000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "75l3BszwnswcsXoYsh4guM",
+      "name": "Silverfish",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 924000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "49QITndLJGff8X114ZGJHn",
+      "name": "Lions",
+      "artists": [
+        {
+          "id": "5eerVxtb9lY9p6D7m89Bs7",
+          "name": "Jenny Hval"
+        },
+        {
+          "id": "7kYbwfWdcsnBcNfRRTiM79",
+          "name": "Vivian Wang"
+        }
+      ],
+      "album": {
+        "id": "29Chk1LOPq2ZZZGs2th7f1",
+        "release_date": "2019-09-13",
+        "name": "The Practice of Love",
+        "artists": [
+          {
+            "id": "5eerVxtb9lY9p6D7m89Bs7",
+            "name": "Jenny Hval"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 237,
+        "nanos": 993000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1J4m6veK3SeS9pJNs6l47S",
+      "name": "Teeth & Waves",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "5azA0QKtssrUtF8Ib5op45",
+        "release_date": "2019-05-17",
+        "name": "Teeth & Waves",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 637,
+        "nanos": 334000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2z0nkZLzKp1IbZzdQCaD6Z",
+      "name": "Age of Anxiety II (Rabbit Hole)",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "2sAePf08xIp4tnDlMUCV8B",
+        "release_date": "2022-05-06",
+        "name": "WE",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 401,
+        "nanos": 253000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1VJ47h5qFXzBz602zuXphu",
+      "name": "The Knocks",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 373,
+        "nanos": 244000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6att9BxBcS8KRlMoSyE7S1",
+      "name": "Horses",
+      "artists": [
+        {
+          "id": "0l7GXb53ndWn97ul8Hpfzd",
+          "name": "Slomosa"
+        }
+      ],
+      "album": {
+        "id": "4P0wMxlWvsilPWY5tbvVKS",
+        "release_date": "2020-08-28",
+        "name": "Slomosa",
+        "artists": [
+          {
+            "id": "0l7GXb53ndWn97ul8Hpfzd",
+            "name": "Slomosa"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 297,
+        "nanos": 605000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7i4EafgirDM2kBu9HzFWwr",
+      "name": "Something More - Solarstone Retouch",
+      "artists": [
+        {
+          "id": "7arFiPpPF1itJ6kAWVuB2e",
+          "name": "Aerium"
+        }
+      ],
+      "album": {
+        "id": "4GYo0hRqXeHOSpHG6rFUJm",
+        "release_date": "2022-04-22",
+        "name": "Pure Trance 9 Retouch EP",
+        "artists": [
+          {
+            "id": "1PfOXooPSLQhOTNZGrXM90",
+            "name": "Solarstone"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 503,
+        "nanos": 335000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5VHRFAqgPpC14U10Zdfk2r",
+      "name": "End of the Empire I-III",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "2sAePf08xIp4tnDlMUCV8B",
+        "release_date": "2022-05-06",
+        "name": "WE",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 323,
+        "nanos": 346000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "27OqOm2QjM6pahdBzLeK2h",
+      "name": "Ecliptic",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 231,
+        "nanos": 192000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0piWYpm3L2Ss0UOAH0hl4G",
+      "name": "Always Together With You",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "49GJe3Q8FSAhfLgrQlulXl",
+        "release_date": "2021-11-02",
+        "name": "Always Together With You",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 398,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "33qKjVDfiJ8VaVZZrufWqp",
+      "name": "The Great Design",
+      "artists": [
+        {
+          "id": "6VNmsa4FPNunveA9ktg0Nb",
+          "name": "Black Rainbows"
+        }
+      ],
+      "album": {
+        "id": "4rC5dbYDlQiTe7n9ixKgUv",
+        "release_date": "2020-05-22",
+        "name": "Cosmic Ritual Supertrip",
+        "artists": [
+          {
+            "id": "6VNmsa4FPNunveA9ktg0Nb",
+            "name": "Black Rainbows"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 120,
+        "nanos": 368000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6bkqSi0jMZr6bX6MGRzdrt",
+      "name": "The Lightning I",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "2sAePf08xIp4tnDlMUCV8B",
+        "release_date": "2022-05-06",
+        "name": "WE",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 181,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4ng3LkXfbpEv3iIYAcLiK3",
+      "name": "Dead Star",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 237,
+        "nanos": 202000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2DgbJYZl9bf3orxM5gfzOO",
+      "name": "Genuine Hesitation",
+      "artists": [
+        {
+          "id": "58mMrwemoGIcDpvfHe46u4",
+          "name": "Matthew E. White"
+        }
+      ],
+      "album": {
+        "id": "3cMSA4LQIPRdguHi8hrJSj",
+        "release_date": "2021-09-10",
+        "name": "K Bay",
+        "artists": [
+          {
+            "id": "58mMrwemoGIcDpvfHe46u4",
+            "name": "Matthew E. White"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 430,
+        "nanos": 955000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7t3gsxuM9Q7E1zrYHc6IOD",
+      "name": "Deloop",
+      "artists": [
+        {
+          "id": "6LEaEwcgHr0J86W1oUKfaM",
+          "name": "Shay Hazan"
+        }
+      ],
+      "album": {
+        "id": "5IFKpWS7MfoAoQArkYvIHp",
+        "release_date": "2021-12-10",
+        "name": "Reclusive Rituals",
+        "artists": [
+          {
+            "id": "6LEaEwcgHr0J86W1oUKfaM",
+            "name": "Shay Hazan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 174,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "5o5p9IULyigMoSXj88xED0",
+      "name": "Prelude",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "2sAePf08xIp4tnDlMUCV8B",
+        "release_date": "2022-05-06",
+        "name": "WE",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 30,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "44lOQa246uXFPf5Czwu2xs",
+      "name": "Sun Shivers",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "4zl6emOKnCjIHd9Z1q6n8M",
+        "release_date": "2018-10-12",
+        "name": "Longing to Be the Mountain",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 209,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2bDCKq0cgrMFEbgaLvCTqG",
+      "name": "Return to the Tundrasphere",
+      "artists": [
+        {
+          "id": "3Hb1TSP5l7tR214bjmHIBA",
+          "name": "Kanaan"
+        }
+      ],
+      "album": {
+        "id": "5cgZyUkPspSn9DxxsIPWoK",
+        "release_date": "2021-11-12",
+        "name": "Earthbound",
+        "artists": [
+          {
+            "id": "3Hb1TSP5l7tR214bjmHIBA",
+            "name": "Kanaan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 521,
+        "nanos": 440000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5iyK4Aay0yp0mWeYkAHCqZ",
+      "name": "Super Cannes",
+      "artists": [
+        {
+          "id": "2XYuCUX7Ravz8MBo4AkA2G",
+          "name": "C.Y.M."
+        }
+      ],
+      "album": {
+        "id": "4lFSxuJeCjqw9acbYzIXt1",
+        "release_date": "2019-11-08",
+        "name": "C.Y.M.",
+        "artists": [
+          {
+            "id": "2XYuCUX7Ravz8MBo4AkA2G",
+            "name": "C.Y.M."
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 396,
+        "nanos": 503000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6xcrYjTKuONMfC1Qoc6Bdy",
+      "name": "Unconditional I (Lookout Kid)",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "2sAePf08xIp4tnDlMUCV8B",
+        "release_date": "2022-05-06",
+        "name": "WE",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 273,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "50ZuJHZg2bjUI39nM0crEp",
+      "name": "Echo of a Waning Star",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "61xzWO2b7xmrvLm4C3M36t",
+        "release_date": "2020-03-20",
+        "name": "Dead Star",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 184,
+        "nanos": 789000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0yCdTaqIReac8ZVXUzmxsu",
+      "name": "Remove the Talk",
+      "artists": [
+        {
+          "id": "6LEaEwcgHr0J86W1oUKfaM",
+          "name": "Shay Hazan"
+        }
+      ],
+      "album": {
+        "id": "5IFKpWS7MfoAoQArkYvIHp",
+        "release_date": "2021-12-10",
+        "name": "Reclusive Rituals",
+        "artists": [
+          {
+            "id": "6LEaEwcgHr0J86W1oUKfaM",
+            "name": "Shay Hazan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 155,
+        "nanos": 383000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Ga9tU59GhK3j6mWwGAamy",
+      "name": "Grass Jeans",
+      "artists": [
+        {
+          "id": "3n8qeKQViV1waeCzZmS4Tx",
+          "name": "Kim Gordon"
+        }
+      ],
+      "album": {
+        "id": "0CmKXdoe2kh1dLXcP6sUhZ",
+        "release_date": "2021-12-02",
+        "name": "Grass Jeans",
+        "artists": [
+          {
+            "id": "3n8qeKQViV1waeCzZmS4Tx",
+            "name": "Kim Gordon"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 252,
+        "nanos": 671000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1tuQOu0GEvC70bCFzltK3a",
+      "name": "The Lightning II",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "2sAePf08xIp4tnDlMUCV8B",
+        "release_date": "2022-05-06",
+        "name": "WE",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 154,
+        "nanos": 320000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0VWQ1rxCCVAagqfKvUmT51",
+      "name": "Longing to Be the Mountain",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "4zl6emOKnCjIHd9Z1q6n8M",
+        "release_date": "2018-10-12",
+        "name": "Longing to Be the Mountain",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 622,
+        "nanos": 34000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0x1KTwB4GZ6U22Kjtv1qBe",
+      "name": "Fall Into Place",
+      "artists": [
+        {
+          "id": "29Wmfm1CojrjQ3aQP0FI65",
+          "name": "All Them Witches"
+        }
+      ],
+      "album": {
+        "id": "78lrXSyMnqDjvjWkKryGmi",
+        "release_date": "2022-02-25",
+        "name": "Fall Into Place",
+        "artists": [
+          {
+            "id": "29Wmfm1CojrjQ3aQP0FI65",
+            "name": "All Them Witches"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 207,
+        "nanos": 445000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3yyGA1dyivdW7uy0yDpjB0",
+      "name": "Alberto Balsam",
+      "artists": [
+        {
+          "id": "1NfjGsLTuTJrCbCi6Jjm3m",
+          "name": "Simon Farintosh"
+        }
+      ],
+      "album": {
+        "id": "0mhEjBVbHDLAhwGD9ZydfY",
+        "release_date": "2021-01-29",
+        "name": "Aphex Twin for Guitar",
+        "artists": [
+          {
+            "id": "1NfjGsLTuTJrCbCi6Jjm3m",
+            "name": "Simon Farintosh"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 165,
+        "nanos": 41000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2CH4mc6qWAI3ejAdqpON9B",
+      "name": "Belfast",
+      "artists": [
+        {
+          "id": "3csPCeXsj2wezyvkRFzvmV",
+          "name": "Orbital"
+        }
+      ],
+      "album": {
+        "id": "7a129X2pYyMqHFfpKidRtr",
+        "release_date": "1991-01-01",
+        "name": "Orbital",
+        "artists": [
+          {
+            "id": "3csPCeXsj2wezyvkRFzvmV",
+            "name": "Orbital"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 490,
+        "nanos": 680000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3J4lYoBdMouVEBvKJjBfbm",
+      "name": "Cosmonaut",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "4zl6emOKnCjIHd9Z1q6n8M",
+        "release_date": "2018-10-12",
+        "name": "Longing to Be the Mountain",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 237,
+        "nanos": 823000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4YJYDa5V3ewbQMwkR6Maja",
+      "name": "Autoroute",
+      "artists": [
+        {
+          "id": "28TS6lsqvm8EKRdBzMigTh",
+          "name": "Limousine"
+        }
+      ],
+      "album": {
+        "id": "1sKHdsjlXudKAI9TEOpnbM",
+        "release_date": "2019-03-22",
+        "name": "L'été suivant...",
+        "artists": [
+          {
+            "id": "28TS6lsqvm8EKRdBzMigTh",
+            "name": "Limousine"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 387,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Sbdw0lMZXkfVmjuH1UTb8",
+      "name": "Thin Thing",
+      "artists": [
+        {
+          "id": "6styCzc1Ej4NxISL0LiigM",
+          "name": "The Smile"
+        }
+      ],
+      "album": {
+        "id": "009EjjwUjtdjvH7UP0wHzi",
+        "release_date": "2022-05-13",
+        "name": "A Light for Attracting Attention",
+        "artists": [
+          {
+            "id": "6styCzc1Ej4NxISL0LiigM",
+            "name": "The Smile"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 270,
+        "nanos": 945000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5MH1ZAwn3KcI84BMrqpaIG",
+      "name": "We're Gonna Get There In The End (Demo)",
+      "artists": [
+        {
+          "id": "7sjttK1WcZeyLPn3IsQ62L",
+          "name": "Noel Gallagher's High Flying Birds"
+        }
+      ],
+      "album": {
+        "id": "5w6plCQfzFps3aHN4drA9u",
+        "release_date": "2022-05-13",
+        "name": "Magic Secrets #1",
+        "artists": [
+          {
+            "id": "7sjttK1WcZeyLPn3IsQ62L",
+            "name": "Noel Gallagher's High Flying Birds"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 253,
+        "nanos": 13000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2m3TWZ06aY3Ue2oFmifQan",
+      "name": "Morning Song",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "4zl6emOKnCjIHd9Z1q6n8M",
+        "release_date": "2018-10-12",
+        "name": "Longing to Be the Mountain",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 589,
+        "nanos": 951000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1oa0fiSR9sIovQwYhKgjpo",
+      "name": "Matahari - Balearic Mix - Solarstone Retouch",
+      "artists": [
+        {
+          "id": "7zEFgw2ctESGPcYYPQ7vrM",
+          "name": "Hoopoe"
+        },
+        {
+          "id": "1PfOXooPSLQhOTNZGrXM90",
+          "name": "Solarstone"
+        }
+      ],
+      "album": {
+        "id": "4GYo0hRqXeHOSpHG6rFUJm",
+        "release_date": "2022-04-22",
+        "name": "Pure Trance 9 Retouch EP",
+        "artists": [
+          {
+            "id": "1PfOXooPSLQhOTNZGrXM90",
+            "name": "Solarstone"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 414,
+        "nanos": 464000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6qlqjHmx6A1yeLbAmPxdCr",
+      "name": "Geräusche",
+      "artists": [
+        {
+          "id": "3g2slv6elrXxGnXqy7Q2ap",
+          "name": "Les Big Byrd"
+        }
+      ],
+      "album": {
+        "id": "4zuNBuG2Mzf7pBEYYXGoeU",
+        "release_date": "2018-10-12",
+        "name": "Iran Iraq IKEA",
+        "artists": [
+          {
+            "id": "3g2slv6elrXxGnXqy7Q2ap",
+            "name": "Les Big Byrd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 363,
+        "nanos": 413000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0b9bL6LHO93yDlYUyOkJFw",
+      "name": "Wait and See",
+      "artists": [
+        {
+          "id": "3s596fAjCmoXEGdAZLy8EW",
+          "name": "delving"
+        }
+      ],
+      "album": {
+        "id": "3tZgsGW8S5hwLJwiN995yi",
+        "release_date": "2021-06-11",
+        "name": "Hirschbrunnen",
+        "artists": [
+          {
+            "id": "3s596fAjCmoXEGdAZLy8EW",
+            "name": "delving"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 432,
+        "nanos": 460000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "28rjuKhEkbFvBJsrNrEz7D",
+      "name": "Firmament",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "3xArGf5JGYwsFcWIo62v4w",
+        "release_date": "2022-09-02",
+        "name": "Regenerator",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 555,
+        "nanos": 690000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4X3hyy1ILGwdWJIUOctpQ0",
+      "name": "End of the Empire IV (Sagittarius A*)",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "2sAePf08xIp4tnDlMUCV8B",
+        "release_date": "2022-05-06",
+        "name": "WE",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6crf5gKx2wQxjqbF12mDJw",
+      "name": "Saturnine & Iron Jaw",
+      "artists": [
+        {
+          "id": "29Wmfm1CojrjQ3aQP0FI65",
+          "name": "All Them Witches"
+        }
+      ],
+      "album": {
+        "id": "7j6skpqor6kgLs7NoPCC0j",
+        "release_date": "2020-09-04",
+        "name": "Nothing as the Ideal",
+        "artists": [
+          {
+            "id": "29Wmfm1CojrjQ3aQP0FI65",
+            "name": "All Them Witches"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 409,
+        "nanos": 337000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5ESwQyRrPOF5n9UQwwTlHV",
+      "name": "Hirschbrunnen",
+      "artists": [
+        {
+          "id": "3s596fAjCmoXEGdAZLy8EW",
+          "name": "delving"
+        }
+      ],
+      "album": {
+        "id": "3tZgsGW8S5hwLJwiN995yi",
+        "release_date": "2021-06-11",
+        "name": "Hirschbrunnen",
+        "artists": [
+          {
+            "id": "3s596fAjCmoXEGdAZLy8EW",
+            "name": "delving"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 574,
+        "nanos": 83000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4xOF4A32W3E2C4DZw3zC0s",
+      "name": "Loam",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 461,
+        "nanos": 142000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "41bTTcwZwuPxaNdrLZzgDk",
+      "name": "Darkness in the Light",
+      "artists": [
+        {
+          "id": "53B8p4TVFXCtarwosey71M",
+          "name": "Eco"
+        }
+      ],
+      "album": {
+        "id": "2wt5Q7CWb1RlEa2rQQWlOo",
+        "release_date": "2016-10-14",
+        "name": "Wolves",
+        "artists": [
+          {
+            "id": "53B8p4TVFXCtarwosey71M",
+            "name": "Eco"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 369,
+        "nanos": 328000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "24yldSMrr0gf7P3VOHMrrj",
+      "name": "Tiger's Pit",
+      "artists": [
+        {
+          "id": "29Wmfm1CojrjQ3aQP0FI65",
+          "name": "All Them Witches"
+        }
+      ],
+      "album": {
+        "id": "3hD6RVyoklbju3N8HTND4t",
+        "release_date": "2022-08-26",
+        "name": "Tiger's Pit",
+        "artists": [
+          {
+            "id": "29Wmfm1CojrjQ3aQP0FI65",
+            "name": "All Them Witches"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 295,
+        "nanos": 626000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7vgzbCwHOd265wngqSSPHB",
+      "name": "I Fucked Up I Was a Child",
+      "artists": [
+        {
+          "id": "3g2slv6elrXxGnXqy7Q2ap",
+          "name": "Les Big Byrd"
+        }
+      ],
+      "album": {
+        "id": "4zuNBuG2Mzf7pBEYYXGoeU",
+        "release_date": "2018-10-12",
+        "name": "Iran Iraq IKEA",
+        "artists": [
+          {
+            "id": "3g2slv6elrXxGnXqy7Q2ap",
+            "name": "Les Big Byrd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 283,
+        "nanos": 613000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "22XTCd8HvQxroyziKW3D14",
+      "name": "Avalon",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "3xArGf5JGYwsFcWIo62v4w",
+        "release_date": "2022-09-02",
+        "name": "Regenerator",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 379,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6SDYoxCRLB3nuaq9mEKpgk",
+      "name": "Crazy",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1tvSxaTCXwwBK6vEYnj06T",
+        "release_date": "2022-01-10",
+        "name": "Crazy",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 232,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3AVVNRtaVNvpHuNuHg69J0",
+      "name": "If I Survive (I'll Worship the Moon)",
+      "artists": [
+        {
+          "id": "53B8p4TVFXCtarwosey71M",
+          "name": "Eco"
+        }
+      ],
+      "album": {
+        "id": "2wt5Q7CWb1RlEa2rQQWlOo",
+        "release_date": "2016-10-14",
+        "name": "Wolves",
+        "artists": [
+          {
+            "id": "53B8p4TVFXCtarwosey71M",
+            "name": "Eco"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 472,
+        "nanos": 625000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4C3FxjoMCuFcTx22SUqcr1",
+      "name": "Mammoth",
+      "artists": [
+        {
+          "id": "1MCD0sEOenaZFy2nA1hLVL",
+          "name": "Swan Valley Heights"
+        }
+      ],
+      "album": {
+        "id": "44IThhZVm3cde680jBPHwq",
+        "release_date": "2016-03-01",
+        "name": "Swan Valley Heights",
+        "artists": [
+          {
+            "id": "1MCD0sEOenaZFy2nA1hLVL",
+            "name": "Swan Valley Heights"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 662,
+        "nanos": 653000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6rIh2ETnPnBxkFYjQb83SV",
+      "name": "Centurion",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "5G71TdzImVKCnUNVMimPok",
+        "release_date": "2018-01-05",
+        "name": "Repeater",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 356,
+        "nanos": 824000000
+      },
+      "explicit": false
+    }
+  ],
+  "year": 2022
+}

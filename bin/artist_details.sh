@@ -19,9 +19,11 @@ top_ids=$(spotify_player get key user-top-tracks | jq '[.[].artists[] | {name, i
 
 alltime_ids=$([ -f "$root/cache/special/alltime.json" ] &&
   jq '[.tracks[].artists[] | {name, id}]' "$root/cache/special/alltime.json" || echo '[]')
+yearly_ids=$(ls "$root"/cache/yearly/*.json >/dev/null 2>&1 &&
+  jq -s '[.[].tracks[].artists[] | {name, id}]' "$root"/cache/yearly/*.json || echo '[]')
 
-ids=$(jq -s -r --argjson f "$followed_ids" --argjson t "$top_ids" --argjson a "$alltime_ids" \
-  '[.[].tracks[].artists[] | {name, id}] + $f + $t + $a | unique_by(.name) | INDEX(.name)' \
+ids=$(jq -s -r --argjson f "$followed_ids" --argjson t "$top_ids" --argjson a "$alltime_ids" --argjson y "$yearly_ids" \
+  '[.[].tracks[].artists[] | {name, id}] + $f + $t + $a + $y | unique_by(.name) | INDEX(.name)' \
   "$root"/cache/playlists/*.json)
 
 fetched=0

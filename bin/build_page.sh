@@ -6,8 +6,8 @@ out="$root/docs/index.html"
 top_n="${PAGE_TOP:-50}"
 disc_n="${PAGE_DISCOVER:-50}"
 
-favs=$(jq -c --argjson n "$top_n" '[.[0:$n][] |
-  {rank, score, name, alltime, top, spread, tracks,
+favs=$(jq -c --argjson n "$top_n" '[.artists[0:$n][] |
+  {rank, score, name, yearly, years: .yearly_years, top, spread, tracks,
    fol: (if .followed then "y" else "n" end),
    ded: (if .dedicated then "y" else "n" end),
    fav: (if .favourite then "Y" else "-" end),
@@ -111,12 +111,14 @@ document.getElementById('favs').innerHTML = favs.map(a => {
     a.fav === 'Y' ? '<span class="chip">favourite</span>' : '',
     a.ded === 'y' ? '<span class="chip">best of</span>' : '',
     a.top > 0 ? '<span class="chip">playing now</span>' : '',
+    a.years >= 3 ? '<span class="chip">long haul</span>' : '',
     a.act >= 0.75 ? '<span class="chip">active</span>' : ''
   ].join('');
   const bits = [];
   if (a.spread > 0) bits.push(a.spread + ' playlists');
   if (a.tracks > 0) bits.push(a.tracks + ' tracks');
   if (a.top > 0) bits.push(a.top + ' in top 50');
+  if (a.years > 0) bits.push('top songs in ' + a.years + (a.years === 1 ? ' year' : ' years'));
   return '<div class="row"><div class="rank">' + a.rank + '</div>' +
     '<div><div class="name">' + esc(a.name) + chips + '</div>' +
     '<div class="meta">' + bits.join(' &middot; ') + '</div></div>' +

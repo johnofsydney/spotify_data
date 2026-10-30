@@ -91,7 +91,8 @@ the following week to carry rather than aborting the run.
 | `bin/followed_artists.sh` | `followed_artists.md` | Artists I follow. Overwrites. |
 | `bin/liked_tracks_artists.sh` | `liked_tracks_artists.md` | Artists by liked-track count. Overwrites. |
 | `bin/top_tracks_artists.sh` | `top_tracks_artists_<date>.md` | Artists in my top tracks. Dated, one file per run. |
-| `bin/alltime_artists.sh` | `alltime_artists.md` | Artists in Spotify's "Your All-Time Top Songs". Logs the snapshot id each run. |
+| `bin/alltime_artists.sh` | `alltime_artists.md` | Artists in Spotify's "Your All-Time Top Songs". Logs the snapshot id each run. Scored at zero — see below. |
+| `bin/yearly_artists.sh` | `yearly_artists.md` | Artists across every "Your Top Songs &lt;year&gt;" wrap, weighted by recency. Caches; `--force` to refetch. |
 | `bin/playlist_artists.sh` | `playlist_artists.md` | Artists across all playlists. Caches; `--force` to refetch. |
 | `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Weights in `weights.json`. |
 | `bin/discover_artists.sh` | `discover_artists.md` | Artists I do not have, ranked by which of my favourites point at them. Offline. |
@@ -126,20 +127,46 @@ commit; it says nothing about when a playlist was touched before then.
 
 ## The favourites ranking
 
-Eight signals disagree about what a favourite is, and none is trustworthy
+Nine signals disagree about what a favourite is, and none is trustworthy
 alone. `favourite_artists.sh` combines them into a single 0-100 score.
 
 | Signal | Column | Weight | What it means |
 | --- | --- | --- | --- |
-| All-time top songs | `alltime` | 0.25 | How many of Spotify's "Your All-Time Top Songs" are theirs. The only direct measure of sustained listening in the data, and the one signal that gets my own reference cases right unprompted. |
-| Playlist spread | `spread` | 0.18 | How many *different* playlists hold two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
-| Top tracks | `top` | 0.13 | How many of my 50 current top tracks are theirs. Spotify returns a short-term window, so this is the only signal that reflects *now* — and the narrowest. |
-| Playlist tracks | `tracks` | 0.13 | Total track credits across my playlists. |
+| Yearly wraps | `yearly` | 0.25 | Their tracks across every "Your Top Songs &lt;year&gt;" playlist, each year weighted by recency. Ten years of Spotify's own measurement of what I actually played — the deepest evidence in the data, and the signal that gets my reference cases right unprompted. |
+| Top tracks | `top` | 0.18 | How many of my 50 current top tracks are theirs. Spotify returns a short-term window, so this is the only signal that reflects *now*. Weighted to keep the chart moving between wraps. |
+| Playlist spread | `spread` | 0.16 | How many *different* playlists hold two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
+| Playlist tracks | `tracks` | 0.10 | Total track credits across my playlists. Deliberately below `spread` and `top`: a big back catalogue is not the same as a favourite. |
 | Favourites playlist | `FAV` | 0.12 | Whether they are in the playlist I keep by hand. The one place I can tell the ranking something the data does not record. |
 | Dedicated playlist | `ded` | 0.09 | Whether more than half of a playlist of five or more tracks is theirs. |
 | Followed | `fol` | 0.07 | Deliberate, but binary and cheap: you follow once and forget. |
 | Recording activity | `rel3y` | 0.03 | New albums and singles over three years, reissues excluded. Nearly off — see below. |
+| All-time top songs | `alltime` | 0.00 | Off. Spotify does not keep it current — two readings a day apart returned an identical snapshot id, and `history/alltime_snapshots.csv` watches whether that ever changes. The yearly wraps say the same thing with dates attached, so this is exported but not scored. |
 | Liked tracks | `liked` | 0.00 | Off. I rarely use the like button, so the count measured my indifference to a feature rather than my taste. Shown, not scored; raising the weight turns it back on. |
+
+### The yearly wraps
+
+Spotify mints a "Your Top Songs &lt;year&gt;" playlist per account per year. Ten of
+them, 2016 to 2025, are about 1,000 tracks of Spotify's own measurement of what
+I actually played — the thing the weekly `top_tracks` snapshot would take years
+to accumulate.
+
+`yearly_artists.sh` finds them **by name**, not by stored id: any playlist owned
+by Spotify called exactly `Your Top Songs <year>`. Nothing has to be configured,
+no personal playlist id is committed, and a year saved later — a 2026 wrap next
+December, or an older one backfilled — is picked up by the next run on its own.
+
+Each year's tracks are weighted by recency, halving every `half_life_years` in
+`yearly_weights.json`:
+
+```json
+{ "half_life_years": 3 }
+```
+
+At a half-life of 3 the newest wrap counts 1.00, three years back 0.50, and 2016
+0.13. Without the decay a long-abandoned favourite outvotes what I actually
+listen to now, which is the same failure the Best Of playlists caused. Raise the
+half-life for a career retrospective; lower it for something closer to recent
+taste.
 
 ### Reading the output
 
@@ -185,9 +212,9 @@ album-length addition buries every other signal.
 Weights live in `weights.json`, one line per signal, and nowhere else:
 
 ```json
-{ "alltime": 0.25, "spread": 0.18, "top": 0.13, "tracks": 0.13,
-  "favourite": 0.12, "dedicated": 0.09, "followed": 0.07,
-  "activity": 0.03, "liked": 0.00 }
+{ "yearly": 0.25, "top": 0.18, "spread": 0.16, "favourite": 0.12,
+  "tracks": 0.10, "dedicated": 0.09, "followed": 0.07,
+  "activity": 0.03, "alltime": 0.00, "liked": 0.00 }
 ```
 
 **They must sum to 1, or to 100 if you prefer percentages.** Anything else

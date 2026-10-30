@@ -1,0 +1,2837 @@
+{
+  "playlist": {
+    "id": "37i9dQZF1Etfb1TELlKOH7",
+    "collaborative": false,
+    "name": "Your Top Songs 2019",
+    "desc": "The songs you loved most this year, all wrapped up.",
+    "current_folder_id": 0,
+    "snapshot_id": "AZDX1AAAAAAr/ToNwIs8MQa82sCYr7X+"
+  },
+  "tracks": [
+    {
+      "id": "7ri0L0j0vQjuUKP7EOKdXk",
+      "name": "Beloved Woman",
+      "artists": [
+        {
+          "id": "6ZWMXMg25PGVCaoYZXQSyn",
+          "name": "Papa M"
+        }
+      ],
+      "album": {
+        "id": "3NCwxdYt3bEcp0g1g8Yth0",
+        "release_date": "2001-11-05",
+        "name": "\"Whatever, Mortal\"",
+        "artists": [
+          {
+            "id": "6ZWMXMg25PGVCaoYZXQSyn",
+            "name": "Papa M"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 206,
+        "nanos": 80000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6ahGhgMNCBXB6HosAebksf",
+      "name": "Losing You - Mono Version",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "6t4BECovfkgGTrtbqmTlZf",
+        "release_date": "1988-01-01",
+        "name": "The Silver Collection",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 180,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2PfOC2XbFLcqoG51366R1z",
+      "name": "There Used to Be a Darkness",
+      "artists": [
+        {
+          "id": "6trUID4p69Kwk7x4GNSCZz",
+          "name": "Mikko Joensuu"
+        }
+      ],
+      "album": {
+        "id": "0vhZKXDsJ7650W6uJlbdqn",
+        "release_date": "2016-11-11",
+        "name": "Amen, Vol. 2",
+        "artists": [
+          {
+            "id": "6trUID4p69Kwk7x4GNSCZz",
+            "name": "Mikko Joensuu"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 679,
+        "nanos": 195000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4aUCovTNe98WnwE6AIl0pU",
+      "name": "Ladies and Gentlemen We Are Floating in Space",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "4GMgNPA4fMv3U0QQsdRLJk",
+        "release_date": "1997-06-16",
+        "name": "Ladies & Gentlemen We Are Floating In Space",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "12EoBdX6xwJz4qzipi0oTb",
+      "name": "Fanfare III",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "4Q3x7bNjD6a7qo56JFMCft",
+        "release_date": "2018-09-21",
+        "name": "Daughter",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 375,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Cxa9AWDusLnX7fxZrkLfp",
+      "name": "Soul Time - Single Version",
+      "artists": [
+        {
+          "id": "4GO3ufZJ7YsEnQ3PiML2Dg",
+          "name": "Shirley Ellis"
+        }
+      ],
+      "album": {
+        "id": "1e5GWj2QMByTH63cp8WOU4",
+        "release_date": "2011-04-22",
+        "name": "The Best Of The Northern Soul Story",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 162,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3RauEVgRgj1IuWdJ9fDs70",
+      "name": "The Man",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 190,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3ET4J0rPJ4uzgf0cQzGGsN",
+      "name": "Ain't No Sun Since You've Been Gone",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "08W4d8uMIQvJg0nlwR1rBN",
+        "release_date": "1968-11-22",
+        "name": "Dusty... Definitely (Expanded Edtion)",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3b3jn8yqauHjf3Bl2xugbc",
+      "name": "A Point of a Secret",
+      "artists": [
+        {
+          "id": "2Mjr7nb7vY7AQwxGskDlM7",
+          "name": "Greenleaf"
+        }
+      ],
+      "album": {
+        "id": "43wkUzgUzpfyfJLy1hjujD",
+        "release_date": "2018-11-09",
+        "name": "Hear the Rivers",
+        "artists": [
+          {
+            "id": "2Mjr7nb7vY7AQwxGskDlM7",
+            "name": "Greenleaf"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 276,
+        "nanos": 520000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7L64vgwZn66FvltwUQFl2Q",
+      "name": "The Best",
+      "artists": [
+        {
+          "id": "3K9muOlJVKLgH4SIwwZiDe",
+          "name": "Self Esteem"
+        }
+      ],
+      "album": {
+        "id": "3FG6GxeO6H4JJJSb6Zp1pQ",
+        "release_date": "2019-03-01",
+        "name": "Compliments Please",
+        "artists": [
+          {
+            "id": "3K9muOlJVKLgH4SIwwZiDe",
+            "name": "Self Esteem"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 230,
+        "nanos": 146000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6WFsELGC7rYxCptwEC2lv3",
+      "name": "Seven Days Too Long",
+      "artists": [
+        {
+          "id": "7ot74oYptdmYydjyDmcLzg",
+          "name": "Chuck Wood"
+        }
+      ],
+      "album": {
+        "id": "2QczhQjz4fqF4lUnySqbXX",
+        "release_date": "2017-09-04",
+        "name": "Northern Soul Classics",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 141,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4y5bvROuBDPr5fuwXbIBZR",
+      "name": "Paper Rings",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "47Lwy01msY7erJSYfQ5p0Y",
+      "name": "Easily Persuaded",
+      "artists": [
+        {
+          "id": "1Pe5hlKMCTULjosqZ6KanP",
+          "name": "Martha Reeves & The Vandellas"
+        }
+      ],
+      "album": {
+        "id": "2LVHRojdrMALUMJpXX4aFJ",
+        "release_date": "1970",
+        "name": "Natural Resources",
+        "artists": [
+          {
+            "id": "1Pe5hlKMCTULjosqZ6KanP",
+            "name": "Martha Reeves & The Vandellas"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 163,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7aYMCI3c2EBBQNhaJoF8V9",
+      "name": "Spring Equinox: The Mountains Break Forth in Song",
+      "artists": [
+        {
+          "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+          "name": "Old Solar"
+        }
+      ],
+      "album": {
+        "id": "1HlpPj4KNw3gMy66Ml7nlU",
+        "release_date": "2019-01-17",
+        "name": "SEE",
+        "artists": [
+          {
+            "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+            "name": "Old Solar"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 499,
+        "nanos": 435000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4OMOLfMzSKVWqaqOtfPnxT",
+      "name": "The Ballad of Remedy Nilsson",
+      "artists": [
+        {
+          "id": "6VhSPuOn3LAaZlktcjz1YR",
+          "name": "International Teachers Of Pop"
+        }
+      ],
+      "album": {
+        "id": "5r69VxYyldaPjXNNCt5sKR",
+        "release_date": "2019-02-08",
+        "name": "International Teachers Of Pop",
+        "artists": [
+          {
+            "id": "6VhSPuOn3LAaZlktcjz1YR",
+            "name": "International Teachers Of Pop"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 210,
+        "nanos": 972000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2yLa0QULdQr0qAIvVwN6B5",
+      "name": "...Ready For It?",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "6DEjYFkNZh67HP7R9PSZvv",
+        "release_date": "2017-11-10",
+        "name": "reputation",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 208,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "346j19RX7Raa6snbispVF6",
+      "name": "Spirits Stampede",
+      "artists": [
+        {
+          "id": "6YK58h9BCYpFNv10fsMwoS",
+          "name": "pg.lost"
+        }
+      ],
+      "album": {
+        "id": "4lvhLVlxROwIWD87GGOj7J",
+        "release_date": "2012-05-18",
+        "name": "Key",
+        "artists": [
+          {
+            "id": "6YK58h9BCYpFNv10fsMwoS",
+            "name": "pg.lost"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 392,
+        "nanos": 880000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3rDGRkRrEhxDiFP8wCx4fP",
+      "name": "Summer Solstice: Dancing Days in the Garden Well-Watered",
+      "artists": [
+        {
+          "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+          "name": "Old Solar"
+        }
+      ],
+      "album": {
+        "id": "1HlpPj4KNw3gMy66Ml7nlU",
+        "release_date": "2019-01-17",
+        "name": "SEE",
+        "artists": [
+          {
+            "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+            "name": "Old Solar"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 612,
+        "nanos": 310000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3zYQ1KXzqBWRsxIqdVMoYF",
+      "name": "Need Your Love",
+      "artists": [
+        {
+          "id": "0CUpzKPDfIVzYqMn47jiV3",
+          "name": "Curtis Harding"
+        }
+      ],
+      "album": {
+        "id": "3Can2qB9S1pOcElpkfExB1",
+        "release_date": "2017-10-27",
+        "name": "Face Your Fear",
+        "artists": [
+          {
+            "id": "0CUpzKPDfIVzYqMn47jiV3",
+            "name": "Curtis Harding"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 177,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Ck9WerfsyvC4v4AylUoDp",
+      "name": "I Know Places",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "5fy0X0JmZRZnVa2UEicIOl",
+        "release_date": "2014-01-01",
+        "name": "1989",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 195,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5P6O4yi0sZ4JUOJAlmZvxM",
+      "name": "(I Was) Born To Cry - Remastered 1991",
+      "artists": [
+        {
+          "id": "15FyiY3ChN0QRspHIQYq0W",
+          "name": "Dion"
+        }
+      ],
+      "album": {
+        "id": "4XCCPbgyV1L06tIZmQYFwu",
+        "release_date": "2005-01-01",
+        "name": "The Best Of Dion & The Belmonts",
+        "artists": [
+          {
+            "id": "2loYllWFfoWpoxC5YrJKc4",
+            "name": "Dion & The Belmonts"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 147,
+        "nanos": 560000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1hUOOa4yy6lVOXLjqAuB3M",
+      "name": "End to End",
+      "artists": [
+        {
+          "id": "0nsphA9KDqbJ64duYRoEBi",
+          "name": "Earthless"
+        }
+      ],
+      "album": {
+        "id": "4IG4E3m4wYVkuLzSVF8beM",
+        "release_date": "2018-03-16",
+        "name": "Black Heaven",
+        "artists": [
+          {
+            "id": "0nsphA9KDqbJ64duYRoEBi",
+            "name": "Earthless"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 316,
+        "nanos": 786000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0hsG1GL81PCrCzFbKaVcXw",
+      "name": "Clearest Blue",
+      "artists": [
+        {
+          "id": "3CjlHNtplJyTf9npxaPl5w",
+          "name": "CHVRCHES"
+        }
+      ],
+      "album": {
+        "id": "6nsk6T7ceOvkBbro8agEv7",
+        "release_date": "2015-09-25",
+        "name": "Every Open Eye",
+        "artists": [
+          {
+            "id": "3CjlHNtplJyTf9npxaPl5w",
+            "name": "CHVRCHES"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 233,
+        "nanos": 762000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6RRNNciQGZEXnqk8SQ9yv5",
+      "name": "You Need To Calm Down",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 171,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2BiUQqN5FvErGPOu0AcikK",
+      "name": "Autumn Equinox: A Winnowing Fork in His Hands",
+      "artists": [
+        {
+          "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+          "name": "Old Solar"
+        }
+      ],
+      "album": {
+        "id": "1HlpPj4KNw3gMy66Ml7nlU",
+        "release_date": "2019-01-17",
+        "name": "SEE",
+        "artists": [
+          {
+            "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+            "name": "Old Solar"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 597,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0vDxSoytTKhrEi1MBHNKbs",
+      "name": "Land Before Time",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "4Q3x7bNjD6a7qo56JFMCft",
+        "release_date": "2018-09-21",
+        "name": "Daughter",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 301,
+        "nanos": 80000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1MA9StLzlFftLbuqOmoWij",
+      "name": "Cathy's Clown",
+      "artists": [
+        {
+          "id": "4ACplpEqD6JIVgKrafauzs",
+          "name": "The Everly Brothers"
+        }
+      ],
+      "album": {
+        "id": "3wWjXsqngYcPmd4hQzjNAD",
+        "release_date": "1962-06-01",
+        "name": "The Golden Hits of The Everly Brothers",
+        "artists": [
+          {
+            "id": "4ACplpEqD6JIVgKrafauzs",
+            "name": "The Everly Brothers"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 144,
+        "nanos": 13000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Rk4JlNc2TPmZe2af99d45",
+      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        },
+        {
+          "id": "6eYFryfcEu3QSq59D62wZQ",
+          "name": "Brendon Urie"
+        },
+        {
+          "id": "20JZFwl6HVl6yg8a4H3ZqK",
+          "name": "Panic! At The Disco"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 193,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "23WgvD1nf7ZW4ehljudfbi",
+      "name": "Last Train",
+      "artists": [
+        {
+          "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+          "name": "Tiësto"
+        },
+        {
+          "id": "53YSn9tHwGJ6bq5P0gGoYo",
+          "name": "Firebeatz"
+        },
+        {
+          "id": "5TfnQ0Ai1cEbKY5katFK14",
+          "name": "Ladyhawke"
+        }
+      ],
+      "album": {
+        "id": "4SHlBT6B3kL8bdj6X2xHRp",
+        "release_date": "2014-06-13",
+        "name": "A Town Called Paradise",
+        "artists": [
+          {
+            "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+            "name": "Tiësto"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 288,
+        "nanos": 573000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1ZwmKfgHyb1QvlQit8dxpo",
+      "name": "Bad Love",
+      "artists": [
+        {
+          "id": "07dZirN9KFAGIHeBvSDfuO",
+          "name": "Night Beats"
+        }
+      ],
+      "album": {
+        "id": "5hz5wGL9azPpH3m6jXFSmL",
+        "release_date": "2016-01-29",
+        "name": "Who Sold My Generation",
+        "artists": [
+          {
+            "id": "07dZirN9KFAGIHeBvSDfuO",
+            "name": "Night Beats"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 190,
+        "nanos": 190000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4eolGPR2DbJBTZ2n272zCX",
+      "name": "Obi Bate Opiate",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "4Q3x7bNjD6a7qo56JFMCft",
+        "release_date": "2018-09-21",
+        "name": "Daughter",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 397,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1wE5XJLpRJRNDuL1SguW1R",
+      "name": "A Love Song",
+      "artists": [
+        {
+          "id": "5TfnQ0Ai1cEbKY5katFK14",
+          "name": "Ladyhawke"
+        }
+      ],
+      "album": {
+        "id": "6QI9g5RFi49PFa8KEafngg",
+        "release_date": "2016-06-03",
+        "name": "Wild Things",
+        "artists": [
+          {
+            "id": "5TfnQ0Ai1cEbKY5katFK14",
+            "name": "Ladyhawke"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 146000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "24xbAUAJZ38jkOEjEIRYg1",
+      "name": "Autumn Winds",
+      "artists": [
+        {
+          "id": "15cjYStG6SRmTS9d5wNVxT",
+          "name": "Pia Fraus"
+        }
+      ],
+      "album": {
+        "id": "2YeWIO6e5pLAIVmofrYcpP",
+        "release_date": "2016-11-01",
+        "name": "Autumn Winds",
+        "artists": [
+          {
+            "id": "15cjYStG6SRmTS9d5wNVxT",
+            "name": "Pia Fraus"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 236,
+        "nanos": 144000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4T7KB2dRMyQ6G7Ws1LEirm",
+      "name": "Too Many Fish In The Sea - Single Version",
+      "artists": [
+        {
+          "id": "0MponVSpW81oLvJZ53vYZH",
+          "name": "The Marvelettes"
+        }
+      ],
+      "album": {
+        "id": "5hC8XmSW4sGzeAc5Lx9i62",
+        "release_date": "2008-01-01",
+        "name": "The Definitive Collection",
+        "artists": [
+          {
+            "id": "0MponVSpW81oLvJZ53vYZH",
+            "name": "The Marvelettes"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 148,
+        "nanos": 80000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "14DMdxxBZ6iEfMKOy5n8cF",
+      "name": "Triumph of Love",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "4Q3x7bNjD6a7qo56JFMCft",
+        "release_date": "2018-09-21",
+        "name": "Daughter",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 284,
+        "nanos": 520000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7k2qwBlJY9df7NhiUN1J0J",
+      "name": "Winter Solstice: Hallow the Hushed Earth",
+      "artists": [
+        {
+          "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+          "name": "Old Solar"
+        }
+      ],
+      "album": {
+        "id": "1HlpPj4KNw3gMy66Ml7nlU",
+        "release_date": "2019-01-17",
+        "name": "SEE",
+        "artists": [
+          {
+            "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+            "name": "Old Solar"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 485,
+        "nanos": 15000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4L883Hie8OZjyZDxR8wExR",
+      "name": "Northwest Passage",
+      "artists": [
+        {
+          "id": "6ZWMXMg25PGVCaoYZXQSyn",
+          "name": "Papa M"
+        }
+      ],
+      "album": {
+        "id": "3NCwxdYt3bEcp0g1g8Yth0",
+        "release_date": "2001-11-05",
+        "name": "\"Whatever, Mortal\"",
+        "artists": [
+          {
+            "id": "6ZWMXMg25PGVCaoYZXQSyn",
+            "name": "Papa M"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 344,
+        "nanos": 280000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3URfKi5DOvUaJMuTuT8osm",
+      "name": "When You're Young And In Love",
+      "artists": [
+        {
+          "id": "0MponVSpW81oLvJZ53vYZH",
+          "name": "The Marvelettes"
+        }
+      ],
+      "album": {
+        "id": "10PshaiGlvqUfdADKJXbTV",
+        "release_date": "1967-01-01",
+        "name": "The Marvelettes",
+        "artists": [
+          {
+            "id": "0MponVSpW81oLvJZ53vYZH",
+            "name": "The Marvelettes"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 159,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0gVNuGdb6WrBfa55oU6iGs",
+      "name": "Tom Cat",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "4Q3x7bNjD6a7qo56JFMCft",
+        "release_date": "2018-09-21",
+        "name": "Daughter",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 273,
+        "nanos": 240000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7oxnnfCVlE9wYICcUFWVrI",
+      "name": "While the Earth Remains",
+      "artists": [
+        {
+          "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+          "name": "Old Solar"
+        }
+      ],
+      "album": {
+        "id": "1HlpPj4KNw3gMy66Ml7nlU",
+        "release_date": "2019-01-17",
+        "name": "SEE",
+        "artists": [
+          {
+            "id": "7KTRLXDlkEZ0wG3xUDnEEd",
+            "name": "Old Solar"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 460,
+        "nanos": 982000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1UnM0NsSvw8tjvzOQ9Vcon",
+      "name": "Korolev",
+      "artists": [
+        {
+          "id": "6VsiDFMZJlJ053P1uO4A6h",
+          "name": "Public Service Broadcasting"
+        }
+      ],
+      "album": {
+        "id": "4OS9p53WyezrI6r8llHjom",
+        "release_date": "2015-11-20",
+        "name": "SPUTNIK / KOROLEV",
+        "artists": [
+          {
+            "id": "6VsiDFMZJlJ053P1uO4A6h",
+            "name": "Public Service Broadcasting"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 273,
+        "nanos": 505000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3qyu3BXhQ9oUkTAWgubRNl",
+      "name": "Sir Niney's Rock - Dub",
+      "artists": [
+        {
+          "id": "3TsXLcFH4xlODPPbjG3Igu",
+          "name": "The Observers"
+        }
+      ],
+      "album": {
+        "id": "7uHk00q0frx3EhMF8O33ME",
+        "release_date": "2009-02-23",
+        "name": "The Trojan: Dub Collection",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 206,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5aLuuIzpiAwB6sU77xLCuU",
+      "name": "There Is a House",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "4Q3x7bNjD6a7qo56JFMCft",
+        "release_date": "2018-09-21",
+        "name": "Daughter",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 239,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2dNcajANPqB8c7f3I1Aekt",
+      "name": "Lord Let It Rain On Me",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "6IDrWwIChSMjJqkd9ZZA6K",
+        "release_date": "2003-09-08",
+        "name": "Amazing Grace",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 220,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "31A3oqQxDLdG9HRx45z62d",
+      "name": "I Only Want To Be With You",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "2coXvs2zYk60U9Dd2hm6St",
+        "release_date": "1964-06-26",
+        "name": "Stay Awhile / I Only Want To Be With You (Expanded Edition)",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 158,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7jX01NXjGGXpjuqDTjOinm",
+      "name": "Time To Give",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "3AJhixLXNOTmkq0RmdMrpB",
+        "release_date": "2019-02-01",
+        "name": "FIVE",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 454,
+        "nanos": 518000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "35BqwFDe0CJA0Hg6QrBFLD",
+      "name": "Ramses the Evil Brother",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "0RrMfXxZPhmma6k0eA9P69",
+        "release_date": "2016-07-05",
+        "name": "Ramses the Evil Brother",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 274,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "40PMVuYhxzVKhCQ2jzOHvl",
+      "name": "Till The End",
+      "artists": [
+        {
+          "id": "0CUpzKPDfIVzYqMn47jiV3",
+          "name": "Curtis Harding"
+        }
+      ],
+      "album": {
+        "id": "3Can2qB9S1pOcElpkfExB1",
+        "release_date": "2017-10-27",
+        "name": "Face Your Fear",
+        "artists": [
+          {
+            "id": "0CUpzKPDfIVzYqMn47jiV3",
+            "name": "Curtis Harding"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7d1ustAIlXG7ht5Q4IOv7s",
+      "name": "It's The Same Old Song",
+      "artists": [
+        {
+          "id": "7fIvjotigTGWqjIz6EP1i4",
+          "name": "Four Tops"
+        }
+      ],
+      "album": {
+        "id": "2jvkMPydCpLWwRothqJU1O",
+        "release_date": "1965-11-13",
+        "name": "Four Tops - Second Album",
+        "artists": [
+          {
+            "id": "7fIvjotigTGWqjIz6EP1i4",
+            "name": "Four Tops"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7jeOETwLUP84mPQzxlD5nh",
+      "name": "Then He Kissed Me",
+      "artists": [
+        {
+          "id": "7rewR1TVjhisjI6gauUamf",
+          "name": "The Crystals"
+        }
+      ],
+      "album": {
+        "id": "11ho9FxQbJjMbQn1P1yWpm",
+        "release_date": "2011-02-22",
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "artists": [
+          {
+            "id": "7rewR1TVjhisjI6gauUamf",
+            "name": "The Crystals"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 158,
+        "nanos": 853000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3oqBOAsqRMKUHc8MGx4o72",
+      "name": "Death",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "1ySdrRPZa9ZRvlcUoGv8UE",
+        "release_date": "2009",
+        "name": "To Lose My Life ...",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 301,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6zaPCl7hdrCbvaF2bDSNtG",
+      "name": "Will You Love Me Tomorrow",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "1ulDMEpgJC1L4W05dMyqHl",
+        "release_date": "1964-04-17",
+        "name": "A Girl Called Dusty (Expanded Edtion)",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 158,
+        "nanos": 93000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3fVnlF4pGqWI9flVENcT28",
+      "name": "Wildest Dreams",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "5fy0X0JmZRZnVa2UEicIOl",
+        "release_date": "2014-01-01",
+        "name": "1989",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 220,
+        "nanos": 440000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ni6EruKbg11Q9PE5NwR2y",
+      "name": "Seven Hills",
+      "artists": [
+        {
+          "id": "1TAcaMoUlvLpTUzh18TzDY",
+          "name": "Causa Sui"
+        }
+      ],
+      "album": {
+        "id": "1m5TE9wAnq23iYCHRpGQml",
+        "release_date": "2017-11-17",
+        "name": "Vibraciones Doradas",
+        "artists": [
+          {
+            "id": "1TAcaMoUlvLpTUzh18TzDY",
+            "name": "Causa Sui"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 446,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6HDL3KJRhLxESQ8EyJnyEk",
+      "name": "Cool Jerk",
+      "artists": [
+        {
+          "id": "2AYmrUFn1ATSfFSx3B4tvb",
+          "name": "The Capitols"
+        }
+      ],
+      "album": {
+        "id": "2QczhQjz4fqF4lUnySqbXX",
+        "release_date": "2017-09-04",
+        "name": "Northern Soul Classics",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 746000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "576JCJvB0XkPa5PIai3LZu",
+      "name": "Hit And Run",
+      "artists": [
+        {
+          "id": "5LP4nRFZbdswDSBbCYP4gH",
+          "name": "Rose Batiste"
+        }
+      ],
+      "album": {
+        "id": "1x6I4OVVnsZGTSBznVw9WY",
+        "release_date": "2010-09-20",
+        "name": "The Stars Of Northern Soul Volume 1",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 640000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7EpVQjqtKygiwJIASxMWNg",
+      "name": "Out Of The Woods",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "5fy0X0JmZRZnVa2UEicIOl",
+        "release_date": "2014-01-01",
+        "name": "1989",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 235,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2hUHm19fmQnJ40LZXqjhZt",
+      "name": "To Lose My Life",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "1ySdrRPZa9ZRvlcUoGv8UE",
+        "release_date": "2009",
+        "name": "To Lose My Life ...",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 40000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "44L1369MmoPccj4S1xjMsE",
+      "name": "Letter",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "4Q3x7bNjD6a7qo56JFMCft",
+        "release_date": "2018-09-21",
+        "name": "Daughter",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 275,
+        "nanos": 40000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1WPqawIF9HCKfSOt7mN6X0",
+      "name": "Nowhere To Run",
+      "artists": [
+        {
+          "id": "1Pe5hlKMCTULjosqZ6KanP",
+          "name": "Martha Reeves & The Vandellas"
+        }
+      ],
+      "album": {
+        "id": "3lFGAL3WruNTdBXfct7ZbZ",
+        "release_date": "1965-01-01",
+        "name": "Dance Party",
+        "artists": [
+          {
+            "id": "1Pe5hlKMCTULjosqZ6KanP",
+            "name": "Martha Reeves & The Vandellas"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 181,
+        "nanos": 640000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 178,
+        "nanos": 426000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0Je8vQ2fUnA9s5t5fMHb2d",
+      "name": "Goin' Back",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "7JYg1zawhhgCxwGkB7DkgK",
+        "release_date": "2011-01-01",
+        "name": "The Magic of Dusty Springfield",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 209,
+        "nanos": 813000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7tqhbajSfrz2F7E1Z75ASX",
+      "name": "Ain't No Mountain High Enough",
+      "artists": [
+        {
+          "id": "3koiLjNrgRTNbOwViDipeA",
+          "name": "Marvin Gaye"
+        },
+        {
+          "id": "75jNCko3SnEMI5gwGqrbb8",
+          "name": "Tammi Terrell"
+        }
+      ],
+      "album": {
+        "id": "5LqviduT0g0J0ypFrFSwCE",
+        "release_date": "1967-08-29",
+        "name": "United",
+        "artists": [
+          {
+            "id": "3koiLjNrgRTNbOwViDipeA",
+            "name": "Marvin Gaye"
+          },
+          {
+            "id": "75jNCko3SnEMI5gwGqrbb8",
+            "name": "Tammi Terrell"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 151,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6vcG9EgeqJUSmmF65lxUm6",
+      "name": "One Fine Day",
+      "artists": [
+        {
+          "id": "05sIdEkXAYDbDDdv3T56Oj",
+          "name": "The Chiffons"
+        }
+      ],
+      "album": {
+        "id": "1WvYZcG9v3WzzNNkwpreGq",
+        "release_date": "2004-10-02",
+        "name": "The Chiffons Absolutely The Best!",
+        "artists": [
+          {
+            "id": "05sIdEkXAYDbDDdv3T56Oj",
+            "name": "The Chiffons"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 128,
+        "nanos": 199000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0cqRj7pUJDkTCEsJkx8snD",
+      "name": "Shake It Off",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1yGbNOtRIgdIiGHOEBaZWf",
+        "release_date": "2014-01-01",
+        "name": "1989 (Deluxe)",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 219,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "243ataMT90SyeW7dWmtZfS",
+      "name": "Over Jordan",
+      "artists": [
+        {
+          "id": "6ZWMXMg25PGVCaoYZXQSyn",
+          "name": "Papa M"
+        }
+      ],
+      "album": {
+        "id": "3NCwxdYt3bEcp0g1g8Yth0",
+        "release_date": "2001-11-05",
+        "name": "\"Whatever, Mortal\"",
+        "artists": [
+          {
+            "id": "6ZWMXMg25PGVCaoYZXQSyn",
+            "name": "Papa M"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 260,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0vAHDcmOreNTAvivouhoUv",
+      "name": "Kill The Cult",
+      "artists": [
+        {
+          "id": "17MbhJOaaPHuWnRaWU9xkc",
+          "name": "Decapitated"
+        }
+      ],
+      "album": {
+        "id": "6ALeuKwKXc8vyO21RP1YFg",
+        "release_date": "2017-07-07",
+        "name": "Anticult",
+        "artists": [
+          {
+            "id": "17MbhJOaaPHuWnRaWU9xkc",
+            "name": "Decapitated"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 280,
+        "nanos": 253000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Qdd9oObGHfMaVd90k01da",
+      "name": "Little By Little",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "6t4BECovfkgGTrtbqmTlZf",
+        "release_date": "1988-01-01",
+        "name": "The Silver Collection",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 143,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6aLOekfwbytwWvQftxTEF0",
+      "name": "All You Had To Do Was Stay",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1yGbNOtRIgdIiGHOEBaZWf",
+        "release_date": "2014-01-01",
+        "name": "1989 (Deluxe)",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 193,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7nG7S6CMeCKznVsZ96hZam",
+      "name": "Animal Noises",
+      "artists": [
+        {
+          "id": "6Ms9HDPdO2yBwjtljcqL7H",
+          "name": "Here Lies Man"
+        }
+      ],
+      "album": {
+        "id": "1aMivKbCNWCWaymvcy7DLX",
+        "release_date": "2018-06-15",
+        "name": "You Will Know Nothing",
+        "artists": [
+          {
+            "id": "6Ms9HDPdO2yBwjtljcqL7H",
+            "name": "Here Lies Man"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 252,
+        "nanos": 89000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0QeeVcFYQPpqO4KHeOrzPK",
+      "name": "Nothing But A Heartache",
+      "artists": [
+        {
+          "id": "3Hra0KQr00Pe9oqmQdVtvp",
+          "name": "The Flirtations"
+        }
+      ],
+      "album": {
+        "id": "67UoZsODIDU1g4gN1uJmSk",
+        "release_date": "1998-01-01",
+        "name": "The Northern Soul Scene",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 161,
+        "nanos": 906000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1OppEieGNdItZbE14gLBEv",
+      "name": "You Can't Hurry Love",
+      "artists": [
+        {
+          "id": "57bUPid8xztkieZfS7OlEV",
+          "name": "The Supremes"
+        }
+      ],
+      "album": {
+        "id": "5fpOmAuZaVyEXPlQ4oOqJ6",
+        "release_date": "1966-08-25",
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "artists": [
+          {
+            "id": "57bUPid8xztkieZfS7OlEV",
+            "name": "The Supremes"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 167,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1dGr1c8CrMLDpV6mPbImSI",
+      "name": "Lover",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 221,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6mLPwTyhVjnf3LnwxEpLxg",
+      "name": "Never Alone",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "3AJhixLXNOTmkq0RmdMrpB",
+        "release_date": "2019-02-01",
+        "name": "FIVE",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 213,
+        "nanos": 465000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2BK4Vuf2WpjgiKMtLMb4U7",
+      "name": "You Don't Have To Say You Love Me",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "6t4BECovfkgGTrtbqmTlZf",
+        "release_date": "1988-01-01",
+        "name": "The Silver Collection",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 168,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5cFLgLdpsqfk53ZGdyrbSE",
+      "name": "Gifted By The Wind",
+      "artists": [
+        {
+          "id": "0nsphA9KDqbJ64duYRoEBi",
+          "name": "Earthless"
+        }
+      ],
+      "album": {
+        "id": "30pOzmy2T73KwsjVCSz71L",
+        "release_date": "2018-03-16",
+        "name": "Black Heaven",
+        "artists": [
+          {
+            "id": "0nsphA9KDqbJ64duYRoEBi",
+            "name": "Earthless"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 388,
+        "nanos": 720000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0TvQLMecTE8utzoNmvXRbK",
+      "name": "Bad Blood",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "5fy0X0JmZRZnVa2UEicIOl",
+        "release_date": "2014-01-01",
+        "name": "1989",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1MYmtMGGiIwQqQEHMsGMIM",
+      "name": "Believe It",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "3AJhixLXNOTmkq0RmdMrpB",
+        "release_date": "2019-02-01",
+        "name": "FIVE",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 209,
+        "nanos": 798000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7qX1bbsrhE9DRxfCMXjqgG",
+      "name": "20Xx Tomorrow",
+      "artists": [
+        {
+          "id": "3UzCWOTeYccowgWOPqpItb",
+          "name": "The Holy"
+        }
+      ],
+      "album": {
+        "id": "4Q3x7bNjD6a7qo56JFMCft",
+        "release_date": "2018-09-21",
+        "name": "Daughter",
+        "artists": [
+          {
+            "id": "3UzCWOTeYccowgWOPqpItb",
+            "name": "The Holy"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 432,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3qlQktUi0TAYNf1O5BPJ7c",
+      "name": "Sanctuary",
+      "artists": [
+        {
+          "id": "1687IqXRdWmbRshgn194tT",
+          "name": "Elder"
+        }
+      ],
+      "album": {
+        "id": "2sjt7XGkvXJGGvKYu0zm1y",
+        "release_date": "2017-06-02",
+        "name": "Reflections of a Floating World",
+        "artists": [
+          {
+            "id": "1687IqXRdWmbRshgn194tT",
+            "name": "Elder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 673,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ug5NqcwcFR2xrfTkc7k8e",
+      "name": "Style",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1yGbNOtRIgdIiGHOEBaZWf",
+        "release_date": "2014-01-01",
+        "name": "1989 (Deluxe)",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 231,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "09v3dFgd3YwrD0U5gkNaTg",
+      "name": "Farewell To The Fairground",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "1ySdrRPZa9ZRvlcUoGv8UE",
+        "release_date": "2009",
+        "name": "To Lose My Life ...",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 256,
+        "nanos": 573000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7q3P2TPwdkjWuQ93OCRj0y",
+      "name": "I Close My Eyes And Count To Ten",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "6t4BECovfkgGTrtbqmTlZf",
+        "release_date": "1988-01-01",
+        "name": "The Silver Collection",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6wX5xUGvnQNLFX8rHb4cPX",
+      "name": "Number One In Your Heart",
+      "artists": [
+        {
+          "id": "0XWqijhdSQS02cmqiRcehT",
+          "name": "Herbie Goins & The Night-Timers"
+        }
+      ],
+      "album": {
+        "id": "2QczhQjz4fqF4lUnySqbXX",
+        "release_date": "2017-09-04",
+        "name": "Northern Soul Classics",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 164,
+        "nanos": 786000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2rDoeqW5XWFGdFLRoRQu0I",
+      "name": "The Falling Veil",
+      "artists": [
+        {
+          "id": "1687IqXRdWmbRshgn194tT",
+          "name": "Elder"
+        }
+      ],
+      "album": {
+        "id": "2sjt7XGkvXJGGvKYu0zm1y",
+        "release_date": "2017-06-02",
+        "name": "Reflections of a Floating World",
+        "artists": [
+          {
+            "id": "1687IqXRdWmbRshgn194tT",
+            "name": "Elder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 672,
+        "nanos": 640000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3pHkh7d0lzM2AldUtz2x37",
+      "name": "The Archer",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1NAmidJlEaVgA3MpcPFYGq",
+        "release_date": "2019-08-23",
+        "name": "Lover",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 240000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0jylTHsUkoE6EACk3fm0Vd",
+      "name": "All I See Is You",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "6t4BECovfkgGTrtbqmTlZf",
+        "release_date": "1988-01-01",
+        "name": "The Silver Collection",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 201,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7uDRYzCgOPTYDuTSfNpuxo",
+      "name": "Marijuanaut's Theme",
+      "artists": [
+        {
+          "id": "4Mt6w4tDGiPgV5q6JWPlrI",
+          "name": "Sleep"
+        }
+      ],
+      "album": {
+        "id": "790MeSzafcgXNCoY2AagnP",
+        "release_date": "2018-04-20",
+        "name": "The Sciences",
+        "artists": [
+          {
+            "id": "4Mt6w4tDGiPgV5q6JWPlrI",
+            "name": "Sleep"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 399,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0upjzWxqcq2gbSM7Y16nN9",
+      "name": "Surveil",
+      "artists": [
+        {
+          "id": "3hImYGOkGn8Rsh9Vygcds2",
+          "name": "Maps"
+        }
+      ],
+      "album": {
+        "id": "1cbv4SRJNSIB3IaLzMs18Y",
+        "release_date": "2019-05-10",
+        "name": "Colours. Reflect. Time. Loss.",
+        "artists": [
+          {
+            "id": "3hImYGOkGn8Rsh9Vygcds2",
+            "name": "Maps"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 256,
+        "nanos": 927000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7wsrilmtSiKwsufCcpDIAE",
+      "name": "Hold On",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "6IDrWwIChSMjJqkd9ZZA6K",
+        "release_date": "2003-09-08",
+        "name": "Amazing Grace",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 234,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "24KLjoa4KBgpn4XGWFiy5c",
+      "name": "In Private",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "3FUL7hI1fTm5LXwBpV4T81",
+        "release_date": "1990",
+        "name": "Reputation & Rarities",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 262,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1hG9eNIH2XHlr3rwpheaf2",
+      "name": "A Place To Hide",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "1ySdrRPZa9ZRvlcUoGv8UE",
+        "release_date": "2009",
+        "name": "To Lose My Life ...",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 301,
+        "nanos": 760000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7qukCVEBSfwviXskZ9F0EY",
+      "name": "Egypt Berry",
+      "artists": [
+        {
+          "id": "07dZirN9KFAGIHeBvSDfuO",
+          "name": "Night Beats"
+        }
+      ],
+      "album": {
+        "id": "5hz5wGL9azPpH3m6jXFSmL",
+        "release_date": "2016-01-29",
+        "name": "Who Sold My Generation",
+        "artists": [
+          {
+            "id": "07dZirN9KFAGIHeBvSDfuO",
+            "name": "Night Beats"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 322,
+        "nanos": 659000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "62xDnWgrIAFlNSLLYH5r1z",
+      "name": "Feel",
+      "artists": [
+        {
+          "id": "58XGUNsRNu3cVOIOYk5chx",
+          "name": "Ty Segall"
+        }
+      ],
+      "album": {
+        "id": "0aXcmVjzU9v63FhFcjgLxp",
+        "release_date": "2014-07-22",
+        "name": "Manipulator",
+        "artists": [
+          {
+            "id": "58XGUNsRNu3cVOIOYk5chx",
+            "name": "Ty Segall"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 255,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7n59G6GW4VujrDpZEPw1WT",
+      "name": "Just Reflecting",
+      "artists": [
+        {
+          "id": "3hImYGOkGn8Rsh9Vygcds2",
+          "name": "Maps"
+        }
+      ],
+      "album": {
+        "id": "1cbv4SRJNSIB3IaLzMs18Y",
+        "release_date": "2019-05-10",
+        "name": "Colours. Reflect. Time. Loss.",
+        "artists": [
+          {
+            "id": "3hImYGOkGn8Rsh9Vygcds2",
+            "name": "Maps"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 343,
+        "nanos": 824000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4UQnlM9QlhsWu32dMcqCaU",
+      "name": "The Price Of Love",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "1ySdrRPZa9ZRvlcUoGv8UE",
+        "release_date": "2009",
+        "name": "To Lose My Life ...",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 278,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5wt9ChoXzo2OMlXuJ9mhfX",
+      "name": "Give Me Time",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "6t4BECovfkgGTrtbqmTlZf",
+        "release_date": "1988-01-01",
+        "name": "The Silver Collection",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 186,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0gdmDP6xy3ZV7JNoHWAN9k",
+      "name": "Town Called Malice",
+      "artists": [
+        {
+          "id": "2P560DaOMNDUACoH8ZhOCR",
+          "name": "The Jam"
+        }
+      ],
+      "album": {
+        "id": "71OyKSCFX7DGsJc6qAhhQG",
+        "release_date": "1982-03-12",
+        "name": "The Gift",
+        "artists": [
+          {
+            "id": "2P560DaOMNDUACoH8ZhOCR",
+            "name": "The Jam"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 173,
+        "nanos": 320000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3D6SI4KT6rAKdr9gb8L3Sg",
+      "name": "Feel Alive",
+      "artists": [
+        {
+          "id": "7jZM5w05mGhw6wTB1okhD9",
+          "name": "ATB"
+        }
+      ],
+      "album": {
+        "id": "6cCYVVEfi0ieFXwV2OW4cz",
+        "release_date": "2007-04-27",
+        "name": "Trilogy - Basic",
+        "artists": [
+          {
+            "id": "7jZM5w05mGhw6wTB1okhD9",
+            "name": "ATB"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 226,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6GBO61I628QUSORuQWY0wQ",
+      "name": "Bigger Than Us",
+      "artists": [
+        {
+          "id": "6ssXMmc5EOUrauZxirM910",
+          "name": "White Lies"
+        }
+      ],
+      "album": {
+        "id": "7o6nYY8CZ0X92qinUxVh0W",
+        "release_date": "2010-01-01",
+        "name": "Bigger Than Us",
+        "artists": [
+          {
+            "id": "6ssXMmc5EOUrauZxirM910",
+            "name": "White Lies"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 285,
+        "nanos": 840000000
+      },
+      "explicit": false
+    }
+  ],
+  "year": 2019
+}
