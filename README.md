@@ -143,8 +143,12 @@ alone. `favourite_artists.sh` combines them into a single 0-100 score.
 
 ### Reading the output
 
-The columns in `favourite_artists.md` are the raw measurements, not the scored
-ones. Two things they do not show:
+`favourite_artists.md` is formatted for reading and `favourite_artists.json`
+holds the same rows as data. The page and the history series read the JSON:
+parsing fixed-width columns broke silently the first time a signal was added,
+with the new column absorbed into the artist name.
+
+The figures are the raw measurements, not the scored ones. Two things they do not show:
 
 **Counts are square-rooted and divided by the column maximum** before being
 weighted, so 1 to 4 tracks moves the score far more than 46 to 49.

@@ -5587,6 +5587,20 @@
   },
   {
     "rank": 400,
+    "score": 8.6,
+    "name": "Lou Reed",
+    "alltime": 1,
+    "top": 0,
+    "liked": 0,
+    "spread": 0,
+    "tracks": 0,
+    "followed": false,
+    "dedicated": false,
+    "favourite": false,
+    "activity": 1
+  },
+  {
+    "rank": 401,
     "score": 8.5,
     "name": "Arrowhead",
     "alltime": 0,
@@ -5600,7 +5614,7 @@
     "activity": 0
   },
   {
-    "rank": 401,
+    "rank": 402,
     "score": 8.5,
     "name": "Full Fathom 5",
     "alltime": 0,
@@ -5614,7 +5628,7 @@
     "activity": 0
   },
   {
-    "rank": 402,
+    "rank": 403,
     "score": 8.5,
     "name": "Monster Magnet",
     "alltime": 0,
@@ -5628,7 +5642,7 @@
     "activity": 0
   },
   {
-    "rank": 403,
+    "rank": 404,
     "score": 8.5,
     "name": "Spacemen 3",
     "alltime": 0,
@@ -5642,7 +5656,7 @@
     "activity": 0
   },
   {
-    "rank": 404,
+    "rank": 405,
     "score": 8.2,
     "name": "Carcass",
     "alltime": 0,
@@ -5656,7 +5670,7 @@
     "activity": 0
   },
   {
-    "rank": 405,
+    "rank": 406,
     "score": 8.2,
     "name": "Golden Features",
     "alltime": 0,
@@ -5670,7 +5684,7 @@
     "activity": 0
   },
   {
-    "rank": 406,
+    "rank": 407,
     "score": 7.9,
     "name": "Daturah",
     "alltime": 1,
@@ -5684,7 +5698,7 @@
     "activity": 0.08333333333333333
   },
   {
-    "rank": 407,
+    "rank": 408,
     "score": 7.9,
     "name": "Doctor Smoke",
     "alltime": 0,
@@ -5698,7 +5712,7 @@
     "activity": 0.08333333333333333
   },
   {
-    "rank": 408,
+    "rank": 409,
     "score": 7.7,
     "name": "International Teachers Of Pop",
     "alltime": 1,
@@ -5712,7 +5726,7 @@
     "activity": 0
   },
   {
-    "rank": 409,
+    "rank": 410,
     "score": 7.3,
     "name": "Q-Tip",
     "alltime": 0,
@@ -5726,7 +5740,7 @@
     "activity": 0.3333333333333333
   },
   {
-    "rank": 410,
+    "rank": 411,
     "score": 7.1,
     "name": "ANUQRAM",
     "alltime": 0,
@@ -5740,7 +5754,7 @@
     "activity": 1
   },
   {
-    "rank": 411,
+    "rank": 412,
     "score": 7.1,
     "name": "Fragma",
     "alltime": 0,
@@ -5754,7 +5768,7 @@
     "activity": 1
   },
   {
-    "rank": 412,
+    "rank": 413,
     "score": 7.1,
     "name": "Louisahhh",
     "alltime": 0,
@@ -5768,7 +5782,7 @@
     "activity": 1
   },
   {
-    "rank": 413,
+    "rank": 414,
     "score": 7.1,
     "name": "PROFF",
     "alltime": 0,
@@ -5782,7 +5796,7 @@
     "activity": 1
   },
   {
-    "rank": 414,
+    "rank": 415,
     "score": 7.1,
     "name": "Second Sine",
     "alltime": 0,
@@ -5796,7 +5810,7 @@
     "activity": 1
   },
   {
-    "rank": 415,
+    "rank": 416,
     "score": 7.1,
     "name": "Chuck Wood",
     "alltime": 1,
@@ -5810,7 +5824,7 @@
     "activity": 0
   },
   {
-    "rank": 416,
+    "rank": 417,
     "score": 7,
     "name": "Brown Sabbath",
     "alltime": 0,
@@ -5824,7 +5838,7 @@
     "activity": 0
   },
   {
-    "rank": 417,
+    "rank": 418,
     "score": 7,
     "name": "Endless Boogie",
     "alltime": 0,
@@ -5838,7 +5852,7 @@
     "activity": 0
   },
   {
-    "rank": 418,
+    "rank": 419,
     "score": 7,
     "name": "Freedom Hawk",
     "alltime": 0,
@@ -5852,7 +5866,7 @@
     "activity": 0
   },
   {
-    "rank": 419,
+    "rank": 420,
     "score": 7,
     "name": "Human Bell",
     "alltime": 0,
@@ -5866,7 +5880,7 @@
     "activity": 0
   },
   {
-    "rank": 420,
+    "rank": 421,
     "score": 7,
     "name": "King Gizzard & The Lizard Wizard",
     "alltime": 0,
@@ -5880,7 +5894,7 @@
     "activity": 0
   },
   {
-    "rank": 421,
+    "rank": 422,
     "score": 7,
     "name": "Louis Tillett",
     "alltime": 0,
@@ -5894,7 +5908,7 @@
     "activity": 0
   },
   {
-    "rank": 422,
+    "rank": 423,
     "score": 7,
     "name": "Mars in Ruin",
     "alltime": 0,
@@ -5908,7 +5922,7 @@
     "activity": 0
   },
   {
-    "rank": 423,
+    "rank": 424,
     "score": 7,
     "name": "Mother Mars",
     "alltime": 0,
@@ -5922,7 +5936,7 @@
     "activity": 0
   },
   {
-    "rank": 424,
+    "rank": 425,
     "score": 7,
     "name": "Paul van Dyk’s VONYC Sessions",
     "alltime": 0,
@@ -5936,7 +5950,7 @@
     "activity": 0
   },
   {
-    "rank": 425,
+    "rank": 426,
     "score": 7,
     "name": "Royal Headache",
     "alltime": 0,
@@ -5950,7 +5964,21 @@
     "activity": 0
   },
   {
-    "rank": 426,
+    "rank": 427,
+    "score": 6.5,
+    "name": "Panic! At The Disco",
+    "alltime": 1,
+    "top": 0,
+    "liked": 0,
+    "spread": 0,
+    "tracks": 0,
+    "followed": false,
+    "dedicated": false,
+    "favourite": false,
+    "activity": 0.08333333333333333
+  },
+  {
+    "rank": 428,
     "score": 6,
     "name": "Einmusik",
     "alltime": 0,
@@ -5964,7 +5992,7 @@
     "activity": 1
   },
   {
-    "rank": 427,
+    "rank": 429,
     "score": 6,
     "name": "Erland Cooper",
     "alltime": 0,
@@ -5978,7 +6006,7 @@
     "activity": 1
   },
   {
-    "rank": 428,
+    "rank": 430,
     "score": 6,
     "name": "kaeto",
     "alltime": 0,
@@ -5992,7 +6020,7 @@
     "activity": 1
   },
   {
-    "rank": 429,
+    "rank": 431,
     "score": 6,
     "name": "Mowree",
     "alltime": 0,
@@ -6006,7 +6034,7 @@
     "activity": 1
   },
   {
-    "rank": 430,
+    "rank": 432,
     "score": 6,
     "name": "The Temper Trap",
     "alltime": 0,
@@ -6020,7 +6048,7 @@
     "activity": 1
   },
   {
-    "rank": 431,
+    "rank": 433,
     "score": 5.7,
     "name": "Aphex Twin",
     "alltime": 0,
@@ -6034,37 +6062,9 @@
     "activity": 0.8333333333333333
   },
   {
-    "rank": 432,
-    "score": 5.6,
-    "name": "Brendon Urie",
-    "alltime": 1,
-    "top": 0,
-    "liked": 0,
-    "spread": 0,
-    "tracks": 0,
-    "followed": false,
-    "dedicated": false,
-    "favourite": false,
-    "activity": 0
-  },
-  {
-    "rank": 433,
-    "score": 5.6,
-    "name": "Lou Reed",
-    "alltime": 1,
-    "top": 0,
-    "liked": 0,
-    "spread": 0,
-    "tracks": 0,
-    "followed": false,
-    "dedicated": false,
-    "favourite": false,
-    "activity": 0
-  },
-  {
     "rank": 434,
     "score": 5.6,
-    "name": "Panic! At The Disco",
+    "name": "Brendon Urie",
     "alltime": 1,
     "top": 0,
     "liked": 0,

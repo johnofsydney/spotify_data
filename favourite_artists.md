@@ -399,41 +399,41 @@
  397     8.8  Rromarin                                    0     2      0     0.0     0.0    n    n    -   1.00
  398     8.6  The Beatles                                 0     1      0     0.0     1.0    n    n    -   1.00
  399     8.6  The Rolling Stones                          0     1      1     0.0     1.0    n    n    -   1.00
- 400     8.5  Arrowhead                                   0     0      0     0.0     1.0    y    n    -   0.00
- 401     8.5  Full Fathom 5                               0     0      0     0.0     1.0    y    n    -   0.00
- 402     8.5  Monster Magnet                              0     0      0     0.0     1.0    y    n    -   0.00
- 403     8.5  Spacemen 3                                  0     0      0     0.0     1.0    y    n    -   0.00
- 404     8.2  Carcass                                     0     4      0     0.0     0.0    n    n    -   0.00
- 405     8.2  Golden Features                             0     4      0     0.0     0.0    n    n    -   0.00
- 406     7.9  Daturah                                     1     0      0     0.0     1.0    n    n    -   0.08
- 407     7.9  Doctor Smoke                                0     0      0     0.0     0.0    y    n    -   0.08
- 408     7.7  International Teachers Of Pop               1     0      0     0.0     2.0    n    n    -   0.00
- 409     7.3  Q-Tip                                       0     1      0     0.0     1.0    n    n    -   0.33
- 410     7.1  ANUQRAM                                     0     1      0     0.0     0.0    n    n    -   1.00
- 411     7.1  Fragma                                      0     1      0     0.0     0.0    n    n    -   1.00
- 412     7.1  Louisahhh                                   0     1      0     0.0     0.0    n    n    -   1.00
- 413     7.1  PROFF                                       0     1      0     0.0     0.0    n    n    -   1.00
- 414     7.1  Second Sine                                 0     1      0     0.0     0.0    n    n    -   1.00
- 415     7.1  Chuck Wood                                  1     0      0     0.0     1.0    n    n    -   0.00
- 416     7.0  Brown Sabbath                               0     0      0     0.0     0.0    y    n    -   0.00
- 417     7.0  Endless Boogie                              0     0      0     0.0     0.0    y    n    -   0.00
- 418     7.0  Freedom Hawk                                0     0      0     0.0     0.0    y    n    -   0.00
- 419     7.0  Human Bell                                  0     0      0     0.0     0.0    y    n    -   0.00
- 420     7.0  King Gizzard & The Lizard Wizard            0     0      0     0.0     0.0    y    n    -   0.00
- 421     7.0  Louis Tillett                               0     0      0     0.0     0.0    y    n    -   0.00
- 422     7.0  Mars in Ruin                                0     0      0     0.0     0.0    y    n    -   0.00
- 423     7.0  Mother Mars                                 0     0      0     0.0     0.0    y    n    -   0.00
- 424     7.0  Paul van Dyk’s VONYC Sessions             0     0      0     0.0     0.0    y    n    -   0.00
- 425     7.0  Royal Headache                              0     0      0     0.0     0.0    y    n    -   0.00
- 426     6.0  Einmusik                                    0     0      0     0.0     4.0    n    n    -   1.00
- 427     6.0  Erland Cooper                               0     0      1     0.0     4.0    n    n    -   1.00
- 428     6.0  kaeto                                       0     0      0     0.0     4.0    n    n    -   1.00
- 429     6.0  Mowree                                      0     0      0     0.0     4.0    n    n    -   1.00
- 430     6.0  The Temper Trap                             0     0      0     0.0     4.0    n    n    -   1.00
- 431     5.7  Aphex Twin                                  0     0      0     0.0     4.0    n    n    -   0.83
- 432     5.6  Brendon Urie                                1     0      0     0.0     0.0    n    n    -   0.00
- 433     5.6  Lou Reed                                    1     0      0     0.0     0.0    n    n    -   0.00
- 434     5.6  Panic! At The Disco                         1     0      0     0.0     0.0    n    n    -   0.00
+ 400     8.6  Lou Reed                                    1     0      0     0.0     0.0    n    n    -   1.00
+ 401     8.5  Arrowhead                                   0     0      0     0.0     1.0    y    n    -   0.00
+ 402     8.5  Full Fathom 5                               0     0      0     0.0     1.0    y    n    -   0.00
+ 403     8.5  Monster Magnet                              0     0      0     0.0     1.0    y    n    -   0.00
+ 404     8.5  Spacemen 3                                  0     0      0     0.0     1.0    y    n    -   0.00
+ 405     8.2  Carcass                                     0     4      0     0.0     0.0    n    n    -   0.00
+ 406     8.2  Golden Features                             0     4      0     0.0     0.0    n    n    -   0.00
+ 407     7.9  Daturah                                     1     0      0     0.0     1.0    n    n    -   0.08
+ 408     7.9  Doctor Smoke                                0     0      0     0.0     0.0    y    n    -   0.08
+ 409     7.7  International Teachers Of Pop               1     0      0     0.0     2.0    n    n    -   0.00
+ 410     7.3  Q-Tip                                       0     1      0     0.0     1.0    n    n    -   0.33
+ 411     7.1  ANUQRAM                                     0     1      0     0.0     0.0    n    n    -   1.00
+ 412     7.1  Fragma                                      0     1      0     0.0     0.0    n    n    -   1.00
+ 413     7.1  Louisahhh                                   0     1      0     0.0     0.0    n    n    -   1.00
+ 414     7.1  PROFF                                       0     1      0     0.0     0.0    n    n    -   1.00
+ 415     7.1  Second Sine                                 0     1      0     0.0     0.0    n    n    -   1.00
+ 416     7.1  Chuck Wood                                  1     0      0     0.0     1.0    n    n    -   0.00
+ 417     7.0  Brown Sabbath                               0     0      0     0.0     0.0    y    n    -   0.00
+ 418     7.0  Endless Boogie                              0     0      0     0.0     0.0    y    n    -   0.00
+ 419     7.0  Freedom Hawk                                0     0      0     0.0     0.0    y    n    -   0.00
+ 420     7.0  Human Bell                                  0     0      0     0.0     0.0    y    n    -   0.00
+ 421     7.0  King Gizzard & The Lizard Wizard            0     0      0     0.0     0.0    y    n    -   0.00
+ 422     7.0  Louis Tillett                               0     0      0     0.0     0.0    y    n    -   0.00
+ 423     7.0  Mars in Ruin                                0     0      0     0.0     0.0    y    n    -   0.00
+ 424     7.0  Mother Mars                                 0     0      0     0.0     0.0    y    n    -   0.00
+ 425     7.0  Paul van Dyk’s VONYC Sessions             0     0      0     0.0     0.0    y    n    -   0.00
+ 426     7.0  Royal Headache                              0     0      0     0.0     0.0    y    n    -   0.00
+ 427     6.5  Panic! At The Disco                         1     0      0     0.0     0.0    n    n    -   0.08
+ 428     6.0  Einmusik                                    0     0      0     0.0     4.0    n    n    -   1.00
+ 429     6.0  Erland Cooper                               0     0      1     0.0     4.0    n    n    -   1.00
+ 430     6.0  kaeto                                       0     0      0     0.0     4.0    n    n    -   1.00
+ 431     6.0  Mowree                                      0     0      0     0.0     4.0    n    n    -   1.00
+ 432     6.0  The Temper Trap                             0     0      0     0.0     4.0    n    n    -   1.00
+ 433     5.7  Aphex Twin                                  0     0      0     0.0     4.0    n    n    -   0.83
+ 434     5.6  Brendon Urie                                1     0      0     0.0     0.0    n    n    -   0.00
  435     5.6  All India Radio                             0     0      0     0.0     3.0    n    n    -   1.00
  436     5.6  bailey                                      0     0      1     0.0     3.0    n    n    -   1.00
  437     5.6  Beck                                        0     0      0     0.0     3.0    n    n    -   1.00

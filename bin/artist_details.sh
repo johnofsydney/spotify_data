@@ -17,8 +17,11 @@ mkdir -p "$cache"
 followed_ids=$(spotify_player get key user-followed-artists | jq '[.[] | {name, id}]')
 top_ids=$(spotify_player get key user-top-tracks | jq '[.[].artists[] | {name, id}]')
 
-ids=$(jq -s -r --argjson f "$followed_ids" --argjson t "$top_ids" \
-  '[.[].tracks[].artists[] | {name, id}] + $f + $t | unique_by(.name) | INDEX(.name)' \
+alltime_ids=$([ -f "$root/cache/special/alltime.json" ] &&
+  jq '[.tracks[].artists[] | {name, id}]' "$root/cache/special/alltime.json" || echo '[]')
+
+ids=$(jq -s -r --argjson f "$followed_ids" --argjson t "$top_ids" --argjson a "$alltime_ids" \
+  '[.[].tracks[].artists[] | {name, id}] + $f + $t + $a | unique_by(.name) | INDEX(.name)' \
   "$root"/cache/playlists/*.json)
 
 fetched=0
