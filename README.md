@@ -22,6 +22,39 @@ gitignored and is the only place any identifier of mine is stored.
 cp .env.example .env
 ```
 
+## Adapting this for your own account
+
+Everything specific to me lives in configuration, not in the scripts. Fork it,
+delete my data, and point it at your account:
+
+1. **Install [`spotify_player`](https://github.com/aome510/spotify-player)** and
+   authenticate it. Every export runs through its CLI; nothing here talks to the
+   Spotify API directly, and no API key or app registration is needed.
+2. **`cp .env.example .env`** and put your Spotify user ID in it. Open your
+   profile in Spotify, Share, Copy link to profile — the ID is the last path
+   segment. `.env` is gitignored.
+3. **Clear my data**: `rm -rf cache history *.md` (keep `README.md`). Everything
+   regenerates.
+4. **Run `./bin/refresh.sh`.** The first run fetches every playlist and every
+   artist's discography and takes roughly half an hour. Later runs take seconds
+   unless you have edited playlists.
+5. **Look at `playlist_weights.json`.** It lists every playlist at weight 1.0.
+   This is where the real tuning is, and the thing to check first is whether you
+   archive Discover Weekly — 65% of my tracks and 73% of my artists turned out
+   to be those archives, Spotify recommending to me rather than anything I
+   chose. Set them to 0. Event playlists, playlists of someone else's taste, and
+   anything you have not opened in years are worth zeroing too.
+6. **Flag a favourites playlist** by adding `"favourites": true` to its entry.
+   Keep it by hand in Spotify. It is the only way to tell the ranking something
+   your listening does not record.
+7. **Adjust `weights.json` if you disagree with the model.** The weights must
+   sum to 1 or to 100; anything else fails the run and prints the total.
+8. **`./setup/install-schedule.sh`** once you want it running weekly.
+
+The ranking will be wrong at first and that is expected. It took a dozen rounds
+on my own data, and most of what fixed it was discovering which of my playlists
+were evidence and which were noise.
+
 ## Scheduling
 
 The exports run weekly so that dated top-tracks snapshots accumulate. That
