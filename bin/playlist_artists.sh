@@ -8,6 +8,9 @@ out="$root/playlist_artists.md"
 # shellcheck source=/dev/null
 [ -f "$root/.env" ] && . "$root/.env"
 : "${SPOTIFY_USER_ID:?not set — copy .env.example to .env and fill it in}"
+# Written by discover_playlist.sh from the discovery ranking, not chosen by me.
+# Caching it would count its artists as known and empty the discovery list.
+generated="${DISCOVER_PLAYLIST_NAME:-Worth Investigating}"
 
 force=0
 if [ "${1:-}" = "--force" ]; then
@@ -20,7 +23,8 @@ fi
 mkdir -p "$cache"
 
 mine=$(spotify_player get key user-playlists |
-  jq --arg me "$SPOTIFY_USER_ID" '[.[] | select(.owner[1] == $me) | {id, snapshot_id}]')
+  jq --arg me "$SPOTIFY_USER_ID" --arg gen "$generated" \
+    '[.[] | select(.owner[1] == $me and .name != $gen) | {id, snapshot_id}]')
 ids=$(jq -r '.[].id' <<< "$mine" | sort)
 
 fetched=0

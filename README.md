@@ -99,6 +99,7 @@ the following week to carry rather than aborting the run.
 | `bin/backtest_discovery.sh` | stdout | Scores that ranking against artists I actually went on to keep. Offline. |
 | `bin/record_history.sh` | `history/rankings.csv` | Appends the week's top 50 to the time series. Offline. |
 | `bin/build_page.sh` | `docs/index.html` | A readable page of the favourites and discoveries. Offline, self-contained. |
+| `bin/discover_playlist.sh` | Spotify playlist | Rebuilds "Worth Investigating" from the page's discovery list. Writes to Spotify, not to this repository. |
 
 Run them in that order; `favourite_artists.sh` reads the files the others write
 and makes no network calls of its own.
@@ -372,6 +373,35 @@ or follower count, so an artist I obviously know but have never saved looks
 exactly like a discovery — Led Zeppelin and AC/DC both placed in the first
 twenty. Vote counts do not separate them either. `discover_exclude.txt` is the
 fix, one name per line, maintained by hand.
+
+### The playlist
+
+`discover_playlist.sh` turns the page's "Worth investigating" list into a
+Spotify playlist of the same name, so the list can be listened to rather than
+read. It takes the top two tracks of each of the fifty artists: every artist's
+first track in ranked order, then every second track, so the start of the
+playlist covers the whole list rather than the top few in depth.
+
+**One playlist, rebuilt in place.** A new playlist every week would bury the
+library. It is found by name among my own playlists and created if missing, so
+no id is stored. The CLI can only add or remove one track per call and always
+appends, so a changed list means clearing the playlist and refilling it, a
+couple of hundred calls. An unchanged list makes none.
+
+**It is never counted as taste.** `playlist_artists.sh` skips it by the same
+name. Cached, it would make every artist on it "known" and empty the discovery
+list the following week. Saving a track from it into one of my own playlists
+does count, which is the point.
+
+Top tracks for these artists are fetched by id into `cache/discover/`, kept for
+a month and gitignored. `refresh.sh` runs the script after the page is built and
+logs a failure rather than stopping, so a Spotify error cannot cost the week's
+commit.
+
+`DISCOVER_PLAYLIST_NAME`, `DISCOVER_PLAYLIST_TRACKS` (2),
+`DISCOVER_PLAYLIST_ARTISTS` (the page's 50) and `DISCOVER_PLAYLIST_PUBLIC` (0)
+override the defaults. Renaming it in Spotify starts a fresh playlist next run,
+and leaves the renamed one counted as one of mine.
 
 ### Does it work?
 
