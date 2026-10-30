@@ -140,8 +140,6 @@ something my listening does not record — King Buffalo have been my favourite
 band for years, tour constantly, and have ten deliberately-placed tracks and no
 studio album since 2021, so nothing else in this data knows it.
 
-It is excluded from dedicated-playlist detection, being multi-artist by design.
-
 At 0.15 it lifts an artist who already has other evidence rather than carrying
 one alone: an artist present *only* through it lands around 90th. Raising the
 weight, or making it a floor rather than an addition, would change that.

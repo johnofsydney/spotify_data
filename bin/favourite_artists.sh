@@ -65,8 +65,8 @@ fav_ids=$(jq -r 'to_entries | map(select(.value.favourites)) | map(.key) | @json
 favourites=$(jq -s --argjson ids "$fav_ids" '
   [.[] | select(.playlist.id | IN($ids[])) | .tracks[].artists[].name] | unique' "$root"/cache/playlists/*.json)
 
-dedicated=$(jq -s --argjson share "$ded_share" --argjson size "$ded_size" --argjson ids "$fav_ids" '
-  [.[] | select(.playlist.id | IN($ids[]) | not) | (.tracks | length) as $n | select($n >= $size)
+dedicated=$(jq -s --argjson share "$ded_share" --argjson size "$ded_size" '
+  [.[] | (.tracks | length) as $n | select($n >= $size)
        | [.tracks[].artists[].name] | group_by(.)
        | map(select((length / $n) > $share) | .[0])[]]
   | unique' "$root"/cache/playlists/*.json)
