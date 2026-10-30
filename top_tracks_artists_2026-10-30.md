@@ -14,9 +14,10 @@
 2x  Night Beats
 2x  Fuck Buttons
 2x  The Chemical Brothers
+2x  sleepmakeswaves
+2x  Billy F Gibbons
 2x  Rromarin
 2x  Phantogram
-2x  INXS
 1x  Philippa Nihill
 1x  PROFF
 1x  Elder
@@ -31,7 +32,6 @@
 1x  Spiral Drive
 1x  Khan
 1x  Jimmie Vaughan
-1x  Billy F Gibbons
 1x  The Fabulous Thunderbirds
 1x  Silversun Pickups
 1x  ZZ Top
@@ -48,6 +48,7 @@
 1x  Jon Hopkins
 1x  The Beatles
 1x  Fragma
+1x  INXS
 1x  The House of Love
 1x  The Clockworks
 1x  Dead Kennedys
@@ -57,5 +58,3 @@
 1x  GHOSTWOMAN
 1x  Mothership
 1x  Stella Rose
-1x  Donna Summer
-1x  Tame Impala

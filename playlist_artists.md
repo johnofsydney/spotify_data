@@ -21,7 +21,6 @@
 32x  Primal Scream
 31x  Causa Sui
 31x  The Raveonettes
-30x  Mogwai
 29x  The Fall
 29x  The Flaming Lips
 29x  Tides From Nebula
@@ -34,6 +33,7 @@
 25x  Grandbrothers
 25x  Holy Fuck
 25x  Kelly Lee Owens
+25x  Mogwai
 25x  Shpongle
 25x  The Church
 24x  Doves
@@ -209,7 +209,6 @@
 8x  Ian Brown
 8x  IDLES
 8x  Itch-E & Scratch-E
-8x  Jakob
 8x  Jane Weaver
 8x  Jerome Isma-Ae
 8x  Joy Division
@@ -219,7 +218,6 @@
 8x  Ladyhawke
 8x  Mary Z. Cox
 8x  Metropole Orkest
-8x  Metz
 8x  Moby
 8x  Ozric Tentacles
 8x  Parquet Courts
@@ -245,7 +243,6 @@
 7x  Caribou
 7x  Caspian
 7x  Chris Bekker
-7x  Earth
 7x  Ed O'Brien
 7x  El Ten Eleven
 7x  Emma Ruth Rundle
@@ -302,7 +299,6 @@
 6x  Brutus
 6x  Cinnamon Chasers
 6x  Clinic
-6x  Dawn of Midi
 6x  Django Django
 6x  Dungen
 6x  Durante
@@ -344,7 +340,6 @@
 6x  Rose City Band
 6x  She Drew The Gun
 6x  Sleaford Mods
-6x  Slint
 6x  Snapped Ankles
 6x  Steve Martin
 6x  Swans
@@ -395,7 +390,6 @@
 5x  Deserta
 5x  Destroyer
 5x  DIIV
-5x  Do Nothing Club
 5x  Echo & the Bunnymen
 5x  Erol Alkan
 5x  Faces on TV
@@ -469,7 +463,6 @@
 5x  Sensible Soccers
 5x  Sharon Van Etten
 5x  Shearwater
-5x  Shipping News
 5x  Siena Root
 5x  SLIFT
 5x  Sonic Youth
@@ -553,6 +546,7 @@
 4x  DOOL
 4x  Drenge
 4x  Dølle Jølle
+4x  Earth
 4x  ef
 4x  Electronic
 4x  Eli & Fur
@@ -937,6 +931,7 @@
 3x  Meatbodies
 3x  Melody Stranger
 3x  Melt Yourself Down
+3x  Metz
 3x  MEZERG
 3x  MGMT
 3x  Michael Rother
@@ -2726,6 +2721,7 @@
 1x  David Vandervelde
 1x  Dawes
 1x  Dawg Yawp
+1x  Dawn of Midi
 1x  Dax Riggs
 1x  Daylight Dies
 1x  DBFC
@@ -3344,6 +3340,7 @@
 1x  Jake Bugg
 1x  Jake Kaiser
 1x  Jake Thackray
+1x  Jakob
 1x  JakoJako
 1x  Jakub Skorupa
 1x  Jakub Tirco
@@ -4569,6 +4566,7 @@
 1x  Sky Ferreira
 1x  Skúli Sverrisson
 1x  Slim Vic
+1x  Slint
 1x  Sloan
 1x  Slow Crush
 1x  Slowgold

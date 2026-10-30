@@ -7,12 +7,12 @@
    5    63.4  Papa M                                         7     18     2.0    13.0    y    n    Y   0.75
    6    62.8  Dusty Springfield                              0      0     5.0    76.0    y    y    -   0.50
    7    59.6  Les Big Byrd                                   8      1     5.0    22.0    y    n    -   1.00
-   8    57.6  Kings of Leon                                  0      0     4.0    41.0    y    y    -   1.00
-   9    55.0  Maps                                           0      1     3.0    46.0    y    y    -   0.67
-  10    54.8  LCD Soundsystem                                0      0     4.0    39.0    y    y    -   0.25
-  11    52.2  White Lies                                     0      0     6.0    47.0    n    y    -   0.83
-  12    50.9  Night Beats                                    2      0     5.0    35.0    y    n    -   0.08
-  13    50.2  sleepmakeswaves                                0     11     2.0    17.0    y    n    Y   0.75
+   8    57.8  sleepmakeswaves                                2     11     2.0    17.0    y    n    Y   0.75
+   9    57.6  Kings of Leon                                  0      0     4.0    41.0    y    y    -   1.00
+  10    55.0  Maps                                           0      1     3.0    46.0    y    y    -   0.67
+  11    54.8  LCD Soundsystem                                0      0     4.0    39.0    y    y    -   0.25
+  12    52.2  White Lies                                     0      0     6.0    47.0    n    y    -   0.83
+  13    50.9  Night Beats                                    2      0     5.0    35.0    y    n    -   0.08
   14    50.0  Booka Shade                                    0      1     6.0    43.0    y    n    -   1.00
   15    48.7  Causa Sui                                      1     10     4.0    27.0    y    n    -   1.00
   16    47.6  Paul van Dyk                                   0     30     5.0    40.0    y    n    -   1.00
@@ -76,66 +76,66 @@
   74    32.2  Papir                                          0      0     2.0     8.0    y    n    -   0.58
   75    32.0  Primal Scream                                  0      0     4.0    24.0    n    n    -   0.75
   76    31.2  CHVRCHES                                       0      0     2.0     8.0    y    n    -   0.33
-  77    31.0  Tame Impala                                    1      0     2.0    16.0    n    n    -   1.00
-  78    30.5  Dead Kennedys                                  1      0     2.0    20.0    n    n    -   0.50
-  79    30.3  Bon Iver                                       4      0     1.0    10.0    n    n    -   0.75
-  80    30.2  Green Lung                                     0      0     1.0    10.0    y    n    -   1.00
-  81    30.1  Placebo                                        0      0     1.0    11.0    y    n    -   0.83
-  82    29.9  Orchid                                         0     15     2.0    13.0    y    n    -   0.00
-  83    29.9  The Beach Boys                                 0      0     3.0    22.0    n    n    -   1.00
-  84    29.8  TV On The Radio                                0     13     2.0     8.0    y    n    -   0.08
-  85    29.6  Gang of Youths                                 0      0     2.0     6.0    y    n    -   0.17
-  86    29.2  If These Trees Could Talk                      0      0     3.0    22.0    n    n    -   0.75
-  87    29.0  Doves                                          0      0     3.0    18.0    n    n    -   1.00
-  88    28.7  hubris.                                        0      0     1.0     8.0    y    n    -   0.67
-  89    28.4  Floating Points                                0      0     1.0     5.0    y    n    -   1.00
-  90    28.4  Mary Ann Hawkins                               0      0     1.0     5.0    y    n    -   1.00
-  91    28.4  The Cure                                       0      0     1.0     5.0    y    n    -   1.00
-  92    28.4  Tycho                                          0      0     1.0     5.0    y    n    -   1.00
-  93    28.2  All Them Witches                               0      3     1.0     6.0    y    n    -   0.75
-  94    28.0  Barry Can't Swim                               0      0     1.0     4.0    y    n    -   1.00
-  95    28.0  Elephant Tree                                  0      0     1.0     4.0    y    n    -   1.00
-  96    28.0  GIFT                                           0      0     1.0     4.0    y    n    -   1.00
-  97    27.9  Holy Holy                                      0      0     1.0     6.0    y    n    -   0.67
-  98    27.7  Andy Bell                                      0      0     3.0    13.0    n    n    -   1.00
-  99    27.7  The Limiñanas                                 0      0     3.0    13.0    n    n    -   1.00
- 100    27.7  Maha Sohona                                    0      0     1.0     6.0    y    n    -   0.58
- 101    27.5  Mogwai                                         0      0     3.0    12.0    n    n    -   1.00
- 102    27.4  Firefriend                                     0      0     1.0     3.0    y    n    -   1.00
- 103    27.4  Kanaan                                         0      0     1.0     3.0    y    n    -   1.00
- 104    27.4  Psychedelic Porn Crumpets                      0      0     1.0     3.0    y    n    -   1.00
- 105    27.4  Self Esteem                                    0      0     1.0     3.0    y    n    -   1.00
- 106    27.3  New Candys                                     0      0     1.0     4.0    y    n    -   0.75
- 107    27.3  Sensible Soccers                               0      0     1.0     5.0    y    n    -   0.58
- 108    27.2  Motrik                                         0      0     1.0     3.0    y    n    -   0.92
- 109    27.1  Slomosa                                        0      0     1.0     4.0    y    n    -   0.67
- 110    26.8  Cam Cole                                       0      0     1.0     2.0    y    n    -   1.00
- 111    26.8  World News                                     0      0     1.0     2.0    y    n    -   1.00
- 112    26.8  Adebisi Shank                                  0      0     1.0     3.0    y    n    -   0.75
- 113    26.8  José Junior                                   0      0     1.0     3.0    y    n    -   0.75
- 114    26.7  INXS                                           2      0     1.0    11.0    n    n    -   0.50
- 115    26.6  Lorelle Meets The Obsolete                     0      0     1.0     2.0    y    n    -   0.92
- 116    26.5  Arcade Fire                                    0      0     2.0    20.0    n    n    -   1.00
- 117    26.5  Younger Brother                                0      0     1.0     3.0    y    n    -   0.67
- 118    26.4  Orange Goblin                                  0      0     1.0     2.0    y    n    -   0.83
- 119    26.4  Underground Lovers                             0     19     1.0    14.0    y    n    -   0.00
- 120    26.3  Fuck Buttons                                   2      1     2.0     9.0    n    n    -   0.00
- 121    26.2  The Mysterines                                 0      0     1.0     2.0    y    n    -   0.75
- 122    26.0  Shpongle                                       0      0     2.0    23.0    n    n    -   0.58
- 123    25.7  Hollow Ship                                    0      0     1.0     3.0    y    n    -   0.42
+  77    30.5  Dead Kennedys                                  1      0     2.0    20.0    n    n    -   0.50
+  78    30.3  Bon Iver                                       4      0     1.0    10.0    n    n    -   0.75
+  79    30.2  Green Lung                                     0      0     1.0    10.0    y    n    -   1.00
+  80    30.1  Placebo                                        0      0     1.0    11.0    y    n    -   0.83
+  81    29.9  Orchid                                         0     15     2.0    13.0    y    n    -   0.00
+  82    29.9  The Beach Boys                                 0      0     3.0    22.0    n    n    -   1.00
+  83    29.8  TV On The Radio                                0     13     2.0     8.0    y    n    -   0.08
+  84    29.6  Gang of Youths                                 0      0     2.0     6.0    y    n    -   0.17
+  85    29.2  If These Trees Could Talk                      0      0     3.0    22.0    n    n    -   0.75
+  86    29.0  Doves                                          0      0     3.0    18.0    n    n    -   1.00
+  87    28.7  hubris.                                        0      0     1.0     8.0    y    n    -   0.67
+  88    28.4  Floating Points                                0      0     1.0     5.0    y    n    -   1.00
+  89    28.4  Mary Ann Hawkins                               0      0     1.0     5.0    y    n    -   1.00
+  90    28.4  The Cure                                       0      0     1.0     5.0    y    n    -   1.00
+  91    28.4  Tycho                                          0      0     1.0     5.0    y    n    -   1.00
+  92    28.2  All Them Witches                               0      3     1.0     6.0    y    n    -   0.75
+  93    28.0  Barry Can't Swim                               0      0     1.0     4.0    y    n    -   1.00
+  94    28.0  Elephant Tree                                  0      0     1.0     4.0    y    n    -   1.00
+  95    28.0  GIFT                                           0      0     1.0     4.0    y    n    -   1.00
+  96    27.9  Holy Holy                                      0      0     1.0     6.0    y    n    -   0.67
+  97    27.7  Andy Bell                                      0      0     3.0    13.0    n    n    -   1.00
+  98    27.7  The Limiñanas                                 0      0     3.0    13.0    n    n    -   1.00
+  99    27.7  Maha Sohona                                    0      0     1.0     6.0    y    n    -   0.58
+ 100    27.5  Mogwai                                         0      0     3.0    12.0    n    n    -   1.00
+ 101    27.4  Firefriend                                     0      0     1.0     3.0    y    n    -   1.00
+ 102    27.4  Kanaan                                         0      0     1.0     3.0    y    n    -   1.00
+ 103    27.4  Psychedelic Porn Crumpets                      0      0     1.0     3.0    y    n    -   1.00
+ 104    27.4  Self Esteem                                    0      0     1.0     3.0    y    n    -   1.00
+ 105    27.3  New Candys                                     0      0     1.0     4.0    y    n    -   0.75
+ 106    27.3  Sensible Soccers                               0      0     1.0     5.0    y    n    -   0.58
+ 107    27.2  Motrik                                         0      0     1.0     3.0    y    n    -   0.92
+ 108    27.1  Slomosa                                        0      0     1.0     4.0    y    n    -   0.67
+ 109    26.8  Cam Cole                                       0      0     1.0     2.0    y    n    -   1.00
+ 110    26.8  World News                                     0      0     1.0     2.0    y    n    -   1.00
+ 111    26.8  Adebisi Shank                                  0      0     1.0     3.0    y    n    -   0.75
+ 112    26.8  José Junior                                   0      0     1.0     3.0    y    n    -   0.75
+ 113    26.6  Lorelle Meets The Obsolete                     0      0     1.0     2.0    y    n    -   0.92
+ 114    26.5  Arcade Fire                                    0      0     2.0    20.0    n    n    -   1.00
+ 115    26.5  Younger Brother                                0      0     1.0     3.0    y    n    -   0.67
+ 116    26.4  Orange Goblin                                  0      0     1.0     2.0    y    n    -   0.83
+ 117    26.4  Underground Lovers                             0     19     1.0    14.0    y    n    -   0.00
+ 118    26.3  Fuck Buttons                                   2      1     2.0     9.0    n    n    -   0.00
+ 119    26.2  The Mysterines                                 0      0     1.0     2.0    y    n    -   0.75
+ 120    26.0  Shpongle                                       0      0     2.0    23.0    n    n    -   0.58
+ 121    25.7  Hollow Ship                                    0      0     1.0     3.0    y    n    -   0.42
+ 122    25.6  Tame Impala                                    0      0     2.0    16.0    n    n    -   1.00
+ 123    25.6  Billy F Gibbons                                2      0     1.0     4.0    n    n    -   1.00
  124    25.3  Technicolor Skies                              0     11     1.0     3.0    y    n    -   0.33
  125    25.1  1000mods                                       0      0     3.0     6.0    n    n    -   0.83
  126    24.7  Editors                                        0      0     2.0    15.0    n    n    -   0.75
  127    24.6  Underworld                                     0      0     2.0    12.0    n    n    -   1.00
- 128    24.3  The Dandy Warhols                              0      0     2.0    11.0    n    n    -   1.00
- 129    24.2  Swan Valley Heights                            0      0     1.0     7.0    y    n    -   0.00
- 130    24.0  Orbital                                        0      0     2.0    10.0    n    n    -   1.00
- 131    23.7  Jean-Michel Jarre                              0      0     2.0     9.0    n    n    -   1.00
- 132    23.5  Vessels                                        0      0     3.0    16.0    n    n    -   0.00
- 133    23.4  Columbia Mills                                 0      0     1.0     5.0    y    n    -   0.00
- 134    23.4  Here Lies Man                                  0      0     1.0     5.0    y    n    -   0.00
- 135    23.4  Torche                                         0      0     1.0     5.0    y    n    -   0.00
- 136    23.3  Billy F Gibbons                                1      0     1.0     4.0    n    n    -   1.00
+ 128    24.5  INXS                                           1      0     1.0    11.0    n    n    -   0.50
+ 129    24.3  The Dandy Warhols                              0      0     2.0    11.0    n    n    -   1.00
+ 130    24.2  Swan Valley Heights                            0      0     1.0     7.0    y    n    -   0.00
+ 131    24.0  Orbital                                        0      0     2.0    10.0    n    n    -   1.00
+ 132    23.7  Jean-Michel Jarre                              0      0     2.0     9.0    n    n    -   1.00
+ 133    23.5  Vessels                                        0      0     3.0    16.0    n    n    -   0.00
+ 134    23.4  Columbia Mills                                 0      0     1.0     5.0    y    n    -   0.00
+ 135    23.4  Here Lies Man                                  0      0     1.0     5.0    y    n    -   0.00
+ 136    23.4  Torche                                         0      0     1.0     5.0    y    n    -   0.00
  137    23.3  Binary Finary                                  0      0     3.0     8.0    n    n    -   0.17
  138    23.0  My Sleeping Karma                              0      0     3.0    14.0    n    n    -   0.00
  139    23.0  Daniel Avery                                   0      0     2.0     7.0    n    n    -   1.00
@@ -393,92 +393,91 @@
  391    12.0  Spacemen 3                                     0      0     0.0     1.0    y    n    -   0.00
  392    10.8  Carcass                                        4      0     0.0     0.0    n    n    -   0.00
  393    10.8  Golden Features                                4      0     0.0     0.0    n    n    -   0.00
- 394    10.4  Donna Summer                                   1      0     0.0     0.0    n    n    -   1.00
- 395    10.4  Louisahhh                                      1      0     0.0     0.0    n    n    -   1.00
- 396    10.4  PROFF                                          1      0     0.0     0.0    n    n    -   1.00
- 397    10.2  Q-Tip                                          1      0     0.0     1.0    n    n    -   0.33
- 398    10.0  Brown Sabbath                                  0      0     0.0     0.0    y    n    -   0.00
- 399    10.0  Brown Spirits                                  0      0     0.0     0.0    y    n    -   0.00
- 400    10.0  Coroner                                        0      0     0.0     0.0    y    n    -   0.00
- 401    10.0  Doctor Smoke                                   0      0     0.0     0.0    y    n    -   0.00
- 402    10.0  Endless Boogie                                 0      0     0.0     0.0    y    n    -   0.00
- 403    10.0  Freedom Hawk                                   0      0     0.0     0.0    y    n    -   0.00
- 404    10.0  Human Bell                                     0      0     0.0     0.0    y    n    -   0.00
- 405    10.0  King Gizzard & The Lizard Wizard               0      0     0.0     0.0    y    n    -   0.00
- 406    10.0  Louis Tillett                                  0      0     0.0     0.0    y    n    -   0.00
- 407    10.0  Mars in Ruin                                   0      0     0.0     0.0    y    n    -   0.00
- 408    10.0  Mother Mars                                    0      0     0.0     0.0    y    n    -   0.00
- 409    10.0  Paul van Dyk’s VONYC Sessions                0      0     0.0     0.0    y    n    -   0.00
- 410    10.0  Royal Headache                                 0      0     0.0     0.0    y    n    -   0.00
- 411    10.0  Shane MacGowan                                 0      0     0.0     0.0    y    n    -   0.00
- 412    10.0  Tom Harrington                                 0      0     0.0     0.0    y    n    -   0.00
- 413     9.4  Hannah Peel                                    0      1     0.0     5.0    n    n    -   1.00
- 414     8.9  Einmusik                                       0      0     0.0     4.0    n    n    -   1.00
- 415     8.9  Erland Cooper                                  0      1     0.0     4.0    n    n    -   1.00
- 416     8.9  kaeto                                          0      0     0.0     4.0    n    n    -   1.00
- 417     8.9  Mowree                                         0      0     0.0     4.0    n    n    -   1.00
- 418     8.9  The Temper Trap                                0      0     0.0     4.0    n    n    -   1.00
- 419     8.5  Aphex Twin                                     0      0     0.0     4.0    n    n    -   0.83
- 420     8.4  All India Radio                                0      0     0.0     3.0    n    n    -   1.00
- 421     8.4  bailey                                         0      1     0.0     3.0    n    n    -   1.00
- 422     8.4  Beck                                           0      0     0.0     3.0    n    n    -   1.00
- 423     8.4  David Holmes                                   0      0     0.0     3.0    n    n    -   1.00
- 424     8.4  Eli & Fur                                      0      0     0.0     3.0    n    n    -   1.00
- 425     8.4  Giorgia Angiuli                                0      0     0.0     3.0    n    n    -   1.00
- 426     8.4  Henry Saiz                                     0      0     0.0     3.0    n    n    -   1.00
- 427     8.4  Jon Kennedy                                    0      0     0.0     3.0    n    n    -   1.00
- 428     8.4  Kaktus Einarsson                               0      0     0.0     3.0    n    n    -   1.00
- 429     8.4  Kite                                           0      0     0.0     3.0    n    n    -   1.00
- 430     8.4  Klangkarussell                                 0      0     0.0     3.0    n    n    -   1.00
- 431     8.4  Lost Frequencies                               0      0     0.0     3.0    n    n    -   1.00
- 432     8.4  MEZERG                                         0      0     0.0     3.0    n    n    -   1.00
- 433     8.4  Miracle Of Sound                               0      0     0.0     3.0    n    n    -   1.00
- 434     8.4  Nathan Micay                                   0      0     0.0     3.0    n    n    -   1.00
- 435     8.4  of Montreal                                    0      0     0.0     3.0    n    n    -   1.00
- 436     8.4  Scuba                                          0      0     0.0     3.0    n    n    -   1.00
- 437     8.4  Spencer Brown                                  0      0     0.0     3.0    n    n    -   1.00
- 438     8.4  The Orb                                        0      0     0.0     3.0    n    n    -   1.00
- 439     8.0  Black Rainbows                                 0      0     0.0     4.0    n    n    -   0.67
- 440     7.9  Andreya Casablanca                             0      0     0.0     3.0    n    n    -   0.83
- 441     7.9  Cut Copy                                       0      0     0.0     3.0    n    n    -   0.83
- 442     7.7  Gilligan Moss                                  0      0     0.0     3.0    n    n    -   0.75
- 443     7.7  Holographic Field                              0      0     0.0     3.0    n    n    -   0.75
- 444     7.7  Imogen Heap                                    0      0     0.0     3.0    n    n    -   0.75
- 445     7.7  Japanese Television                            0      0     0.0     3.0    n    n    -   0.75
- 446     7.7  Sacri Monti                                    0      0     0.0     3.0    n    n    -   0.75
- 447     7.6  Rromarin                                       2      0     0.0     0.0    n    n    -   0.00
- 448     7.5  Caribou                                        0      0     0.0     3.0    n    n    -   0.67
- 449     7.2  Cassian                                        0      0     0.0     3.0    n    n    -   0.58
- 450     7.2  Christian Gabel                                0      0     0.0     3.0    n    n    -   0.58
- 451     7.2  GoGo Penguin                                   0      0     0.0     3.0    n    n    -   0.58
- 452     7.2  James Blunt                                    0      0     0.0     3.0    n    n    -   0.58
- 453     7.2  Lycii                                          0      0     0.0     3.0    n    n    -   0.58
- 454     6.9  Romy                                           0      0     0.0     3.0    n    n    -   0.50
- 455     6.6  Asa 808                                        0      0     0.0     3.0    n    n    -   0.42
- 456     6.6  The Thrillseekers                              0      0     0.0     3.0    n    n    -   0.42
- 457     6.3  Ida Engberg                                    0      0     0.0     3.0    n    n    -   0.33
- 458     6.3  Tom Sharkett                                   0      0     0.0     3.0    n    n    -   0.33
- 459     6.3  Vega Voga                                      0      0     0.0     3.0    n    n    -   0.33
- 460     5.9  Hidden Orchestra                               0      0     0.0     4.0    n    n    -   0.17
- 461     5.9  Kudus                                          0      0     0.0     3.0    n    n    -   0.25
- 462     5.4  Pato Watson                                    0      0     0.0     3.0    n    n    -   0.17
- 463     5.4  ANUQRAM                                        1      0     0.0     0.0    n    n    -   0.00
- 464     5.4  Daft Punk                                      1      0     0.0     0.0    n    n    -   0.00
- 465     5.4  Fragma                                         1      0     0.0     0.0    n    n    -   0.00
- 466     5.4  Grant McLennan                                 1      0     0.0     0.0    n    n    -   0.00
- 467     5.4  Jack Frost                                     1      0     0.0     0.0    n    n    -   0.00
- 468     5.4  Second Sine                                    1      0     0.0     0.0    n    n    -   0.00
- 469     5.3  Incredible Bongo Band                          0      0     0.0     4.0    n    n    -   0.08
- 470     4.8  Brontide                                       0      0     0.0     3.0    n    n    -   0.08
- 471     4.8  DAEDE                                          0      0     0.0     3.0    n    n    -   0.08
- 472     4.8  Electronic                                     0      0     0.0     3.0    n    n    -   0.08
- 473     4.8  Sean & Dee                                     0      0     0.0     3.0    n    n    -   0.08
- 474     3.9  Kid Canaveral                                  0      0     0.0     4.0    n    n    -   0.00
- 475     3.4  André Sobota                                  0      0     0.0     3.0    n    n    -   0.00
- 476     3.4  Bear In Heaven                                 0      0     0.0     3.0    n    n    -   0.00
- 477     3.4  Carbon Based Lifeforms                         0      0     0.0     3.0    n    n    -   0.00
- 478     3.4  Fat Sushi                                      0      0     0.0     3.0    n    n    -   0.00
- 479     3.4  Fenech-Soler                                   0      0     0.0     3.0    n    n    -   0.00
- 480     3.4  Klute                                          0      1     0.0     3.0    n    n    -   0.00
- 481     3.4  Macadam Crocodile                              0      0     0.0     3.0    n    n    -   0.00
- 482     3.4  Way Out West                                   0      0     0.0     3.0    n    n    -   0.00
+ 394    10.4  Louisahhh                                      1      0     0.0     0.0    n    n    -   1.00
+ 395    10.4  PROFF                                          1      0     0.0     0.0    n    n    -   1.00
+ 396    10.2  Q-Tip                                          1      0     0.0     1.0    n    n    -   0.33
+ 397    10.0  Brown Sabbath                                  0      0     0.0     0.0    y    n    -   0.00
+ 398    10.0  Brown Spirits                                  0      0     0.0     0.0    y    n    -   0.00
+ 399    10.0  Coroner                                        0      0     0.0     0.0    y    n    -   0.00
+ 400    10.0  Doctor Smoke                                   0      0     0.0     0.0    y    n    -   0.00
+ 401    10.0  Endless Boogie                                 0      0     0.0     0.0    y    n    -   0.00
+ 402    10.0  Freedom Hawk                                   0      0     0.0     0.0    y    n    -   0.00
+ 403    10.0  Human Bell                                     0      0     0.0     0.0    y    n    -   0.00
+ 404    10.0  King Gizzard & The Lizard Wizard               0      0     0.0     0.0    y    n    -   0.00
+ 405    10.0  Louis Tillett                                  0      0     0.0     0.0    y    n    -   0.00
+ 406    10.0  Mars in Ruin                                   0      0     0.0     0.0    y    n    -   0.00
+ 407    10.0  Mother Mars                                    0      0     0.0     0.0    y    n    -   0.00
+ 408    10.0  Paul van Dyk’s VONYC Sessions                0      0     0.0     0.0    y    n    -   0.00
+ 409    10.0  Royal Headache                                 0      0     0.0     0.0    y    n    -   0.00
+ 410    10.0  Shane MacGowan                                 0      0     0.0     0.0    y    n    -   0.00
+ 411    10.0  Tom Harrington                                 0      0     0.0     0.0    y    n    -   0.00
+ 412     9.4  Hannah Peel                                    0      1     0.0     5.0    n    n    -   1.00
+ 413     8.9  Einmusik                                       0      0     0.0     4.0    n    n    -   1.00
+ 414     8.9  Erland Cooper                                  0      1     0.0     4.0    n    n    -   1.00
+ 415     8.9  kaeto                                          0      0     0.0     4.0    n    n    -   1.00
+ 416     8.9  Mowree                                         0      0     0.0     4.0    n    n    -   1.00
+ 417     8.9  The Temper Trap                                0      0     0.0     4.0    n    n    -   1.00
+ 418     8.5  Aphex Twin                                     0      0     0.0     4.0    n    n    -   0.83
+ 419     8.4  All India Radio                                0      0     0.0     3.0    n    n    -   1.00
+ 420     8.4  bailey                                         0      1     0.0     3.0    n    n    -   1.00
+ 421     8.4  Beck                                           0      0     0.0     3.0    n    n    -   1.00
+ 422     8.4  David Holmes                                   0      0     0.0     3.0    n    n    -   1.00
+ 423     8.4  Eli & Fur                                      0      0     0.0     3.0    n    n    -   1.00
+ 424     8.4  Giorgia Angiuli                                0      0     0.0     3.0    n    n    -   1.00
+ 425     8.4  Henry Saiz                                     0      0     0.0     3.0    n    n    -   1.00
+ 426     8.4  Jon Kennedy                                    0      0     0.0     3.0    n    n    -   1.00
+ 427     8.4  Kaktus Einarsson                               0      0     0.0     3.0    n    n    -   1.00
+ 428     8.4  Kite                                           0      0     0.0     3.0    n    n    -   1.00
+ 429     8.4  Klangkarussell                                 0      0     0.0     3.0    n    n    -   1.00
+ 430     8.4  Lost Frequencies                               0      0     0.0     3.0    n    n    -   1.00
+ 431     8.4  MEZERG                                         0      0     0.0     3.0    n    n    -   1.00
+ 432     8.4  Miracle Of Sound                               0      0     0.0     3.0    n    n    -   1.00
+ 433     8.4  Nathan Micay                                   0      0     0.0     3.0    n    n    -   1.00
+ 434     8.4  of Montreal                                    0      0     0.0     3.0    n    n    -   1.00
+ 435     8.4  Scuba                                          0      0     0.0     3.0    n    n    -   1.00
+ 436     8.4  Spencer Brown                                  0      0     0.0     3.0    n    n    -   1.00
+ 437     8.4  The Orb                                        0      0     0.0     3.0    n    n    -   1.00
+ 438     8.0  Black Rainbows                                 0      0     0.0     4.0    n    n    -   0.67
+ 439     7.9  Andreya Casablanca                             0      0     0.0     3.0    n    n    -   0.83
+ 440     7.9  Cut Copy                                       0      0     0.0     3.0    n    n    -   0.83
+ 441     7.7  Gilligan Moss                                  0      0     0.0     3.0    n    n    -   0.75
+ 442     7.7  Holographic Field                              0      0     0.0     3.0    n    n    -   0.75
+ 443     7.7  Imogen Heap                                    0      0     0.0     3.0    n    n    -   0.75
+ 444     7.7  Japanese Television                            0      0     0.0     3.0    n    n    -   0.75
+ 445     7.7  Sacri Monti                                    0      0     0.0     3.0    n    n    -   0.75
+ 446     7.6  Rromarin                                       2      0     0.0     0.0    n    n    -   0.00
+ 447     7.5  Caribou                                        0      0     0.0     3.0    n    n    -   0.67
+ 448     7.2  Cassian                                        0      0     0.0     3.0    n    n    -   0.58
+ 449     7.2  Christian Gabel                                0      0     0.0     3.0    n    n    -   0.58
+ 450     7.2  GoGo Penguin                                   0      0     0.0     3.0    n    n    -   0.58
+ 451     7.2  James Blunt                                    0      0     0.0     3.0    n    n    -   0.58
+ 452     7.2  Lycii                                          0      0     0.0     3.0    n    n    -   0.58
+ 453     6.9  Romy                                           0      0     0.0     3.0    n    n    -   0.50
+ 454     6.6  Asa 808                                        0      0     0.0     3.0    n    n    -   0.42
+ 455     6.6  The Thrillseekers                              0      0     0.0     3.0    n    n    -   0.42
+ 456     6.3  Ida Engberg                                    0      0     0.0     3.0    n    n    -   0.33
+ 457     6.3  Tom Sharkett                                   0      0     0.0     3.0    n    n    -   0.33
+ 458     6.3  Vega Voga                                      0      0     0.0     3.0    n    n    -   0.33
+ 459     5.9  Hidden Orchestra                               0      0     0.0     4.0    n    n    -   0.17
+ 460     5.9  Kudus                                          0      0     0.0     3.0    n    n    -   0.25
+ 461     5.4  Pato Watson                                    0      0     0.0     3.0    n    n    -   0.17
+ 462     5.4  ANUQRAM                                        1      0     0.0     0.0    n    n    -   0.00
+ 463     5.4  Daft Punk                                      1      0     0.0     0.0    n    n    -   0.00
+ 464     5.4  Fragma                                         1      0     0.0     0.0    n    n    -   0.00
+ 465     5.4  Grant McLennan                                 1      0     0.0     0.0    n    n    -   0.00
+ 466     5.4  Jack Frost                                     1      0     0.0     0.0    n    n    -   0.00
+ 467     5.4  Second Sine                                    1      0     0.0     0.0    n    n    -   0.00
+ 468     5.3  Incredible Bongo Band                          0      0     0.0     4.0    n    n    -   0.08
+ 469     4.8  Brontide                                       0      0     0.0     3.0    n    n    -   0.08
+ 470     4.8  DAEDE                                          0      0     0.0     3.0    n    n    -   0.08
+ 471     4.8  Electronic                                     0      0     0.0     3.0    n    n    -   0.08
+ 472     4.8  Sean & Dee                                     0      0     0.0     3.0    n    n    -   0.08
+ 473     3.9  Kid Canaveral                                  0      0     0.0     4.0    n    n    -   0.00
+ 474     3.4  André Sobota                                  0      0     0.0     3.0    n    n    -   0.00
+ 475     3.4  Bear In Heaven                                 0      0     0.0     3.0    n    n    -   0.00
+ 476     3.4  Carbon Based Lifeforms                         0      0     0.0     3.0    n    n    -   0.00
+ 477     3.4  Fat Sushi                                      0      0     0.0     3.0    n    n    -   0.00
+ 478     3.4  Fenech-Soler                                   0      0     0.0     3.0    n    n    -   0.00
+ 479     3.4  Klute                                          0      1     0.0     3.0    n    n    -   0.00
+ 480     3.4  Macadam Crocodile                              0      0     0.0     3.0    n    n    -   0.00
+ 481     3.4  Way Out West                                   0      0     0.0     3.0    n    n    -   0.00

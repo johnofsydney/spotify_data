@@ -7,15 +7,15 @@
    5    222      8  The Confederate Dead             GHOSTWOMAN, The Dharma Chain, Firefriend
    6    202      8  Sons of Arrakis                  Valley of the Sun, Elder, Psychlona
    7    202      7  Mantra Machine                   Causa Sui, Tuber, Monkey3
-   8    191      6  The Best Pessimist               God Is An Astronaut, sleepmakeswaves, If These Trees Could Talk
+   8    199      6  The Best Pessimist               God Is An Astronaut, sleepmakeswaves, If These Trees Could Talk
    9    181      6  The Spyrals                      Night Beats, GHOSTWOMAN, New Candys
   10    180      8  Sasquatch                        Greenleaf, Valley of the Sun, Orange Goblin
   11    179      8  Franz Ferdinand                  Caesars, Pixies, The Strokes
   12    179      6  Mount Hush                       King Buffalo, Tuber, All Them Witches
   13    169      6  Room Service                     GHOSTWOMAN, New Candys, World News
   14    160      5  Cage The Elephant                Kings of Leon, Pixies, Phantogram
-  15    154      6  Empire Of The Sun                Kings of Leon, Phantogram, Tame Impala
-  16    149      6  Galaxie 500                      Spiritualized, Ride, The Jesus and Mary Chain
+  15    149      6  Galaxie 500                      Spiritualized, Ride, The Jesus and Mary Chain
+  16    149      6  Empire Of The Sun                Kings of Leon, Phantogram, Tame Impala
   17    148      5  Ambrose Kenny-Smith              Spiral Drive, Lord Fascinator, GIFT
   18    144      5  Red Hot Chili Peppers            Kings of Leon, Pixies, Pink Floyd
   19    141      4  The Everywheres                  Night Beats, GHOSTWOMAN, New Candys
@@ -25,16 +25,16 @@
   23    139      8  Electric Light Orchestra         The Beach Boys, Talking Heads, Pink Floyd
   24    136      6  Wall of Death                    The Dharma Chain, Firefriend, Motrik
   25    135      7  Jamie xx                         Kelly Lee Owens, Barry Can't Swim, Underworld
-  26    134      6  Darkfield                        Tides From Nebula, hubris., Exxasens
-  27    134      3  The Postal Service               LCD Soundsystem, The Flaming Lips, Silversun Pickups
-  28    133      5  Aerosmith                        Black Sabbath, U2, Led Zeppelin
-  29    133      5  Mandrake Handshake               Lord Fascinator, GIFT, Motrik
-  30    130      3  Benny Benassi                    The Chemical Brothers, ATB, The Prodigy
-  31    129      5  Duran Duran                      New Order, The Cure, INXS
+  26    135      4  Saxon Shore                      sleepmakeswaves, Explosions In The Sky, Caspian
+  27    134      6  Darkfield                        Tides From Nebula, hubris., Exxasens
+  28    134      3  The Postal Service               LCD Soundsystem, The Flaming Lips, Silversun Pickups
+  29    133      5  Aerosmith                        Black Sabbath, U2, Led Zeppelin
+  30    133      5  Mandrake Handshake               Lord Fascinator, GIFT, Motrik
+  31    130      3  Benny Benassi                    The Chemical Brothers, ATB, The Prodigy
   32    129      6  Margarita Witch Cult             Psychlona, Green Lung, Slomosa
   33    128      5  Daphni                           Kelly Lee Owens, HAAi, Floating Points
   34    127      4  Van Halen                        ZZ Top, Led Zeppelin, Ozzy Osbourne
-  35    127      4  Saxon Shore                      sleepmakeswaves, Explosions In The Sky, Caspian
+  35    127      5  Duran Duran                      New Order, The Cure, INXS
   36    126      4  Richard Ashcroft                 Noel Gallagher's High Flying Birds, Johnny Marr, Doves
   37    125      5  Sparklehorse                     Spiritualized, Mogwai, Yo La Tengo
   38    121      4  Alice In Chains                  Black Sabbath, Queens of the Stone Age, The Smashing Pumpkins
@@ -50,34 +50,34 @@
   48    113      6  The Vines                        The Dandy Warhols, Death From Above 1979, Black Rebel Motorcycle Club
   49    113      5  Cold War Kids                    Silversun Pickups, TV On The Radio, The Kills
   50    112      5  Public Image Ltd.                The Church, The Fall, The Jesus and Mary Chain
-  51    111      5  The Human League                 New Order, INXS, Talking Heads
-  52    111      3  Basement Jaxx                    The Chemical Brothers, Underworld, The Prodigy
-  53    111      4  Depeche Mode                     New Order, Placebo, The Cure
-  54    111      4  The White Stripes                Caesars, Pixies, The Black Keys
-  55    110      4  Cast                             Noel Gallagher's High Flying Birds, Primal Scream, The Stone Roses
-  56    109      3  Steppenwolf                      ZZ Top, Led Zeppelin, The Rolling Stones
-  57    109      3  The Who                          ZZ Top, Led Zeppelin, The Rolling Stones
-  58    108      3  Belle and Sebastian              Spiritualized, The Flaming Lips, Yo La Tengo
-  59    107      4  Embrace                          Noel Gallagher's High Flying Birds, Doves, Elbow
-  60    106      4  The Auras                        The Dharma Chain, Firefriend, New Candys
-  61    104      3  The Groovy Nobody                GHOSTWOMAN, Spiral Drive, Hollow Ship
-  62    104      3  Rage Against The Machine         Black Sabbath, Queens of the Stone Age, The Prodigy
-  63    104      3  Trailer Trash Tracys             Maps, The Raveonettes, Bear In Heaven
-  64    103      4  YENISEI                          Tides From Nebula, hubris., Exxasens
-  65    103      6  Jack White                       Death From Above 1979, Black Rebel Motorcycle Club, The Kills
-  66    102      3  Lenny Kravitz                    Kings of Leon, INXS, U2
-  67    102      2  The Kooks                        Kings of Leon, Noel Gallagher's High Flying Birds
-  68    101      3  KISS                             Black Sabbath, Ozzy Osbourne, Iron Maiden
-  69    101      3  Metallica                        Black Sabbath, Ozzy Osbourne, Iron Maiden
-  70    101      3  Pantera                          Black Sabbath, Ozzy Osbourne, Iron Maiden
-  71     98      4  De La Soul                       Caesars, Tame Impala, The Stranglers
-  72     97      5  Kodomo                           Tycho, Yppah, Ulrich Schnauss
-  73     97      4  The Crooked Rugs                 Motrik, José Junior, Hollow Ship
-  74     97      2  Boston                           ZZ Top, Led Zeppelin
-  75     96      3  Aretha Franklin                  Dusty Springfield, The Supremes, Stevie Wonder
-  76     96      3  Otis Redding                     Dusty Springfield, The Supremes, Stevie Wonder
-  77     95      4  Cristoph                         Booka Shade, YOTTO, Jerome Isma-Ae
-  78     93      2  Roy Orbison                      Dusty Springfield, The Beach Boys
+  51    111      3  Basement Jaxx                    The Chemical Brothers, Underworld, The Prodigy
+  52    111      4  Depeche Mode                     New Order, Placebo, The Cure
+  53    111      4  The White Stripes                Caesars, Pixies, The Black Keys
+  54    110      4  Cast                             Noel Gallagher's High Flying Birds, Primal Scream, The Stone Roses
+  55    109      3  Steppenwolf                      ZZ Top, Led Zeppelin, The Rolling Stones
+  56    109      3  The Who                          ZZ Top, Led Zeppelin, The Rolling Stones
+  57    108      3  Belle and Sebastian              Spiritualized, The Flaming Lips, Yo La Tengo
+  58    107      4  Embrace                          Noel Gallagher's High Flying Birds, Doves, Elbow
+  59    106      4  The Auras                        The Dharma Chain, Firefriend, New Candys
+  60    104      3  The Groovy Nobody                GHOSTWOMAN, Spiral Drive, Hollow Ship
+  61    104      3  Rage Against The Machine         Black Sabbath, Queens of the Stone Age, The Prodigy
+  62    104      3  Trailer Trash Tracys             Maps, The Raveonettes, Bear In Heaven
+  63    103      4  YENISEI                          Tides From Nebula, hubris., Exxasens
+  64    103      6  Jack White                       Death From Above 1979, Black Rebel Motorcycle Club, The Kills
+  65    102      2  The Kooks                        Kings of Leon, Noel Gallagher's High Flying Birds
+  66    101      3  KISS                             Black Sabbath, Ozzy Osbourne, Iron Maiden
+  67    101      3  Metallica                        Black Sabbath, Ozzy Osbourne, Iron Maiden
+  68    101      3  Pantera                          Black Sabbath, Ozzy Osbourne, Iron Maiden
+  69    100      3  Lenny Kravitz                    Kings of Leon, INXS, U2
+  70     98      4  The Human League                 New Order, INXS, Talking Heads
+  71     97      5  Kodomo                           Tycho, Yppah, Ulrich Schnauss
+  72     97      4  The Crooked Rugs                 Motrik, José Junior, Hollow Ship
+  73     97      2  Boston                           ZZ Top, Led Zeppelin
+  74     96      3  Aretha Franklin                  Dusty Springfield, The Supremes, Stevie Wonder
+  75     96      3  Otis Redding                     Dusty Springfield, The Supremes, Stevie Wonder
+  76     95      4  Cristoph                         Booka Shade, YOTTO, Jerome Isma-Ae
+  77     93      2  Roy Orbison                      Dusty Springfield, The Beach Boys
+  78     93      4  De La Soul                       Caesars, Tame Impala, The Stranglers
   79     93      3  Foo Fighters                     Kings of Leon, Queens of the Stone Age, The Smashing Pumpkins
   80     92      3  Iron & Wine                      The National, Bon Iver, Phosphorescent
   81     92      2  Tom Petty                        ZZ Top, The Rolling Stones
@@ -143,10 +143,10 @@
  141     76      3  Demob Happy                      Psychedelic Porn Crumpets, The Mysterines, Death From Above 1979
  142     75      3  Comacozer                        Causa Sui, Yuri Gagarin (SWE), Ahkmed
  143     74      4  Andrew Bird                      Junip, My Morning Jacket, Midlake
- 144     74      2  Harry Styles                     Taylor Swift, Tame Impala
- 145     73      2  Hot Chocolate                    Dusty Springfield, Donna Summer
- 146     72      3  Liset Alea                       Booka Shade, Cubicolor, Kaktus Einarsson
- 147     72      2  Worries And Other Plants         GHOSTWOMAN, José Junior
- 148     71      3  Σtella                          Still Corners, Khruangbin, Nilüfer Yanya
- 149     71      3  Ed Kuepper                       Underground Lovers, Beasts Of Bourbon, The Go-Betweens
- 150     71      3  Lowercase Noises                 Explosions In The Sky, The Album Leaf, The Echelon Effect
+ 144     72      3  Liset Alea                       Booka Shade, Cubicolor, Kaktus Einarsson
+ 145     72      2  Worries And Other Plants         GHOSTWOMAN, José Junior
+ 146     71      3  Σtella                          Still Corners, Khruangbin, Nilüfer Yanya
+ 147     71      3  Ed Kuepper                       Underground Lovers, Beasts Of Bourbon, The Go-Betweens
+ 148     71      3  Lowercase Noises                 Explosions In The Sky, The Album Leaf, The Echelon Effect
+ 149     71      3  Random Forest                    Explosions In The Sky, The Album Leaf, The Echelon Effect
+ 150     71      2  Mauro Picotto                    Paul van Dyk, Binary Finary
