@@ -35,6 +35,7 @@ counted() {
 }
 
 top=$(counted "$top_file")
+alltime=$([ -f "$root/alltime_artists.md" ] && counted "$root/alltime_artists.md" || echo '{}')
 liked=$(counted "$root/liked_tracks_artists.md")
 followed=$(jq -Rn '[inputs | select(length > 0)]' "$root/followed_artists.md")
 pw=$([ -f "$playlist_weights_file" ] && jq 'map_values(.weight)' "$playlist_weights_file" || echo '{}')
@@ -73,6 +74,7 @@ dedicated=$(jq -s --argjson share "$ded_share" --argjson size "$ded_size" '
 
 jq -n -r \
   --argjson top "$top" \
+  --argjson alltime "$alltime" \
   --argjson liked "$liked" \
   --argjson playlists "$playlists" \
   --argjson followed "$followed" \
@@ -86,9 +88,10 @@ jq -n -r \
   ($followed | map({key: ., value: true}) | from_entries) as $fol
   | ($dedicated | map({key: ., value: true}) | from_entries) as $ded
   | ($favourites | map({key: ., value: true}) | from_entries) as $favs
-  | ([($top | keys), ($liked | keys), ($playlists | keys), $followed, $dedicated, $favourites]
-      | add | unique) as $names
+  | ([($top | keys), ($liked | keys), ($alltime | keys), ($playlists | keys),
+      $followed, $dedicated, $favourites] | add | unique) as $names
   | ([$top[]] | max // 0) as $maxtop
+  | ([$alltime[]] | max // 0) as $maxall
   | ([$liked[]] | max // 0) as $maxliked
   | ([$playlists[].tracks] | max // 0) as $maxtracks
   | ([$playlists[].spread] | max // 0) as $maxspread
@@ -96,6 +99,7 @@ jq -n -r \
   | $names
   | map(. as $n
       | ($top[$n] // 0) as $t
+      | ($alltime[$n] // 0) as $at
       | ($liked[$n] // 0) as $l
       | ($playlists[$n].tracks // 0) as $pt
       | ($playlists[$n].spread // 0) as $ps
@@ -103,22 +107,23 @@ jq -n -r \
       | (if $ded[$n] then 1 else 0 end) as $d
       | (if $favs[$n] then 1 else 0 end) as $fv
       | ($activity[$n] // 0) as $act
-      | select($t > 0 or $f > 0 or $d > 0 or $fv > 0 or $pt >= $min
+      | select($t > 0 or $at > 0 or $f > 0 or $d > 0 or $fv > 0 or $pt >= $min
                or ($w.liked > 0 and $l > 0))
-      | [(100 * ($w.top * norm($t; $maxtop)
+      | [(100 * ($w.alltime * norm($at; $maxall)
+               + $w.top * norm($t; $maxtop)
                + $w.liked * norm($l; $maxliked)
                + $w.spread * norm($ps; $maxspread)
                + $w.tracks * norm($pt; $maxtracks)
                + $w.followed * $f
                + $w.dedicated * $d
                + $w.activity * norm($act; $maxact)
-               + $w.favourite * $fv)), $n, $t, $l, $ps, $pt, $f, $d, $fv, $act])
+               + $w.favourite * $fv)), $n, $at, $t, $l, $ps, $pt, $f, $d, $fv, $act])
   | sort_by(-.[0], (.[1] | ascii_downcase))
   | .[] | @tsv' |
 awk -F'\t' '
-  BEGIN { printf "%4s  %6s  %-42s %5s %6s %7s %7s %4s %4s %4s %6s\n", "#", "score", "artist", "top", "liked", "spread", "tracks", "fol", "ded", "FAV", "rel3y"
-          printf "%4s  %6s  %-42s %5s %6s %7s %7s %4s %4s %4s %6s\n", "----", "------", "------------------------------------------", "---", "-----", "------", "------", "---", "---", "---", "-----" }
-  { printf "%4d  %6.1f  %-42s %5d %6d %7.1f %7.1f %4s %4s %4s %6.2f\n", NR, $1, $2, $3, $4, $5, $6, ($7 == 1 ? "y" : "n"), ($8 == 1 ? "y" : "n"), ($9 == 1 ? "Y" : "-"), $10 }
+  BEGIN { printf "%4s  %6s  %-38s %6s %5s %6s %7s %7s %4s %4s %4s %6s\n", "#", "score", "artist", "alltime", "top", "liked", "spread", "tracks", "fol", "ded", "FAV", "rel3y"
+          printf "%4s  %6s  %-38s %6s %5s %6s %7s %7s %4s %4s %4s %6s\n", "----", "------", "--------------------------------------", "-------", "---", "-----", "------", "------", "---", "---", "---", "-----" }
+  { printf "%4d  %6.1f  %-38s %6d %5d %6d %7.1f %7.1f %4s %4s %4s %6.2f\n", NR, $1, $2, $3, $4, $5, $6, $7, ($8 == 1 ? "y" : "n"), ($9 == 1 ? "y" : "n"), ($10 == 1 ? "Y" : "-"), $11 }
 ' > "$out"
 
 echo "$(( $(wc -l < "$out") - 2 )) artists -> $out"

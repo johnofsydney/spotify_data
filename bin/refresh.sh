@@ -11,6 +11,7 @@ echo "=== refresh $(date '+%F %T') ==="
 ./bin/followed_artists.sh
 ./bin/liked_tracks_artists.sh
 ./bin/top_tracks_artists.sh
+./bin/alltime_artists.sh
 ./bin/playlist_artists.sh
 ./bin/artist_details.sh "${ARTIST_LIMIT:-99999}"
 ./bin/sync_playlist_weights.sh

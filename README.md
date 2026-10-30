@@ -91,6 +91,7 @@ the following week to carry rather than aborting the run.
 | `bin/followed_artists.sh` | `followed_artists.md` | Artists I follow. Overwrites. |
 | `bin/liked_tracks_artists.sh` | `liked_tracks_artists.md` | Artists by liked-track count. Overwrites. |
 | `bin/top_tracks_artists.sh` | `top_tracks_artists_<date>.md` | Artists in my top tracks. Dated, one file per run. |
+| `bin/alltime_artists.sh` | `alltime_artists.md` | Artists in Spotify's "Your All-Time Top Songs". Logs the snapshot id each run. |
 | `bin/playlist_artists.sh` | `playlist_artists.md` | Artists across all playlists. Caches; `--force` to refetch. |
 | `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Weights in `weights.json`. |
 | `bin/discover_artists.sh` | `discover_artists.md` | Artists I do not have, ranked by which of my favourites point at them. Offline. |
@@ -130,13 +131,14 @@ alone. `favourite_artists.sh` combines them into a single 0-100 score.
 
 | Signal | Column | Weight | What it means |
 | --- | --- | --- | --- |
-| Playlist spread | `spread` | 0.24 | How many *different* playlists hold two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
-| Top tracks | `top` | 0.17 | How many of my 50 current top tracks are theirs. Spotify returns a short-term window, so this is the only signal that reflects *now* — and the narrowest. |
-| Playlist tracks | `tracks` | 0.17 | Total track credits across my playlists. |
-| Favourites playlist | `FAV` | 0.15 | Whether they are in the playlist I keep by hand. The one place I can tell the ranking something the data does not record. |
-| Dedicated playlist | `ded` | 0.12 | Whether more than half of a playlist of five or more tracks is theirs. |
-| Followed | `fol` | 0.10 | Deliberate, but binary and cheap: you follow once and forget. |
-| Recording activity | `rel3y` | 0.05 | New albums and singles over three years, reissues excluded. Nearly off — see below. |
+| All-time top songs | `alltime` | 0.25 | How many of Spotify's "Your All-Time Top Songs" are theirs. The only direct measure of sustained listening in the data, and the one signal that gets my own reference cases right unprompted. |
+| Playlist spread | `spread` | 0.18 | How many *different* playlists hold two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
+| Top tracks | `top` | 0.13 | How many of my 50 current top tracks are theirs. Spotify returns a short-term window, so this is the only signal that reflects *now* — and the narrowest. |
+| Playlist tracks | `tracks` | 0.13 | Total track credits across my playlists. |
+| Favourites playlist | `FAV` | 0.12 | Whether they are in the playlist I keep by hand. The one place I can tell the ranking something the data does not record. |
+| Dedicated playlist | `ded` | 0.09 | Whether more than half of a playlist of five or more tracks is theirs. |
+| Followed | `fol` | 0.07 | Deliberate, but binary and cheap: you follow once and forget. |
+| Recording activity | `rel3y` | 0.03 | New albums and singles over three years, reissues excluded. Nearly off — see below. |
 | Liked tracks | `liked` | 0.00 | Off. I rarely use the like button, so the count measured my indifference to a feature rather than my taste. Shown, not scored; raising the weight turns it back on. |
 
 ### Reading the output
@@ -179,8 +181,9 @@ album-length addition buries every other signal.
 Weights live in `weights.json`, one line per signal, and nowhere else:
 
 ```json
-{ "spread": 0.24, "top": 0.17, "tracks": 0.17, "favourite": 0.15,
-  "dedicated": 0.12, "followed": 0.10, "activity": 0.05, "liked": 0.00 }
+{ "alltime": 0.25, "spread": 0.18, "top": 0.13, "tracks": 0.13,
+  "favourite": 0.12, "dedicated": 0.09, "followed": 0.07,
+  "activity": 0.03, "liked": 0.00 }
 ```
 
 **They must sum to 1, or to 100 if you prefer percentages.** Anything else
