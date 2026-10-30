@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-root="$(cd "$(dirname "$0")/.." && pwd)"
+root="${DATA_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 out="$root/favourite_artists.md"
 weights_file="$root/weights.json"
 playlist_weights_file="$root/playlist_weights.json"

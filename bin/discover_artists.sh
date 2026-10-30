@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-root="$(cd "$(dirname "$0")/.." && pwd)"
+root="${DATA_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 out="$root/discover_artists.md"
 limit="${DISCOVER_LIMIT:-150}"
 
@@ -18,9 +18,7 @@ known=$(jq -s -r '[.[].tracks[].artists[].name]' "$root"/cache/playlists/*.json 
         --argjson x "$excluded" \
         'add + $f[0] + $l[0] + $t[0] + $x | unique')
 
-scores=$(tail -n +3 "$root/favourite_artists.md" |
-  sed 's/^ *[0-9]* *\([0-9.]*\)  /\1\t/; s/ \{2,\}[0-9].*$//' |
-  jq -Rn '[inputs | split("\t") | {key: .[1], value: (.[0] | tonumber)}] | from_entries')
+scores=$(jq '[.artists[] | {key: .name, value: .score}] | from_entries' "$root/favourite_artists.json")
 
 jq -s -r --argjson known "$known" --argjson scores "$scores" --argjson limit "$limit" '
   ($known | map({key: ., value: true}) | from_entries) as $k
