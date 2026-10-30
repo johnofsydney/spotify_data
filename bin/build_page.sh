@@ -82,14 +82,24 @@ h2:first-of-type { margin-top: 36px; }
 }
 /* The breakdown is a reference table, not a list to read down: denser type,
    a grid, and a sideways scroll on a phone with rank and name pinned. */
-.tablewrap { overflow-x: auto; -webkit-overflow-scrolling: touch; border-top: 1px solid var(--line); }
+/* A sticky header cannot stick to the page from inside a sideways-scrolling
+   box, so the box scrolls both ways and the header sticks to its top. */
+.tablewrap { overflow: auto; max-height: 80vh; -webkit-overflow-scrolling: touch;
+  border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); overscroll-behavior: contain; }
 table.brk { border-collapse: collapse; font-size: 12px; line-height: 1.25; width: 100%; font-variant-numeric: tabular-nums; }
 .brk th, .brk td { padding: 6px 7px; border-bottom: 1px solid var(--line); text-align: right; white-space: nowrap; vertical-align: top; }
-.brk thead th { font-weight: 600; color: var(--muted); font-size: 11px; letter-spacing: 0.02em; vertical-align: bottom; }
+.brk thead th { font-weight: 600; color: var(--muted); font-size: 11px; letter-spacing: 0.02em; vertical-align: bottom;
+  position: sticky; top: 0; z-index: 2; background: var(--bg); border-bottom: 0; box-shadow: inset 0 -1px 0 var(--line); }
 .brk thead th .w { display: block; font-weight: 400; color: var(--accent); }
+.brk thead button { all: unset; cursor: pointer; display: block; width: 100%; text-align: inherit; }
+.brk thead button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.brk thead th[aria-sort] { color: var(--fg); }
+.brk thead .arrow { display: inline-block; width: 0.9em; text-align: center; color: var(--accent); }
 .brk .pin { position: sticky; background: var(--bg); z-index: 1; text-align: left; }
-.brk .pin.r { left: 0; min-width: 26px; color: var(--muted); }
-.brk .pin.n { left: 26px; max-width: 150px; overflow: hidden; text-overflow: ellipsis; font-weight: 550; border-right: 1px solid var(--line); }
+.brk .pin.r { left: 0; width: 30px; min-width: 30px; color: var(--muted); }
+.brk .pin.n { left: 30px; max-width: 150px; overflow: hidden; text-overflow: ellipsis; font-weight: 550; box-shadow: inset -1px 0 0 var(--line); }
+.brk thead th.pin { z-index: 3; }
+.brk thead th.pin.n { box-shadow: inset -1px 0 0 var(--line), inset 0 -1px 0 var(--line); }
 .brk td.total { color: var(--accent); font-weight: 650; }
 .brk td b { font-weight: 600; display: block; }
 .brk td .raw { display: block; color: var(--muted); font-size: 10.5px; margin-top: 2px; }
@@ -126,7 +136,8 @@ more. Household names I simply have not saved can still slip through.</p>
 figure is the points that signal contributes, out of the most it can give (under
 the heading), and the small figure is the raw measurement. The points add up to
 the score. Counts are square-rooted against the highest of any artist, so the
-first few tracks earn far more than the fortieth.</p>
+first few tracks earn far more than the fortieth. Tap a heading to sort by it;
+tap again to reverse.</p>
 <div class="tablewrap"><table class="brk" id="brk"></table></div>
 
 <footer>Built from Spotify data by <code>bin/build_page.sh</code>.</footer>
@@ -177,10 +188,37 @@ const signals = [
 ].filter(s => (weights[s[0]] || 0) > 0)
  .sort((x, y) => weights[y[0]] - weights[x[0]]);
 const fmt = n => (Math.round(n * 10) / 10).toFixed(1);
-const head = '<thead><tr><th class="pin r">#</th><th class="pin n">Artist</th><th>Score<span class="w">/100</span></th>' +
-  signals.map(s => '<th>' + s[1] + '<span class="w">/' + String(Math.round(weights[s[0]] * 1000) / 10) + '</span></th>').join('') +
-  '</tr></thead>';
-const body = '<tbody>' + brk.map(a =>
+// Every heading sorts its column. A first click puts the strongest first
+// (most points, or A to Z for names, or rank 1 for rank); a second reverses.
+// Ties fall back to rank, so equal scores keep the ranking order.
+const columns = [
+  {key: 'rank', label: '#', cls: 'pin r', value: a => a.rank, asc: true},
+  {key: 'name', label: 'Artist', cls: 'pin n', value: a => a.name.toLowerCase(), asc: true},
+  {key: 'score', label: 'Score', max: '/100', value: a => a.score}
+].concat(signals.map(s => ({key: s[0], label: s[1],
+  max: '/' + String(Math.round(weights[s[0]] * 1000) / 10), value: a => a.points[s[0]] || 0})));
+let sort = {key: 'rank', asc: true};
+const header = () => '<thead><tr>' + columns.map(c => {
+  const on = sort.key === c.key;
+  const arrow = on ? (sort.asc === !!c.asc ? '▾' : '▴') : '';
+  return '<th' + (c.cls ? ' class="' + c.cls + '"' : '') +
+    (on ? ' aria-sort="' + (sort.asc ? 'ascending' : 'descending') + '"' : '') +
+    '><button type="button" data-key="' + c.key + '">' +
+    (c.cls ? '' : '<span class="arrow">' + arrow + '</span>') + c.label +
+    (c.cls ? '<span class="arrow">' + arrow + '</span>' : '') +
+    (c.max ? '<span class="w">' + c.max + '</span>' : '') + '</button></th>';
+}).join('') + '</tr></thead>';
+const sorted = () => {
+  const col = columns.find(c => c.key === sort.key);
+  const dir = sort.asc ? 1 : -1;
+  return brk.slice().sort((x, y) => {
+    const a = col.value(x), b = col.value(y);
+    if (a < b) return -dir;
+    if (a > b) return dir;
+    return x.rank - y.rank;
+  });
+};
+const rows = list => '<tbody>' + list.map(a =>
   '<tr><td class="pin r">' + a.rank + '</td><td class="pin n" title="' + esc(a.name) + '">' + esc(a.name) + '</td>' +
   '<td class="total">' + fmt(a.score) + '</td>' +
   signals.map(s => {
@@ -191,7 +229,16 @@ const body = '<tbody>' + brk.map(a =>
     const bg = p > 0 ? ' style="background: color-mix(in srgb, var(--accent) ' + Math.round(share * 22) + '%, transparent)"' : '';
     return '<td' + (p > 0 ? '' : ' class="zero"') + bg + '><b>' + fmt(p) + '</b><span class="raw">' + esc(s[2](a)) + '</span></td>';
   }).join('') + '</tr>').join('') + '</tbody>';
-document.getElementById('brk').innerHTML = head + body;
+const table = document.getElementById('brk');
+const render = () => { table.innerHTML = header() + rows(sorted()); };
+table.addEventListener('click', e => {
+  const btn = e.target.closest('button[data-key]');
+  if (!btn) return;
+  const col = columns.find(c => c.key === btn.dataset.key);
+  sort = sort.key === col.key ? {key: col.key, asc: !sort.asc} : {key: col.key, asc: !!col.asc};
+  render();
+});
+render();
 </script>
 </body>
 </html>
