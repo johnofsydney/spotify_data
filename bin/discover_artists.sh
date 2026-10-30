@@ -4,7 +4,7 @@ set -euo pipefail
 root="${DATA_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 out="$root/discover_artists.md"
 limit="${DISCOVER_LIMIT:-150}"
-forget_years="${DISCOVER_FORGET_YEARS:-4}"
+forget_years="${DISCOVER_FORGET_YEARS:-3}"
 half_life=$(jq -r '.tuning.yearly_half_life_years' "$root/weights.json")
 
 # An artist counts as known if they appear anywhere in my own data, not merely
@@ -14,7 +14,7 @@ half_life=$(jq -r '.tuning.yearly_half_life_years' "$root/weights.json")
 # does not mean remembering them a decade later, and a forgotten artist is worth
 # rediscovering. The wrap score is already decay-weighted, so an artist stays
 # known while it is above what one track scores forget_years back: a one-off
-# is forgotten after four years, a heavy rotation takes much longer.
+# is forgotten after three years, a heavy rotation takes much longer.
 #
 # The all-time playlist is deliberately not used here: it carries no dates, so
 # nothing in it could ever be forgotten.

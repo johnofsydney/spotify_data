@@ -360,10 +360,10 @@ three hundredth. It makes no API calls; the edges are already on disk.
 **The yearly wraps count as known, but they fade.** Charting once in 2016 does
 not mean I remember the artist now, and a forgotten artist is worth
 rediscovering. The decay-weighted wrap score from `yearly_artists.json` keeps an
-artist known while it is above what a single track scores four years back
-(about 0.40 at a three-year half-life). A one-off is forgotten after four years;
-ten tracks in a year takes about fourteen. `DISCOVER_FORGET_YEARS` changes the
-four. The all-time playlist is not used here: it has no dates, so nothing in it
+artist known while it is above what a single track scores three years back
+(0.50 at a three-year half-life). A one-off is forgotten after three years;
+ten tracks in a year takes about thirteen. `DISCOVER_FORGET_YEARS` changes the
+three. The all-time playlist is not used here: it has no dates, so nothing in it
 could ever fade. Saved, followed, liked and top-track artists never fade, because
 they are still in my library.
 
