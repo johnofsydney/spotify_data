@@ -4,17 +4,28 @@ set -euo pipefail
 root="${DATA_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 out="$root/discover_artists.md"
 limit="${DISCOVER_LIMIT:-150}"
+forget_years="${DISCOVER_FORGET_YEARS:-5}"
+half_life=$(jq -r '.tuning.yearly_half_life_years' "$root/weights.json")
 
 # An artist counts as known if they appear anywhere in my own data, not merely
 # in the ranking: the ranking has a floor, and a near-miss is not a discovery.
-# That includes Spotify's yearly wraps and all-time playlist: an artist I played
-# enough to chart is known even if I never saved them anywhere myself.
-# Read from the exports rather than the caches, as the other sources are, so that
-# backtest_discovery.sh can hold artists out by stripping the same files.
-played=$( { [ -f "$root/yearly_artists.json" ] && jq -c 'keys' "$root/yearly_artists.json" || echo '[]'; } |
-  jq -s --slurpfile a <([ -f "$root/alltime_artists.md" ] &&
-      jq -Rn '[inputs | capture("^[0-9]+x  (?<n>.*)$") | .n]' "$root/alltime_artists.md" || echo '[]') \
-    'add + $a[0] | unique')
+#
+# The yearly wraps count too, but they fade. Playing someone enough to chart
+# does not mean remembering them a decade later, and a forgotten artist is worth
+# rediscovering. The wrap score is already decay-weighted, so an artist stays
+# known while it is at least what one track scores forget_years back: a one-off
+# is forgotten after five years, a heavy rotation takes much longer.
+#
+# The all-time playlist is deliberately not used here: it carries no dates, so
+# nothing in it could ever be forgotten.
+#
+# Read from the export rather than the cache, as the other sources are, so that
+# backtest_discovery.sh can hold artists out by stripping the same file.
+played=$([ -f "$root/yearly_artists.json" ] &&
+  jq -c --argjson fy "$forget_years" --argjson hl "$half_life" '
+    pow(0.5; $fy / $hl) as $floor
+    | to_entries | map(select(.value.score >= $floor) | .key)' "$root/yearly_artists.json" ||
+  echo '[]')
 
 excluded=$([ -f "$root/discover_exclude.txt" ] &&
   jq -Rn '[inputs | select(startswith("#") | not) | select(length > 0)]' "$root/discover_exclude.txt" ||
