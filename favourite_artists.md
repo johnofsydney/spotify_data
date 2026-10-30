@@ -63,34 +63,34 @@
   61    34.2  Silversun Pickups                              1      0     1.0     7.0    y    n    -   0.83
   62    33.8  Spiral Drive                                   1      0     1.0     5.0    y    n    -   1.00
   63    33.7  Ladyhawke                                      0      1     3.0     8.0    y    n    -   0.25
-  64    33.3  Triangle Singular                              0      0     3.0    15.0    y    n    -   0.00
-  65    33.2  Phantogram                                     2      0     2.0    16.0    n    n    -   1.00
-  66    33.1  Mattiel                                        0      0     2.0    18.0    y    n    -   0.17
-  67    33.0  Sea Power                                      0      0     3.0     9.0    y    n    -   0.08
-  68    32.9  Monkey3                                        1      0     1.0     4.0    y    n    -   0.83
-  69    32.8  Lord Fascinator                                1      0     1.0     3.0    y    n    -   1.00
-  70    32.8  Psychlona                                      0      0     2.0    10.0    y    n    -   0.58
-  71    32.3  HAAi                                           0      1     5.0    13.0    n    n    -   1.00
-  72    32.2  Goat                                           0      0     2.0     5.0    y    n    -   1.00
-  73    32.2  Papir                                          0      0     2.0     8.0    y    n    -   0.58
-  74    32.0  Primal Scream                                  0      0     4.0    24.0    n    n    -   0.75
-  75    31.2  CHVRCHES                                       0      0     2.0     8.0    y    n    -   0.33
-  76    31.0  Tame Impala                                    1      0     2.0    16.0    n    n    -   1.00
-  77    30.5  Dead Kennedys                                  1      0     2.0    20.0    n    n    -   0.50
-  78    30.3  Bon Iver                                       4      0     1.0    10.0    n    n    -   0.75
-  79    30.2  Green Lung                                     0      0     1.0    10.0    y    n    -   1.00
-  80    30.1  Placebo                                        0      0     1.0    11.0    y    n    -   0.83
-  81    29.9  Orchid                                         0     15     2.0    13.0    y    n    -   0.00
-  82    29.9  The Beach Boys                                 0      0     3.0    22.0    n    n    -   1.00
-  83    29.8  TV On The Radio                                0     13     2.0     8.0    y    n    -   0.08
-  84    29.6  Gang of Youths                                 0      0     2.0     6.0    y    n    -   0.17
-  85    29.2  If These Trees Could Talk                      0      0     3.0    22.0    n    n    -   0.75
-  86    29.0  Doves                                          0      0     3.0    18.0    n    n    -   1.00
-  87    28.7  hubris.                                        0      0     1.0     8.0    y    n    -   0.67
-  88    28.4  Floating Points                                0      0     1.0     5.0    y    n    -   1.00
-  89    28.4  Mary Ann Hawkins                               0      0     1.0     5.0    y    n    -   1.00
-  90    28.4  The Cure                                       0      0     1.0     5.0    y    n    -   1.00
-  91    28.4  The Dharma Chain                               0      0     1.0     5.0    n    n    Y   0.00
+  64    33.4  The Dharma Chain                               0      0     1.0     5.0    n    n    Y   1.00
+  65    33.3  Triangle Singular                              0      0     3.0    15.0    y    n    -   0.00
+  66    33.2  Phantogram                                     2      0     2.0    16.0    n    n    -   1.00
+  67    33.1  Mattiel                                        0      0     2.0    18.0    y    n    -   0.17
+  68    33.0  Sea Power                                      0      0     3.0     9.0    y    n    -   0.08
+  69    32.9  Monkey3                                        1      0     1.0     4.0    y    n    -   0.83
+  70    32.8  Lord Fascinator                                1      0     1.0     3.0    y    n    -   1.00
+  71    32.8  Psychlona                                      0      0     2.0    10.0    y    n    -   0.58
+  72    32.3  HAAi                                           0      1     5.0    13.0    n    n    -   1.00
+  73    32.2  Goat                                           0      0     2.0     5.0    y    n    -   1.00
+  74    32.2  Papir                                          0      0     2.0     8.0    y    n    -   0.58
+  75    32.0  Primal Scream                                  0      0     4.0    24.0    n    n    -   0.75
+  76    31.2  CHVRCHES                                       0      0     2.0     8.0    y    n    -   0.33
+  77    31.0  Tame Impala                                    1      0     2.0    16.0    n    n    -   1.00
+  78    30.5  Dead Kennedys                                  1      0     2.0    20.0    n    n    -   0.50
+  79    30.3  Bon Iver                                       4      0     1.0    10.0    n    n    -   0.75
+  80    30.2  Green Lung                                     0      0     1.0    10.0    y    n    -   1.00
+  81    30.1  Placebo                                        0      0     1.0    11.0    y    n    -   0.83
+  82    29.9  Orchid                                         0     15     2.0    13.0    y    n    -   0.00
+  83    29.9  The Beach Boys                                 0      0     3.0    22.0    n    n    -   1.00
+  84    29.8  TV On The Radio                                0     13     2.0     8.0    y    n    -   0.08
+  85    29.6  Gang of Youths                                 0      0     2.0     6.0    y    n    -   0.17
+  86    29.2  If These Trees Could Talk                      0      0     3.0    22.0    n    n    -   0.75
+  87    29.0  Doves                                          0      0     3.0    18.0    n    n    -   1.00
+  88    28.7  hubris.                                        0      0     1.0     8.0    y    n    -   0.67
+  89    28.4  Floating Points                                0      0     1.0     5.0    y    n    -   1.00
+  90    28.4  Mary Ann Hawkins                               0      0     1.0     5.0    y    n    -   1.00
+  91    28.4  The Cure                                       0      0     1.0     5.0    y    n    -   1.00
   92    28.4  Tycho                                          0      0     1.0     5.0    y    n    -   1.00
   93    28.2  All Them Witches                               0      3     1.0     6.0    y    n    -   0.75
   94    28.0  Barry Can't Swim                               0      0     1.0     4.0    y    n    -   1.00
@@ -124,132 +124,132 @@
  122    26.0  Shpongle                                       0      0     2.0    23.0    n    n    -   0.58
  123    25.7  Hollow Ship                                    0      0     1.0     3.0    y    n    -   0.42
  124    25.3  Technicolor Skies                              0     11     1.0     3.0    y    n    -   0.33
- 125    24.7  Editors                                        0      0     2.0    15.0    n    n    -   0.75
- 126    24.6  Underworld                                     0      0     2.0    12.0    n    n    -   1.00
- 127    24.3  The Dandy Warhols                              0      0     2.0    11.0    n    n    -   1.00
- 128    24.2  Swan Valley Heights                            0      0     1.0     7.0    y    n    -   0.00
- 129    24.0  Orbital                                        0      0     2.0    10.0    n    n    -   1.00
- 130    23.7  Jean-Michel Jarre                              0      0     2.0     9.0    n    n    -   1.00
- 131    23.5  Vessels                                        0      0     3.0    16.0    n    n    -   0.00
- 132    23.4  Columbia Mills                                 0      0     1.0     5.0    y    n    -   0.00
- 133    23.4  Here Lies Man                                  0      0     1.0     5.0    y    n    -   0.00
- 134    23.4  Torche                                         0      0     1.0     5.0    y    n    -   0.00
- 135    23.3  Billy F Gibbons                                1      0     1.0     4.0    n    n    -   1.00
- 136    23.0  My Sleeping Karma                              0      0     3.0    14.0    n    n    -   0.00
- 137    23.0  Daniel Avery                                   0      0     2.0     7.0    n    n    -   1.00
- 138    23.0  Jon Gurd                                       0      0     2.0     7.0    n    n    -   1.00
- 139    23.0  Old Solar                                      0      5     1.0     4.0    y    n    -   0.00
- 140    23.0  The Exorcist GBG                               0      0     1.0     4.0    y    n    -   0.00
- 141    23.0  Wooden Shjips                                  0      9     1.0     4.0    y    n    -   0.00
- 142    22.8  Beasts Of Bourbon                              2      0     1.0    10.0    n    n    -   0.00
- 143    22.8  Junip                                          0      0     2.0    26.0    n    n    -   0.00
- 144    22.6  BT                                             0      0     2.0     6.0    n    n    -   1.00
- 145    22.4  Faces on TV                                    0      1     1.0     3.0    y    n    -   0.00
- 146    22.4  Minami Deutsch                                 0      0     1.0     3.0    y    n    -   0.00
- 147    22.4  Ringo Deathstarr                               0      0     1.0     3.0    y    n    -   0.00
- 148    22.4  The Parks                                      0      0     1.0     3.0    y    n    -   0.00
- 149    22.4  The Fall                                       0      0     1.0    25.0    n    n    -   0.50
- 150    22.3  The Clockworks                                 1      0     0.0     1.0    y    n    -   1.00
- 151    22.2  The Fabulous Thunderbirds                      1      0     1.0     2.0    n    n    -   1.00
- 152    22.2  North Mississippi Allstars                     1      0     1.0     3.0    n    n    -   0.75
- 153    22.0  The Go-Betweens                                0      0     2.0    22.0    n    n    -   0.00
- 154    21.9  The War On Drugs                               0      0     2.0     6.0    n    n    -   0.75
- 155    21.8  pHader                                         0      7     1.0     2.0    y    n    -   0.00
- 156    21.8  Perry Farrell                                  0      0     2.0    11.0    n    n    -   0.25
- 157    21.7  The House of Love                              1      0     1.0    14.0    n    n    -   0.00
- 158    21.7  Uncle Acid & The Deadbeats                     1      0     0.0     2.0    y    n    -   0.50
- 159    21.2  Binary Finary                                  0      0     3.0     8.0    n    n    -   0.00
- 160    20.8  Elbow                                          0      0     1.0    12.0    n    n    -   1.00
- 161    20.8  Rival Consoles                                 0      0     1.0    12.0    n    n    -   1.00
- 162    20.6  Leftfield                                      0      0     2.0    16.0    n    n    -   0.00
- 163    20.5  1000mods                                       0      0     3.0     6.0    n    n    -   0.00
- 164    20.4  Yppah                                          0      0     2.0    10.0    n    n    -   0.08
- 165    20.4  pg.lost                                        0      0     2.0    15.0    n    n    -   0.00
- 166    20.2  Stella Rose                                    1      0     0.0     1.0    y    n    -   0.33
- 167    20.2  Above & Beyond                                 0      0     0.0     7.0    y    n    -   1.00
- 168    20.1  Matthew E. White                               0      0     2.0    14.0    n    n    -   0.00
- 169    20.1  Pale Honey                                     0     10     2.0    14.0    n    n    -   0.00
- 170    20.1  The Stone Roses                                0      1     2.0    14.0    n    n    -   0.00
- 171    19.6  Soulwax                                        0     12     1.0     8.0    n    n    -   1.00
- 172    19.6  HALEY                                          0      0     2.0    12.0    n    n    -   0.00
- 173    19.6  Haley Bonar                                    0      0     2.0    12.0    n    n    -   0.00
- 174    19.6  The Kings Of Frog Island                       1      0     0.0     2.0    y    n    -   0.08
- 175    19.3  Angine de Poitrine                             3      0     0.0     0.0    y    n    -   0.00
- 176    19.3  Dinosaur Jr.                                   0      0     1.0     9.0    n    n    -   0.75
- 177    19.2  trentemøller                                  0      0     1.0     7.0    n    n    -   1.00
- 178    19.2  YOTTO                                          0      0     1.0     7.0    n    n    -   1.00
- 179    19.0  Death From Above 1979                          0      1     2.0    10.0    n    n    -   0.00
- 180    18.9  Khruangbin                                     0      0     0.0     4.0    y    n    -   1.00
- 181    18.9  The Cryin Shames                               0      0     0.0     4.0    n    n    Y   0.00
- 182    18.8  Thee Oh Sees                                   0      0     1.0     6.0    n    n    -   1.00
- 183    18.8  UNKLE                                          0      0     1.0    11.0    n    n    -   0.42
- 184    18.7  Ulrich Schnauss                                0      0     2.0     9.0    n    n    -   0.00
- 185    18.6  Jimmie Vaughan                                 1      0     1.0     2.0    n    n    -   0.08
- 186    18.4  Digitalism                                     0      0     1.0     5.0    n    n    -   1.00
- 187    18.4  Estiva                                         0      0     1.0     5.0    n    n    -   1.00
- 188    18.4  The Jesus and Mary Chain                       0      0     1.0     6.0    n    n    -   0.83
- 189    18.4  A Place To Bury Strangers                      0      0     0.0     3.0    y    n    -   1.00
- 190    18.4  Solarstone                                     0      0     0.0     3.0    y    n    -   1.00
- 191    18.3  Black Rebel Motorcycle Club                    0      0     2.0     8.0    n    n    -   0.00
- 192    18.3  Deerhunter                                     0      0     2.0     8.0    n    n    -   0.00
- 193    18.3  Earthless                                      0      1     2.0     8.0    n    n    -   0.00
- 194    18.3  Itch-E & Scratch-E                             0      0     2.0     8.0    n    n    -   0.00
- 195    18.3  Meniscus                                       0      0     2.0     8.0    n    n    -   0.00
- 196    18.0  Golden Bug                                     0      0     2.0     7.0    n    n    -   0.00
- 197    18.0  LITE                                           0      0     2.0     7.0    n    n    -   0.00
- 198    17.8  Darksoft                                       0      0     0.0     2.0    y    n    -   1.00
- 199    17.6  R.L. Burnside                                  0      0     2.0     6.0    n    n    -   0.00
- 200    17.6  Red Snapper                                    0      0     2.0     6.0    n    n    -   0.00
- 201    17.6  The Go! Team                                   0      0     2.0     6.0    n    n    -   0.00
- 202    17.6  Gary Numan                                     0      0     1.0    19.0    n    n    -   0.00
- 203    17.6  Syd Barrett                                    0      0     1.0    19.0    n    n    -   0.00
- 204    17.5  The Blackwater Fever                           0      0     0.0     2.0    y    n    -   0.92
- 205    17.5  Mikko Joensuu                                  0      1     0.0     3.0    y    n    -   0.67
- 206    17.4  Max Cooper                                     0      0     1.0     3.0    n    n    -   1.00
- 207    17.3  Mothership                                     1      0     0.0     1.0    y    n    -   0.00
- 208    17.3  Lowrider                                       0      0     0.0     2.0    y    n    -   0.83
- 209    17.2  Philippa Nihill                                1      0     1.0     2.0    n    n    -   0.00
- 210    17.2  Cari Cari                                      0      0     2.0     5.0    n    n    -   0.00
- 211    17.2  Caspian                                        0      0     2.0     5.0    n    n    -   0.00
- 212    17.2  Curtis Harding                                 0     11     2.0     5.0    n    n    -   0.00
- 213    17.2  Gaz Coombes                                    0      0     2.0     5.0    n    n    -   0.00
- 214    17.2  Lindstrøm                                     0      0     2.0     5.0    n    n    -   0.00
- 215    17.2  RÜFÜS DU SOL                                 0      0     2.0     5.0    n    n    -   0.00
- 216    17.2  The Heavy Eyes                                 0      0     2.0     5.0    n    n    -   0.00
- 217    17.0  Kadavar                                        0      0     0.0     1.0    y    n    -   1.00
- 218    17.0  MEMORIALS                                      0      0     0.0     1.0    y    n    -   1.00
- 219    17.0  MY BABY                                        0      0     0.0     1.0    y    n    -   1.00
- 220    17.0  Nilüfer Yanya                                 0      0     0.0     1.0    y    n    -   1.00
- 221    16.9  Talking Heads                                  0      0     1.0    16.0    n    n    -   0.00
- 222    16.8  Sleep                                          0      0     0.0     2.0    y    n    -   0.67
- 223    16.8  Led Zeppelin                                   1      0     0.0     0.0    y    n    -   0.08
- 224    16.7  Rodrigo y Gabriela                             0      0     0.0     1.0    y    n    -   0.92
- 225    16.7  Cinnamon Chasers                               0      0     2.0     4.0    n    n    -   0.00
- 226    16.7  Grails                                         0      0     2.0     4.0    n    n    -   0.00
- 227    16.7  The Dead Weather                               0      0     2.0     4.0    n    n    -   0.00
- 228    16.7  The Kills                                      0      0     2.0     4.0    n    n    -   0.00
- 229    16.6  You Am I                                       0      0     1.0    15.0    n    n    -   0.00
- 230    16.5  English Teacher                                0      0     0.0     1.0    y    n    -   0.83
- 231    16.4  The Prodigy                                    0      0     1.0    14.0    n    n    -   0.00
- 232    16.1  Gotye                                          0      0     1.0    13.0    n    n    -   0.00
- 233    16.1  Regurgitator                                   0      0     1.0    13.0    n    n    -   0.00
- 234    16.1  Tor                                            0      0     1.0    13.0    n    n    -   0.00
- 235    16.0  High On Fire                                   0      0     0.0     1.0    y    n    -   0.67
- 236    16.0  The Tallest Man On Earth                       0      0     0.0     1.0    y    n    -   0.67
- 237    15.9  Beyond The Wizards Sleeve                      0      0     1.0     6.0    n    n    -   0.17
- 238    15.8  Portishead                                     0      0     1.0    12.0    n    n    -   0.00
- 239    15.8  James Norbert Ivanyi                           0      0     0.0     1.0    y    n    -   0.58
- 240    15.6  Ozzy Osbourne                                  0      0     0.0     2.0    y    n    -   0.33
- 241    15.5  Björk                                         0      0     1.0    11.0    n    n    -   0.00
- 242    15.5  Dappled Cities                                 0      0     1.0    11.0    n    n    -   0.00
- 243    15.5  Mara Balls                                     0      0     1.0    11.0    n    n    -   0.00
- 244    15.5  Daniel Norgren                                 0      0     1.0     5.0    n    n    -   0.17
- 245    15.4  Khan                                           1      0     0.0     0.0    y    n    -   0.00
- 246    15.2  Quantum Fantay                                 0      0     1.0    10.0    n    n    -   0.00
- 247    15.0  Johnny Cash                                    0      0     0.0     0.0    y    n    -   1.00
- 248    15.0  The Bamboos                                    0      0     0.0     0.0    y    n    -   1.00
- 249    15.0  The Shadows                                    0      0     0.0     0.0    y    n    -   1.00
- 250    14.9  Chain                                          0      0     1.0     9.0    n    n    -   0.00
+ 125    25.1  1000mods                                       0      0     3.0     6.0    n    n    -   0.83
+ 126    24.7  Editors                                        0      0     2.0    15.0    n    n    -   0.75
+ 127    24.6  Underworld                                     0      0     2.0    12.0    n    n    -   1.00
+ 128    24.3  The Dandy Warhols                              0      0     2.0    11.0    n    n    -   1.00
+ 129    24.2  Swan Valley Heights                            0      0     1.0     7.0    y    n    -   0.00
+ 130    24.0  Orbital                                        0      0     2.0    10.0    n    n    -   1.00
+ 131    23.7  Jean-Michel Jarre                              0      0     2.0     9.0    n    n    -   1.00
+ 132    23.5  Vessels                                        0      0     3.0    16.0    n    n    -   0.00
+ 133    23.4  Columbia Mills                                 0      0     1.0     5.0    y    n    -   0.00
+ 134    23.4  Here Lies Man                                  0      0     1.0     5.0    y    n    -   0.00
+ 135    23.4  Torche                                         0      0     1.0     5.0    y    n    -   0.00
+ 136    23.3  Billy F Gibbons                                1      0     1.0     4.0    n    n    -   1.00
+ 137    23.3  Binary Finary                                  0      0     3.0     8.0    n    n    -   0.17
+ 138    23.0  My Sleeping Karma                              0      0     3.0    14.0    n    n    -   0.00
+ 139    23.0  Daniel Avery                                   0      0     2.0     7.0    n    n    -   1.00
+ 140    23.0  Golden Bug                                     0      0     2.0     7.0    n    n    -   1.00
+ 141    23.0  Jon Gurd                                       0      0     2.0     7.0    n    n    -   1.00
+ 142    23.0  LITE                                           0      0     2.0     7.0    n    n    -   1.00
+ 143    23.0  Old Solar                                      0      5     1.0     4.0    y    n    -   0.00
+ 144    23.0  The Exorcist GBG                               0      0     1.0     4.0    y    n    -   0.00
+ 145    23.0  Wooden Shjips                                  0      9     1.0     4.0    y    n    -   0.00
+ 146    22.8  Beasts Of Bourbon                              2      0     1.0    10.0    n    n    -   0.00
+ 147    22.8  Junip                                          0      0     2.0    26.0    n    n    -   0.00
+ 148    22.6  BT                                             0      0     2.0     6.0    n    n    -   1.00
+ 149    22.4  Faces on TV                                    0      1     1.0     3.0    y    n    -   0.00
+ 150    22.4  Minami Deutsch                                 0      0     1.0     3.0    y    n    -   0.00
+ 151    22.4  Ringo Deathstarr                               0      0     1.0     3.0    y    n    -   0.00
+ 152    22.4  The Parks                                      0      0     1.0     3.0    y    n    -   0.00
+ 153    22.4  The Cryin Shames                               0      0     0.0     4.0    n    n    Y   0.50
+ 154    22.4  The Fall                                       0      0     1.0    25.0    n    n    -   0.50
+ 155    22.3  The Clockworks                                 1      0     0.0     1.0    y    n    -   1.00
+ 156    22.2  The Fabulous Thunderbirds                      1      0     1.0     2.0    n    n    -   1.00
+ 157    22.2  Cari Cari                                      0      0     2.0     5.0    n    n    -   1.00
+ 158    22.2  Lindstrøm                                     0      0     2.0     5.0    n    n    -   1.00
+ 159    22.2  North Mississippi Allstars                     1      0     1.0     3.0    n    n    -   0.75
+ 160    22.0  The Go-Betweens                                0      0     2.0    22.0    n    n    -   0.00
+ 161    21.9  The War On Drugs                               0      0     2.0     6.0    n    n    -   0.75
+ 162    21.9  Talking Heads                                  0      0     1.0    16.0    n    n    -   1.00
+ 163    21.8  pHader                                         0      7     1.0     2.0    y    n    -   0.00
+ 164    21.8  Perry Farrell                                  0      0     2.0    11.0    n    n    -   0.25
+ 165    21.8  RÜFÜS DU SOL                                 0      0     2.0     5.0    n    n    -   0.83
+ 166    21.7  The House of Love                              1      0     1.0    14.0    n    n    -   0.00
+ 167    21.7  Cinnamon Chasers                               0      0     2.0     4.0    n    n    -   1.00
+ 168    21.7  Red Snapper                                    0      0     2.0     6.0    n    n    -   0.67
+ 169    21.7  Uncle Acid & The Deadbeats                     1      0     0.0     2.0    y    n    -   0.50
+ 170    21.5  The Heavy Eyes                                 0      0     2.0     5.0    n    n    -   0.75
+ 171    21.3  Caspian                                        0      0     2.0     5.0    n    n    -   0.67
+ 172    21.0  Curtis Harding                                 0     11     2.0     5.0    n    n    -   0.58
+ 173    20.8  Elbow                                          0      0     1.0    12.0    n    n    -   1.00
+ 174    20.8  Rival Consoles                                 0      0     1.0    12.0    n    n    -   1.00
+ 175    20.8  Grails                                         0      0     2.0     4.0    n    n    -   0.67
+ 176    20.6  Leftfield                                      0      0     2.0    16.0    n    n    -   0.00
+ 177    20.4  Yppah                                          0      0     2.0    10.0    n    n    -   0.08
+ 178    20.4  Black Rebel Motorcycle Club                    0      0     2.0     8.0    n    n    -   0.17
+ 179    20.4  pg.lost                                        0      0     2.0    15.0    n    n    -   0.00
+ 180    20.2  Quantum Fantay                                 0      0     1.0    10.0    n    n    -   1.00
+ 181    20.2  Stella Rose                                    1      0     0.0     1.0    y    n    -   0.33
+ 182    20.2  Regurgitator                                   0      0     1.0    13.0    n    n    -   0.67
+ 183    20.2  Above & Beyond                                 0      0     0.0     7.0    y    n    -   1.00
+ 184    20.1  Matthew E. White                               0      0     2.0    14.0    n    n    -   0.00
+ 185    20.1  Pale Honey                                     0     10     2.0    14.0    n    n    -   0.00
+ 186    20.1  The Stone Roses                                0      1     2.0    14.0    n    n    -   0.00
+ 187    19.9  Dappled Cities                                 0      0     1.0    11.0    n    n    -   0.75
+ 188    19.6  Björk                                         0      0     1.0    11.0    n    n    -   0.67
+ 189    19.6  Mara Balls                                     0      0     1.0    11.0    n    n    -   0.67
+ 190    19.6  Soulwax                                        0     12     1.0     8.0    n    n    -   1.00
+ 191    19.6  HALEY                                          0      0     2.0    12.0    n    n    -   0.00
+ 192    19.6  Haley Bonar                                    0      0     2.0    12.0    n    n    -   0.00
+ 193    19.6  The Kings Of Frog Island                       1      0     0.0     2.0    y    n    -   0.08
+ 194    19.3  Angine de Poitrine                             3      0     0.0     0.0    y    n    -   0.00
+ 195    19.3  Dinosaur Jr.                                   0      0     1.0     9.0    n    n    -   0.75
+ 196    19.2  trentemøller                                  0      0     1.0     7.0    n    n    -   1.00
+ 197    19.2  YOTTO                                          0      0     1.0     7.0    n    n    -   1.00
+ 198    19.0  Death From Above 1979                          0      1     2.0    10.0    n    n    -   0.00
+ 199    18.9  Khruangbin                                     0      0     0.0     4.0    y    n    -   1.00
+ 200    18.8  Thee Oh Sees                                   0      0     1.0     6.0    n    n    -   1.00
+ 201    18.8  UNKLE                                          0      0     1.0    11.0    n    n    -   0.42
+ 202    18.7  Ulrich Schnauss                                0      0     2.0     9.0    n    n    -   0.00
+ 203    18.6  Jimmie Vaughan                                 1      0     1.0     2.0    n    n    -   0.08
+ 204    18.5  Chain                                          0      0     1.0     9.0    n    n    -   0.50
+ 205    18.4  Digitalism                                     0      0     1.0     5.0    n    n    -   1.00
+ 206    18.4  Estiva                                         0      0     1.0     5.0    n    n    -   1.00
+ 207    18.4  The Jesus and Mary Chain                       0      0     1.0     6.0    n    n    -   0.83
+ 208    18.4  A Place To Bury Strangers                      0      0     0.0     3.0    y    n    -   1.00
+ 209    18.4  Solarstone                                     0      0     0.0     3.0    y    n    -   1.00
+ 210    18.3  Deerhunter                                     0      0     2.0     8.0    n    n    -   0.00
+ 211    18.3  Earthless                                      0      1     2.0     8.0    n    n    -   0.00
+ 212    18.3  Itch-E & Scratch-E                             0      0     2.0     8.0    n    n    -   0.00
+ 213    18.3  Meniscus                                       0      0     2.0     8.0    n    n    -   0.00
+ 214    18.2  The Kills                                      0      0     2.0     4.0    n    n    -   0.08
+ 215    17.8  Darksoft                                       0      0     0.0     2.0    y    n    -   1.00
+ 216    17.6  R.L. Burnside                                  0      0     2.0     6.0    n    n    -   0.00
+ 217    17.6  The Go! Team                                   0      0     2.0     6.0    n    n    -   0.00
+ 218    17.6  Gary Numan                                     0      0     1.0    19.0    n    n    -   0.00
+ 219    17.6  Syd Barrett                                    0      0     1.0    19.0    n    n    -   0.00
+ 220    17.5  Gotye                                          0      0     1.0    13.0    n    n    -   0.08
+ 221    17.5  The Blackwater Fever                           0      0     0.0     2.0    y    n    -   0.92
+ 222    17.5  Mikko Joensuu                                  0      1     0.0     3.0    y    n    -   0.67
+ 223    17.4  Max Cooper                                     0      0     1.0     3.0    n    n    -   1.00
+ 224    17.3  Mothership                                     1      0     0.0     1.0    y    n    -   0.00
+ 225    17.3  Lowrider                                       0      0     0.0     2.0    y    n    -   0.83
+ 226    17.2  Philippa Nihill                                1      0     1.0     2.0    n    n    -   0.00
+ 227    17.2  Gaz Coombes                                    0      0     2.0     5.0    n    n    -   0.00
+ 228    17.0  Kadavar                                        0      0     0.0     1.0    y    n    -   1.00
+ 229    17.0  MEMORIALS                                      0      0     0.0     1.0    y    n    -   1.00
+ 230    17.0  MY BABY                                        0      0     0.0     1.0    y    n    -   1.00
+ 231    17.0  Nilüfer Yanya                                 0      0     0.0     1.0    y    n    -   1.00
+ 232    16.8  Sleep                                          0      0     0.0     2.0    y    n    -   0.67
+ 233    16.8  Led Zeppelin                                   1      0     0.0     0.0    y    n    -   0.08
+ 234    16.7  Rodrigo y Gabriela                             0      0     0.0     1.0    y    n    -   0.92
+ 235    16.7  The Dead Weather                               0      0     2.0     4.0    n    n    -   0.00
+ 236    16.6  You Am I                                       0      0     1.0    15.0    n    n    -   0.00
+ 237    16.5  English Teacher                                0      0     0.0     1.0    y    n    -   0.83
+ 238    16.4  The Prodigy                                    0      0     1.0    14.0    n    n    -   0.00
+ 239    16.1  Tor                                            0      0     1.0    13.0    n    n    -   0.00
+ 240    16.0  High On Fire                                   0      0     0.0     1.0    y    n    -   0.67
+ 241    16.0  The Tallest Man On Earth                       0      0     0.0     1.0    y    n    -   0.67
+ 242    15.9  Beyond The Wizards Sleeve                      0      0     1.0     6.0    n    n    -   0.17
+ 243    15.8  Portishead                                     0      0     1.0    12.0    n    n    -   0.00
+ 244    15.8  James Norbert Ivanyi                           0      0     0.0     1.0    y    n    -   0.58
+ 245    15.6  Ozzy Osbourne                                  0      0     0.0     2.0    y    n    -   0.33
+ 246    15.5  Daniel Norgren                                 0      0     1.0     5.0    n    n    -   0.17
+ 247    15.4  Khan                                           1      0     0.0     0.0    y    n    -   0.00
+ 248    15.0  Johnny Cash                                    0      0     0.0     0.0    y    n    -   1.00
+ 249    15.0  The Bamboos                                    0      0     0.0     0.0    y    n    -   1.00
+ 250    15.0  The Shadows                                    0      0     0.0     0.0    y    n    -   1.00
  251    14.9  Erki Pärnoja                                  0      0     1.0     9.0    n    n    -   0.00
  252    14.9  Iron Maiden                                    0      0     1.0     9.0    n    n    -   0.00
  253    14.9  Snarky Puppy                                   0      0     1.0     9.0    n    n    -   0.00
