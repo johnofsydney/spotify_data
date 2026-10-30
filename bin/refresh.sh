@@ -11,6 +11,7 @@ export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 ./bin/top_tracks_artists.sh
 ./bin/playlist_artists.sh
 ./bin/artist_details.sh "${ARTIST_LIMIT:-250}"
+./bin/sync_playlist_weights.sh
 ./bin/favourite_artists.sh
 
 if [ -n "$(git status --porcelain)" ]; then

@@ -89,7 +89,6 @@
 16x  Ulrich Schnauss
 15x  Amon Tobin
 15x  Andy Bell
-15x  Eco
 15x  Elder
 15x  King Buffalo
 15x  Max Cooper
@@ -170,6 +169,7 @@
 9x  Chain
 9x  Chromatics
 9x  David Holmes
+9x  Eco
 9x  Hannah Peel
 9x  Hidden Orchestra
 9x  Hot Chip
@@ -1347,7 +1347,6 @@
 2x  Dot Hacker
 2x  Dot Major
 2x  Dredg
-2x  Driftmoon
 2x  Dropkick Murphys
 2x  Dräger
 2x  DT8 Project
@@ -2829,6 +2828,7 @@
 1x  Dream Wife
 1x  Dreamstate Logic
 1x  Dreems
+1x  Driftmoon
 1x  Drive Like Jehu
 1x  Drop Nineteens
 1x  Drug Store Romeos
