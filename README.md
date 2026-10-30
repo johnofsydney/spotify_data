@@ -65,11 +65,12 @@ Four signals disagree about what a favourite is, and none is trustworthy alone.
 
 | Signal | Weight | What it means |
 | --- | --- | --- |
-| Top tracks | 0.20 | What I actually play. Spotify returns a short-term window, so this is the only signal that reflects *now* rather than a decision made years ago. Only ever 50 tracks, so it sees a narrow slice. |
-| Dedicated playlist | 0.14 | Whether I built a playlist for this artist alone. The most deliberate statement of fandom in the data. |
-| Playlist spread | 0.28 | How many *different* playlists an artist appears in, counting only those holding two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
-| Playlist tracks | 0.20 | How many tracks in total. |
-| Followed | 0.12 | Deliberate, but binary and cheap: you follow once and forget. |
+| Favourites playlist | 0.15 | Whether the artist appears in the playlist I keep by hand for artists I rate. The one place I can tell the ranking something the data does not record. |
+| Top tracks | 0.17 | What I actually play. Spotify returns a short-term window, so this is the only signal that reflects *now* rather than a decision made years ago. Only ever 50 tracks, so it sees a narrow slice. |
+| Dedicated playlist | 0.12 | Whether I built a playlist for this artist alone. The most deliberate statement of fandom in the data. |
+| Playlist spread | 0.24 | How many *different* playlists an artist appears in, counting only those holding two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
+| Playlist tracks | 0.17 | How many tracks in total. |
+| Followed | 0.10 | Deliberate, but binary and cheap: you follow once and forget. |
 
 | Liked tracks | 0.00 | Off. I rarely use the like button, so the count measured my indifference to a feature rather than my taste. Wired in and displayed, so raising the weight turns it back on. |
 
@@ -95,8 +96,8 @@ album-length addition buries every other signal.
 Weights live in `weights.json`, one line per signal, and nowhere else:
 
 ```json
-{ "top": 0.20, "spread": 0.28, "tracks": 0.20, "dedicated": 0.14,
-  "followed": 0.12, "activity": 0.06, "liked": 0.00 }
+{ "spread": 0.24, "top": 0.17, "tracks": 0.17, "favourite": 0.15,
+  "dedicated": 0.12, "followed": 0.10, "activity": 0.05, "liked": 0.00 }
 ```
 
 **They must sum to 1, or to 100 if you prefer percentages.** Anything else
@@ -112,6 +113,20 @@ nothing, which is how liked tracks are handled.
 `MIN_TRACKS` (default 3) sets how many playlist appearances an artist needs to
 appear at all, absent any other signal. Of the 5,331 artists in my playlists,
 3,261 appear exactly once; without a floor the ranking is mostly noise.
+
+### The favourites playlist
+
+One playlist is flagged `"favourites": true` in `playlist_weights.json`, and the
+artists on it score for it. It is the only route by which I can tell the ranking
+something my listening does not record — King Buffalo have been my favourite
+band for years, tour constantly, and have ten deliberately-placed tracks and no
+studio album since 2021, so nothing else in this data knows it.
+
+It is excluded from dedicated-playlist detection, being multi-artist by design.
+
+At 0.15 it lifts an artist who already has other evidence rather than carrying
+one alone: an artist present *only* through it lands around 90th. Raising the
+weight, or making it a floor rather than an addition, would change that.
 
 ### Why these weights, and why they should stay put
 

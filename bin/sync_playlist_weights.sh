@@ -10,7 +10,8 @@ jq -s --argjson old "$existing" '
   map({key: .playlist.id,
        value: {name: .playlist.name,
                tracks: (.tracks | length),
-               weight: ($old[.playlist.id].weight // 1.0)}})
+               weight: ($old[.playlist.id].weight // 1.0)}
+              + (if $old[.playlist.id].favourites then {favourites: true} else {} end)})
   | from_entries' "$root"/cache/playlists/*.json > "$file.tmp"
 
 added=$(jq -n --argjson o "$existing" --slurpfile n "$file.tmp" '[$n[0] | keys[]] - [$o | keys[]] | length')

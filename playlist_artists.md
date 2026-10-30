@@ -4,11 +4,11 @@
 54x  The Brian Jonestown Massacre
 52x  Booka Shade
 51x  White Lies
+49x  ZZ Top
 48x  LCD Soundsystem
 48x  Maps
 48x  Maserati
-47x  ZZ Top
-43x  Black Sabbath
+45x  Black Sabbath
 43x  Jon Hopkins
 43x  The Chemical Brothers
 42x  Kings of Leon
@@ -61,13 +61,13 @@
 20x  Yppah
 19x  Neuman
 19x  Rival Consoles
+19x  sleepmakeswaves
 19x  Still Corners
 19x  Syd Barrett
 19x  UNKLE
 19x  Vessels
 18x  pg.lost
 18x  Phantogram
-18x  sleepmakeswaves
 18x  The Holy
 18x  The Limiñanas
 18x  trentemøller

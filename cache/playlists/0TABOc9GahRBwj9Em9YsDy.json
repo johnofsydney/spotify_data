@@ -5,7 +5,7 @@
     "name": "BO All Music",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAACN9/vLCMhjdhlvckw/7vOhG0ge/j"
+    "snapshot_id": "AAAADcpq+rLLd9+3Segp8ffGLOUbUbSj"
   },
   "tracks": [
     {
@@ -213,6 +213,146 @@
       "duration": {
         "secs": 276,
         "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3fvIbyAVXllTq2VirV5aDF",
+      "name": "(hello) cloud mountain",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "1Yk3A2lc4x0G60HLCySfF2",
+        "release_date": "2012-01-13",
+        "name": "..and so we destroyed everything",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 200,
+        "nanos": 413000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "70YvYr2hGlS01bKRIho1HM",
+      "name": "La Grange - 2005 Remaster",
+      "artists": [
+        {
+          "id": "2AM4ilv6UzW0uMRuqKtDgN",
+          "name": "ZZ Top"
+        }
+      ],
+      "album": {
+        "id": "0Em8m9kRctyH9S3MTXAHvY",
+        "release_date": "1973-07-26",
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "artists": [
+          {
+            "id": "2AM4ilv6UzW0uMRuqKtDgN",
+            "name": "ZZ Top"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 230,
+        "nanos": 480000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1UBQ5GK8JaQjm5VbkBZY66",
+      "name": "Sharp Dressed Man - 2008 Remaster",
+      "artists": [
+        {
+          "id": "2AM4ilv6UzW0uMRuqKtDgN",
+          "name": "ZZ Top"
+        }
+      ],
+      "album": {
+        "id": "5LMGAYhn2ywaxGZdtmXGpw",
+        "release_date": "1983-03-23",
+        "name": "Eliminator",
+        "artists": [
+          {
+            "id": "2AM4ilv6UzW0uMRuqKtDgN",
+            "name": "ZZ Top"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 258,
+        "nanos": 26000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6TYQRlRci6AkVrN9a5C7ne",
+      "name": "War Pigs - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "4kA2o0L3tz9vFKJetiFUJI",
+        "release_date": "1970-09-18",
+        "name": "Paranoid",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 475,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ElAcOj8tudMA6X6KZ7SMO",
+      "name": "Children of the Grave - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "24fNwoIq4NLDf4ARJYAFN9",
+        "release_date": "1971-07-21",
+        "name": "Master of Reality",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 315,
+        "nanos": 893000000
       },
       "explicit": false
     }

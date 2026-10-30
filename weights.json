@@ -1,1 +1,10 @@
-{"top":0.20,"spread":0.28,"tracks":0.20,"dedicated":0.14,"followed":0.12,"activity":0.06,"liked":0.00}
+{
+  "spread": 0.24,
+  "top": 0.17,
+  "tracks": 0.17,
+  "favourite": 0.15,
+  "dedicated": 0.12,
+  "followed": 0.10,
+  "activity": 0.05,
+  "liked": 0.00
+}
