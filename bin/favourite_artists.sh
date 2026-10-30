@@ -57,7 +57,7 @@ activity=$([ -d "$root/cache/artists" ] && jq -s --arg since "$(date -v-${ACTIVI
   [.[] | {key: .artist.name,
           value: (([.albums[] | fresh | select(.typ == "album"  and .release_date > $since)] | length) as $a
                 | ([.albums[] | fresh | select(.typ == "single" and .release_date > $since)] | length) as $s
-                | [($a + $s / 4) / 2, 1] | min)}]
+                | [$a / 2 + $s / 12, 1] | min)}]
   | from_entries' "$root"/cache/artists/*.json || echo '{}')
 
 dedicated=$(jq -s --argjson share "$ded_share" --argjson size "$ded_size" '
