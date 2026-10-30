@@ -20,6 +20,9 @@ echo "=== refresh $(date '+%F %T') ==="
 ./bin/discover_artists.sh
 ./bin/record_history.sh
 ./bin/build_page.sh
+# Changes Spotify, not this repository, so a failure is logged rather than
+# allowed to cost the week's commit.
+./bin/discover_playlist.sh || echo "PLAYLIST FAILED - exports still committed"
 
 if [ -z "$(git status --porcelain)" ]; then
   echo "no changes"

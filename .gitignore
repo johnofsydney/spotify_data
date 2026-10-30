@@ -4,6 +4,9 @@
 *credentials*
 *secret*
 
+# Top tracks for the discovery playlist: re-fetchable, and churns weekly.
+cache/discover/
+
 # Local scratch.
 *.tmp
 .DS_Store

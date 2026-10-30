@@ -47,10 +47,11 @@ jq -s -r --argjson known "$known" --argjson scores "$scores" --argjson limit "$l
   ($known | map({key: ., value: true}) | from_entries) as $k
   | [.[] | .artist.name as $src | ($scores[$src] // 0) as $w
          | select($w > 0)
-         | .related_artists[] | {name: .name, src: $src, w: $w}]
+         | .related_artists[] | {name: .name, id: .id, src: $src, w: $w}]
   | map(select($k[.name] | not))
   | group_by(.name)
   | map({name: .[0].name,
+         id: .[0].id,
          votes: length,
          score: ([.[].w] | add),
          from: ([.[] | {n: .src, w: .w}] | sort_by(-.w) | map(.n))})
@@ -58,7 +59,7 @@ jq -s -r --argjson known "$known" --argjson scores "$scores" --argjson limit "$l
   | .[0:$limit]
   | to_entries
   | map({rank: (.key + 1), score: (.value.score | round), votes: .value.votes,
-         name: .value.name, from: .value.from[0:3]})' "$root"/cache/artists/*.json > "$root/discover_artists.json"
+         name: .value.name, id: .value.id, from: .value.from[0:3]})' "$root"/cache/artists/*.json > "$root/discover_artists.json"
 
 jq -r '.[] | [.rank, .score, .votes, .name, (.from | join(", "))] | @tsv' "$root/discover_artists.json" |
 awk -F'\t' '
