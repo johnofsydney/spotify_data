@@ -22,6 +22,35 @@ gitignored and is the only place any identifier of mine is stored.
 cp .env.example .env
 ```
 
+## Scheduling
+
+The exports run weekly so that dated top-tracks snapshots accumulate. That
+series is the point: Spotify's top-tracks window is short-term, so one reading
+cannot tell a few weeks of renewed interest from a lasting favourite, and only
+a run of readings can.
+
+```sh
+./setup/install-schedule.sh
+```
+
+That writes a launchd agent to `~/Library/LaunchAgents/`, pointing at wherever
+this repository is checked out, and loads it. Mondays at 11:00, logging to
+`.refresh.log`. Check it with `launchctl list | grep spotify-refresh`, force a
+run with `launchctl start <label>`, and remove it with `launchctl unload`.
+
+**launchd rather than cron, because this is a laptop.** If the machine is
+asleep at the scheduled time, launchd runs the job when it wakes. If it is shut
+down, the job runs after the next login. cron simply skips a missed slot and
+says nothing, which would cost a snapshot without anyone noticing.
+
+The one case neither handles: launchd fires **once** on return, however many
+slots were missed, so a fortnight away is a single catch-up run and one lost
+reading. Nothing can recover it — Spotify exposes no history for the window
+that passed.
+
+The scheduled run pushes. A failed push is logged and the commit is left for
+the following week to carry rather than aborting the run.
+
 ## Exports
 
 | Script | Output | Notes |
