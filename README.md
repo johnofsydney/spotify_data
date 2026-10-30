@@ -61,6 +61,7 @@ the following week to carry rather than aborting the run.
 | `bin/playlist_artists.sh` | `playlist_artists.md` | Artists across all playlists. Caches; `--force` to refetch. |
 | `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Weights in `weights.json`. |
 | `bin/discover_artists.sh` | `discover_artists.md` | Artists I do not have, ranked by which of my favourites point at them. Offline. |
+| `bin/record_history.sh` | `history/rankings.csv` | Appends the week's top 50 to the time series. Offline. |
 
 Run them in that order; `favourite_artists.sh` reads the files the others write
 and makes no network calls of its own.
@@ -219,6 +220,31 @@ exposes no date to decay it by.
 
 `Starred` and `Liked from Radio` are legacy but keep full weight; they record
 real choices, just old ones, and want a cleanup rather than a discount.
+
+## The time series
+
+`history/rankings.csv` gains the top fifty every week, one row per artist:
+
+```
+date,rank,artist,score,top,spread,tracks,followed,dedicated,favourite,activity,weights
+2026-10-30,1,"ZZ Top",79.8,1,5.0,49.0,y,y,Y,0.50,271ea7e7
+```
+
+Every signal is stored beside the score, so a movement can be attributed rather
+than merely observed — an artist climbing on `top` is a different event from one
+climbing because a playlist grew.
+
+**The last column is a hash of the weights that produced the score.** A score is
+only meaningful relative to the weights behind it, so when that hash changes the
+series has a discontinuity rather than a trend, and anything spanning the change
+is comparing two different measures. This is why the weights are fixed.
+
+Re-running on the same day replaces that day's rows rather than appending
+duplicates, so a manual run between scheduled ones costs nothing. `HISTORY_DATE`
+overrides the date and `HISTORY_DEPTH` the fifty.
+
+CSV because it outlives whatever plots it: a spreadsheet, a notebook, or
+something not yet written.
 
 ## Finding music I do not know
 
