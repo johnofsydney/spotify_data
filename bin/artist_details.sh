@@ -10,8 +10,15 @@ max_age_days="${MAX_AGE_DAYS:-30}"
 
 mkdir -p "$cache"
 
-# Artist IDs come from the playlist cache; fetching by name can match the wrong artist.
-ids=$(jq -s -r '[.[].tracks[].artists[] | {name, id}] | unique_by(.name) | INDEX(.name)' \
+# Artist IDs come from the data, not from a name search, which can match the wrong
+# artist. Playlists are the bulk of them; followed artists and top tracks cover the
+# ones I follow or play but have never filed in a playlist.
+# spotify_player allows one instance at a time, so these run in sequence.
+followed_ids=$(spotify_player get key user-followed-artists | jq '[.[] | {name, id}]')
+top_ids=$(spotify_player get key user-top-tracks | jq '[.[].artists[] | {name, id}]')
+
+ids=$(jq -s -r --argjson f "$followed_ids" --argjson t "$top_ids" \
+  '[.[].tracks[].artists[] | {name, id}] + $f + $t | unique_by(.name) | INDEX(.name)' \
   "$root"/cache/playlists/*.json)
 
 fetched=0

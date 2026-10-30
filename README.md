@@ -151,9 +151,9 @@ track counts for both of them.
 
 `spread` and `tracks` are decimals because each playlist contributes its own
 weight rather than a flat 1. `fol`, `ded` and `FAV` are flags. `rel3y` runs 0 to
-1. A `0.00` means the artist has released nothing new in three years, except
-for the nineteen artists who appear only in my top tracks or follows and never
-in a playlist: there is no artist ID anywhere in the data to fetch them by.
+1. A `0.00` means the artist has released nothing new in three years — every
+ranked artist has a discography on disk, so it is a measurement rather than a
+gap.
 
 Three decisions matter more than the weights:
 

@@ -5,7 +5,7 @@
     "name": "BO All Music",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAADcpq+rLLd9+3Segp8ffGLOUbUbSj"
+    "snapshot_id": "AAAAEjE+bSe3OH3MMzHSX32CQX72vZzD"
   },
   "tracks": [
     {
@@ -353,6 +353,150 @@
       "duration": {
         "secs": 315,
         "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "09SvE4RSe1Unl1Ta2Fj98N",
+      "name": "Burning",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 393,
+        "nanos": 138000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2y9Me04be6zHla3lLtgRdr",
+      "name": "Hebetation",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 270,
+        "nanos": 927000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "105UzCP1C1laJEheyU2xp9",
+      "name": "Locusts",
+      "artists": [
+        {
+          "id": "06D0YfeNZgBA7XWQ79Y42R",
+          "name": "King Buffalo"
+        }
+      ],
+      "album": {
+        "id": "031668YzIc2Lxmb8FiR8d9",
+        "release_date": "2021-06-04",
+        "name": "The Burden of Restlessness",
+        "artists": [
+          {
+            "id": "06D0YfeNZgBA7XWQ79Y42R",
+            "name": "King Buffalo"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 387,
+        "nanos": 56000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "792t8EgYh63rbbLlLOHK4L",
+      "name": "Diagram Girl - Beyond the Wizards Sleeve Re-Animation",
+      "artists": [
+        {
+          "id": "0DGGWrQLqX2Bli5KOPchgY",
+          "name": "Beyond The Wizards Sleeve"
+        },
+        {
+          "id": "3LRldYGJpCAQT5cZKQyi7o",
+          "name": "Hannah Peel"
+        }
+      ],
+      "album": {
+        "id": "4afAglFXDCC6ugGV5tMMMB",
+        "release_date": "2016-04-08",
+        "name": "Diagram Girl",
+        "artists": [
+          {
+            "id": "0DGGWrQLqX2Bli5KOPchgY",
+            "name": "Beyond The Wizards Sleeve"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 441,
+        "nanos": 854000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Ud3deeqLAG988pfW0Kwcl",
+      "name": "All My Friends",
+      "artists": [
+        {
+          "id": "066X20Nz7iquqkkCW6Jxy6",
+          "name": "LCD Soundsystem"
+        }
+      ],
+      "album": {
+        "id": "1R8kkopLT4IAxzMMkjic6X",
+        "release_date": "2007-03-12",
+        "name": "Sound of Silver",
+        "artists": [
+          {
+            "id": "066X20Nz7iquqkkCW6Jxy6",
+            "name": "LCD Soundsystem"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 462,
+        "nanos": 266000000
       },
       "explicit": false
     }

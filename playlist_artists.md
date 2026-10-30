@@ -4,8 +4,8 @@
 54x  The Brian Jonestown Massacre
 52x  Booka Shade
 51x  White Lies
+49x  LCD Soundsystem
 49x  ZZ Top
-48x  LCD Soundsystem
 48x  Maps
 48x  Maserati
 45x  Black Sabbath
@@ -66,6 +66,7 @@
 19x  Syd Barrett
 19x  UNKLE
 19x  Vessels
+18x  King Buffalo
 18x  pg.lost
 18x  Phantogram
 18x  The Holy
@@ -90,7 +91,6 @@
 15x  Amon Tobin
 15x  Andy Bell
 15x  Elder
-15x  King Buffalo
 15x  Max Cooper
 15x  Nils Frahm
 15x  Orchid
@@ -119,13 +119,13 @@
 13x  Regurgitator
 13x  Sea Power
 13x  Taylor Swift
+12x  Beyond The Wizards Sleeve
 12x  Black Rebel Motorcycle Club
 12x  BT
 12x  Gaz Coombes
 12x  Interpol
 12x  Jean-Michel Jarre
 12x  Ty Segall
-11x  Beyond The Wizards Sleeve
 11x  Björk
 11x  CHVRCHES
 11x  Dappled Cities
@@ -155,6 +155,7 @@
 10x  Future Islands
 10x  GB3 AU
 10x  Goat
+10x  Hannah Peel
 10x  Iggy Pop
 10x  Jon Gurd
 10x  Lunatic Soul
@@ -170,7 +171,6 @@
 9x  Chromatics
 9x  David Holmes
 9x  Eco
-9x  Hannah Peel
 9x  Hidden Orchestra
 9x  Hot Chip
 9x  Iron Maiden
