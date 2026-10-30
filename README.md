@@ -96,6 +96,7 @@ the following week to carry rather than aborting the run.
 | `bin/playlist_artists.sh` | `playlist_artists.md` | Artists across all playlists. Caches; `--force` to refetch. |
 | `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Weights in `weights.json`. |
 | `bin/discover_artists.sh` | `discover_artists.md` | Artists I do not have, ranked by which of my favourites point at them. Offline. |
+| `bin/backtest_discovery.sh` | stdout | Scores that ranking against artists I actually went on to keep. Offline. |
 | `bin/record_history.sh` | `history/rankings.csv` | Appends the week's top 50 to the time series. Offline. |
 | `bin/build_page.sh` | `docs/index.html` | A readable page of the favourites and discoveries. Offline, self-contained. |
 
@@ -127,14 +128,15 @@ commit; it says nothing about when a playlist was touched before then.
 
 ## The favourites ranking
 
-Nine signals disagree about what a favourite is, and none is trustworthy
-alone. `favourite_artists.sh` combines them into a single 0-100 score.
+Ten signals disagree about what a favourite is, and none is trustworthy alone.
+Eight carry weight; two are kept wired in at zero. `favourite_artists.sh`
+combines them into a single 0-100 score.
 
 | Signal | Column | Weight | What it means |
 | --- | --- | --- | --- |
 | Yearly wraps | `yearly` | 0.30 | Their tracks across every "Your Top Songs &lt;year&gt;" playlist, each year weighted by recency. Ten years of Spotify's own measurement of what I actually played — the deepest evidence in the data, and the signal that gets my reference cases right unprompted. |
 | Top tracks | `top` | 0.18 | How many of my 50 current top tracks are theirs. Spotify returns a short-term window, so this is the only signal that reflects *now*. Weighted to keep the chart moving between wraps. |
-| Playlist spread | `spread` | 0.16 | How many *different* playlists hold two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
+| Playlist spread | `spread` | 0.16 | How many *different* playlists hold two or more of their tracks. One track in a 4,577-track bucket is not evidence of anything. |
 | Playlist tracks | `tracks` | 0.10 | Track credits across my playlists, capped at `track_cap` (5) per playlist. Uncapped it measured catalogue size and how thorough a compilation felt on the day: a 41-track Best Of outvoted ten years of listening. The cap is the same idea as `spread` requiring two tracks before a playlist counts. |
 | Favourites playlist | `FAV` | 0.12 | Whether they are in the playlist I keep by hand. The one place I can tell the ranking something the data does not record. |
 | Dedicated playlist | `ded` | 0.04 | Whether more than half of a playlist of five or more tracks is theirs. Binary and undated: three Best Ofs score the same as one, and one built in 2018 scores the same as one built last month. Priced against `yearly` it is worth about one decent year of charting — at 0.09 it was worth a decade of it, which put artists I rarely play above ones I play constantly. |
@@ -237,7 +239,7 @@ they are not shares of anything. `dedicated_min_share` (0.5) and
 `min_playlist_tracks` (3) sets how many playlist appearances an artist needs to
 appear at all, absent any other signal. Without a floor the ranking is mostly
 noise: most artists in my playlists appear exactly once. After the zero-weighted
-playlists and that floor, 482 artists are ranked.
+playlists and that floor, 723 artists are ranked.
 
 ### The favourites playlist
 
@@ -323,8 +325,8 @@ something not yet written.
 
 ## Finding music I do not know
 
-Each cached artist carries twenty `related_artists` from Spotify. Across 463
-artists that is some nine thousand edges, and the ones worth reading are those
+Each cached artist carries twenty `related_artists` from Spotify. Across 724
+artists that is some fourteen thousand edges, and the ones worth reading are those
 my highest-scoring artists point at.
 
 `discover_artists.sh` collects every edge, drops any artist already anywhere in
@@ -338,9 +340,47 @@ exactly like a discovery — Led Zeppelin and AC/DC both placed in the first
 twenty. Vote counts do not separate them either. `discover_exclude.txt` is the
 fix, one name per line, maintained by hand.
 
+### Does it work?
+
+`backtest_discovery.sh` answers that against the only ground truth available.
+`BO Discover Weekly` is where I save things heard through Discover Weekly that
+were worth keeping, and never artists I already knew — a record of discoveries
+that succeeded.
+
+Testing it directly would be circular, since the ranking excludes anything
+already in my data. So it holds them out instead. Spotify does not expose when a
+track was added, but position stands in for it: artists in each successive
+quarter of the playlist chart in successively later yearly wraps (2020, 2021,
+2023, 2025). The last quarter is therefore the most recent finds, and the 109 of
+those appearing in no other playlist are removed from a copy of the data before
+the real scripts are run over it.
+
+```
+ top k    hits    recall    chance  lift
+    50       4      3.7%       0.9  4.6x
+   150       9      8.3%       2.6  3.5x
+   500      18     16.5%       8.6  2.1x
+```
+
+Several times better than chance, and the lift falling as `k` grows is what
+shows the score is ordering candidates rather than just picking them.
+
+The more useful result is that the failure has two halves, and the ranking is
+the smaller one. Only 44 of the 109 appear in the candidate pool at all; the
+other **65 are in no related-artist list of anyone I like**, so no reordering
+could reach them. Of the 44 within reach, the top 150 finds 9.
+
+**Widening what the method can see is worth more than tuning how it sorts.**
+
+Two caveats. It grades only the Discover Weekly channel — artists found through
+friends, gigs or records are not in this playlist and cannot be scored. And
+`related_artists` is fetched now, so Spotify's graph may have strengthened links
+*because* those artists went on to do well, which flatters the result. Read the
+numbers as an upper bound.
+
 ## Data in here
 
-This repository is **private** and must stay that way.
+This repository is **public**. Everything below is written on that assumption.
 
 Committed data is Spotify metadata: artist names, track names, album names,
 playlist names and playlist IDs. Playlist names do incidentally carry first names
@@ -349,6 +389,11 @@ of friends and family.
 **No usernames or user IDs are stored.** Other people's playlists are never
 fetched, and the owner field is dropped from my own before they are cached. My
 own user ID lives in `.env`, which is gitignored.
+
+The cached copies of Spotify's own personalised playlists keep their ids, which
+are share links to this account's top songs. That is a deliberate decision, not
+an oversight: being able to see what I listen to is the point of publishing the
+page.
 
 **No credentials are ever committed.** `spotify_player` keeps its OAuth token
 outside this repository, and nothing here reads or copies it.
