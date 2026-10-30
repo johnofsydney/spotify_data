@@ -260,8 +260,9 @@ something my listening does not record — King Buffalo have been my favourite
 band for years, tour constantly, and have ten deliberately-placed tracks and no
 studio album since 2021, so nothing else in this data knows it.
 
-At 0.15 it lifts an artist who already has other evidence rather than carrying
-one alone: an artist present *only* through it lands around 90th. Raising the
+At 0.12 it lifts an artist who already has other evidence rather than carrying
+one alone: an artist present *only* through it, with a single track there, scores
+about 14 and lands around 250th. Raising the
 weight, or making it a floor rather than an addition, would change that.
 
 ### Why these weights, and why they should stay put
@@ -288,7 +289,7 @@ to either.
 
 ### An activity signal exists and is nearly switched off
 
-`activity` scores recent non-reissue releases. It sits at 0.06 because it is
+`activity` scores recent non-reissue releases. It sits at 0.03 because it is
 wrong for the purpose. King Buffalo tour relentlessly and have not released a
 studio album since 2021, so a release-based measure of activity demotes exactly
 the artist I would most want a gig alert for. Spotify exposes no touring data
@@ -314,8 +315,8 @@ real choices, just old ones, and want a cleanup rather than a discount.
 `history/rankings.csv` gains the top fifty every week, one row per artist:
 
 ```
-date,rank,artist,score,top,spread,tracks,followed,dedicated,favourite,activity,weights
-2026-10-30,1,"ZZ Top",79.8,1,5.0,49.0,y,y,Y,0.50,271ea7e7
+date,rank,artist,score,yearly,yearly_years,top,spread,tracks,followed,dedicated,favourite,activity,weights
+"2026-10-30",2,"ZZ Top",60.2,2.25,2,1,5,19,1,1,1,0.5,"6b07ed97"
 ```
 
 Every signal is stored beside the score, so a movement can be attributed rather

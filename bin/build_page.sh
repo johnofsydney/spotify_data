@@ -89,9 +89,9 @@ footer { margin-top: 56px; color: var(--muted); font-size: 13px; border-top: 1px
 </header>
 
 <h2>Favourite artists</h2>
-<p class="note">Scored across playlist breadth and depth, current top tracks, a
-hand-kept favourites playlist, dedicated playlists, follows and recent releases.
-Updated weekly.</p>
+<p class="note">Scored across ten years of Spotify's yearly top songs, current top
+tracks, playlist breadth and depth, a hand-kept favourites playlist, dedicated
+playlists, follows and recent releases. Updated weekly.</p>
 <div class="list" id="favs"></div>
 
 <h2>Worth investigating</h2>
