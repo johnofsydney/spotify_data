@@ -35,10 +35,11 @@ jq -s -r --argjson known "$known" --argjson scores "$scores" --argjson limit "$l
          from: ([.[] | {n: .src, w: .w}] | sort_by(-.w) | map(.n))})
   | sort_by(-.score)
   | .[0:$limit]
-  | to_entries[]
-  | [(.key + 1), (.value.score | round), .value.votes, .value.name,
-     (.value.from[0:3] | join(", "))]
-  | @tsv' "$root"/cache/artists/*.json |
+  | to_entries
+  | map({rank: (.key + 1), score: (.value.score | round), votes: .value.votes,
+         name: .value.name, from: .value.from[0:3]})' "$root"/cache/artists/*.json > "$root/discover_artists.json"
+
+jq -r '.[] | [.rank, .score, .votes, .name, (.from | join(", "))] | @tsv' "$root/discover_artists.json" |
 awk -F'\t' '
   BEGIN { printf "%4s %6s %6s  %-32s %s\n", "#", "score", "votes", "artist", "recommended by"
           printf "%4s %6s %6s  %-32s %s\n", "----", "------", "-----", "--------------------------------", "--------------" }

@@ -347,74 +347,74 @@
  345    10.5  Parquet Courts                              0     0      0     1.0     6.0    n    n    -   0.00
  346    10.5  The xx                                      0     0     17     1.0     6.0    n    n    -   0.00
  347    10.5  Yuri Gagarin (SWE)                          0     0      1     1.0     6.0    n    n    -   0.00
- 348    10.3  Black Mountain                              0     0      0     1.0     3.0    n    n    -   0.08
- 349    10.3  Cloudkicker                                 0     0      0     1.0     3.0    n    n    -   0.08
- 350    10.3  Cubicolor                                   0     0      0     1.0     3.0    n    n    -   0.08
- 351    10.3  The Comet Is Coming                         0     0      0     1.0     3.0    n    n    -   0.08
- 352    10.1  Ian Brown                                   0     0      0     1.0     5.0    n    n    -   0.00
- 353    10.1  The Atomic Bitchwax                         0     0     10     1.0     5.0    n    n    -   0.00
- 354    10.1  The Jam                                     0     0      0     1.0     5.0    n    n    -   0.00
- 355    10.0  Brown Spirits                               0     0      0     0.0     0.0    y    n    -   1.00
- 356    10.0  Johnny Cash                                 0     0      0     0.0     0.0    y    n    -   1.00
- 357    10.0  The Bamboos                                 0     0      0     0.0     0.0    y    n    -   1.00
- 358    10.0  The Shadows                                 0     0      0     0.0     0.0    y    n    -   1.00
- 359    10.0  Tom Harrington                              0     0      0     0.0     0.0    y    n    -   1.00
- 360    10.0  Radio Supernova                             0     0      1     0.0     2.0    y    n    -   0.08
- 361     9.8  Adam Hurt                                   0     0      0     1.0     4.0    n    n    -   0.00
- 362     9.8  Beki Mari                                   0     0      0     1.0     4.0    n    n    -   0.00
- 363     9.8  Chromatics                                  0     0      0     1.0     4.0    n    n    -   0.00
- 364     9.8  Freddie King                                0     0      0     1.0     4.0    n    n    -   0.00
- 365     9.8  Glasgow Coma Scale                          0     0      0     1.0     4.0    n    n    -   0.00
- 366     9.8  Moon Duo                                    0     0      0     1.0     4.0    n    n    -   0.00
- 367     9.8  Mutiny On The Bounty                        0     0      0     1.0     4.0    n    n    -   0.00
- 368     9.8  my bloody valentine                         0     0      0     1.0     4.0    n    n    -   0.00
- 369     9.8  The Bravery                                 0     0      0     1.0     4.0    n    n    -   0.00
- 370     9.8  The Breeders                                0     0     30     1.0     4.0    n    n    -   0.00
- 371     9.8  The Crystals                                0     0      0     1.0     4.0    n    n    -   0.00
- 372     9.8  The Kilimanjaro Darkjazz Ensemble           0     0      0     1.0     4.0    n    n    -   0.00
- 373     9.7  Antenna                                     0     0      0     0.0     1.0    y    n    -   0.17
- 374     9.6  Weedpecker                                  0     0      0     0.0     0.0    y    n    -   0.75
- 375     9.4  Coroner                                     0     0      0     0.0     0.0    y    n    -   0.67
- 376     9.4  Shane MacGowan                              0     0      0     0.0     0.0    y    n    -   0.67
- 377     9.4  Joseph Aquilina                             2     0      0     0.0     1.0    n    n    -   0.00
- 378     9.4  Amon Tobin                                  0     0      0     1.0     3.0    n    n    -   0.00
- 379     9.4  Collapse Under The Empire                   0     0      0     1.0     3.0    n    n    -   0.00
- 380     9.4  FEWS                                        0     0      0     1.0     3.0    n    n    -   0.00
- 381     9.4  Josef Peters                                0     0      0     1.0     3.0    n    n    -   0.00
- 382     9.4  Love and Rockets                            0     0      0     1.0     3.0    n    n    -   0.00
- 383     9.4  Marsheaux                                   0     0      0     1.0     3.0    n    n    -   0.00
- 384     9.4  Moderat                                     0     0      0     1.0     3.0    n    n    -   0.00
- 385     9.4  Pearls                                      0     0      0     1.0     3.0    n    n    -   0.00
- 386     9.4  Pinkshinyultrablast                         0     0      0     1.0     3.0    n    n    -   0.00
- 387     9.4  Pumarosa                                    0     0      0     1.0     3.0    n    n    -   0.00
- 388     9.4  The Appleseed Cast                          0     0      0     1.0     3.0    n    n    -   0.00
- 389     9.4  The Clash                                   0     0      0     1.0     3.0    n    n    -   0.00
- 390     9.4  The Lucid Dream                             0     0      0     1.0     3.0    n    n    -   0.00
- 391     9.1  Ahkmed                                      0     0      0     0.0     2.0    y    n    -   0.00
- 392     9.1  The Ivory Elephant                          0     0      0     0.0     2.0    y    n    -   0.00
- 393     8.9  Kal-El                                      0     0      0     0.0     0.0    y    n    -   0.42
- 394     8.8  Rromarin                                    0     2      0     0.0     0.0    n    n    -   1.00
- 395     8.6  The Beatles                                 0     1      0     0.0     1.0    n    n    -   1.00
- 396     8.6  The Rolling Stones                          0     1      1     0.0     1.0    n    n    -   1.00
- 397     8.5  Arrowhead                                   0     0      0     0.0     1.0    y    n    -   0.00
- 398     8.5  Full Fathom 5                               0     0      0     0.0     1.0    y    n    -   0.00
- 399     8.5  Monster Magnet                              0     0      0     0.0     1.0    y    n    -   0.00
- 400     8.5  Spacemen 3                                  0     0      0     0.0     1.0    y    n    -   0.00
- 401     8.2  Carcass                                     0     4      0     0.0     0.0    n    n    -   0.00
- 402     8.2  Golden Features                             0     4      0     0.0     0.0    n    n    -   0.00
- 403     7.9  Doctor Smoke                                0     0      0     0.0     0.0    y    n    -   0.08
- 404     7.7  International Teachers Of Pop               1     0      0     0.0     2.0    n    n    -   0.00
- 405     7.7  Tiësto                                     1     0      1     0.0     2.0    n    n    -   0.00
- 406     7.3  Q-Tip                                       0     1      0     0.0     1.0    n    n    -   0.33
- 407     7.1  ANUQRAM                                     0     1      0     0.0     0.0    n    n    -   1.00
- 408     7.1  Fragma                                      0     1      0     0.0     0.0    n    n    -   1.00
- 409     7.1  Louisahhh                                   0     1      0     0.0     0.0    n    n    -   1.00
- 410     7.1  PROFF                                       0     1      0     0.0     0.0    n    n    -   1.00
- 411     7.1  Second Sine                                 0     1      0     0.0     0.0    n    n    -   1.00
- 412     7.1  Chuck Wood                                  1     0      0     0.0     1.0    n    n    -   0.00
- 413     7.1  Daturah                                     1     0      0     0.0     1.0    n    n    -   0.00
- 414     7.1  Dion                                        1     0      0     0.0     1.0    n    n    -   0.00
- 415     7.1  Firebeatz                                   1     0      1     0.0     1.0    n    n    -   0.00
+ 348    10.4  Tiësto                                     1     0      1     0.0     2.0    n    n    -   0.83
+ 349    10.3  Black Mountain                              0     0      0     1.0     3.0    n    n    -   0.08
+ 350    10.3  Cloudkicker                                 0     0      0     1.0     3.0    n    n    -   0.08
+ 351    10.3  Cubicolor                                   0     0      0     1.0     3.0    n    n    -   0.08
+ 352    10.3  The Comet Is Coming                         0     0      0     1.0     3.0    n    n    -   0.08
+ 353    10.1  Ian Brown                                   0     0      0     1.0     5.0    n    n    -   0.00
+ 354    10.1  The Atomic Bitchwax                         0     0     10     1.0     5.0    n    n    -   0.00
+ 355    10.1  The Jam                                     0     0      0     1.0     5.0    n    n    -   0.00
+ 356    10.1  Dion                                        1     0      0     0.0     1.0    n    n    -   1.00
+ 357    10.1  Firebeatz                                   1     0      1     0.0     1.0    n    n    -   1.00
+ 358    10.0  Brown Spirits                               0     0      0     0.0     0.0    y    n    -   1.00
+ 359    10.0  Johnny Cash                                 0     0      0     0.0     0.0    y    n    -   1.00
+ 360    10.0  The Bamboos                                 0     0      0     0.0     0.0    y    n    -   1.00
+ 361    10.0  The Shadows                                 0     0      0     0.0     0.0    y    n    -   1.00
+ 362    10.0  Tom Harrington                              0     0      0     0.0     0.0    y    n    -   1.00
+ 363    10.0  Radio Supernova                             0     0      1     0.0     2.0    y    n    -   0.08
+ 364     9.8  Adam Hurt                                   0     0      0     1.0     4.0    n    n    -   0.00
+ 365     9.8  Beki Mari                                   0     0      0     1.0     4.0    n    n    -   0.00
+ 366     9.8  Chromatics                                  0     0      0     1.0     4.0    n    n    -   0.00
+ 367     9.8  Freddie King                                0     0      0     1.0     4.0    n    n    -   0.00
+ 368     9.8  Glasgow Coma Scale                          0     0      0     1.0     4.0    n    n    -   0.00
+ 369     9.8  Moon Duo                                    0     0      0     1.0     4.0    n    n    -   0.00
+ 370     9.8  Mutiny On The Bounty                        0     0      0     1.0     4.0    n    n    -   0.00
+ 371     9.8  my bloody valentine                         0     0      0     1.0     4.0    n    n    -   0.00
+ 372     9.8  The Bravery                                 0     0      0     1.0     4.0    n    n    -   0.00
+ 373     9.8  The Breeders                                0     0     30     1.0     4.0    n    n    -   0.00
+ 374     9.8  The Crystals                                0     0      0     1.0     4.0    n    n    -   0.00
+ 375     9.8  The Kilimanjaro Darkjazz Ensemble           0     0      0     1.0     4.0    n    n    -   0.00
+ 376     9.7  Antenna                                     0     0      0     0.0     1.0    y    n    -   0.17
+ 377     9.6  Weedpecker                                  0     0      0     0.0     0.0    y    n    -   0.75
+ 378     9.4  Coroner                                     0     0      0     0.0     0.0    y    n    -   0.67
+ 379     9.4  Shane MacGowan                              0     0      0     0.0     0.0    y    n    -   0.67
+ 380     9.4  Joseph Aquilina                             2     0      0     0.0     1.0    n    n    -   0.00
+ 381     9.4  Amon Tobin                                  0     0      0     1.0     3.0    n    n    -   0.00
+ 382     9.4  Collapse Under The Empire                   0     0      0     1.0     3.0    n    n    -   0.00
+ 383     9.4  FEWS                                        0     0      0     1.0     3.0    n    n    -   0.00
+ 384     9.4  Josef Peters                                0     0      0     1.0     3.0    n    n    -   0.00
+ 385     9.4  Love and Rockets                            0     0      0     1.0     3.0    n    n    -   0.00
+ 386     9.4  Marsheaux                                   0     0      0     1.0     3.0    n    n    -   0.00
+ 387     9.4  Moderat                                     0     0      0     1.0     3.0    n    n    -   0.00
+ 388     9.4  Pearls                                      0     0      0     1.0     3.0    n    n    -   0.00
+ 389     9.4  Pinkshinyultrablast                         0     0      0     1.0     3.0    n    n    -   0.00
+ 390     9.4  Pumarosa                                    0     0      0     1.0     3.0    n    n    -   0.00
+ 391     9.4  The Appleseed Cast                          0     0      0     1.0     3.0    n    n    -   0.00
+ 392     9.4  The Clash                                   0     0      0     1.0     3.0    n    n    -   0.00
+ 393     9.4  The Lucid Dream                             0     0      0     1.0     3.0    n    n    -   0.00
+ 394     9.1  Ahkmed                                      0     0      0     0.0     2.0    y    n    -   0.00
+ 395     9.1  The Ivory Elephant                          0     0      0     0.0     2.0    y    n    -   0.00
+ 396     8.9  Kal-El                                      0     0      0     0.0     0.0    y    n    -   0.42
+ 397     8.8  Rromarin                                    0     2      0     0.0     0.0    n    n    -   1.00
+ 398     8.6  The Beatles                                 0     1      0     0.0     1.0    n    n    -   1.00
+ 399     8.6  The Rolling Stones                          0     1      1     0.0     1.0    n    n    -   1.00
+ 400     8.5  Arrowhead                                   0     0      0     0.0     1.0    y    n    -   0.00
+ 401     8.5  Full Fathom 5                               0     0      0     0.0     1.0    y    n    -   0.00
+ 402     8.5  Monster Magnet                              0     0      0     0.0     1.0    y    n    -   0.00
+ 403     8.5  Spacemen 3                                  0     0      0     0.0     1.0    y    n    -   0.00
+ 404     8.2  Carcass                                     0     4      0     0.0     0.0    n    n    -   0.00
+ 405     8.2  Golden Features                             0     4      0     0.0     0.0    n    n    -   0.00
+ 406     7.9  Daturah                                     1     0      0     0.0     1.0    n    n    -   0.08
+ 407     7.9  Doctor Smoke                                0     0      0     0.0     0.0    y    n    -   0.08
+ 408     7.7  International Teachers Of Pop               1     0      0     0.0     2.0    n    n    -   0.00
+ 409     7.3  Q-Tip                                       0     1      0     0.0     1.0    n    n    -   0.33
+ 410     7.1  ANUQRAM                                     0     1      0     0.0     0.0    n    n    -   1.00
+ 411     7.1  Fragma                                      0     1      0     0.0     0.0    n    n    -   1.00
+ 412     7.1  Louisahhh                                   0     1      0     0.0     0.0    n    n    -   1.00
+ 413     7.1  PROFF                                       0     1      0     0.0     0.0    n    n    -   1.00
+ 414     7.1  Second Sine                                 0     1      0     0.0     0.0    n    n    -   1.00
+ 415     7.1  Chuck Wood                                  1     0      0     0.0     1.0    n    n    -   0.00
  416     7.0  Brown Sabbath                               0     0      0     0.0     0.0    y    n    -   0.00
  417     7.0  Endless Boogie                              0     0      0     0.0     0.0    y    n    -   0.00
  418     7.0  Freedom Hawk                                0     0      0     0.0     0.0    y    n    -   0.00

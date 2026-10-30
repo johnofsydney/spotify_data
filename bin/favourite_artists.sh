@@ -119,7 +119,15 @@ jq -n -r \
                + $w.activity * norm($act; $maxact)
                + $w.favourite * $fv)), $n, $at, $t, $l, $ps, $pt, $f, $d, $fv, $act])
   | sort_by(-.[0], (.[1] | ascii_downcase))
-  | .[] | @tsv' |
+  | to_entries
+  | map({rank: (.key + 1), score: (.value[0] * 10 | round / 10), name: .value[1],
+         alltime: .value[2], top: .value[3], liked: .value[4], spread: .value[5],
+         tracks: .value[6], followed: (.value[7] == 1), dedicated: (.value[8] == 1),
+         favourite: (.value[9] == 1), activity: .value[10]})' > "$root/favourite_artists.json"
+
+jq -r '.[] | [.score, .name, .alltime, .top, .liked, .spread, .tracks,
+              (if .followed then 1 else 0 end), (if .dedicated then 1 else 0 end),
+              (if .favourite then 1 else 0 end), .activity] | @tsv' "$root/favourite_artists.json" |
 awk -F'\t' '
   BEGIN { printf "%4s  %6s  %-38s %6s %5s %6s %7s %7s %4s %4s %4s %6s\n", "#", "score", "artist", "alltime", "top", "liked", "spread", "tracks", "fol", "ded", "FAV", "rel3y"
           printf "%4s  %6s  %-38s %6s %5s %6s %7s %7s %4s %4s %4s %6s\n", "----", "------", "--------------------------------------", "-------", "---", "-----", "------", "------", "---", "---", "---", "-----" }

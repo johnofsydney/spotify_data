@@ -6,34 +6,15 @@ out="$root/docs/index.html"
 top_n="${PAGE_TOP:-50}"
 disc_n="${PAGE_DISCOVER:-50}"
 
-favs=$(awk -v n="$top_n" '
-  NR <= 2 || NR > n + 2 { next }
-  {
-    name = ""
-    for (i = 3; i <= NF - 8; i++) name = name (name == "" ? "" : " ") $i
-    gsub(/\\/, "\\\\", name); gsub(/"/, "\\\"", name)
-    printf "%s{\"rank\":%d,\"score\":%s,\"name\":\"%s\",\"top\":%s,\"spread\":%s,\"tracks\":%s,\"fol\":\"%s\",\"ded\":\"%s\",\"fav\":\"%s\",\"act\":%s}",
-      (NR == 3 ? "" : ","), $1, $2, name, $(NF-7), $(NF-5), $(NF-4), $(NF-3), $(NF-2), $(NF-1), $NF
-  }' "$root/favourite_artists.md")
+favs=$(jq -c --argjson n "$top_n" '[.[0:$n][] |
+  {rank, score, name, alltime, top, spread, tracks,
+   fol: (if .followed then "y" else "n" end),
+   ded: (if .dedicated then "y" else "n" end),
+   fav: (if .favourite then "Y" else "-" end),
+   act: .activity}]' "$root/favourite_artists.json")
 
-disc=$(awk -v n="$disc_n" '
-  NR <= 2 || NR > n + 2 { next }
-  {
-    name = ""; from = ""
-    for (i = 4; i <= NF; i++) {
-      if (i > 4 && $i ~ /^[A-Za-z0-9(]/ && from == "" && match($0, /  [A-Z]/)) { }
-    }
-    line = $0
-    sub(/^ *[0-9]+ +[0-9]+ +[0-9]+  /, "", line)
-    split(line, parts, "  ")
-    name = parts[1]
-    from = line; sub(/^[^ ]*([^ ]| [^ ])*  +/, "", from)
-    gsub(/^ +| +$/, "", name); gsub(/^ +| +$/, "", from)
-    gsub(/\\/, "\\\\", name); gsub(/"/, "\\\"", name)
-    gsub(/\\/, "\\\\", from); gsub(/"/, "\\\"", from)
-    printf "%s{\"rank\":%d,\"score\":%d,\"votes\":%d,\"name\":\"%s\",\"from\":\"%s\"}",
-      (NR == 3 ? "" : ","), $1, $2, $3, name, from
-  }' "$root/discover_artists.md")
+disc=$(jq -c --argjson n "$disc_n" '[.[0:$n][] |
+  {rank, score, votes, name, from: (.from | join(", "))}]' "$root/discover_artists.json")
 
 generated=$(date '+%-d %B %Y')
 snapshots=$(awk -F',' 'NR>1 {print $1}' "$root/history/rankings.csv" 2>/dev/null | sort -u | wc -l | tr -d ' ')
@@ -122,8 +103,8 @@ more. Household names I simply have not saved can still slip through.</p>
 <footer>Built from Spotify data by <code>bin/build_page.sh</code>.</footer>
 </div>
 <script>
-const favs = [$favs];
-const disc = [$disc];
+const favs = $favs;
+const disc = $disc;
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 document.getElementById('favs').innerHTML = favs.map(a => {
   const chips = [
