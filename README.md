@@ -60,27 +60,44 @@ commit; it says nothing about when a playlist was touched before then.
 
 ## The favourites ranking
 
-Four signals disagree about what a favourite is, and none is trustworthy alone.
-`favourite_artists.sh` combines them into a single 0–100 score.
+Eight signals disagree about what a favourite is, and none is trustworthy
+alone. `favourite_artists.sh` combines them into a single 0-100 score.
 
-| Signal | Weight | What it means |
-| --- | --- | --- |
-| Favourites playlist | 0.15 | Whether the artist appears in the playlist I keep by hand for artists I rate. The one place I can tell the ranking something the data does not record. |
-| Top tracks | 0.17 | What I actually play. Spotify returns a short-term window, so this is the only signal that reflects *now* rather than a decision made years ago. Only ever 50 tracks, so it sees a narrow slice. |
-| Dedicated playlist | 0.12 | Whether I built a playlist for this artist alone. The most deliberate statement of fandom in the data. |
-| Playlist spread | 0.24 | How many *different* playlists an artist appears in, counting only those holding two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
-| Playlist tracks | 0.17 | How many tracks in total. |
-| Followed | 0.10 | Deliberate, but binary and cheap: you follow once and forget. |
+| Signal | Column | Weight | What it means |
+| --- | --- | --- | --- |
+| Playlist spread | `spread` | 0.24 | How many *different* playlists hold two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
+| Top tracks | `top` | 0.17 | How many of my 50 current top tracks are theirs. Spotify returns a short-term window, so this is the only signal that reflects *now* — and the narrowest. |
+| Playlist tracks | `tracks` | 0.17 | Total track credits across my playlists. |
+| Favourites playlist | `FAV` | 0.15 | Whether they are in the playlist I keep by hand. The one place I can tell the ranking something the data does not record. |
+| Dedicated playlist | `ded` | 0.12 | Whether more than half of a playlist of five or more tracks is theirs. |
+| Followed | `fol` | 0.10 | Deliberate, but binary and cheap: you follow once and forget. |
+| Recording activity | `rel3y` | 0.05 | New albums and singles over three years, reissues excluded. Nearly off — see below. |
+| Liked tracks | `liked` | 0.00 | Off. I rarely use the like button, so the count measured my indifference to a feature rather than my taste. Shown, not scored; raising the weight turns it back on. |
 
-| Liked tracks | 0.00 | Off. I rarely use the like button, so the count measured my indifference to a feature rather than my taste. Wired in and displayed, so raising the weight turns it back on. |
+### Reading the output
+
+The columns in `favourite_artists.md` are the raw measurements, not the scored
+ones. Two things they do not show:
+
+**Counts are square-rooted and divided by the column maximum** before being
+weighted, so 1 to 4 tracks moves the score far more than 46 to 49.
+
+**Credits include featured artists and remixers.** A remix of someone else's
+track counts for both of them.
+
+`spread` and `tracks` are decimals because each playlist contributes its own
+weight rather than a flat 1. `fol`, `ded` and `FAV` are flags. `rel3y` runs 0 to
+1, and a `0.00` usually means the artist's discography was never fetched rather
+than that they are inactive — `artist_details.sh` covers the top 250 by default.
 
 Three decisions matter more than the weights:
 
 **A dedicated playlist counts for a lot.** An artist who is more than half of a
-playlist of five or more tracks gets the `dedicated` flag. I have fourteen such
+playlist of five or more tracks gets the `dedicated` flag. I have thirteen such
 playlists, mostly named `BO <artist>`, and building one is a clearer statement
 than any number of likes. Detection is by share, not by the naming convention,
-so it keeps working if I stop using the `BO` prefix.
+so it keeps working if I stop using the `BO` prefix. Size does not grade it: a
+six-track Best Of says as much as a forty-track one.
 
 **Spread and volume are counted separately.** 52 tracks across 14 playlists means
 something different from 54 tracks across 5 — one is an artist I keep reaching
@@ -111,8 +128,9 @@ nothing, which is how liked tracks are handled.
 
 `DED_SHARE` (0.5) and `DED_SIZE` (5) set what counts as a dedicated playlist.
 `MIN_TRACKS` (default 3) sets how many playlist appearances an artist needs to
-appear at all, absent any other signal. Of the 5,331 artists in my playlists,
-3,261 appear exactly once; without a floor the ranking is mostly noise.
+appear at all, absent any other signal. Without a floor the ranking is mostly
+noise: most artists in my playlists appear exactly once. After the zero-weighted
+playlists and that floor, 482 artists are ranked.
 
 ### The favourites playlist
 
