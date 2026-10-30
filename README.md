@@ -30,7 +30,7 @@ cp .env.example .env
 | `bin/liked_tracks_artists.sh` | `liked_tracks_artists.md` | Artists by liked-track count. Overwrites. |
 | `bin/top_tracks_artists.sh` | `top_tracks_artists_<date>.md` | Artists in my top tracks. Dated, one file per run. |
 | `bin/playlist_artists.sh` | `playlist_artists.md` | Artists across all playlists. Caches; `--force` to refetch. |
-| `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Does not read liked tracks. |
+| `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Weights in `weights.json`. |
 
 Run them in that order; `favourite_artists.sh` reads the files the others write
 and makes no network calls of its own.
@@ -71,9 +71,7 @@ Four signals disagree about what a favourite is, and none is trustworthy alone.
 | Playlist tracks | 0.13 | How many tracks in total. |
 | Followed | 0.10 | Deliberate, but binary and cheap: you follow once and forget. |
 
-Liked tracks are **not** scored. I rarely use the feature, so the signal was
-measuring my indifference to a button rather than my taste. `liked_tracks_artists.md`
-is still exported, as context worth having, but nothing reads it.
+| Liked tracks | 0.00 | Off. I rarely use the like button, so the count measured my indifference to a feature rather than my taste. Wired in and displayed, so raising the weight turns it back on. |
 
 Three decisions matter more than the weights:
 
@@ -92,11 +90,23 @@ tracks treats them as equal.
 mean 144 times the affection of one track; without compression a single
 album-length addition buries every other signal.
 
-Every weight is an environment variable, so the model can be argued with:
+### Changing the weights
 
-```sh
-W_TOP=0.5 W_DEDICATED=0.2 W_SPREAD=0.15 W_TRACKS=0.1 W_FOLLOWED=0.05 ./bin/favourite_artists.sh
+Weights live in `weights.json`, one line per signal, and nowhere else:
+
+```json
+{ "top": 0.32, "dedicated": 0.26, "spread": 0.19,
+  "tracks": 0.13, "followed": 0.10, "liked": 0.00 }
 ```
+
+**They must sum to 1, or to 100 if you prefer percentages.** Anything else
+fails the run and prints the actual total. The rule is there so that raising one
+signal means deciding what to lower, and so that a score stays comparable
+between runs — without it, editing a weight silently rescales the whole
+ranking and yesterday's 70 no longer means what today's does.
+
+A weight of `0` keeps a signal wired in and displayed while contributing
+nothing, which is how liked tracks are handled.
 
 `DED_SHARE` (0.5) and `DED_SIZE` (5) set what counts as a dedicated playlist.
 `MIN_TRACKS` (default 3) sets how many playlist appearances an artist needs to
