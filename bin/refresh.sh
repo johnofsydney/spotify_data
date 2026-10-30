@@ -17,6 +17,7 @@ echo "=== refresh $(date '+%F %T') ==="
 ./bin/favourite_artists.sh
 ./bin/discover_artists.sh
 ./bin/record_history.sh
+./bin/build_page.sh
 
 if [ -z "$(git status --porcelain)" ]; then
   echo "no changes"

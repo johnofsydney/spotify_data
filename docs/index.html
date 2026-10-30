@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Listening</title>
+<style>
+:root {
+  --bg: #fbfaf8; --fg: #1a1a18; --muted: #6b6a66; --line: #e4e1db;
+  --card: #ffffff; --accent: #7a5c3e; --chip: #f0ece5;
+}
+:root:not([data-theme="light"]) { }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15140f; --fg: #eceae4; --muted: #99958c; --line: #2c2a24;
+    --card: #1d1b16; --accent: #c9a37a; --chip: #27251f;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #15140f; --fg: #eceae4; --muted: #99958c; --line: #2c2a24;
+  --card: #1d1b16; --accent: #c9a37a; --chip: #27251f;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font: 16px/1.5 ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+.wrap { max-width: 980px; margin: 0 auto; padding: 48px 16px 80px; }
+header { margin-bottom: 40px; }
+h1 { font-size: 30px; margin: 0 0 6px; letter-spacing: -0.02em; }
+.sub { color: var(--muted); font-size: 14px; }
+h2 { font-size: 20px; margin: 48px 0 6px; letter-spacing: -0.01em; }
+h2:first-of-type { margin-top: 36px; }
+.note { color: var(--muted); font-size: 14px; margin: 0 0 18px; max-width: 62ch; }
+.list { border-top: 1px solid var(--line); }
+.row {
+  display: grid; grid-template-columns: 34px 1fr auto; gap: 12px;
+  align-items: baseline; padding: 11px 4px; border-bottom: 1px solid var(--line);
+}
+.row:hover { background: var(--card); }
+.rank { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 14px; }
+.name { font-weight: 550; }
+.meta { color: var(--muted); font-size: 13px; margin-top: 3px; }
+.score {
+  font-variant-numeric: tabular-nums; color: var(--accent);
+  font-size: 14px; font-weight: 600;
+}
+.chip {
+  display: inline-block; background: var(--chip); color: var(--muted);
+  border-radius: 10px; padding: 1px 7px; font-size: 11px; margin-left: 6px;
+  vertical-align: 1px; letter-spacing: 0.02em;
+}
+footer { margin-top: 56px; color: var(--muted); font-size: 13px; border-top: 1px solid var(--line); padding-top: 16px; }
+@media (max-width: 560px) {
+  .wrap { padding: 32px 16px 64px; }
+  h1 { font-size: 25px; }
+  .row { grid-template-columns: 28px 1fr auto; gap: 10px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Listening</h1>
+  <div class="sub">Generated 30 October 2026 &middot; 1 weekly snapshot(s) recorded</div>
+</header>
+
+<h2>Favourite artists</h2>
+<p class="note">Scored across playlist breadth and depth, current top tracks, a
+hand-kept favourites playlist, dedicated playlists, follows and recent releases.
+Updated weekly.</p>
+<div class="list" id="favs"></div>
+
+<h2>Worth investigating</h2>
+<p class="note">Artists absent from my library, ranked by which of my favourites
+Spotify says they resemble &mdash; a nod from a higher-ranked artist counts for
+more. Household names I simply have not saved can still slip through.</p>
+<div class="list" id="disc"></div>
+
+<footer>Built from Spotify data by <code>bin/build_page.sh</code>.</footer>
+</div>
+<script>
+const favs = [{"rank":1,"score":79.8,"name":"ZZ Top","top":1,"spread":5.0,"tracks":49.0,"fol":"y","ded":"y","fav":"Y","act":0.50},{"rank":2,"score":70.3,"name":"Black Sabbath","top":0,"spread":4.0,"tracks":45.0,"fol":"y","ded":"y","fav":"Y","act":0.17},{"rank":3,"score":70.0,"name":"LCD Soundsystem","top":0,"spread":4.0,"tracks":40.0,"fol":"y","ded":"y","fav":"Y","act":0.25},{"rank":4,"score":69.7,"name":"The Chemical Brothers","top":2,"spread":5.0,"tracks":37.0,"fol":"y","ded":"n","fav":"Y","act":1.00},{"rank":5,"score":63.7,"name":"God Is An Astronaut","top":0,"spread":5.0,"tracks":71.0,"fol":"y","ded":"y","fav":"-","act":1.00},{"rank":6,"score":63.4,"name":"Papa M","top":7,"spread":2.0,"tracks":13.0,"fol":"y","ded":"n","fav":"Y","act":0.75},{"rank":7,"score":62.8,"name":"Dusty Springfield","top":0,"spread":5.0,"tracks":76.0,"fol":"y","ded":"y","fav":"-","act":0.50},{"rank":8,"score":59.6,"name":"Les Big Byrd","top":8,"spread":5.0,"tracks":22.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":9,"score":59.2,"name":"King Buffalo","top":2,"spread":4.0,"tracks":13.0,"fol":"y","ded":"n","fav":"Y","act":0.08},{"rank":10,"score":57.8,"name":"sleepmakeswaves","top":2,"spread":2.0,"tracks":17.0,"fol":"y","ded":"n","fav":"Y","act":0.75},{"rank":11,"score":57.6,"name":"Kings of Leon","top":0,"spread":4.0,"tracks":41.0,"fol":"y","ded":"y","fav":"-","act":1.00},{"rank":12,"score":55.0,"name":"Maps","top":0,"spread":3.0,"tracks":46.0,"fol":"y","ded":"y","fav":"-","act":0.67},{"rank":13,"score":52.2,"name":"White Lies","top":0,"spread":6.0,"tracks":47.0,"fol":"n","ded":"y","fav":"-","act":0.83},{"rank":14,"score":50.9,"name":"Night Beats","top":2,"spread":5.0,"tracks":35.0,"fol":"y","ded":"n","fav":"-","act":0.08},{"rank":15,"score":50.0,"name":"Booka Shade","top":0,"spread":6.0,"tracks":43.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":16,"score":48.7,"name":"Causa Sui","top":1,"spread":4.0,"tracks":27.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":17,"score":47.6,"name":"Paul van Dyk","top":0,"spread":5.0,"tracks":40.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":18,"score":46.6,"name":"Caesars","top":0,"spread":3.0,"tracks":21.0,"fol":"y","ded":"y","fav":"-","act":0.00},{"rank":19,"score":45.8,"name":"The Raveonettes","top":0,"spread":5.0,"tracks":29.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":20,"score":45.6,"name":"Jon Hopkins","top":1,"spread":7.0,"tracks":33.0,"fol":"n","ded":"n","fav":"-","act":1.00},{"rank":21,"score":44.8,"name":"GHOSTWOMAN","top":1,"spread":3.0,"tracks":20.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":22,"score":44.7,"name":"Spiritualized","top":0,"spread":5.0,"tracks":31.0,"fol":"y","ded":"n","fav":"-","act":0.50},{"rank":23,"score":44.5,"name":"The Flaming Lips","top":0,"spread":4.0,"tracks":23.0,"fol":"n","ded":"n","fav":"Y","act":0.17},{"rank":24,"score":44.5,"name":"Maserati","top":1,"spread":3.0,"tracks":47.0,"fol":"y","ded":"n","fav":"-","act":0.00},{"rank":25,"score":44.2,"name":"Noel Gallagher's High Flying Birds","top":0,"spread":5.0,"tracks":32.0,"fol":"y","ded":"n","fav":"-","act":0.33},{"rank":26,"score":44.1,"name":"The National","top":1,"spread":3.0,"tracks":21.0,"fol":"y","ded":"n","fav":"-","act":0.67},{"rank":27,"score":43.8,"name":"Chicane","top":0,"spread":5.0,"tracks":19.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":28,"score":43.6,"name":"Röyksopp","top":0,"spread":5.0,"tracks":18.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":29,"score":43.4,"name":"ATB","top":0,"spread":4.0,"tracks":38.0,"fol":"y","ded":"n","fav":"-","act":0.42},{"rank":30,"score":42.8,"name":"Taylor Swift","top":0,"spread":1.0,"tracks":12.0,"fol":"y","ded":"y","fav":"-","act":1.00},{"rank":31,"score":42.8,"name":"Greenleaf","top":0,"spread":5.0,"tracks":20.0,"fol":"y","ded":"n","fav":"-","act":0.58},{"rank":32,"score":42.5,"name":"Tides From Nebula","top":5,"spread":3.0,"tracks":25.0,"fol":"n","ded":"n","fav":"-","act":1.00},{"rank":33,"score":42.2,"name":"GB3 AU","top":10,"spread":1.0,"tracks":10.0,"fol":"y","ded":"n","fav":"-","act":0.00},{"rank":34,"score":41.9,"name":"Swervedriver","top":1,"spread":2.0,"tracks":20.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":35,"score":41.6,"name":"The Church","top":0,"spread":3.0,"tracks":23.0,"fol":"n","ded":"y","fav":"-","act":0.83},{"rank":36,"score":41.0,"name":"Long Distance Calling","top":0,"spread":3.0,"tracks":28.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":37,"score":41.0,"name":"Valley of the Sun","top":0,"spread":4.0,"tracks":19.0,"fol":"y","ded":"n","fav":"-","act":0.75},{"rank":38,"score":40.7,"name":"Holy Fuck","top":0,"spread":4.0,"tracks":16.0,"fol":"y","ded":"n","fav":"-","act":0.92},{"rank":39,"score":40.1,"name":"Nils Frahm","top":3,"spread":1.0,"tracks":12.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":40,"score":39.9,"name":"65daysofstatic","top":0,"spread":3.0,"tracks":22.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":41,"score":39.4,"name":"Johnny Marr","top":1,"spread":2.0,"tracks":10.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":42,"score":39.3,"name":"Eco","top":3,"spread":2.0,"tracks":7.0,"fol":"y","ded":"n","fav":"-","act":0.17},{"rank":43,"score":38.7,"name":"Explosions In The Sky","top":1,"spread":2.0,"tracks":8.0,"fol":"y","ded":"n","fav":"-","act":1.00},{"rank":44,"score":38.7,"name":"Elder","top":1,"spread":2.0,"tracks":10.0,"fol":"y","ded":"n","fav":"-","act":0.75},{"rank":45,"score":38.3,"name":"Tuber","top":0,"spread":3.0,"tracks":20.0,"fol":"y","ded":"n","fav":"-","act":0.58},{"rank":46,"score":37.8,"name":"October Drift","top":0,"spread":3.0,"tracks":16.0,"fol":"y","ded":"n","fav":"-","act":0.75},{"rank":47,"score":37.7,"name":"The Brian Jonestown Massacre","top":0,"spread":2.0,"tracks":43.0,"fol":"y","ded":"n","fav":"-","act":0.17},{"rank":48,"score":37.3,"name":"The Holy","top":0,"spread":3.0,"tracks":15.0,"fol":"y","ded":"n","fav":"-","act":0.67},{"rank":49,"score":37.3,"name":"Ride","top":0,"spread":3.0,"tracks":14.0,"fol":"y","ded":"n","fav":"-","act":0.75},{"rank":50,"score":37.3,"name":"Public Service Broadcasting","top":0,"spread":3.0,"tracks":13.0,"fol":"y","ded":"n","fav":"-","act":0.83}];
+const disc = [{"rank":1,"score":265,"votes":10,"name":"Black Lung","from":"Valley of the Sun, King Buffalo, Tuber"},{"rank":2,"score":239,"votes":12,"name":"The Raconteurs","from":"Silversun Pickups, TV On The Radio, The Dandy Warhols"},{"rank":3,"score":238,"votes":11,"name":"Savanah","from":"Tuber, Psychlona, Elephant Tree"},{"rank":4,"score":226,"votes":10,"name":"Black Market Karma","from":"The Dharma Chain, Firefriend, New Candys"},{"rank":5,"score":222,"votes":8,"name":"The Confederate Dead","from":"GHOSTWOMAN, The Dharma Chain, Firefriend"},{"rank":6,"score":202,"votes":8,"name":"Sons of Arrakis","from":"Valley of the Sun, Elder, Psychlona"},{"rank":7,"score":202,"votes":7,"name":"Mantra Machine","from":"Causa Sui, Tuber, Monkey3"},{"rank":8,"score":199,"votes":6,"name":"The Best Pessimist","from":"God Is An Astronaut, sleepmakeswaves, If These Trees Could Talk"},{"rank":9,"score":181,"votes":6,"name":"The Spyrals","from":"Night Beats, GHOSTWOMAN, New Candys"},{"rank":10,"score":180,"votes":8,"name":"Sasquatch","from":"Greenleaf, Valley of the Sun, Orange Goblin"},{"rank":11,"score":179,"votes":8,"name":"Franz Ferdinand","from":"Caesars, Pixies, The Strokes"},{"rank":12,"score":179,"votes":6,"name":"Mount Hush","from":"King Buffalo, Tuber, All Them Witches"},{"rank":13,"score":169,"votes":6,"name":"Room Service","from":"GHOSTWOMAN, New Candys, World News"},{"rank":14,"score":160,"votes":5,"name":"Cage The Elephant","from":"Kings of Leon, Pixies, Phantogram"},{"rank":15,"score":149,"votes":6,"name":"Galaxie 500","from":"Spiritualized, Ride, The Jesus and Mary Chain"},{"rank":16,"score":149,"votes":6,"name":"Empire Of The Sun","from":"Kings of Leon, Phantogram, Tame Impala"},{"rank":17,"score":148,"votes":5,"name":"Ambrose Kenny-Smith","from":"Spiral Drive, Lord Fascinator, GIFT"},{"rank":18,"score":144,"votes":5,"name":"Red Hot Chili Peppers","from":"Kings of Leon, Pixies, Pink Floyd"},{"rank":19,"score":141,"votes":4,"name":"The Everywheres","from":"Night Beats, GHOSTWOMAN, New Candys"},{"rank":20,"score":141,"votes":5,"name":"JES","from":"Paul van Dyk, Chicane, BT"},{"rank":21,"score":140,"votes":5,"name":"Rank 1","from":"Paul van Dyk, Chicane, Binary Finary"},{"rank":22,"score":139,"votes":5,"name":"The Walking Who","from":"GHOSTWOMAN, New Candys, World News"},{"rank":23,"score":139,"votes":8,"name":"Electric Light Orchestra","from":"The Beach Boys, Talking Heads, Pink Floyd"},{"rank":24,"score":136,"votes":6,"name":"Wall of Death","from":"The Dharma Chain, Firefriend, Motrik"},{"rank":25,"score":135,"votes":7,"name":"Jamie xx","from":"Kelly Lee Owens, Barry Can't Swim, Underworld"},{"rank":26,"score":135,"votes":4,"name":"Saxon Shore","from":"sleepmakeswaves, Explosions In The Sky, Caspian"},{"rank":27,"score":134,"votes":6,"name":"Darkfield","from":"Tides From Nebula, hubris., Exxasens"},{"rank":28,"score":134,"votes":3,"name":"The Postal Service","from":"LCD Soundsystem, The Flaming Lips, Silversun Pickups"},{"rank":29,"score":133,"votes":5,"name":"Aerosmith","from":"Black Sabbath, U2, Led Zeppelin"},{"rank":30,"score":133,"votes":5,"name":"Mandrake Handshake","from":"Lord Fascinator, GIFT, Motrik"},{"rank":31,"score":130,"votes":3,"name":"Benny Benassi","from":"The Chemical Brothers, ATB, The Prodigy"},{"rank":32,"score":129,"votes":6,"name":"Margarita Witch Cult","from":"Psychlona, Green Lung, Slomosa"},{"rank":33,"score":128,"votes":5,"name":"Daphni","from":"Kelly Lee Owens, HAAi, Floating Points"},{"rank":34,"score":127,"votes":4,"name":"Van Halen","from":"ZZ Top, Led Zeppelin, Ozzy Osbourne"},{"rank":35,"score":127,"votes":5,"name":"Duran Duran","from":"New Order, The Cure, INXS"},{"rank":36,"score":126,"votes":4,"name":"Richard Ashcroft","from":"Noel Gallagher's High Flying Birds, Johnny Marr, Doves"},{"rank":37,"score":125,"votes":5,"name":"Sparklehorse","from":"Spiritualized, Mogwai, Yo La Tengo"},{"rank":38,"score":121,"votes":4,"name":"Alice In Chains","from":"Black Sabbath, Queens of the Stone Age, The Smashing Pumpkins"},{"rank":39,"score":121,"votes":4,"name":"YORK","from":"Paul van Dyk, Chicane, BT"},{"rank":40,"score":119,"votes":4,"name":"Guns N' Roses","from":"Black Sabbath, Pink Floyd, Ozzy Osbourne"},{"rank":41,"score":117,"votes":4,"name":"Grizzly Bear","from":"LCD Soundsystem, Arcade Fire, Future Islands"},{"rank":42,"score":116,"votes":2,"name":"Crazy Town","from":"The Chemical Brothers, Caesars"},{"rank":43,"score":116,"votes":2,"name":"White Town","from":"The Chemical Brothers, Caesars"},{"rank":44,"score":116,"votes":5,"name":"Miike Snow","from":"Ladyhawke, CHVRCHES, TV On The Radio"},{"rank":45,"score":115,"votes":4,"name":"Flavor Crystals","from":"The Dharma Chain, Firefriend, New Candys"},{"rank":46,"score":114,"votes":3,"name":"Three Drives","from":"Paul van Dyk, Chicane, BT"},{"rank":47,"score":114,"votes":4,"name":"Soundgarden","from":"Black Sabbath, Queens of the Stone Age, The Smashing Pumpkins"},{"rank":48,"score":113,"votes":6,"name":"The Vines","from":"The Dandy Warhols, Death From Above 1979, Black Rebel Motorcycle Club"},{"rank":49,"score":113,"votes":5,"name":"Cold War Kids","from":"Silversun Pickups, TV On The Radio, The Kills"},{"rank":50,"score":112,"votes":5,"name":"Public Image Ltd.","from":"The Church, The Fall, The Jesus and Mary Chain"}];
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+document.getElementById('favs').innerHTML = favs.map(a => {
+  const chips = [
+    a.fav === 'Y' ? '<span class="chip">favourite</span>' : '',
+    a.ded === 'y' ? '<span class="chip">best of</span>' : '',
+    a.top > 0 ? '<span class="chip">playing now</span>' : '',
+    a.act >= 0.75 ? '<span class="chip">active</span>' : ''
+  ].join('');
+  const bits = [];
+  if (a.spread > 0) bits.push(a.spread + ' playlists');
+  if (a.tracks > 0) bits.push(a.tracks + ' tracks');
+  if (a.top > 0) bits.push(a.top + ' in top 50');
+  return '<div class="row"><div class="rank">' + a.rank + '</div>' +
+    '<div><div class="name">' + esc(a.name) + chips + '</div>' +
+    '<div class="meta">' + bits.join(' &middot; ') + '</div></div>' +
+    '<div class="score">' + a.score + '</div></div>';
+}).join('');
+document.getElementById('disc').innerHTML = disc.map(a =>
+  '<div class="row"><div class="rank">' + a.rank + '</div>' +
+  '<div><div class="name">' + esc(a.name) + '</div>' +
+  '<div class="meta">via ' + esc(a.from) + '</div></div>' +
+  '<div class="score">' + a.votes + '</div></div>'
+).join('');
+</script>
+</body>
+</html>

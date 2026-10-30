@@ -95,6 +95,7 @@ the following week to carry rather than aborting the run.
 | `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Weights in `weights.json`. |
 | `bin/discover_artists.sh` | `discover_artists.md` | Artists I do not have, ranked by which of my favourites point at them. Offline. |
 | `bin/record_history.sh` | `history/rankings.csv` | Appends the week's top 50 to the time series. Offline. |
+| `bin/build_page.sh` | `docs/index.html` | A readable page of the favourites and discoveries. Offline, self-contained. |
 
 Run them in that order; `favourite_artists.sh` reads the files the others write
 and makes no network calls of its own.
