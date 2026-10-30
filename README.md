@@ -98,7 +98,7 @@ the following week to carry rather than aborting the run.
 | `bin/discover_artists.sh` | `discover_artists.md` | Artists I do not have, ranked by which of my favourites point at them. Offline. |
 | `bin/backtest_discovery.sh` | stdout | Scores that ranking against artists I actually went on to keep. Offline. |
 | `bin/record_history.sh` | `history/rankings.csv` | Appends the week's top 50 to the time series. Offline. |
-| `bin/build_page.sh` | `docs/index.html` | A readable page of the favourites and discoveries. Offline, self-contained. |
+| `bin/build_page.sh` | `docs/index.html` | A readable page of the favourites, discoveries and a per-signal score breakdown. Offline, self-contained. |
 | `bin/discover_playlist.sh` | Spotify playlist | Rebuilds "Worth Investigating" from the page's discovery list. Writes to Spotify, not to this repository. |
 
 Run them in that order; `favourite_artists.sh` reads the files the others write
@@ -173,7 +173,11 @@ holds the same rows as data. The page and the history series read the JSON:
 parsing fixed-width columns broke silently the first time a signal was added,
 with the new column absorbed into the artist name.
 
-The figures are the raw measurements, not the scored ones. Two things they do not show:
+Each row in the JSON also carries `points`: what every signal contributed to the
+score after weighting, summing to the score. The page's score breakdown table
+reads these rather than recomputing them, so it cannot disagree with the ranking.
+
+The figures in the Markdown table are the raw measurements, not the scored ones. Two things they do not show:
 
 **Counts are square-rooted and divided by the column maximum** before being
 weighted, so 1 to 4 tracks moves the score far more than 46 to 49.
