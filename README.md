@@ -89,7 +89,7 @@ the following week to carry rather than aborting the run.
 | Script | Output | Notes |
 | --- | --- | --- |
 | `bin/followed_artists.sh` | `followed_artists.md` | Artists I follow. Overwrites. |
-| `bin/liked_tracks_artists.sh` | `liked_tracks_artists.md` | Artists by liked-track count. Overwrites. |
+| `bin/liked_tracks_artists.sh` | `liked_tracks_artists.md` | Artists by liked-track count. Overwrites. Not scored — see below. |
 | `bin/top_tracks_artists.sh` | `top_tracks_artists_<date>.md` | Artists in my top tracks. Dated, one file per run. |
 | `bin/alltime_artists.sh` | `alltime_artists.md` | Artists in Spotify's "Your All-Time Top Songs". Logs the snapshot id each run. Scored at zero — see below. |
 | `bin/yearly_artists.sh` | `yearly_artists.md` | Artists across every "Your Top Songs &lt;year&gt;" wrap, weighted by recency. Caches; `--force` to refetch. |
@@ -128,8 +128,8 @@ commit; it says nothing about when a playlist was touched before then.
 
 ## The favourites ranking
 
-Ten signals disagree about what a favourite is, and none is trustworthy alone.
-Eight carry weight; two are kept wired in at zero. `favourite_artists.sh`
+Nine signals disagree about what a favourite is, and none is trustworthy alone.
+Eight carry weight; `alltime` is kept wired in at zero. `favourite_artists.sh`
 combines them into a single 0-100 score.
 
 | Signal | Column | Weight | What it means |
@@ -143,7 +143,6 @@ combines them into a single 0-100 score.
 | Followed | `fol` | 0.07 | Deliberate, but binary and cheap: you follow once and forget. |
 | Recording activity | `rel3y` | 0.03 | New albums and singles over three years, reissues excluded. Nearly off — see below. |
 | All-time top songs | `alltime` | 0.00 | Off. Spotify does not keep it current — two readings a day apart returned an identical snapshot id, and `history/alltime_snapshots.csv` watches whether that ever changes. The yearly wraps say the same thing with dates attached, so this is exported but not scored. |
-| Liked tracks | `liked` | 0.00 | Off. I rarely use the like button, so the count measured my indifference to a feature rather than my taste. Shown, not scored; raising the weight turns it back on. |
 
 ### The yearly wraps
 
@@ -214,7 +213,7 @@ Weights live in `weights.json`, one line per signal, and nowhere else:
   "weights": {
     "yearly": 0.30, "top": 0.18, "spread": 0.16, "favourite": 0.12,
     "tracks": 0.10, "followed": 0.07, "dedicated": 0.04,
-    "activity": 0.03, "alltime": 0.00, "liked": 0.00
+    "activity": 0.03, "alltime": 0.00
   },
   "tuning": {
     "yearly_half_life_years": 3, "track_cap": 5, "min_playlist_tracks": 3,
@@ -230,7 +229,7 @@ between runs — without it, editing a weight silently rescales the whole
 ranking and yesterday's 70 no longer means what today's does.
 
 A weight of `0` keeps a signal wired in and displayed while contributing
-nothing, which is how liked tracks are handled.
+nothing, which is how `alltime` is handled.
 
 Everything that moves a score lives in this one file. `weights` is checked to
 sum to 1; `tuning` holds the thresholds the weights act on, and is not, because
@@ -240,6 +239,18 @@ they are not shares of anything. `dedicated_min_share` (0.5) and
 appear at all, absent any other signal. Without a floor the ranking is mostly
 noise: most artists in my playlists appear exactly once. After the zero-weighted
 playlists and that floor, 723 artists are ranked.
+
+### Liked tracks are not a signal
+
+They were scored at zero for a while and are now not a signal at all. I rarely
+use the like button, so the count measured my indifference to a feature rather
+than my taste: of 117 artists with a liked track, 54 never appear once in ten
+years of wraps.
+
+`liked_tracks_artists.sh` still runs, for a different job. 30 artists are known
+to me *only* through a liked track, and `discover_artists.sh` uses the export to
+exclude them. Delete it and the discovery list starts recommending artists I
+have already heard and liked.
 
 ### The favourites playlist
 
@@ -322,6 +333,17 @@ overrides the date and `HISTORY_DEPTH` the fifty.
 
 CSV because it outlives whatever plots it: a spreadsheet, a notebook, or
 something not yet written.
+
+### Open: the `top` signal reads only the newest snapshot
+
+`favourite_artists.sh` scores the latest `top_tracks_artists_<date>.md` and no
+other, so the dated files accumulate every Monday and all but one go unread. A
+quiet week can drop an artist out of the signal entirely.
+
+A rolling union of the last three or four weeks would stay current without the
+whiplash. **Deferred to around February 2027**: as of October 2026 there was one
+snapshot, and the question cannot be settled without enough of them to show how
+jumpy the signal really is.
 
 ## Finding music I do not know
 

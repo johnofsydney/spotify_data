@@ -47,7 +47,6 @@ alltime=$([ -f "$root/alltime_artists.md" ] && counted "$root/alltime_artists.md
 yearly=$([ -f "$root/yearly_artists.json" ] && jq 'map_values(.score)' "$root/yearly_artists.json" || echo '{}')
 # How many separate years an artist made the wrap: a plainer fact than the score.
 yearly_n=$([ -f "$root/yearly_artists.json" ] && jq 'map_values(.years | split(" ") | length)' "$root/yearly_artists.json" || echo '{}')
-liked=$(counted "$root/liked_tracks_artists.md")
 followed=$(jq -Rn '[inputs | select(length > 0)]' "$root/followed_artists.md")
 pw=$([ -f "$playlist_weights_file" ] && jq 'map_values(.weight)' "$playlist_weights_file" || echo '{}')
 
@@ -91,7 +90,6 @@ jq -n -r \
   --argjson alltime "$alltime" \
   --argjson yearly "$yearly" \
   --argjson yearly_n "$yearly_n" \
-  --argjson liked "$liked" \
   --argjson playlists "$playlists" \
   --argjson followed "$followed" \
   --argjson dedicated "$dedicated" \
@@ -105,12 +103,11 @@ jq -n -r \
   ($followed | map({key: ., value: true}) | from_entries) as $fol
   | ($dedicated | map({key: ., value: true}) | from_entries) as $ded
   | ($favourites | map({key: ., value: true}) | from_entries) as $favs
-  | ([($top | keys), ($liked | keys), ($alltime | keys), ($yearly | keys), ($playlists | keys),
+  | ([($top | keys), ($alltime | keys), ($yearly | keys), ($playlists | keys),
       $followed, $dedicated, $favourites] | add | unique) as $names
   | ([$top[]] | max // 0) as $maxtop
   | ([$alltime[]] | max // 0) as $maxall
   | ([$yearly[]] | max // 0) as $maxyear
-  | ([$liked[]] | max // 0) as $maxliked
   | ([$playlists[].tracks] | max // 0) as $maxtracks
   | ([$playlists[].spread] | max // 0) as $maxspread
   | ([$activity[]] | max // 0) as $maxact
@@ -120,31 +117,29 @@ jq -n -r \
       | ($alltime[$n] // 0) as $at
       | ($yearly[$n] // 0) as $yr
       | ($yearly_n[$n] // 0) as $yn
-      | ($liked[$n] // 0) as $l
       | ($playlists[$n].tracks // 0) as $pt
       | ($playlists[$n].spread // 0) as $ps
       | (if $fol[$n] then 1 else 0 end) as $f
       | (if $ded[$n] then 1 else 0 end) as $d
       | (if $favs[$n] then 1 else 0 end) as $fv
       | ($activity[$n] // 0) as $act
-      | select($t > 0 or $at > 0 or $yr > 0 or $f > 0 or $d > 0 or $fv > 0 or $pt >= $min
-               or ($w.liked > 0 and $l > 0))
+      | select($t > 0 or $at > 0 or $yr > 0 or $f > 0 or $d > 0 or $fv > 0 or $pt >= $min)
       | [(100 * ($w.alltime * norm($at; $maxall)
                + $w.yearly * norm($yr; $maxyear)
                + $w.top * norm($t; $maxtop)
-               + $w.liked * norm($l; $maxliked)
                + $w.spread * norm($ps; $maxspread)
                + $w.tracks * norm($pt; $maxtracks)
                + $w.followed * $f
                + $w.dedicated * $d
                + $w.activity * norm($act; $maxact)
-               + $w.favourite * $fv)), $n, $at, $t, $l, $ps, $pt, $f, $d, $fv, $act, $yr, $yn])
+               + $w.favourite * $fv)), $n, $at, $t, $ps, $pt, $f, $d, $fv, $act, $yr, $yn])
   | sort_by(-.[0], (.[1] | ascii_downcase))
   | to_entries
   | map({rank: (.key + 1), score: (.value[0] * 10 | round / 10), name: .value[1],
-         yearly: .value[11], yearly_years: .value[12], alltime: .value[2], top: .value[3], liked: .value[4], spread: .value[5],
-         tracks: .value[6], followed: (.value[7] == 1), dedicated: (.value[8] == 1),
-         favourite: (.value[9] == 1), activity: .value[10]})
+         yearly: .value[10], yearly_years: .value[11], alltime: .value[2],
+         top: .value[3], spread: .value[4], tracks: .value[5],
+         followed: (.value[6] == 1), dedicated: (.value[7] == 1),
+         favourite: (.value[8] == 1), activity: .value[9]})
   | {config: $cfg, artists: .}' > "$json"
 
 jq -r '.artists[] | [.score, .name, .yearly, .top, .spread, .tracks,
