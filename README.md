@@ -135,7 +135,7 @@ alone. `favourite_artists.sh` combines them into a single 0-100 score.
 | Yearly wraps | `yearly` | 0.25 | Their tracks across every "Your Top Songs &lt;year&gt;" playlist, each year weighted by recency. Ten years of Spotify's own measurement of what I actually played — the deepest evidence in the data, and the signal that gets my reference cases right unprompted. |
 | Top tracks | `top` | 0.18 | How many of my 50 current top tracks are theirs. Spotify returns a short-term window, so this is the only signal that reflects *now*. Weighted to keep the chart moving between wraps. |
 | Playlist spread | `spread` | 0.16 | How many *different* playlists hold two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
-| Playlist tracks | `tracks` | 0.10 | Total track credits across my playlists. Deliberately below `spread` and `top`: a big back catalogue is not the same as a favourite. |
+| Playlist tracks | `tracks` | 0.10 | Track credits across my playlists, capped at `TRACK_CAP` (5) per playlist. Uncapped it measured catalogue size and how thorough a compilation felt on the day: a 41-track Best Of outvoted ten years of listening. The cap is the same idea as `spread` requiring two tracks before a playlist counts. |
 | Favourites playlist | `FAV` | 0.12 | Whether they are in the playlist I keep by hand. The one place I can tell the ranking something the data does not record. |
 | Dedicated playlist | `ded` | 0.09 | Whether more than half of a playlist of five or more tracks is theirs. |
 | Followed | `fol` | 0.07 | Deliberate, but binary and cheap: you follow once and forget. |

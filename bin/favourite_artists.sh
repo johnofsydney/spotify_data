@@ -19,6 +19,7 @@ json="${out%.md}.json"
 min_tracks="${MIN_TRACKS:-3}"
 ded_share="${DED_SHARE:-0.5}"
 ded_size="${DED_SIZE:-5}"
+track_cap="${TRACK_CAP:-5}"
 
 # Accepts weights summing to 1 or to 100; anything else is a mistake, not a scale.
 w=$(jq '
@@ -46,13 +47,16 @@ liked=$(counted "$root/liked_tracks_artists.md")
 followed=$(jq -Rn '[inputs | select(length > 0)]' "$root/followed_artists.md")
 pw=$([ -f "$playlist_weights_file" ] && jq 'map_values(.weight)' "$playlist_weights_file" || echo '{}')
 
-playlists=$(jq -s --argjson w "$pw" '
+# One playlist can say an artist matters; it cannot say so forty-one times. Without
+# the cap, tracks measures catalogue size and how thorough a compilation felt on the
+# day, which is why an artist barely played in a decade outranked one heavily played.
+playlists=$(jq -s --argjson w "$pw" --argjson cap "$track_cap" '
   [.[] | .playlist.id as $id | ($w[$id] // 1) as $pw
        | select($pw > 0)
        | .tracks[].artists[].name | {name: ., pl: $id, pw: $pw}]
   | group_by(.name)
   | map({key: .[0].name,
-         value: {tracks: ([.[].pw] | add),
+         value: {tracks: ((group_by(.pl) | map(([length, $cap] | min) * .[0].pw) | add) // 0),
                  spread: ((group_by(.pl) | map(select(length >= 2) | .[0].pw) | add) // 0)}})
   | from_entries' "$root"/cache/playlists/*.json)
 
