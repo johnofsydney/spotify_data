@@ -30,7 +30,7 @@ cp .env.example .env
 | `bin/liked_tracks_artists.sh` | `liked_tracks_artists.md` | Artists by liked-track count. Overwrites. |
 | `bin/top_tracks_artists.sh` | `top_tracks_artists_<date>.md` | Artists in my top tracks. Dated, one file per run. |
 | `bin/playlist_artists.sh` | `playlist_artists.md` | Artists across all playlists. Caches; `--force` to refetch. |
-| `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking across all of the above. Offline. |
+| `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Does not read liked tracks. |
 
 Run them in that order; `favourite_artists.sh` reads the files the others write
 and makes no network calls of its own.
@@ -65,12 +65,15 @@ Four signals disagree about what a favourite is, and none is trustworthy alone.
 
 | Signal | Weight | What it means |
 | --- | --- | --- |
-| Top tracks | 0.25 | What I actually play. Spotify returns a short-term window, so this is the only signal that reflects *now* rather than a decision made years ago. Only ever 50 tracks, so it sees a narrow slice. |
-| Liked tracks | 0.22 | A deliberate, per-track endorsement — but I don't use likes much, so this signal is thinner than it looks. |
-| Dedicated playlist | 0.20 | Whether I built a playlist for this artist alone. The most deliberate statement of fandom in the data. |
-| Playlist spread | 0.15 | How many *different* playlists an artist appears in. |
-| Playlist tracks | 0.10 | How many tracks in total. |
-| Followed | 0.08 | Deliberate, but binary and cheap: you follow once and forget. |
+| Top tracks | 0.32 | What I actually play. Spotify returns a short-term window, so this is the only signal that reflects *now* rather than a decision made years ago. Only ever 50 tracks, so it sees a narrow slice. |
+| Dedicated playlist | 0.26 | Whether I built a playlist for this artist alone. The most deliberate statement of fandom in the data. |
+| Playlist spread | 0.19 | How many *different* playlists an artist appears in. |
+| Playlist tracks | 0.13 | How many tracks in total. |
+| Followed | 0.10 | Deliberate, but binary and cheap: you follow once and forget. |
+
+Liked tracks are **not** scored. I rarely use the feature, so the signal was
+measuring my indifference to a button rather than my taste. `liked_tracks_artists.md`
+is still exported, as context worth having, but nothing reads it.
 
 Three decisions matter more than the weights:
 
@@ -92,7 +95,7 @@ album-length addition buries every other signal.
 Every weight is an environment variable, so the model can be argued with:
 
 ```sh
-W_LIKED=0.5 W_TOP=0.3 W_SPREAD=0.1 W_TRACKS=0.05 W_FOLLOWED=0.05 ./bin/favourite_artists.sh
+W_TOP=0.5 W_DEDICATED=0.2 W_SPREAD=0.15 W_TRACKS=0.1 W_FOLLOWED=0.05 ./bin/favourite_artists.sh
 ```
 
 `DED_SHARE` (0.5) and `DED_SIZE` (5) set what counts as a dedicated playlist.
