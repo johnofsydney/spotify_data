@@ -46,7 +46,7 @@ playlists=$(jq -s --argjson w "$pw" '
   | group_by(.name)
   | map({key: .[0].name,
          value: {tracks: ([.[].pw] | add),
-                 spread: (group_by(.pl) | map(.[0].pw) | add)}})
+                 spread: ((group_by(.pl) | map(select(length >= 2) | .[0].pw) | add) // 0)}})
   | from_entries' "$root"/cache/playlists/*.json)
 
 # Spotify's typ does not distinguish a reissue from new work, so a heritage act's

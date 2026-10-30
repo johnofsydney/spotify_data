@@ -67,7 +67,7 @@ Four signals disagree about what a favourite is, and none is trustworthy alone.
 | --- | --- | --- |
 | Top tracks | 0.20 | What I actually play. Spotify returns a short-term window, so this is the only signal that reflects *now* rather than a decision made years ago. Only ever 50 tracks, so it sees a narrow slice. |
 | Dedicated playlist | 0.14 | Whether I built a playlist for this artist alone. The most deliberate statement of fandom in the data. |
-| Playlist spread | 0.28 | How many *different* playlists an artist appears in. |
+| Playlist spread | 0.28 | How many *different* playlists an artist appears in, counting only those holding two or more of their tracks. One track in a 646-track bucket is not evidence of anything. |
 | Playlist tracks | 0.20 | How many tracks in total. |
 | Followed | 0.12 | Deliberate, but binary and cheap: you follow once and forget. |
 
@@ -149,10 +149,14 @@ at all; this is a proxy that its own reference case disproves.
 both its track and spread contributions. `0` excludes a playlist entirely, so a
 blacklist and a whitelist are both just weights.
 
-It exists because playlists are not equal evidence. `Starred`, `My Shazam
-Tracks` and `Liked from Radio` are capture buckets rather than curation, and a
-playlist I have not opened in years still counts in full — Spotify exposes no
-date to decay it by.
+It exists because playlists are not equal evidence. Two Discover Weekly
+archives held 65% of all tracks and 73% of all artists — Spotify recommending
+to me, never a choice I made — and weigh nothing. Nor do event playlists, other
+people's taste, or a running playlist I have not opened in years, since Spotify
+exposes no date to decay it by.
+
+`Starred` and `Liked from Radio` are legacy but keep full weight; they record
+real choices, just old ones, and want a cleanup rather than a discount.
 
 ## Data in here
 
