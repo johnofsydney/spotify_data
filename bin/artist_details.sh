@@ -31,6 +31,6 @@ while read -r name; do
   spotify_player get item -i "$id" artist > "$file.tmp"
   mv "$file.tmp" "$file"
   fetched=$((fetched + 1))
-done < <(tail -n +3 "$ranked" | head -n "$limit" | sed 's/^ *[0-9]* *[0-9.]*  //; s/  *[0-9].*$//')
+done < <(tail -n +3 "$ranked" | head -n "$limit" | sed 's/^ *[0-9]* *[0-9.]*  //; s/ \{2,\}[0-9].*$//')
 
 echo "artists: $fetched fetched, $reused cached, $missing without an id"

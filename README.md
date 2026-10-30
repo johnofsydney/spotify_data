@@ -116,8 +116,9 @@ track counts for both of them.
 
 `spread` and `tracks` are decimals because each playlist contributes its own
 weight rather than a flat 1. `fol`, `ded` and `FAV` are flags. `rel3y` runs 0 to
-1, and a `0.00` usually means the artist's discography was never fetched rather
-than that they are inactive — `artist_details.sh` covers the top 250 by default.
+1. A `0.00` means the artist has released nothing new in three years, except
+for the nineteen artists who appear only in my top tracks or follows and never
+in a playlist: there is no artist ID anywhere in the data to fetch them by.
 
 Three decisions matter more than the weights:
 
