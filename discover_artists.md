@@ -76,42 +76,42 @@
   74     86      4  Soundgarden                      Black Sabbath, The Smashing Pumpkins, Queens of the Stone Age
   75     85      4  Rage Against The Machine         Black Sabbath, Dropkick Murphys, Queens of the Stone Age
   76     85      5  Otis Redding                     Dusty Springfield, The Supremes, Stevie Wonder
-  77     84      3  Steppenwolf                      ZZ Top, Led Zeppelin, The Rolling Stones
-  78     84      3  The Who                          ZZ Top, Led Zeppelin, The Rolling Stones
-  79     84      2  Vampire Weekend                  LCD Soundsystem, Arcade Fire
-  80     83      5  Kodomo                           Tycho, Ulrich Schnauss, Yppah
-  81     83      4  Depeche Mode                     New Order, The Cure, Placebo
-  82     83      4  Alex Ebert                       Mattiel, Daniel Norgren, Junip
-  83     83      6  The Vines                        The Dandy Warhols, Death From Above 1979, Black Rebel Motorcycle Club
-  84     83      4  Guns N' Roses                    Black Sabbath, Pink Floyd, Ozzy Osbourne
-  85     81      5  Sam Cooke                        Dusty Springfield, The Supremes, Dion
-  86     81      4  The Crooked Rugs                 José Junior, Hollow Ship, Motrik
-  87     80      5  Liset Alea                       Booka Shade, Cubicolor, Kaktus Einarsson
-  88     80      4  Aretha Franklin                  Dusty Springfield, The Supremes, Stevie Wonder
-  89     80      3  Geese                            LCD Soundsystem, Angine de Poitrine, King Gizzard & The Lizard Wizard
-  90     80      6  The Police                       The Cure, U2, Pink Floyd
-  91     79      6  Betty Everett                    The Marvelettes, The Crystals, The Supremes
-  92     78      6  Florence + The Machine           CHVRCHES, Gang of Youths, Robyn
-  93     77      5  De La Soul                       Caesars, Tame Impala, The Stranglers
-  94     77      3  Iron & Wine                      The National, Bon Iver, Phosphorescent
-  95     76      4  Class Actress                    The Raveonettes, Ladytron, POLIÇA
-  96     76      5  Peter Bjorn and John             Caesars, The xx, Supergrass
-  97     76      5  Daryl Hall & John Oates          The Beach Boys, Talking Heads, Stevie Wonder
-  98     75      2  Kid Francescoli                  Röyksopp, Still Corners
-  99     75      3  Blossoms                         Noel Gallagher's High Flying Birds, Johnny Marr, Jake Bugg
- 100     74      2  Ultra Naté                      The Chemical Brothers, Faithless
- 101     74      5  Ocean Colour Scene               Primal Scream, The Stone Roses, The Jam
- 102     74      2  Boys Noize                       The Chemical Brothers, Soulwax
- 103     74      2  Boston                           ZZ Top, Led Zeppelin
- 104     73      3  Colbey                           GHOSTWOMAN, World News, Magic Shoppe
- 105     73      4  Hazemaze                         Orchid, Swan Valley Heights, Black Rainbows
- 106     73      4  The Libertines                   Noel Gallagher's High Flying Birds, The Stone Roses, The Coral
- 107     73      4  DjRUM                            Daniel Avery, Floating Points, Rival Consoles
- 108     73      9  LTN                              Estiva, Trilucid, ANUQRAM
- 109     73      3  Mousey                           The Dharma Chain, José Junior, Golden Bug
- 110     73      4  Deathchant                       Green Lung, Slomosa, Kal-El
- 111     72      7  Nils Hoffmann                    YOTTO, Kidnap, Klangkarussell
- 112     72      2  Grasscut                         Maps, Fuck Buttons
+  77     85      2  Grasscut                         Fuck Buttons, Maps
+  78     84      3  Steppenwolf                      ZZ Top, Led Zeppelin, The Rolling Stones
+  79     84      3  The Who                          ZZ Top, Led Zeppelin, The Rolling Stones
+  80     84      2  Vampire Weekend                  LCD Soundsystem, Arcade Fire
+  81     83      5  Kodomo                           Tycho, Ulrich Schnauss, Yppah
+  82     83      4  Depeche Mode                     New Order, The Cure, Placebo
+  83     83      4  Alex Ebert                       Mattiel, Daniel Norgren, Junip
+  84     83      6  The Vines                        The Dandy Warhols, Death From Above 1979, Black Rebel Motorcycle Club
+  85     83      4  Guns N' Roses                    Black Sabbath, Pink Floyd, Ozzy Osbourne
+  86     81      5  Sam Cooke                        Dusty Springfield, The Supremes, Dion
+  87     81      4  The Crooked Rugs                 José Junior, Hollow Ship, Motrik
+  88     80      5  Liset Alea                       Booka Shade, Cubicolor, Kaktus Einarsson
+  89     80      4  Aretha Franklin                  Dusty Springfield, The Supremes, Stevie Wonder
+  90     80      3  Geese                            LCD Soundsystem, Angine de Poitrine, King Gizzard & The Lizard Wizard
+  91     80      6  The Police                       The Cure, U2, Pink Floyd
+  92     79      6  Betty Everett                    The Marvelettes, The Crystals, The Supremes
+  93     78      6  Florence + The Machine           CHVRCHES, Gang of Youths, Robyn
+  94     77      5  De La Soul                       Caesars, Tame Impala, The Stranglers
+  95     77      3  Iron & Wine                      The National, Bon Iver, Phosphorescent
+  96     76      4  Class Actress                    The Raveonettes, Ladytron, POLIÇA
+  97     76      5  Peter Bjorn and John             Caesars, The xx, Supergrass
+  98     76      5  Daryl Hall & John Oates          The Beach Boys, Talking Heads, Stevie Wonder
+  99     75      2  Kid Francescoli                  Röyksopp, Still Corners
+ 100     75      3  Blossoms                         Noel Gallagher's High Flying Birds, Johnny Marr, Jake Bugg
+ 101     74      2  Ultra Naté                      The Chemical Brothers, Faithless
+ 102     74      5  Ocean Colour Scene               Primal Scream, The Stone Roses, The Jam
+ 103     74      2  Boys Noize                       The Chemical Brothers, Soulwax
+ 104     74      2  Boston                           ZZ Top, Led Zeppelin
+ 105     73      3  Colbey                           GHOSTWOMAN, World News, Magic Shoppe
+ 106     73      4  Hazemaze                         Orchid, Swan Valley Heights, Black Rainbows
+ 107     73      4  The Libertines                   Noel Gallagher's High Flying Birds, The Stone Roses, The Coral
+ 108     73      4  DjRUM                            Daniel Avery, Floating Points, Rival Consoles
+ 109     73      9  LTN                              Estiva, Trilucid, ANUQRAM
+ 110     73      3  Mousey                           The Dharma Chain, José Junior, Golden Bug
+ 111     73      4  Deathchant                       Green Lung, Slomosa, Kal-El
+ 112     72      7  Nils Hoffmann                    YOTTO, Kidnap, Klangkarussell
  113     72      8  Felix Raphael                    Kidnap, Cubicolor, Kaktus Einarsson
  114     72      3  Dead Ghosts                      Night Beats, Ty Segall, Thee Oh Sees
  115     72      8  Parallel Voices                  Jon Gurd, Trilucid, Yeadon

@@ -99,6 +99,7 @@
 15x  You Am I
 14x  Death From Above 1979
 14x  Dinosaur Jr.
+14x  Fuck Buttons
 14x  The House of Love
 14x  The Jesus and Mary Chain
 14x  The Stone Roses
@@ -106,7 +107,6 @@
 14x  YOTTO
 13x  Daniel Avery
 13x  Explosions In The Sky
-13x  Fuck Buttons
 13x  Gotye
 13x  HALEY
 13x  Haley Bonar

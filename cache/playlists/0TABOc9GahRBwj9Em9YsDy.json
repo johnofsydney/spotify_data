@@ -5,7 +5,7 @@
     "name": "BO All Music",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAEjE+bSe3OH3MMzHSX32CQX72vZzD"
+    "snapshot_id": "AAAAE00t/46AdL14TvLzNdBIW77elmSG"
   },
   "tracks": [
     {
@@ -497,6 +497,34 @@
       "duration": {
         "secs": 462,
         "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6AaenV3zr7U7gDF8dmLh12",
+      "name": "Olympians",
+      "artists": [
+        {
+          "id": "6tCENAD2FBfIMyygJMeOJV",
+          "name": "Fuck Buttons"
+        }
+      ],
+      "album": {
+        "id": "7tilRUU7WANATJdxhMO3p8",
+        "release_date": "2009-10-20",
+        "name": "Tarot Sport",
+        "artists": [
+          {
+            "id": "6tCENAD2FBfIMyygJMeOJV",
+            "name": "Fuck Buttons"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 654,
+        "nanos": 840000000
       },
       "explicit": false
     }
