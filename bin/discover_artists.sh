@@ -4,7 +4,7 @@ set -euo pipefail
 root="${DATA_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 out="$root/discover_artists.md"
 limit="${DISCOVER_LIMIT:-150}"
-forget_years="${DISCOVER_FORGET_YEARS:-5}"
+forget_years="${DISCOVER_FORGET_YEARS:-4}"
 half_life=$(jq -r '.tuning.yearly_half_life_years' "$root/weights.json")
 
 # An artist counts as known if they appear anywhere in my own data, not merely
@@ -13,8 +13,8 @@ half_life=$(jq -r '.tuning.yearly_half_life_years' "$root/weights.json")
 # The yearly wraps count too, but they fade. Playing someone enough to chart
 # does not mean remembering them a decade later, and a forgotten artist is worth
 # rediscovering. The wrap score is already decay-weighted, so an artist stays
-# known while it is at least what one track scores forget_years back: a one-off
-# is forgotten after five years, a heavy rotation takes much longer.
+# known while it is above what one track scores forget_years back: a one-off
+# is forgotten after four years, a heavy rotation takes much longer.
 #
 # The all-time playlist is deliberately not used here: it carries no dates, so
 # nothing in it could ever be forgotten.
@@ -23,8 +23,10 @@ half_life=$(jq -r '.tuning.yearly_half_life_years' "$root/weights.json")
 # backtest_discovery.sh can hold artists out by stripping the same file.
 played=$([ -f "$root/yearly_artists.json" ] &&
   jq -c --argjson fy "$forget_years" --argjson hl "$half_life" '
-    pow(0.5; $fy / $hl) as $floor
-    | to_entries | map(select(.value.score >= $floor) | .key)' "$root/yearly_artists.json" ||
+    # Wrap scores are rounded to two places, so the floor is too; strictly above
+    # it means a one-off is forgotten at exactly forget_years, not a year later.
+    (pow(0.5; $fy / $hl) * 100 | round / 100) as $floor
+    | to_entries | map(select(.value.score > $floor) | .key)' "$root/yearly_artists.json" ||
   echo '[]')
 
 excluded=$([ -f "$root/discover_exclude.txt" ] &&
