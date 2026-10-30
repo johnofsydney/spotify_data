@@ -6,7 +6,7 @@ file="$root/playlist_weights.json"
 
 existing=$([ -f "$file" ] && cat "$file" || echo '{}')
 
-jq -s --argjson old "$existing" '
+jq -S -s --argjson old "$existing" '
   map({key: .playlist.id,
        value: {name: .playlist.name,
                tracks: (.tracks | length),
