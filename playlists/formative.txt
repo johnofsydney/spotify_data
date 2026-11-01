@@ -1,0 +1,14 @@
+# Formative Years: bands loved since long before Spotify, which the wraps
+# barely see. Flagged as a favourites playlist, so everyone on it gets the
+# favourites points. Seed it with bin/seed_playlist.sh; after that, add to it
+# in Spotify as you like. Re-running the seed only adds lines that are missing.
+#
+# One track per line: a Spotify track URI, or "search: Artist | Title" to look
+# it up (exact artist name, title prefix).
+spotify:track:7j5Q3zhjvpQvMeoPSZwdsa   New Order - Temptation (Substance, 1987)
+spotify:track:5cy5IStIn7OSHDEIgXeDyq   Pixies - Debaser (Doolittle)
+spotify:track:0lNudhCTfcGBQVvSO22g4r   The Cure - Just Like Heaven (Kiss Me Kiss Me Kiss Me)
+spotify:track:7FIhuHZUdUxWX2hDMGdIbF   Dinosaur Jr. - Freak Scene (Bug)
+search: Dire Straits | Sultans of Swing
+spotify:track:2KqY6DZhVEuwVeJ1oYaVOF   U2 - Bad (Live at Wembley Stadium, Live Aid 1985)
+spotify:track:124Y9LPRCAz3q2OP0iCvcJ   The Clash - London Calling

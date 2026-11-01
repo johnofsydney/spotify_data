@@ -175,6 +175,7 @@ the following week to carry rather than aborting the run.
 | `bin/gig_playlist.sh` | Spotify playlist | Rebuilds "Gig Scouting" from the coming-up gigs. |
 | `bin/record_history.sh` | `history/rankings.csv` | Appends the week's top 50 to the time series. Offline. |
 | `bin/artist_stories.py` | `artist_stories.json` | A one-line story per ranked artist, for the breakdown's Story column. Offline, deterministic. |
+| `bin/seed_playlist.sh` | Spotify playlist | Creates a playlist from a list of tracks, adding only what is missing. One-off, e.g. for Formative Years. |
 | `bin/build_page.sh` | `docs/index.html` | A readable page of the favourites, discoveries and a per-signal score breakdown. Offline, self-contained. |
 | `bin/discover_playlist.sh` | Spotify playlist | Rebuilds "Worth Investigating" from the page's discovery list. Writes to Spotify, not to this repository. |
 
@@ -372,6 +373,19 @@ At 0.12 it lifts an artist who already has other evidence rather than carrying
 one alone: an artist present *only* through it, with a single track there, scores
 about 14 and lands around 250th. Raising the
 weight, or making it a floor rather than an addition, would change that.
+
+### Formative Years
+
+The wraps only see what was played on Spotify, so bands loved for decades but
+rarely streamed (New Order, Pixies, The Cure) rank far below how they are felt.
+"Formative Years" is a second favourites playlist for them: everyone on it gets
+the favourites points, like the hand-kept favourites playlist.
+
+`playlists/formative.txt` lists the seed tracks, one per band.
+`bin/seed_playlist.sh "Formative Years" playlists/formative.txt --favourite`
+creates the playlist if needed, adds any listed track that is missing (never
+removes anything, so tracks added by hand stay), and flags it in
+`playlist_weights.json`. It is a one-off, not part of the weekly refresh.
 
 ### Why these weights, and why they should stay put
 
