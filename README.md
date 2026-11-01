@@ -531,7 +531,7 @@ built one track per call, so a rebuild is about a hundred calls in a row. The
 first run on 1 November 2026 was refused partway with 429 Too Many Requests.
 Calls now go through `sp()` in `bin/lib_spotify.sh`, which waits
 `SPOTIFY_PACE` (0.5s) between calls and, on a 429, retries after 5, 10, 20… up
-to 160 seconds. A rebuild takes a couple of minutes longer and finishes. Playlists are updated, not rebuilt: tracks
+to 160 seconds, so a slow run still finishes. Playlists are updated, not rebuilt: tracks
 that dropped off are removed and new ones are added at the end, so a weekly
 change is a few dozen calls rather than a few hundred. A new playlist starts in
 ranked order; after that, newcomers join at the end. A run cut short simply
