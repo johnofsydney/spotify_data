@@ -135,10 +135,9 @@ more. Household names I simply have not saved can still slip through.</p>
 <div class="list" id="disc"></div>
 
 <h2>Albums to hear in full</h2>
-<p class="note">From favourites and from the discovery list. An album qualifies if
-the artist's own top tracks come from it or if it is new this year, and drops out
-if I already play three of its tracks or it is on the album club playlist. Anything
-listed for four weeks rests for a while so the list keeps moving.</p>
+<p class="note">From favourites and from the discovery list, ranked by how much I
+like the artist, how many of their top tracks the album holds, and whether it is
+new. The only albums left out are those on the album club playlist.</p>
 <div class="list" id="albums"></div>
 
 <h2>Score breakdown</h2>
