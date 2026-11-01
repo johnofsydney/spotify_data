@@ -9,13 +9,13 @@ later. Strike an item through, or move it into the design, once it is settled.
 ### Gigs
 - **Gig end times and durations.** Neither source gives an end time reliably.
   The calendar files will assume three hours unless told otherwise.
-- **Reaching the sources from Claude's workspace.** It cannot reach
+- **Reaching the sources from Claude's workspace** (options weighed in [source_access.md](source_access.md)). It cannot reach
   sydneymusic.net or app.ticketmaster.com, so neither adapter can be tested
   there. Either allow both domains in claude.ai (Settings > Capabilities), or
   attach a saved copy of `https://sydneymusic.net/gig-guide` and build the
   Ticketmaster adapter against its documented response shape.
-- **Ticketmaster API key.** Register at developer.ticketmaster.com and put it in
-  `.env` as `TICKETMASTER_API_KEY`.
+- ~~**Ticketmaster API key.**~~ Done 1 Nov 2026: the Consumer Key is in `.env`
+  as `TICKETMASTER_API_KEY` and a test query returns events.
 - **The "inner city" radius.** Inner west and eastern suburbs only. Ticketmaster
   searches a circle, which that area is not, so the centre and radius need
   picking, with the venue exclusion list trimming whatever the circle catches
