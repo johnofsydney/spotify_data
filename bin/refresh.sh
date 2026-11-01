@@ -29,6 +29,7 @@ python3 gigs/match.py || echo "GIG MATCHING FAILED - scoring with last week's ma
 python3 gigs/score.py
 python3 gigs/calendar.py
 ./bin/record_history.sh
+python3 bin/artist_stories.py
 ./bin/build_page.sh
 # Changes Spotify, not this repository, so a failure is logged rather than
 # allowed to cost the week's commit.

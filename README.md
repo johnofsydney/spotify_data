@@ -174,6 +174,7 @@ the following week to carry rather than aborting the run.
 | `gigs/calendar.py` | `docs/gigs/*.ics` | A calendar file per recommended gig. |
 | `bin/gig_playlist.sh` | Spotify playlist | Rebuilds "Gig Scouting" from the coming-up gigs. |
 | `bin/record_history.sh` | `history/rankings.csv` | Appends the week's top 50 to the time series. Offline. |
+| `bin/artist_stories.py` | `artist_stories.json` | A one-line story per ranked artist, for the breakdown's Story column. Offline, deterministic. |
 | `bin/build_page.sh` | `docs/index.html` | A readable page of the favourites, discoveries and a per-signal score breakdown. Offline, self-contained. |
 | `bin/discover_playlist.sh` | Spotify playlist | Rebuilds "Worth Investigating" from the page's discovery list. Writes to Spotify, not to this repository. |
 
@@ -284,6 +285,32 @@ tracks treats them as equal.
 **Counts are compressed with a square root** before scaling. 144 tracks does not
 mean 144 times the affection of one track; without compression a single
 album-length addition buries every other signal.
+
+### The Story column
+
+The score breakdown ends with a short story per artist: why they sit where they
+do. `bin/artist_stories.py` writes them from files a refresh has already
+produced (the ranking, the per-year wrap counts, the dated top-tracks exports and
+`history/rankings.csv`), with no network and no model: the same files always
+give the same stories. Each artist gets the first archetype that fits, in this
+order:
+
+| Archetype | Rule |
+| --- | --- |
+| A binge | 5+ of the top 50 now, at most one wrap behind them |
+| Riding high | 5+ of the top 50 now, with more history than that |
+| Back after a gap | in the top 50 now, missing from the last two wraps |
+| The long haul | in 5+ wraps |
+| Faded | 2+ wraps, none in the last two, nothing in the top 50 |
+| Rising | first wrap this year or last, in the top 50 now |
+| Collected more than played | under 15% of the score from wraps, over 60% from playlists and flags |
+| Hand-picked | the favourites playlist is a quarter or more of the score |
+| New | in the top 50, never in a wrap |
+| otherwise | described by whichever signal carries them: a playlist regular, one big year, a wraps regular, deep in your playlists |
+
+Then at most one extra clause: a move of 5+ places since last week, a run of
+four weeks in the top 50 for a binge, a playlist that is mostly theirs, or a run
+of new releases. The thresholds are constants at the top of the script.
 
 ### Changing the weights
 
