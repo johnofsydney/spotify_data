@@ -7,12 +7,13 @@ later. Strike an item through, or move it into the design, once it is settled.
 ## Open questions
 
 ### Gigs
-- **Output (stage 5).** Not discussed yet. A section on the page is assumed; a
-  playlist of the coming-up bands and calendar entries are possible extras.
-- **Getting at SydneyMusic's HTML.** Claude's workspace cannot reach
-  sydneymusic.net, so the parser cannot be written or tested there. Either allow
-  the domain in claude.ai (Settings > Capabilities) or attach a saved copy of
-  `https://sydneymusic.net/gig-guide`.
+- **Gig end times and durations.** Neither source gives an end time reliably.
+  The calendar files will assume three hours unless told otherwise.
+- **Reaching the sources from Claude's workspace.** It cannot reach
+  sydneymusic.net or app.ticketmaster.com, so neither adapter can be tested
+  there. Either allow both domains in claude.ai (Settings > Capabilities), or
+  attach a saved copy of `https://sydneymusic.net/gig-guide` and build the
+  Ticketmaster adapter against its documented response shape.
 - **Ticketmaster API key.** Register at developer.ticketmaster.com and put it in
   `.env` as `TICKETMASTER_API_KEY`.
 - **The "inner city" radius.** Inner west and eastern suburbs only. Ticketmaster

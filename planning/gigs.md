@@ -84,4 +84,13 @@ Plus a collapsed list of "no data" gigs underneath.
 
 ## 5. Output
 
-Not discussed yet.
+- **The page section** described above.
+- **A "Gig Scouting" playlist**, rebuilt every run the same way as Worth
+  Investigating: the top two tracks of each act in *New announcements* and
+  *Coming up*, one track from every act before a second from any, gigs in rank
+  order. "No data" acts are skipped. Found by name, created if missing, and
+  never counted as taste (the playlist export skips it by name).
+- **Calendar links.** Each gig on the page links to an `.ics` file, generated
+  per gig into `docs/gigs/` so it is served by GitHub Pages. On an iPhone,
+  tapping one opens the add-to-calendar sheet. The event carries the line-up,
+  venue, start time and the gig's link.
