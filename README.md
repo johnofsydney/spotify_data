@@ -97,6 +97,8 @@ the following week to carry rather than aborting the run.
 | `bin/favourite_artists.sh` | `favourite_artists.md` | Weighted ranking. Offline. Weights in `weights.json`. |
 | `bin/discover_artists.sh` | `discover_artists.md` | Artists I do not have, ranked by which of my favourites point at them. Offline. |
 | `bin/backtest_discovery.sh` | stdout | Scores that ranking against artists I actually went on to keep. Offline. |
+| `bin/fetch_discover.sh` | `cache/discover/` | Full artist payloads for the head of the discovery list. Gitignored, a month's TTL. |
+| `bin/album_recs.sh` | `album_recs.md` | Twenty albums to hear in full. Offline. Settings in `albums.json`. |
 | `bin/record_history.sh` | `history/rankings.csv` | Appends the week's top 50 to the time series. Offline. |
 | `bin/build_page.sh` | `docs/index.html` | A readable page of the favourites, discoveries and a per-signal score breakdown. Offline, self-contained. |
 | `bin/discover_playlist.sh` | Spotify playlist | Rebuilds "Worth Investigating" from the page's discovery list. Writes to Spotify, not to this repository. |
@@ -444,6 +446,41 @@ friends, gigs or records are not in this playlist and cannot be scored. And
 `related_artists` is fetched now, so Spotify's graph may have strengthened links
 *because* those artists went on to do well, which flatters the result. Read the
 numbers as an upper bound.
+
+## Albums to hear in full
+
+`album_recs.sh` picks twenty albums a week, from favourites and from the head of
+the discovery list. Settings live in `albums.json`.
+
+**What qualifies.** An album has to earn its place in one of two ways. Either at
+least one of the artist's own top tracks comes from it, which is the closest the
+CLI gets to "the essential record", or it came out in the last
+`new_release_days`. A favourite's deep cut with neither is not listed. Studio
+albums only: titles matching `skip_titles` (best ofs, live records, remixes) are
+dropped, and editions of one album ("(2011 Remaster)", "Deluxe", "Album: The
+Encore") count as the same album.
+
+**What is excluded.**
+- Albums I already play. Three or more distinct tracks from an album across my
+  weighted playlists and yearly wraps (`known_tracks`) means I know it. Playlists
+  at weight 0, like the Discover Weekly archive, do not count as knowing.
+- Everything on the "Elderly Gents Album Club" playlist (`exclude_playlist`),
+  matched by artist and edition-stripped title, so a remaster elsewhere in the
+  discography is caught too.
+
+**Score.** Artist weight × (`hit_floor` + share of the artist's top tracks on
+the album) × `new_release_boost` if new. Favourites use their 0-100 score.
+Discovery artists are scaled so the top one sits at `discovery_ceiling` (40),
+about where a liked but not central favourite lands. That is the dial for more
+or fewer unfamiliar artists. Only `per_artist` album per artist makes the list.
+
+**It moves.** Each run is appended to `history/album_recs.csv`. An album shown on
+`rest_after_weeks` (4) of the last `rest_weeks` (12) runs rests until those
+appearances age out, about two months. Without this the list would hardly change
+between refreshes, because the inputs barely do.
+
+Discovery artists need `cache/discover/`, which `fetch_discover.sh` fills in the
+weekly run. Without it the list still builds, from favourites only.
 
 ## Data in here
 

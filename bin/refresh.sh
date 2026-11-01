@@ -18,6 +18,10 @@ echo "=== refresh $(date '+%F %T') ==="
 ./bin/sync_playlist_weights.sh
 ./bin/favourite_artists.sh
 ./bin/discover_artists.sh
+# Network, but only for the head of the discovery list. Without it the album list
+# falls back to artists I already know rather than failing the run.
+./bin/fetch_discover.sh || echo "DISCOVER FETCH FAILED - albums use known artists only"
+./bin/album_recs.sh
 ./bin/record_history.sh
 ./bin/build_page.sh
 # Changes Spotify, not this repository, so a failure is logged rather than

@@ -23,6 +23,8 @@ weights=$(jq -c '.config.weights | ([.[]] | add) as $s | map_values(if $s > 1.5 
 disc=$(jq -c --argjson n "$disc_n" '[.[0:$n][] |
   {rank, score, votes, name, from: (.from | join(", "))}]' "$root/discover_artists.json")
 
+albums=$( [ -f "$root/album_recs.json" ] && jq -c '[.[] | {rank, score, artist, album, id, year, source, hits, new, from: (.from | join(", "))}]' "$root/album_recs.json" || echo '[]')
+
 generated=$(date '+%-d %B %Y')
 snapshots=$(awk -F',' 'NR>1 {print $1}' "$root/history/rankings.csv" 2>/dev/null | sort -u | wc -l | tr -d ' ')
 
@@ -71,6 +73,7 @@ h2:first-of-type { margin-top: 36px; }
 .rank { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 14px; }
 .name { font-weight: 550; }
 .meta { color: var(--muted); font-size: 13px; margin-top: 3px; }
+.name a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--line); }
 .score {
   font-variant-numeric: tabular-nums; color: var(--accent);
   font-size: 14px; font-weight: 600;
@@ -131,6 +134,13 @@ Spotify says they resemble &mdash; a nod from a higher-ranked artist counts for
 more. Household names I simply have not saved can still slip through.</p>
 <div class="list" id="disc"></div>
 
+<h2>Albums to hear in full</h2>
+<p class="note">From favourites and from the discovery list. An album qualifies if
+the artist's own top tracks come from it or if it is new this year, and drops out
+if I already play three of its tracks or it is on the album club playlist. Anything
+listed for four weeks rests for a while so the list keeps moving.</p>
+<div class="list" id="albums"></div>
+
 <h2>Score breakdown</h2>
 <p class="note">How each of the top fifty earns its score. In each cell the bold
 figure is the points that signal contributes, out of the most it can give (under
@@ -145,6 +155,7 @@ tap again to reverse.</p>
 <script>
 const favs = $favs;
 const disc = $disc;
+const albums = $albums;
 const brk = $brk;
 const weights = $weights;
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -172,6 +183,15 @@ document.getElementById('disc').innerHTML = disc.map(a =>
   '<div class="meta">via ' + esc(a.from) + '</div></div>' +
   '<div class="score">' + a.votes + '</div></div>'
 ).join('');
+document.getElementById('albums').innerHTML = albums.map(a => {
+  const why = [a.source === 'known' ? 'favourite' : 'new to me, via ' + esc(a.from)];
+  if (a.hits > 0) why.push(a.hits + ' of their top tracks');
+  const chip = a.new ? '<span class="chip">new</span>' : '';
+  return '<div class="row"><div class="rank">' + a.rank + '</div>' +
+    '<div><div class="name"><a href="https://open.spotify.com/album/' + a.id + '">' + esc(a.album) + '</a>' + chip + '</div>' +
+    '<div class="meta">' + esc(a.artist) + ' &middot; ' + a.year + ' &middot; ' + why.join(' &middot; ') + '</div></div>' +
+    '<div class="score">' + a.score + '</div></div>';
+}).join('');
 // One column per signal that carries weight, heaviest first, so the table
 // follows weights.json without editing: a signal set to zero drops out.
 const flag = v => v ? 'yes' : 'no';

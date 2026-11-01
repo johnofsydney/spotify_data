@@ -19,27 +19,11 @@ cache="$root/cache/discover"
 name="${DISCOVER_PLAYLIST_NAME:-Worth Investigating}"
 artists="${DISCOVER_PLAYLIST_ARTISTS:-${PAGE_DISCOVER:-50}}"
 per_artist="${DISCOVER_PLAYLIST_TRACKS:-2}"
-max_age_days="${MAX_AGE_DAYS:-30}"
 description="Rebuilt weekly by spotify_data: the top ${per_artist} tracks of each artist my favourites point at that I do not have yet."
 
-mkdir -p "$cache"
-
-# Top tracks are not in discover_artists.json and these artists are, by
-# definition, not in cache/artists, so fetch them by id. A month-old copy is
-# fine: an artist's top tracks barely move week to week.
-fetched=0
-reused=0
-while read -r id; do
-  file="$cache/$id.json"
-  if [ -f "$file" ] && [ -z "$(find "$file" -mtime +"$max_age_days")" ]; then
-    reused=$((reused + 1))
-    continue
-  fi
-  # Stage then move: an interrupted fetch must not leave a file that looks fresh.
-  spotify_player get item -i "$id" artist > "$file.tmp"
-  mv "$file.tmp" "$file"
-  fetched=$((fetched + 1))
-done < <(jq -r --argjson n "$artists" '.[0:$n][].id // empty' "$root/discover_artists.json")
+# Normally already run by refresh.sh, in which case every file is fresh and this
+# only checks their dates.
+"$root/bin/fetch_discover.sh"
 
 # One track from every artist before a second from any, so the start of the
 # playlist is the whole list rather than the top few artists in depth. A track
@@ -76,7 +60,6 @@ current=$(spotify_player get item -i "$pid" playlist | jq -r '.tracks[].id')
 
 if [ "$current" = "$desired" ]; then
   echo "playlist: '$name' unchanged, $(wc -l <<< "$desired" | tr -d ' ') tracks"
-  echo "artists: $fetched fetched, $reused cached"
   exit 0
 fi
 
@@ -96,4 +79,3 @@ while read -r track; do
 done <<< "$desired"
 
 echo "playlist: '$name' rebuilt, $removed removed, $added added"
-echo "artists: $fetched fetched, $reused cached"
