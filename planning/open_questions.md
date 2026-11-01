@@ -9,7 +9,7 @@ later. Strike an item through, or move it into the design, once it is settled.
 ### Gigs
 - **Gig end times and durations.** Neither source gives an end time reliably.
   The calendar files will assume three hours unless told otherwise.
-- **Reaching the sources from Claude's workspace** (options weighed in [source_access.md](source_access.md)). It cannot reach
+- ~~**Reaching the sources from Claude's workspace**~~ Done 1 Nov 2026: both domains are allowed (options were weighed in [source_access.md](source_access.md)). The old note: it cannot reach
   sydneymusic.net or app.ticketmaster.com, so neither adapter can be tested
   there. Either allow both domains in claude.ai (Settings > Capabilities), or
   attach a saved copy of `https://sydneymusic.net/gig-guide` and build the
