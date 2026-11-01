@@ -13,14 +13,83 @@ The questions it exists to answer:
 Everything here is derived from the Spotify API via
 [`spotify_player`](https://github.com/aome510/spotify-player). Nothing is hand-maintained.
 
-## Setup
+## Setting up on a new laptop
 
-Copy `.env.example` to `.env` and fill in your Spotify user ID. `.env` is
-gitignored and is the only place any identifier of mine is stored.
+Everything runs on one Mac: `spotify_player` talks to Spotify, launchd runs the
+weekly refresh, and the refresh commits and pushes to GitHub, which serves the
+page. These steps take a fresh Mac to a working weekly run. The data, caches and
+history are all in the repository, so nothing needs copying from the old machine
+except `.env`.
 
-```sh
-cp .env.example .env
-```
+1. **Tools.** Install the Xcode command-line tools (git, and the python3 the gig
+   adapters will need), then Homebrew, then the rest:
+
+   ```sh
+   xcode-select --install
+   brew install spotify_player jq gh
+   ```
+
+2. **Clone with push access.** The scheduled run pushes on its own, so git needs
+   credentials that work without a prompt. `gh` sets that up:
+
+   ```sh
+   gh auth login            # GitHub.com, HTTPS, log in with a browser
+   gh repo clone johnofsydney/spotify_data ~/code/spotify_data
+   ```
+
+   **Keep the clone out of `~/Documents`, `~/Desktop` and `~/Downloads`.** macOS
+   privacy controls stop a launchd job reading those folders unless the job has
+   been granted access, and the run fails without saying why.
+
+3. **Authenticate Spotify.** This needs a Premium account and a browser:
+
+   ```sh
+   spotify_player authenticate
+   spotify_player get key user-playlists | jq length    # should print a number
+   ```
+
+   Leave `client_id` unset in `spotify_player`'s config. Its bundled client id
+   predates Spotify's November 2024 API restrictions; a newly registered app
+   cannot reach related artists or the generated playlists this depends on.
+
+4. **Recreate `.env`.** It is gitignored, so it is the one thing that does not
+   come with the clone. Keep a copy in a password manager.
+
+   ```sh
+   cp .env.example .env     # then fill in:
+   # SPOTIFY_USER_ID       Spotify > profile > Share > Copy link; last path segment
+   # ALLTIME_PLAYLIST_ID   optional; see .env.example
+   # TICKETMASTER_API_KEY  once the gig picker exists
+   ```
+
+5. **Run it once by hand.**
+
+   ```sh
+   ./bin/refresh.sh
+   git log -1 --oneline     # "Refresh exports <today>", pushed
+   ```
+
+   The caches are committed, so this takes a minute or two rather than half an
+   hour. `cache/discover/` is gitignored and refetches (about 50 calls).
+
+6. **Schedule it.**
+
+   ```sh
+   ./setup/install-schedule.sh
+   launchctl list | grep spotify-refresh
+   launchctl start com.$(id -un | tr -cd '[:alnum:]').spotify-refresh
+   tail -f .refresh.log
+   ```
+
+7. **Turn off the old laptop's schedule**, or both machines will push on
+   Mondays and the second push will fail on the first one's commit:
+
+   ```sh
+   launchctl unload ~/Library/LaunchAgents/com.*.spotify-refresh.plist
+   ```
+
+Whether this should run on a server instead is weighed up in
+[planning/server.md](planning/server.md).
 
 ## Adapting this for your own account
 
