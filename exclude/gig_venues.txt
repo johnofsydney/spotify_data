@@ -2,3 +2,9 @@
 # line, matched exactly against either the venue's name as the source gives it
 # ("Qudos Bank Arena") or its source id (SydneyMusic's venue slug,
 # "qudos-bank-arena"). Lines starting with # are ignored.
+# Ivy, Sydney (George Street): excluded 2 November 2026. Listed under both
+# sources' names and ids.
+Ivy
+ivy-merivale
+ivy Sydney
+KovZ917ARtW
