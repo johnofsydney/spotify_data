@@ -1,7 +1,8 @@
 # Albums to hear in full — 2026-11-01
 
 Ranked by how much I like the artist, whether the album holds their best-known
-tracks, and whether it is new. Excludes only the "Elderly Gents Album Club" playlist.
+tracks, and whether it is new. Excludes the "Elderly Gents Album Club" playlist, best ofs
+and live records, and albums resting after four weeks on the list.
 
 | # | Album | Artist | Year | Why |
 | --- | --- | --- | --- | --- |
