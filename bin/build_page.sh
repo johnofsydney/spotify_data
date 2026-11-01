@@ -23,6 +23,10 @@ weights=$(jq -c '.config.weights | ([.[]] | add) as $s | map_values(if $s > 1.5 
 disc=$(jq -c --argjson n "$disc_n" '[.[0:$n][] |
   {rank, score, votes, name, from: (.from | join(", "))}]' "$root/discover_artists.json")
 
+albums=$( [ -f "$root/album_pool.json" ] && jq -c '[.[] | {k: .key, a: .artist_id, artist, album, id, year, source, hits, new, score, from: (.from | join(", "))}]' "$root/album_pool.json" || echo '[]')
+per_artist=$(jq -r '.per_artist // 1' "$root/albums.json" 2>/dev/null || echo 1)
+album_count=$(jq -r '.count // 20' "$root/albums.json" 2>/dev/null || echo 20)
+
 generated=$(date '+%-d %B %Y')
 snapshots=$(awk -F',' 'NR>1 {print $1}' "$root/history/rankings.csv" 2>/dev/null | sort -u | wc -l | tr -d ' ')
 
@@ -71,6 +75,14 @@ h2:first-of-type { margin-top: 36px; }
 .rank { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 14px; }
 .name { font-weight: 550; }
 .meta { color: var(--muted); font-size: 13px; margin-top: 3px; }
+.name a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--line); }
+.albumbar { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin: 0 0 14px; }
+.albumbar button {
+  font: inherit; font-size: 14px; padding: 7px 14px; border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--card); color: var(--fg);
+}
+.albumbar button:disabled { opacity: .5; cursor: default; }
+.albumbar button.link { border: 0; background: none; color: var(--accent); padding: 7px 0; }
 .score {
   font-variant-numeric: tabular-nums; color: var(--accent);
   font-size: 14px; font-weight: 600;
@@ -131,6 +143,16 @@ Spotify says they resemble &mdash; a nod from a higher-ranked artist counts for
 more. Household names I simply have not saved can still slip through.</p>
 <div class="list" id="disc"></div>
 
+<h2>Albums to hear in full</h2>
+<p class="note">From favourites and from the discovery list, ranked by how much I
+like the artist, how many of their top tracks the album holds, and whether it is
+new. One per artist. Left out: the album club playlist, best ofs and live records,
+and anything that has had four weeks on the list.</p>
+<div class="albumbar"><button id="albumsNext" type="button">Show me twenty others</button>
+<button id="albumsReset" type="button" class="link" hidden>Back to this week's list</button>
+<span id="albumsState" class="sub"></span></div>
+<div class="list" id="albums"></div>
+
 <h2>Score breakdown</h2>
 <p class="note">How each of the top fifty earns its score. In each cell the bold
 figure is the points that signal contributes, out of the most it can give (under
@@ -145,6 +167,8 @@ tap again to reverse.</p>
 <script>
 const favs = $favs;
 const disc = $disc;
+const albumPool = $albums;
+const albumPer = $per_artist, albumCount = $album_count, albumStamp = '$generated';
 const brk = $brk;
 const weights = $weights;
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -172,6 +196,57 @@ document.getElementById('disc').innerHTML = disc.map(a =>
   '<div class="meta">via ' + esc(a.from) + '</div></div>' +
   '<div class="score">' + a.votes + '</div></div>'
 ).join('');
+// The pool is every eligible album, ranked. "Show me twenty others" puts the
+// ones on screen aside and recalculates from what is left, applying the same
+// one-per-artist rule as album_recs.sh. The set-aside list lives in this
+// browser only and clears when the weekly data changes.
+const skipKey = 'albumsSkipped';
+const loadSkips = () => {
+  try {
+    const s = JSON.parse(localStorage.getItem(skipKey) || 'null');
+    return s && s.stamp === albumStamp ? s.keys : [];
+  } catch (e) { return []; }
+};
+const saveSkips = keys => {
+  try { localStorage.setItem(skipKey, JSON.stringify({stamp: albumStamp, keys})); } catch (e) {}
+};
+let skipped = loadSkips();
+let shown = [];
+const pickAlbums = () => {
+  const skip = new Set(skipped), per = {}, out = [];
+  for (const a of albumPool) {
+    if (skip.has(a.k) || (per[a.a] || 0) >= albumPer) continue;
+    per[a.a] = (per[a.a] || 0) + 1;
+    out.push(a);
+    if (out.length === albumCount) break;
+  }
+  return out;
+};
+const renderAlbums = () => {
+  shown = pickAlbums();
+  document.getElementById('albums').innerHTML = shown.map((a, i) => {
+    const why = [a.source === 'known' ? 'favourite' : 'new to me, via ' + esc(a.from)];
+    if (a.hits > 0) why.push(a.hits + ' of their top tracks');
+    const chip = a.new ? '<span class="chip">new</span>' : '';
+    return '<div class="row"><div class="rank">' + (i + 1) + '</div>' +
+      '<div><div class="name"><a href="https://open.spotify.com/album/' + a.id + '">' + esc(a.album) + '</a>' + chip + '</div>' +
+      '<div class="meta">' + esc(a.artist) + ' &middot; ' + a.year + ' &middot; ' + why.join(' &middot; ') + '</div></div>' +
+      '<div class="score">' + a.score + '</div></div>';
+  }).join('') || '<div class="row"><div></div><div class="meta">Nothing left in the pool. Go back to this week\'s list.</div><div></div></div>';
+  const sets = Math.round(skipped.length / albumCount);
+  document.getElementById('albumsReset').hidden = skipped.length === 0;
+  document.getElementById('albumsNext').disabled = shown.length === 0;
+  document.getElementById('albumsState').textContent = skipped.length ? sets + (sets === 1 ? ' set' : ' sets') + ' put aside' : '';
+};
+document.getElementById('albumsNext').addEventListener('click', () => {
+  skipped = skipped.concat(shown.map(a => a.k));
+  saveSkips(skipped); renderAlbums();
+  document.getElementById('albums').scrollIntoView({block: 'start'});
+});
+document.getElementById('albumsReset').addEventListener('click', () => {
+  skipped = []; saveSkips(skipped); renderAlbums();
+});
+renderAlbums();
 // One column per signal that carries weight, heaviest first, so the table
 // follows weights.json without editing: a signal set to zero drops out.
 const flag = v => v ? 'yes' : 'no';
