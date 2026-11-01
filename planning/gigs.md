@@ -1,6 +1,7 @@
 # Gig recommendations — design
 
-Settled decisions, stage by stage. Not built yet. What is still open, or
+Settled decisions, stage by stage. Built 1 November 2026; the README's Gigs
+section describes the implementation. What is still open, or
 decided only for now, is in [open_questions.md](open_questions.md).
 
 ## 1. Listings
@@ -65,7 +66,8 @@ All on the favourites' 0-100 scale.
 - **Not on Spotify, or no related artists:** "no data", not zero.
 - **Guessed matches:** × 0.7.
 - **An act scores the same headlining or supporting.**
-- **Gig score:** best act + 0.3 × the sum of the other acts.
+- **Gig score:** best act + 0.3 × the sum of the next three acts. (Capped at three
+  during the build: uncapped, festival bills of 30 acts outscored headline shows.)
 
 ## 4. Ranking and the page
 
@@ -78,8 +80,10 @@ Three sections:
 
 Plus a collapsed list of "no data" gigs underneath.
 
-- **Area:** inner west and eastern suburbs only. Ticketmaster's radius does the
-  rough cut; a venue exclusion list does the rest.
+- **Area:** inner west, eastern suburbs and the city. Both sources give a
+  suburb (SydneyMusic in each gig's calendar link, Ticketmaster as the venue's
+  city), so the cut is a suburb list in `gigs.json`, with Ticketmaster's radius
+  as a first pass and `exclude/gig_venues.txt` for individual venues.
 - **Price:** SydneyMusic's FREE flag shown as a tag; no price filtering.
 
 ## 5. Output

@@ -1,0 +1,4 @@
+# Venues the gig picker drops, after the suburb filter in gigs.json. One per
+# line, matched exactly against either the venue's name as the source gives it
+# ("Qudos Bank Arena") or its source id (SydneyMusic's venue slug,
+# "qudos-bank-arena"). Lines starting with # are ignored.

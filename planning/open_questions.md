@@ -16,14 +16,27 @@ later. Strike an item through, or move it into the design, once it is settled.
   Ticketmaster adapter against its documented response shape.
 - **Ticketmaster API key.** Register at developer.ticketmaster.com and put it in
   `.env` as `TICKETMASTER_API_KEY`.
-- **The "inner city" radius.** Inner west and eastern suburbs only. Ticketmaster
+- ~~**The "inner city" radius.**~~ Settled by suburb instead: both sources give
+  one, so `gigs.json` lists the suburbs. The old note: Inner west and eastern suburbs only. Ticketmaster
   searches a circle, which that area is not, so the centre and radius need
   picking, with the venue exclusion list trimming whatever the circle catches
   that it should not.
 - **The cut-offs.** "Top 100 favourites" for new announcements and a minimum
   gig score for coming up and further out were proposals, not tuned numbers.
-- **Python for the adapters.** Proposed (standard library only, so nothing to
-  install) because parsing HTML in bash and jq is fragile. Not explicitly agreed.
+- ~~**Python for the adapters.**~~ Built that way, standard library only, and
+  matching and scoring went the same way.
+
+### Found while building
+- **Event names as headliners.** SydneyMusic lists festivals and club nights
+  with the event as the headliner ("Moving Different Festival", "Jess-Fest"),
+  which then gets matched and scored as if it were a band. Dropping acts whose
+  name looks like an event is the likely fix; not done yet.
+- **Matching known artists by name alone.** A favourite with a generic name
+  matches any act of that name. Rare so far; checking the act's related
+  artists would catch it.
+- **First run fills slowly.** About 1,700 distinct acts against 400 lookups a
+  run. Raise `max_new_lookups` for one run to catch up, at the cost of a long
+  run and more rate limiting.
 
 ## Decided for now, adapt later
 
@@ -36,6 +49,8 @@ later. Strike an item through, or move it into the design, once it is settled.
   enough.
 - **Guessed Spotify matches score × 0.7.** When a gig act's name matches several
   Spotify artists, the best guess is used, marked as a guess, and discounted.
+- **A gig is its best act plus 0.3 × the next three.** Capped at three during
+  the build so festival bills do not win on volume.
 - **"No data" gigs are a collapsed list.** Acts Spotify cannot place, shown
   under the ranked gigs rather than scored as zero or hidden.
 
