@@ -764,6 +764,7 @@
 3x  Billy Nomates
 3x  Biosphere
 3x  Black Hill
+3x  Black Market Karma
 3x  Bleached
 3x  BLITZ VEGA
 3x  Bo Bruce
@@ -2071,6 +2072,7 @@
 1x  22-Pistepirkko
 1x  3D
 1x  3TEETH
+1x  4 Strings
 1x  5 Billion In Diamonds
 1x  7 SKIES
 1x  747
@@ -2106,6 +2108,7 @@
 1x  Adrian Quesada
 1x  Adult DVD
 1x  Aerium
+1x  Aerosmith
 1x  AES Dana
 1x  AFFKT
 1x  Afflecks Palace
@@ -2341,6 +2344,7 @@
 1x  Bendik
 1x  Bendik Baksaas
 1x  Benjamin Zephaniah
+1x  Benny Benassi
 1x  Benny Smiles
 1x  Benny Spellman
 1x  Benoît Pioulard
@@ -2393,6 +2397,7 @@
 1x  Black Honey
 1x  Black Light Burns
 1x  Black Lips
+1x  Black Lung
 1x  Black Marble
 1x  Black Mirrors
 1x  Black Moth
@@ -2489,12 +2494,14 @@
 1x  C418
 1x  Cabaret Voltaire
 1x  Cabbage
+1x  Cage The Elephant
 1x  Calexico
 1x  Calibre
 1x  Califone
 1x  Callum Easter
 1x  Calva Louise
 1x  Camara
+1x  Cambrian Explosion
 1x  Camedor
 1x  Camilla Sparksss
 1x  Camouflage
@@ -2522,6 +2529,7 @@
 1x  Caspar Brötzmann Massaker
 1x  Casper Clausen
 1x  Casper Cole
+1x  Cast
 1x  Casting Crowns
 1x  Casual
 1x  Catching Flies
@@ -2608,6 +2616,7 @@
 1x  Cocteau Twins
 1x  Cog
 1x  Cold Showers
+1x  Cold War Kids
 1x  Coldbones
 1x  Coldplay
 1x  Colin Greenwood
@@ -2686,9 +2695,11 @@
 1x  Daniel Selke
 1x  Danielle Ponder
 1x  Danz CM
+1x  Daphni
 1x  Dare Mason
 1x  Dark Dark Horse
 1x  Dark Moon
+1x  Darkfield
 1x  Darkhalo
 1x  Darkstar
 1x  Darlene Love
@@ -2838,6 +2849,7 @@
 1x  Dugo
 1x  Dumbo Tracks
 1x  Dundundun
+1x  Duran Duran
 1x  Duskus
 1x  Dust
 1x  Dusted
@@ -2877,6 +2889,7 @@
 1x  Ela Minus
 1x  Ela Orleans
 1x  Elderbrook
+1x  Electric Light Orchestra
 1x  Electric Moon
 1x  Electric Zoo
 1x  Elephant9
@@ -2989,6 +3002,7 @@
 1x  Flanko
 1x  Flaor
 1x  Flasher
+1x  Flavor Crystals
 1x  Flight Facilities
 1x  Floodlights
 1x  Floral
@@ -3021,6 +3035,7 @@
 1x  Frank Zappa
 1x  Franky Perez
 1x  Franky Wah
+1x  Franz Ferdinand
 1x  Fred Neil
 1x  Fred Nevché
 1x  Freddie Chavez
@@ -3050,6 +3065,7 @@
 1x  GABRIELLE
 1x  GAIA
 1x  Galactic
+1x  Galaxie 500
 1x  Garbage
 1x  Garcia Peoples
 1x  Gard Nilssen
@@ -3142,6 +3158,7 @@
 1x  Grey Reverend
 1x  Gridlayer
 1x  Grimes
+1x  Grizzly Bear
 1x  Group Listening
 1x  Guerilla Toss
 1x  Gunn - Truscinski Duo
@@ -3765,6 +3782,7 @@
 1x  Man Is Not a Bird
 1x  Man of No Ego
 1x  Manchester Orchestra
+1x  Mandrake Handshake
 1x  Mandrax Queen
 1x  Mandy, Indiana
 1x  Manes
@@ -3786,6 +3804,7 @@
 1x  Marcus Hamblett
 1x  Marcus Intalex
 1x  Marcus King
+1x  Margarita Witch Cult
 1x  Margo Guryan
 1x  Margo Price
 1x  Maria Huld Markan Sigfúsdóttir
@@ -3890,6 +3909,7 @@
 1x  Midwife
 1x  Mighty Bombs
 1x  Miguel Atwood-Ferguson
+1x  Miike Snow
 1x  Mike Foyle
 1x  Mike Kerr
 1x  Mike Lesirge
@@ -4314,6 +4334,7 @@
 1x  Ramona Falls
 1x  Ramones
 1x  Rampa
+1x  Rank 1
 1x  Ranking Roger
 1x  Rare Bird
 1x  Rashid Ajami
@@ -4346,6 +4367,7 @@
 1x  Rhythm & Sound
 1x  Ribozyme
 1x  Richard & Linda Thompson
+1x  Richard Ashcroft
 1x  Richard Berry & The Pharaohs
 1x  Richard Durand
 1x  Richard Marcangelo
@@ -4470,8 +4492,10 @@
 1x  Saudade
 1x  Saul Williams
 1x  SAULT
+1x  Savanah
 1x  Savath & Savalas
 1x  Savoy Motel
+1x  Saxon Shore
 1x  Say Hi
 1x  Saya
 1x  Saycet
@@ -4621,6 +4645,7 @@
 1x  Space Motion
 1x  Space Tribe
 1x  Spada
+1x  Sparklehorse
 1x  SPARKLING
 1x  Special Interest
 1x  Special Request
@@ -4784,6 +4809,7 @@
 1x  The Beauty of Gemina
 1x  The Belbury Circle
 1x  The Belligerents
+1x  The Best Pessimist
 1x  The Beths
 1x  The Birthmarks
 1x  The Black Ghosts
@@ -4839,6 +4865,7 @@
 1x  The Elysian Fields
 1x  The Essex Green
 1x  The Evens
+1x  The Everywheres
 1x  The Exploding Boy
 1x  The Feelies
 1x  The Field Mice
@@ -5004,6 +5031,7 @@
 1x  The Vintage Caravan
 1x  The Void Pacific Choir
 1x  The Walker Brothers
+1x  The Walking Who
 1x  The Walkmen
 1x  The Wipers
 1x  The Woolen Men
@@ -5031,6 +5059,8 @@
 1x  Thor Rixon
 1x  Thou
 1x  Thought Gang
+1x  Three Drives
+1x  Three Drives On A Vinyl
 1x  Throw Down Bones
 1x  Thunderclap Newman
 1x  Tif Lamson
@@ -5201,6 +5231,7 @@
 1x  Wailin Storms
 1x  WAIO
 1x  WALK THE MOON
+1x  Wall of Death
 1x  WaluśKraksaKryzys
 1x  Wang Wen
 1x  Warhaus

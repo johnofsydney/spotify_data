@@ -5,7 +5,7 @@
     "name": "BO Discover Weekly",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAEAktGorjF/pFjftUo6yy96zXL9LUN"
+    "snapshot_id": "AAAEBC82F/YC5iFlSV1Hr74qwXQ9mH4Y"
   },
   "tracks": [
     {
@@ -27949,6 +27949,62 @@
       "duration": {
         "secs": 316,
         "nanos": 466000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1LtaP534rqz4fEEZ4iyt2i",
+      "name": "Sitari-Wary",
+      "artists": [
+        {
+          "id": "1lbkSAoynPSO7OQOFSOdon",
+          "name": "Black Market Karma"
+        }
+      ],
+      "album": {
+        "id": "3UvYRfU9m3zNv0slWnjI2s",
+        "release_date": "2012-12-20",
+        "name": "Semper Fi",
+        "artists": [
+          {
+            "id": "1lbkSAoynPSO7OQOFSOdon",
+            "name": "Black Market Karma"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 275,
+        "nanos": 320000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3DuszybYrT9XCZFti1vC6A",
+      "name": "Who What Where and Why? (2023 Remaster)",
+      "artists": [
+        {
+          "id": "1lbkSAoynPSO7OQOFSOdon",
+          "name": "Black Market Karma"
+        }
+      ],
+      "album": {
+        "id": "0Hzw9qNDlYFwGsBvB3sO5T",
+        "release_date": "2024-01-12",
+        "name": "An Introduction to Black Market Karma and Their Technicolour Liquid Audio Machine",
+        "artists": [
+          {
+            "id": "1lbkSAoynPSO7OQOFSOdon",
+            "name": "Black Market Karma"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 432,
+        "nanos": 262000000
       },
       "explicit": false
     }

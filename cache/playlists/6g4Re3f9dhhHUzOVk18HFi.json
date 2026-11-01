@@ -1,0 +1,860 @@
+{
+  "playlist": {
+    "id": "6g4Re3f9dhhHUzOVk18HFi",
+    "collaborative": false,
+    "name": "Eclectic Discovery Mix",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAABLJtIr5NdUcfr0DQoYBQnF2BcJdZ"
+  },
+  "tracks": [
+    {
+      "id": "7yZF4VuAjjcXjcMbqwZtQc",
+      "name": "Gold Day",
+      "artists": [
+        {
+          "id": "64tVHZVSAZhDEiOJxnb6hE",
+          "name": "Sparklehorse"
+        }
+      ],
+      "album": {
+        "id": "6iP3HGmoRXFUrKiml2QVkz",
+        "release_date": "2001-08-08",
+        "name": "It's A Wonderful Life",
+        "artists": [
+          {
+            "id": "64tVHZVSAZhDEiOJxnb6hE",
+            "name": "Sparklehorse"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 254,
+        "nanos": 560000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4nA5V1hzpeNhM1gmvz11qr",
+      "name": "Control",
+      "artists": [
+        {
+          "id": "0e9C27umtAZF9E2jqyRfeP",
+          "name": "Darkfield"
+        }
+      ],
+      "album": {
+        "id": "2mHAYyspw9eCOGKhW7lvnS",
+        "release_date": "2022-04-28",
+        "name": "Reanimated Voices",
+        "artists": [
+          {
+            "id": "0e9C27umtAZF9E2jqyRfeP",
+            "name": "Darkfield"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 300,
+        "nanos": 720000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3tDkG4kSaCCRwn6deudm2O",
+      "name": "Looming Eye",
+      "artists": [
+        {
+          "id": "3P9GBL7eR4FOpg7lsN0eRc",
+          "name": "Cambrian Explosion"
+        }
+      ],
+      "album": {
+        "id": "3geNBAXvhnfwc5Asoue1lT",
+        "release_date": "2017-07-14",
+        "name": "The Moon",
+        "artists": [
+          {
+            "id": "3P9GBL7eR4FOpg7lsN0eRc",
+            "name": "Cambrian Explosion"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 458,
+        "nanos": 53000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0kNv6Gz2ckBlK7sFqUEItr",
+      "name": "Candy Flu",
+      "artists": [
+        {
+          "id": "2rSnDv4mgde9Nrmd29Xv4r",
+          "name": "The Walking Who"
+        }
+      ],
+      "album": {
+        "id": "6hCe8IQQpgUVPKuTjymHhV",
+        "release_date": "2011-03-20",
+        "name": "Candy Flu",
+        "artists": [
+          {
+            "id": "2rSnDv4mgde9Nrmd29Xv4r",
+            "name": "The Walking Who"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 154,
+        "nanos": 174000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1B1QyU5S0rIrokfaV9Zq4a",
+      "name": "Carry On",
+      "artists": [
+        {
+          "id": "4nhvb6x9ZhPiYCzrHDNia9",
+          "name": "Daphni"
+        }
+      ],
+      "album": {
+        "id": "2NF7kUOEaNYhCWLANV85Aj",
+        "release_date": "2017-10-06",
+        "name": "Joli Mai",
+        "artists": [
+          {
+            "id": "4nhvb6x9ZhPiYCzrHDNia9",
+            "name": "Daphni"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 226,
+        "nanos": 479000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "21msrMn96q6AqXJKz4QMLF",
+      "name": "They Don't Own Me",
+      "artists": [
+        {
+          "id": "1HGTHrRQkw0BtevSo1jucU",
+          "name": "Richard Ashcroft"
+        }
+      ],
+      "album": {
+        "id": "6Es9hMxtOmPK5XpNl30Ey9",
+        "release_date": "2016-05-20",
+        "name": "These People",
+        "artists": [
+          {
+            "id": "1HGTHrRQkw0BtevSo1jucU",
+            "name": "Richard Ashcroft"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 348,
+        "nanos": 653000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1SqY3rqLazvQlDz24GJ1TO",
+      "name": "Alright",
+      "artists": [
+        {
+          "id": "0vBDEQ1aLZpe4zgn2fPH6Z",
+          "name": "Cast"
+        }
+      ],
+      "album": {
+        "id": "4QpYfKscCgJ7cciYCEysg5",
+        "release_date": "1995-01-01",
+        "name": "All Change",
+        "artists": [
+          {
+            "id": "0vBDEQ1aLZpe4zgn2fPH6Z",
+            "name": "Cast"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 217,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5mIbLV3Aa4NcQDgMY4XgCT",
+      "name": "Ready, Able",
+      "artists": [
+        {
+          "id": "2Jv5eshHtLycR6R8KQCdc4",
+          "name": "Grizzly Bear"
+        }
+      ],
+      "album": {
+        "id": "3XQMgEnLQnOMkFaJA9w6sZ",
+        "release_date": "2009-05-24",
+        "name": "Veckatimest",
+        "artists": [
+          {
+            "id": "2Jv5eshHtLycR6R8KQCdc4",
+            "name": "Grizzly Bear"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 257,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7qIibFUInjeAMNJKmsSg1y",
+      "name": "Tripping",
+      "artists": [
+        {
+          "id": "5aigDdW1JMwlIHdOgn8JG6",
+          "name": "The Everywheres"
+        }
+      ],
+      "album": {
+        "id": "02bTduLd8Tzxj3cI8Qva42",
+        "release_date": "2013-03-14",
+        "name": "Slow Friends",
+        "artists": [
+          {
+            "id": "5aigDdW1JMwlIHdOgn8JG6",
+            "name": "The Everywheres"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 173,
+        "nanos": 444000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0xGlQO6wmX3tRWcWu9SpGZ",
+      "name": "Black & Blue",
+      "artists": [
+        {
+          "id": "4l1cKWYW591xnwEGxpUg3J",
+          "name": "Miike Snow"
+        }
+      ],
+      "album": {
+        "id": "4J3NykdDJupigbbnlDySZA",
+        "release_date": "2009-05-22",
+        "name": "Miike Snow (Deluxe Edition)",
+        "artists": [
+          {
+            "id": "4l1cKWYW591xnwEGxpUg3J",
+            "name": "Miike Snow"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 220,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7rslLfkGoZO2kj2SCPh9WD",
+      "name": "Able To Love",
+      "artists": [
+        {
+          "id": "4Ws2otunReOa6BbwxxpCt6",
+          "name": "Benny Benassi"
+        }
+      ],
+      "album": {
+        "id": "1y6zq6piw53s81ZZ2eJ8qc",
+        "release_date": "2003",
+        "name": "Hypnotica",
+        "artists": [
+          {
+            "id": "4Ws2otunReOa6BbwxxpCt6",
+            "name": "Benny Benassi"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 208,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7pe7JWmS5Ek4pOiKcSU25H",
+      "name": "Greece 2000 - Extended Mix",
+      "artists": [
+        {
+          "id": "10feV0eOe64kjUc95Lnfuv",
+          "name": "Three Drives On A Vinyl"
+        },
+        {
+          "id": "6zgVdOBoN1Fu4JGqd9SZlG",
+          "name": "Three Drives"
+        }
+      ],
+      "album": {
+        "id": "0Kldrxo1zjpUc07YQGea9n",
+        "release_date": "1997-06-01",
+        "name": "Greece 2000",
+        "artists": [
+          {
+            "id": "10feV0eOe64kjUc95Lnfuv",
+            "name": "Three Drives On A Vinyl"
+          },
+          {
+            "id": "6zgVdOBoN1Fu4JGqd9SZlG",
+            "name": "Three Drives"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 483,
+        "nanos": 718000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1bsmUsvUaeZaIoC1xaTtUw",
+      "name": "King Cnut",
+      "artists": [
+        {
+          "id": "3tW2ocpP6a9HqZoWgn45kn",
+          "name": "Mandrake Handshake"
+        }
+      ],
+      "album": {
+        "id": "4cLeoigCgulrTWiYszW61K",
+        "release_date": "2025-02-21",
+        "name": "Earth-Sized Worlds",
+        "artists": [
+          {
+            "id": "3tW2ocpP6a9HqZoWgn45kn",
+            "name": "Mandrake Handshake"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 286,
+        "nanos": 860000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "7IzSP4cl6kIumU5lZiy8id",
+      "name": "Turn It Around - Radio Edit",
+      "artists": [
+        {
+          "id": "2a0fbijQhcaj1hOFp5b3id",
+          "name": "4 Strings"
+        }
+      ],
+      "album": {
+        "id": "6pTVe2YhNdk9Rcs2H2eIvz",
+        "release_date": "2004-07-27",
+        "name": "Turn It Around",
+        "artists": [
+          {
+            "id": "2a0fbijQhcaj1hOFp5b3id",
+            "name": "4 Strings"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 217,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0DXsPlfQtOQBFbL0wAaOn6",
+      "name": "Blue Thunder",
+      "artists": [
+        {
+          "id": "6guTJsgPymDUVfqDJyz5UG",
+          "name": "Galaxie 500"
+        }
+      ],
+      "album": {
+        "id": "1qhNLXBmt1EW6Kwt2A3u8M",
+        "release_date": "1989-09-01",
+        "name": "On Fire",
+        "artists": [
+          {
+            "id": "6guTJsgPymDUVfqDJyz5UG",
+            "name": "Galaxie 500"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 229,
+        "nanos": 813000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5Of3K66eJzwXdnhevaVSo3",
+      "name": "Be My Witch",
+      "artists": [
+        {
+          "id": "6W9xe2luexTCcijzAN1TIK",
+          "name": "Margarita Witch Cult"
+        }
+      ],
+      "album": {
+        "id": "1YPYrOweYoWdXbakC0QXpr",
+        "release_date": "2023-04-21",
+        "name": "Margarita Witch Cult",
+        "artists": [
+          {
+            "id": "6W9xe2luexTCcijzAN1TIK",
+            "name": "Margarita Witch Cult"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 224,
+        "nanos": 625000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6F3G2ll8jLAienikfbVbRD",
+      "name": "Replacement Driver",
+      "artists": [
+        {
+          "id": "6aGxmrOqjSpDGvIJdId29O",
+          "name": "Saxon Shore"
+        }
+      ],
+      "album": {
+        "id": "42bm1KAdbgmq5nmG41N7IW",
+        "release_date": "2005-05-17",
+        "name": "Be a Bright Blue",
+        "artists": [
+          {
+            "id": "6aGxmrOqjSpDGvIJdId29O",
+            "name": "Saxon Shore"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 295,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "08pimvEkrOYcqNqD9hBzI5",
+      "name": "Main Obsession",
+      "artists": [
+        {
+          "id": "0Bdf0t0XnqZ66GRRJIRoN5",
+          "name": "Wall of Death"
+        }
+      ],
+      "album": {
+        "id": "5H8v2c11UAVJt9e9LCcpvJ",
+        "release_date": "2012-11-05",
+        "name": "Main Obsession",
+        "artists": [
+          {
+            "id": "0Bdf0t0XnqZ66GRRJIRoN5",
+            "name": "Wall of Death"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 178,
+        "nanos": 982000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0nUTad7F5Z2p3SX0w4kVTN",
+      "name": "Antenna House",
+      "artists": [
+        {
+          "id": "4f9gYYlYPavcxoTwA8aYQY",
+          "name": "Flavor Crystals"
+        }
+      ],
+      "album": {
+        "id": "66jRPAUp6R7jVHombEQrn7",
+        "release_date": "2015-10-13",
+        "name": "The Shiver of the Flavor Crystals",
+        "artists": [
+          {
+            "id": "4f9gYYlYPavcxoTwA8aYQY",
+            "name": "Flavor Crystals"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 343,
+        "nanos": 296000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "06h6Y3nklQ8NgRwemZlQDS",
+      "name": "Airwave - Album Cut",
+      "artists": [
+        {
+          "id": "1eQe86RbDKRIiGZk08r9YJ",
+          "name": "Rank 1"
+        }
+      ],
+      "album": {
+        "id": "6P7JbeaSgpo5XdLzXmin1z",
+        "release_date": "2002-03-09",
+        "name": "Symsonic",
+        "artists": [
+          {
+            "id": "1eQe86RbDKRIiGZk08r9YJ",
+            "name": "Rank 1"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 299,
+        "nanos": 826000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7bKFxP4TXbqaCVNWMZf4qE",
+      "name": "Above the Fog (Pt.1)",
+      "artists": [
+        {
+          "id": "6W4aup6f745SyZe2vShUnZ",
+          "name": "The Best Pessimist"
+        }
+      ],
+      "album": {
+        "id": "5RQJ2Gk1ep33nVpWZCNivn",
+        "release_date": "2012-01-27",
+        "name": "Love Is...",
+        "artists": [
+          {
+            "id": "6W4aup6f745SyZe2vShUnZ",
+            "name": "The Best Pessimist"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 440,
+        "nanos": 649000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4VP8QiCeaZq8BeTIUrMQOG",
+      "name": "No You Girls",
+      "artists": [
+        {
+          "id": "0XNa1vTidXlvJ2gHSsRi4A",
+          "name": "Franz Ferdinand"
+        }
+      ],
+      "album": {
+        "id": "6ppF24fU5pqbPrPuK5zVnS",
+        "release_date": "2009-01-27",
+        "name": "Tonight",
+        "artists": [
+          {
+            "id": "0XNa1vTidXlvJ2gHSsRi4A",
+            "name": "Franz Ferdinand"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 223,
+        "nanos": 786000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6I4snLrVOrJsLdd43isc27",
+      "name": "A View to a Kill",
+      "artists": [
+        {
+          "id": "0lZoBs4Pzo7R89JM9lxwoT",
+          "name": "Duran Duran"
+        }
+      ],
+      "album": {
+        "id": "4P6rgSkSEXFGrpTk9NZUAj",
+        "release_date": "1989-11-20",
+        "name": "Decade",
+        "artists": [
+          {
+            "id": "0lZoBs4Pzo7R89JM9lxwoT",
+            "name": "Duran Duran"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 217,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7LDEE6N6xn7BAfi1ctWzGz",
+      "name": "Blue Reality",
+      "artists": [
+        {
+          "id": "5px2qdkpFiGN3JtSHqG4wQ",
+          "name": "Savanah"
+        }
+      ],
+      "album": {
+        "id": "1PHfCqs4pO0DUAQKomVFQP",
+        "release_date": "2015-07-20",
+        "name": "Deep Shades",
+        "artists": [
+          {
+            "id": "5px2qdkpFiGN3JtSHqG4wQ",
+            "name": "Savanah"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 433,
+        "nanos": 589000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "76N464SovwAI4hGQAGWW9x",
+      "name": "Yes You Can",
+      "artists": [
+        {
+          "id": "1lbkSAoynPSO7OQOFSOdon",
+          "name": "Black Market Karma"
+        }
+      ],
+      "album": {
+        "id": "3UtkLuwbvDoV1QEA5vMvnu",
+        "release_date": "2014-11-02",
+        "name": "Upside out Inside Down",
+        "artists": [
+          {
+            "id": "1lbkSAoynPSO7OQOFSOdon",
+            "name": "Black Market Karma"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 239,
+        "nanos": 623000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5n0CTysih20NYdT2S0Wpe8",
+      "name": "Trouble",
+      "artists": [
+        {
+          "id": "26T3LtbuGT1Fu9m0eRq5X3",
+          "name": "Cage The Elephant"
+        }
+      ],
+      "album": {
+        "id": "0nW0w37lrQ87k7PLZvC4qJ",
+        "release_date": "2015-12-18",
+        "name": "Tell Me I'm Pretty",
+        "artists": [
+          {
+            "id": "26T3LtbuGT1Fu9m0eRq5X3",
+            "name": "Cage The Elephant"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 225,
+        "nanos": 980000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3omXshBamrREltcf24gYDC",
+      "name": "First",
+      "artists": [
+        {
+          "id": "6VDdCwrBM4qQaGxoAyxyJC",
+          "name": "Cold War Kids"
+        }
+      ],
+      "album": {
+        "id": "2H09itV5a5yUcGyk9u9HwY",
+        "release_date": "2014-10-31",
+        "name": "Hold My Home",
+        "artists": [
+          {
+            "id": "6VDdCwrBM4qQaGxoAyxyJC",
+            "name": "Cold War Kids"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 200,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4t1fWWJQs5V9YErfsrDslC",
+      "name": "Cryin'",
+      "artists": [
+        {
+          "id": "7Ey4PD4MYsKc5I2dolUwbH",
+          "name": "Aerosmith"
+        }
+      ],
+      "album": {
+        "id": "180jTzor4W2MQ9HW5h5Fh4",
+        "release_date": "1993-01-01",
+        "name": "Get A Grip",
+        "artists": [
+          {
+            "id": "7Ey4PD4MYsKc5I2dolUwbH",
+            "name": "Aerosmith"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 308,
+        "nanos": 560000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4zYVWyr9eVKMjYGqONpUum",
+      "name": "The Path",
+      "artists": [
+        {
+          "id": "6nlUvNHe3PxYDLR3FyYz2H",
+          "name": "Black Lung"
+        }
+      ],
+      "album": {
+        "id": "6PrCWQ8z2CFf7GPg7Q8nvo",
+        "release_date": "2022-05-27",
+        "name": "Dark Waves",
+        "artists": [
+          {
+            "id": "6nlUvNHe3PxYDLR3FyYz2H",
+            "name": "Black Lung"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 225,
+        "nanos": 440000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2hdNya0b6Cc2YJ8IyaQIWp",
+      "name": "Livin' Thing",
+      "artists": [
+        {
+          "id": "7jefIIksOi1EazgRTfW2Pk",
+          "name": "Electric Light Orchestra"
+        }
+      ],
+      "album": {
+        "id": "7a35UzxXYuKQGMGImyB0Un",
+        "release_date": "1976-09-01",
+        "name": "A New World Record",
+        "artists": [
+          {
+            "id": "7jefIIksOi1EazgRTfW2Pk",
+            "name": "Electric Light Orchestra"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 708000000
+      },
+      "explicit": false
+    }
+  ]
+}

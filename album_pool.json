@@ -165,21 +165,6 @@
     "score": 36.8
   },
   {
-    "artist": "GHOSTWOMAN",
-    "artist_id": "4IEpQR24sUgq6BQw2MdZIy",
-    "album": "Ghost Woman",
-    "id": "7vpXyhnVVUdrln1HfdURkr",
-    "year": "2022",
-    "key": "4IEpQR24sUgq6BQw2MdZIy|ghost woman",
-    "source": "known",
-    "artist_weight": 41.7,
-    "hits": 6,
-    "new": false,
-    "known_tracks": 3,
-    "from": [],
-    "score": 35.4
-  },
-  {
     "artist": "sleepmakeswaves",
     "artist_id": "0EnDtiDrCgklr97QMJOSPv",
     "album": "sleepmakeswaves (USA)",
@@ -345,6 +330,21 @@
     "score": 31.3
   },
   {
+    "artist": "GHOSTWOMAN",
+    "artist_id": "4IEpQR24sUgq6BQw2MdZIy",
+    "album": "Ghost Woman",
+    "id": "7vpXyhnVVUdrln1HfdURkr",
+    "year": "2022",
+    "key": "4IEpQR24sUgq6BQw2MdZIy|ghost woman",
+    "source": "known",
+    "artist_weight": 36,
+    "hits": 6,
+    "new": false,
+    "known_tracks": 3,
+    "from": [],
+    "score": 30.6
+  },
+  {
     "artist": "José Junior",
     "artist_id": "71gjusFBijHkCU0PPFPlpE",
     "album": "Spanish Leather",
@@ -450,21 +450,6 @@
     "score": 28.7
   },
   {
-    "artist": "Noel Gallagher's High Flying Birds",
-    "artist_id": "7sjttK1WcZeyLPn3IsQ62L",
-    "album": "Noel Gallagher's High Flying Birds",
-    "id": "4g2nrjzWOuEtZHtiBZrf1U",
-    "year": "2011",
-    "key": "7sjttK1WcZeyLPn3IsQ62L|noel gallagher's high flying birds",
-    "source": "known",
-    "artist_weight": 38,
-    "hits": 5,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 28.5
-  },
-  {
     "artist": "The Flaming Lips",
     "artist_id": "16eRpMNXSQ15wuJoeqguaB",
     "album": "Yoshimi Battles the Pink Robots",
@@ -510,6 +495,21 @@
     "score": 28.4
   },
   {
+    "artist": "Noel Gallagher's High Flying Birds",
+    "artist_id": "7sjttK1WcZeyLPn3IsQ62L",
+    "album": "Noel Gallagher's High Flying Birds",
+    "id": "4g2nrjzWOuEtZHtiBZrf1U",
+    "year": "2011",
+    "key": "7sjttK1WcZeyLPn3IsQ62L|noel gallagher's high flying birds",
+    "source": "known",
+    "artist_weight": 37.7,
+    "hits": 5,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 28.3
+  },
+  {
     "artist": "GIFT",
     "artist_id": "1dwirHaSjsKJUYDHgvl2op",
     "album": "Illuminator",
@@ -523,6 +523,21 @@
     "known_tracks": 2,
     "from": [],
     "score": 28.2
+  },
+  {
+    "artist": "Maserati",
+    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
+    "album": "Inventions for the New Season",
+    "id": "3fdEMyOeFraP7qo1FKeLVo",
+    "year": "2007",
+    "key": "4qQyS8N0BHNkGQRi8xsha8|inventions for the new season",
+    "source": "known",
+    "artist_weight": 42.2,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 2,
+    "from": [],
+    "score": 27.4
   },
   {
     "artist": "ZZ Top",
@@ -583,21 +598,6 @@
     "known_tracks": 0,
     "from": [],
     "score": 26.2
-  },
-  {
-    "artist": "Maserati",
-    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
-    "album": "Inventions for the New Season",
-    "id": "3fdEMyOeFraP7qo1FKeLVo",
-    "year": "2007",
-    "key": "4qQyS8N0BHNkGQRi8xsha8|inventions for the new season",
-    "source": "known",
-    "artist_weight": 39.8,
-    "hits": 4,
-    "new": false,
-    "known_tracks": 2,
-    "from": [],
-    "score": 25.9
   },
   {
     "artist": "The Chemical Brothers",
@@ -705,6 +705,25 @@
     "score": 24.4
   },
   {
+    "artist": "The Postal Service",
+    "artist_id": "5yV1qdnmxyIYiSFB02wpDj",
+    "album": "Give Up (Deluxe 10th Anniversary Edition)",
+    "id": "5MoaDbFw4nrm2P7Om1on3b",
+    "year": "2003",
+    "key": "5yV1qdnmxyIYiSFB02wpDj|give up",
+    "source": "new",
+    "artist_weight": 19.4,
+    "hits": 10,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "LCD Soundsystem",
+      "The Flaming Lips",
+      "Silversun Pickups"
+    ],
+    "score": 24.3
+  },
+  {
     "artist": "Mary Ann Hawkins",
     "artist_id": "3jfyjffOh8c7nSzKLIa64C",
     "album": "Waves Won't Lie / Rumble",
@@ -765,6 +784,40 @@
     "score": 23.4
   },
   {
+    "artist": "Room Service",
+    "artist_id": "2uUXIzIj1xEIyauiajWeyo",
+    "album": "Things Left to Do",
+    "id": "5kR8QkF6vQ2M8eFsiRiWSg",
+    "year": "2023",
+    "key": "2uUXIzIj1xEIyauiajWeyo|things left to do",
+    "source": "new",
+    "artist_weight": 24.5,
+    "hits": 7,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "GHOSTWOMAN",
+      "New Candys",
+      "José Junior"
+    ],
+    "score": 23.3
+  },
+  {
+    "artist": "Maserati",
+    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
+    "album": "Pyramid of the Sun (Bonus Track Version)",
+    "id": "7JiPqRkn6zDGKfGIfr97xs",
+    "year": "2010",
+    "key": "4qQyS8N0BHNkGQRi8xsha8|pyramid of the sun",
+    "source": "known",
+    "artist_weight": 42.2,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 7,
+    "from": [],
+    "score": 23.2
+  },
+  {
     "artist": "Night Beats",
     "artist_id": "07dZirN9KFAGIHeBvSDfuO",
     "album": "Outlaw R&B",
@@ -793,21 +846,6 @@
     "known_tracks": 1,
     "from": [],
     "score": 23
-  },
-  {
-    "artist": "GHOSTWOMAN",
-    "artist_id": "4IEpQR24sUgq6BQw2MdZIy",
-    "album": "Anne, If",
-    "id": "0QT2yndJqhKN66VQ1WLSXf",
-    "year": "2023",
-    "key": "4IEpQR24sUgq6BQw2MdZIy|anne if",
-    "source": "known",
-    "artist_weight": 41.7,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 13,
-    "from": [],
-    "score": 22.9
   },
   {
     "artist": "Pixies",
@@ -975,6 +1013,25 @@
     "score": 22
   },
   {
+    "artist": "Mount Hush",
+    "artist_id": "13clfeXxTPsDsqzSlLIBZJ",
+    "album": "II",
+    "id": "0e0O3wnGnXjDEnMchUPvgW",
+    "year": "2024",
+    "key": "13clfeXxTPsDsqzSlLIBZJ|ii",
+    "source": "new",
+    "artist_weight": 40,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "King Buffalo",
+      "Tuber",
+      "All Them Witches"
+    ],
+    "score": 22
+  },
+  {
     "artist": "Beyond The Wizards Sleeve",
     "artist_id": "0DGGWrQLqX2Bli5KOPchgY",
     "album": "The Soft Bounce",
@@ -986,21 +1043,6 @@
     "hits": 4,
     "new": false,
     "known_tracks": 2,
-    "from": [],
-    "score": 21.9
-  },
-  {
-    "artist": "Maserati",
-    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
-    "album": "Pyramid of the Sun (Bonus Track Version)",
-    "id": "7JiPqRkn6zDGKfGIfr97xs",
-    "year": "2010",
-    "key": "4qQyS8N0BHNkGQRi8xsha8|pyramid of the sun",
-    "source": "known",
-    "artist_weight": 39.8,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 7,
     "from": [],
     "score": 21.9
   },
@@ -1170,6 +1212,25 @@
     "score": 21.1
   },
   {
+    "artist": "The Confederate Dead",
+    "artist_id": "5Nu7E1g3TYTdB4LuX7qvtu",
+    "album": "It Was Meant To Happen",
+    "id": "1DCQEUR5Auri0wwtCuuRKv",
+    "year": "2012",
+    "key": "5Nu7E1g3TYTdB4LuX7qvtu|it was meant to happen",
+    "source": "new",
+    "artist_weight": 32.3,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "GHOSTWOMAN",
+      "The Dharma Chain",
+      "New Candys"
+    ],
+    "score": 21
+  },
+  {
     "artist": "Barry Can't Swim",
     "artist_id": "0vTVU0KH0CVzijsoKGsTPl",
     "album": "Loner",
@@ -1200,18 +1261,22 @@
     "score": 20.9
   },
   {
-    "artist": "Noel Gallagher's High Flying Birds",
-    "artist_id": "7sjttK1WcZeyLPn3IsQ62L",
-    "album": "Chasing Yesterday (Deluxe)",
-    "id": "5cfXTQrZrvIb7C8slwdqkN",
-    "year": "2015",
-    "key": "7sjttK1WcZeyLPn3IsQ62L|chasing yesterday",
-    "source": "known",
-    "artist_weight": 38,
+    "artist": "Mantra Machine",
+    "artist_id": "1G7ekxJSIyTQdbw5TBtB3H",
+    "album": "Echoes Forest",
+    "id": "2KBYsL4bNQVKRlbec1eeLi",
+    "year": "2026",
+    "key": "1G7ekxJSIyTQdbw5TBtB3H|echoes forest",
+    "source": "new",
+    "artist_weight": 30.5,
     "hits": 3,
-    "new": false,
-    "known_tracks": 14,
-    "from": [],
+    "new": true,
+    "known_tracks": 0,
+    "from": [
+      "Causa Sui",
+      "Tuber",
+      "Monkey3"
+    ],
     "score": 20.9
   },
   {
@@ -1286,6 +1351,21 @@
     "hits": 2,
     "new": false,
     "known_tracks": 5,
+    "from": [],
+    "score": 20.7
+  },
+  {
+    "artist": "Noel Gallagher's High Flying Birds",
+    "artist_id": "7sjttK1WcZeyLPn3IsQ62L",
+    "album": "Chasing Yesterday (Deluxe)",
+    "id": "5cfXTQrZrvIb7C8slwdqkN",
+    "year": "2015",
+    "key": "7sjttK1WcZeyLPn3IsQ62L|chasing yesterday",
+    "source": "known",
+    "artist_weight": 37.7,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 14,
     "from": [],
     "score": 20.7
   },
@@ -1470,6 +1550,78 @@
     "score": 19.9
   },
   {
+    "artist": "Sasquatch",
+    "artist_id": "5w4idkfqBv56aZsoXgKjQg",
+    "album": "Maneuvers",
+    "id": "6sTgaFY1UhfQfbkmn3SaSB",
+    "year": "2017",
+    "key": "5w4idkfqBv56aZsoXgKjQg|maneuvers",
+    "source": "new",
+    "artist_weight": 30.6,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Greenleaf",
+      "Valley of the Sun",
+      "The Heavy Eyes"
+    ],
+    "score": 19.9
+  },
+  {
+    "artist": "Sasquatch",
+    "artist_id": "5w4idkfqBv56aZsoXgKjQg",
+    "album": "Sasquatch",
+    "id": "6jy7P9Inqi9v3jym4IEVxa",
+    "year": "2004",
+    "key": "5w4idkfqBv56aZsoXgKjQg|sasquatch",
+    "source": "new",
+    "artist_weight": 30.6,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Greenleaf",
+      "Valley of the Sun",
+      "The Heavy Eyes"
+    ],
+    "score": 19.9
+  },
+  {
+    "artist": "GHOSTWOMAN",
+    "artist_id": "4IEpQR24sUgq6BQw2MdZIy",
+    "album": "Anne, If",
+    "id": "0QT2yndJqhKN66VQ1WLSXf",
+    "year": "2023",
+    "key": "4IEpQR24sUgq6BQw2MdZIy|anne if",
+    "source": "known",
+    "artist_weight": 36,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 13,
+    "from": [],
+    "score": 19.8
+  },
+  {
+    "artist": "Mantra Machine",
+    "artist_id": "1G7ekxJSIyTQdbw5TBtB3H",
+    "album": "Heliosphere",
+    "id": "3fsawmRDnopoUm5tYbdzMr",
+    "year": "2019",
+    "key": "1G7ekxJSIyTQdbw5TBtB3H|heliosphere",
+    "source": "new",
+    "artist_weight": 30.5,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Causa Sui",
+      "Tuber",
+      "Monkey3"
+    ],
+    "score": 19.8
+  },
+  {
     "artist": "Ströme",
     "artist_id": "7t2RaskOpVqyK2sCkbnyRY",
     "album": "No. 2",
@@ -1482,6 +1634,25 @@
     "new": false,
     "known_tracks": 3,
     "from": [],
+    "score": 19.7
+  },
+  {
+    "artist": "The Spyrals",
+    "artist_id": "1jCVSnyE6YOGqiKJXVRj6q",
+    "album": "The Spyrals",
+    "id": "03fO4womIgJcznyFq0Qba0",
+    "year": "2012",
+    "key": "1jCVSnyE6YOGqiKJXVRj6q|the spyrals",
+    "source": "new",
+    "artist_weight": 26.2,
+    "hits": 5,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Night Beats",
+      "GHOSTWOMAN",
+      "New Candys"
+    ],
     "score": 19.7
   },
   {
@@ -1830,6 +2001,24 @@
     "score": 18.2
   },
   {
+    "artist": "White Town",
+    "artist_id": "1MPcILKoMCJym9KscdYxuM",
+    "album": "Women in Technology",
+    "id": "6z6qZbY7mDuyzstPSCy5Xq",
+    "year": "1997",
+    "key": "1MPcILKoMCJym9KscdYxuM|women in technology",
+    "source": "new",
+    "artist_weight": 15.8,
+    "hits": 9,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "The Chemical Brothers",
+      "Caesars"
+    ],
+    "score": 18.2
+  },
+  {
     "artist": "All Them Witches",
     "artist_id": "29Wmfm1CojrjQ3aQP0FI65",
     "album": "House Of Mirrors",
@@ -1857,6 +2046,25 @@
     "new": false,
     "known_tracks": 5,
     "from": [],
+    "score": 18
+  },
+  {
+    "artist": "Red Desert",
+    "artist_id": "0giNJusra3rJ7fNjvjbjQ9",
+    "album": "Damned by Fate",
+    "id": "1b4MF64Y2qGMC7sWGzBdnC",
+    "year": "2012",
+    "key": "0giNJusra3rJ7fNjvjbjQ9|damned by fate",
+    "source": "new",
+    "artist_weight": 15.7,
+    "hits": 9,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Swan Valley Heights",
+      "The Heavy Eyes",
+      "The Atomic Bitchwax"
+    ],
     "score": 18
   },
   {
@@ -2730,6 +2938,25 @@
     "score": 15.4
   },
   {
+    "artist": "Trailer Trash Tracys",
+    "artist_id": "4ZKIf1mbtchoPebHfyt3Wf",
+    "album": "Ester",
+    "id": "6U9WvtT77K1NTslDqLsA9r",
+    "year": "2012",
+    "key": "4ZKIf1mbtchoPebHfyt3Wf|ester",
+    "source": "new",
+    "artist_weight": 14.6,
+    "hits": 8,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Maps",
+      "The Raveonettes",
+      "Porcelain Raft"
+    ],
+    "score": 15.4
+  },
+  {
     "artist": "Causa Sui",
     "artist_id": "1TAcaMoUlvLpTUzh18TzDY",
     "album": "Free Ride (2018 Edition)",
@@ -2817,6 +3044,25 @@
     "new": false,
     "known_tracks": 0,
     "from": [],
+    "score": 15.2
+  },
+  {
+    "artist": "The Groovy Nobody",
+    "artist_id": "2gkBkj24zSphLjROyFG4v5",
+    "album": "Solarium",
+    "id": "42CaMS3W86VWQuECxg4hN5",
+    "year": "2023",
+    "key": "2gkBkj24zSphLjROyFG4v5|solarium",
+    "source": "new",
+    "artist_weight": 14.5,
+    "hits": 8,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "GHOSTWOMAN",
+      "Spiral Drive",
+      "Hollow Ship"
+    ],
     "score": 15.2
   },
   {
@@ -3180,6 +3426,51 @@
     "score": 14.9
   },
   {
+    "artist": "Maserati",
+    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
+    "album": "Enter The Mirror",
+    "id": "37KdPq8Uq6x7AP1ykDW2ak",
+    "year": "2020",
+    "key": "4qQyS8N0BHNkGQRi8xsha8|enter the mirror",
+    "source": "known",
+    "artist_weight": 42.2,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 1,
+    "from": [],
+    "score": 14.8
+  },
+  {
+    "artist": "Maserati",
+    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
+    "album": "Maserati VII",
+    "id": "49n5nQpTpAef8yCQm1ZAUT",
+    "year": "2012",
+    "key": "4qQyS8N0BHNkGQRi8xsha8|maserati vii",
+    "source": "known",
+    "artist_weight": 42.2,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 5,
+    "from": [],
+    "score": 14.8
+  },
+  {
+    "artist": "Maserati",
+    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
+    "album": "Passages",
+    "id": "6DDRJiuEhoKY8oo4oXVlCT",
+    "year": "2009",
+    "key": "4qQyS8N0BHNkGQRi8xsha8|passages",
+    "source": "known",
+    "artist_weight": 42.2,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 2,
+    "from": [],
+    "score": 14.8
+  },
+  {
     "artist": "Mattiel",
     "artist_id": "69ZtLNs4CNIFnf3Vq7wN5q",
     "album": "Satis Factory",
@@ -3240,21 +3531,6 @@
     "score": 14.6
   },
   {
-    "artist": "GHOSTWOMAN",
-    "artist_id": "4IEpQR24sUgq6BQw2MdZIy",
-    "album": "Welcome to the Civilized World",
-    "id": "2Y8xJd39Y3w1iSnGzOdlGg",
-    "year": "2025",
-    "key": "4IEpQR24sUgq6BQw2MdZIy|welcome to the civilized world",
-    "source": "known",
-    "artist_weight": 41.7,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 14.6
-  },
-  {
     "artist": "Holy Fuck",
     "artist_id": "6Q0gMZJNIebNFFaJeonc11",
     "album": "Event Beat",
@@ -3282,6 +3558,25 @@
     "new": false,
     "known_tracks": 0,
     "from": [],
+    "score": 14.6
+  },
+  {
+    "artist": "The Confederate Dead",
+    "artist_id": "5Nu7E1g3TYTdB4LuX7qvtu",
+    "album": "Everything In Moderation?",
+    "id": "6wz8BwzxCNvSoE5KOo9t9X",
+    "year": "2016",
+    "key": "5Nu7E1g3TYTdB4LuX7qvtu|everything in moderation?",
+    "source": "new",
+    "artist_weight": 32.3,
+    "hits": 2,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "GHOSTWOMAN",
+      "The Dharma Chain",
+      "New Candys"
+    ],
     "score": 14.6
   },
   {
@@ -3510,6 +3805,25 @@
     "score": 14.4
   },
   {
+    "artist": "The Spyrals",
+    "artist_id": "1jCVSnyE6YOGqiKJXVRj6q",
+    "album": "The Curse",
+    "id": "5ky77iNxXhtBCRavkUzRGq",
+    "year": "2019",
+    "key": "1jCVSnyE6YOGqiKJXVRj6q|the curse",
+    "source": "new",
+    "artist_weight": 26.2,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Night Beats",
+      "GHOSTWOMAN",
+      "New Candys"
+    ],
+    "score": 14.4
+  },
+  {
     "artist": "Wooden Shjips",
     "artist_id": "35rFgnhlSSYflP4HpC3JM0",
     "album": "V.",
@@ -3720,51 +4034,6 @@
     "score": 14.1
   },
   {
-    "artist": "Maserati",
-    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
-    "album": "Enter The Mirror",
-    "id": "37KdPq8Uq6x7AP1ykDW2ak",
-    "year": "2020",
-    "key": "4qQyS8N0BHNkGQRi8xsha8|enter the mirror",
-    "source": "known",
-    "artist_weight": 39.8,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 13.9
-  },
-  {
-    "artist": "Maserati",
-    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
-    "album": "Maserati VII",
-    "id": "49n5nQpTpAef8yCQm1ZAUT",
-    "year": "2012",
-    "key": "4qQyS8N0BHNkGQRi8xsha8|maserati vii",
-    "source": "known",
-    "artist_weight": 39.8,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 5,
-    "from": [],
-    "score": 13.9
-  },
-  {
-    "artist": "Maserati",
-    "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
-    "album": "Passages",
-    "id": "6DDRJiuEhoKY8oo4oXVlCT",
-    "year": "2009",
-    "key": "4qQyS8N0BHNkGQRi8xsha8|passages",
-    "source": "known",
-    "artist_weight": 39.8,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 2,
-    "from": [],
-    "score": 13.9
-  },
-  {
     "artist": "Mothership",
     "artist_id": "17XEg2hdvpHYNm9iSC5VOH",
     "album": "High Strangeness",
@@ -3822,6 +4091,25 @@
     "new": false,
     "known_tracks": 3,
     "from": [],
+    "score": 13.8
+  },
+  {
+    "artist": "Jamie xx",
+    "artist_id": "7A0awCXkE1FtSU8B0qwOJQ",
+    "album": "In Waves",
+    "id": "57MSBg5pBQZH5bfLVDmeuP",
+    "year": "2024",
+    "key": "7A0awCXkE1FtSU8B0qwOJQ|in waves",
+    "source": "new",
+    "artist_weight": 21.3,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Barry Can't Swim",
+      "Kelly Lee Owens",
+      "Underworld"
+    ],
     "score": 13.8
   },
   {
@@ -3912,6 +4200,25 @@
     "new": true,
     "known_tracks": 0,
     "from": [],
+    "score": 13.7
+  },
+  {
+    "artist": "Jack White",
+    "artist_id": "4FZ3j1oH43e7cukCALsCwf",
+    "album": "Frozen Charlotte",
+    "id": "0VV4lddlDaShTgEzohQ7Jj",
+    "year": "2026",
+    "key": "4FZ3j1oH43e7cukCALsCwf|frozen charlotte",
+    "source": "new",
+    "artist_weight": 16.9,
+    "hits": 4,
+    "new": true,
+    "known_tracks": 0,
+    "from": [
+      "Angine de Poitrine",
+      "Death From Above 1979",
+      "Black Rebel Motorcycle Club"
+    ],
     "score": 13.7
   },
   {
@@ -4230,6 +4537,25 @@
     "score": 13.5
   },
   {
+    "artist": "Alex Ebert",
+    "artist_id": "1me05HW5s7TShHra5nN7uE",
+    "album": "Alexander",
+    "id": "6Fx5NxsmPZ0Jnx8udOMk78",
+    "year": "2011",
+    "key": "1me05HW5s7TShHra5nN7uE|alexander",
+    "source": "new",
+    "artist_weight": 14.1,
+    "hits": 7,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Mattiel",
+      "Daniel Norgren",
+      "Junip"
+    ],
+    "score": 13.4
+  },
+  {
     "artist": "Bon Iver",
     "artist_id": "4LEiUm1SRbFMgfqnQTwUbQ",
     "album": "For Emma, Forever Ago",
@@ -4316,36 +4642,6 @@
     "hits": 7,
     "new": false,
     "known_tracks": 1,
-    "from": [],
-    "score": 13.3
-  },
-  {
-    "artist": "Noel Gallagher's High Flying Birds",
-    "artist_id": "7sjttK1WcZeyLPn3IsQ62L",
-    "album": "Back the Way We Came: Vol. 1 (2011 - 2021)",
-    "id": "2aq32TQZkWO7wWGTWrINHr",
-    "year": "2021",
-    "key": "7sjttK1WcZeyLPn3IsQ62L|back the way we came: vol. 1 (2011 - 2021)",
-    "source": "known",
-    "artist_weight": 38,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 2,
-    "from": [],
-    "score": 13.3
-  },
-  {
-    "artist": "Noel Gallagher's High Flying Birds",
-    "artist_id": "7sjttK1WcZeyLPn3IsQ62L",
-    "album": "Who Built The Moon?",
-    "id": "2pzI39O9jAVFghND0SiQHm",
-    "year": "2017",
-    "key": "7sjttK1WcZeyLPn3IsQ62L|who built the moon?",
-    "source": "known",
-    "artist_weight": 38,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 4,
     "from": [],
     "score": 13.3
   },
@@ -4526,6 +4822,36 @@
     "hits": 9,
     "new": false,
     "known_tracks": 2,
+    "from": [],
+    "score": 13.2
+  },
+  {
+    "artist": "Noel Gallagher's High Flying Birds",
+    "artist_id": "7sjttK1WcZeyLPn3IsQ62L",
+    "album": "Back the Way We Came: Vol. 1 (2011 - 2021)",
+    "id": "2aq32TQZkWO7wWGTWrINHr",
+    "year": "2021",
+    "key": "7sjttK1WcZeyLPn3IsQ62L|back the way we came: vol. 1 (2011 - 2021)",
+    "source": "known",
+    "artist_weight": 37.7,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 2,
+    "from": [],
+    "score": 13.2
+  },
+  {
+    "artist": "Noel Gallagher's High Flying Birds",
+    "artist_id": "7sjttK1WcZeyLPn3IsQ62L",
+    "album": "Who Built The Moon?",
+    "id": "2pzI39O9jAVFghND0SiQHm",
+    "year": "2017",
+    "key": "7sjttK1WcZeyLPn3IsQ62L|who built the moon?",
+    "source": "known",
+    "artist_weight": 37.7,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 4,
     "from": [],
     "score": 13.2
   },
@@ -4935,6 +5261,25 @@
     "score": 12.7
   },
   {
+    "artist": "YENISEI",
+    "artist_id": "52yQP5wDWyq7o8D7fSVObg",
+    "album": "Reflections",
+    "id": "3KaD5LFRts8cIErxsycV5k",
+    "year": "2021",
+    "key": "52yQP5wDWyq7o8D7fSVObg|reflections",
+    "source": "new",
+    "artist_weight": 15,
+    "hits": 6,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Tides From Nebula",
+      "hubris.",
+      "Exxasens"
+    ],
+    "score": 12.7
+  },
+  {
     "artist": "ATB",
     "artist_id": "7jZM5w05mGhw6wTB1okhD9",
     "album": "No Silence",
@@ -4959,6 +5304,21 @@
     "source": "known",
     "artist_weight": 12,
     "hits": 8,
+    "new": false,
+    "known_tracks": 1,
+    "from": [],
+    "score": 12.6
+  },
+  {
+    "artist": "GHOSTWOMAN",
+    "artist_id": "4IEpQR24sUgq6BQw2MdZIy",
+    "album": "Welcome to the Civilized World",
+    "id": "2Y8xJd39Y3w1iSnGzOdlGg",
+    "year": "2025",
+    "key": "4IEpQR24sUgq6BQw2MdZIy|welcome to the civilized world",
+    "source": "known",
+    "artist_weight": 36,
+    "hits": 1,
     "new": false,
     "known_tracks": 1,
     "from": [],
@@ -5713,290 +6073,5 @@
     "known_tracks": 2,
     "from": [],
     "score": 12.1
-  },
-  {
-    "artist": "Angine de Poitrine",
-    "artist_id": "13NmOYYfvONNZ9mn2qn8P2",
-    "album": "Vol.1",
-    "id": "67AYhGt60AoJa1TVcn5lCn",
-    "year": "2024",
-    "key": "13NmOYYfvONNZ9mn2qn8P2|vol.1",
-    "source": "known",
-    "artist_weight": 18.4,
-    "hits": 4,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "13",
-    "id": "5WXL9YjbNd4GIqWc9mZOOq",
-    "year": "2013",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|13",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Born Again",
-    "id": "7KeM4qF66YFKhopRfyyLM3",
-    "year": "1983",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|born again",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Cross Purposes (2024 Remaster)",
-    "id": "2XnWFByM2PbMrMomxdbVzT",
-    "year": "2024",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|cross purposes",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Dehumanizer",
-    "id": "3QCq4xwC3SZp38Y2cBsHdI",
-    "year": "1992",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|dehumanizer",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Headless Cross (2024 Remaster)",
-    "id": "6Si7gWvgXKnHwl1CORi05a",
-    "year": "2024",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|headless cross",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Heaven and Hell (Remastered and Expanded Edition)",
-    "id": "5ZRKni8wHfmYd466mTYU3m",
-    "year": "2022",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|heaven and hell",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Mob Rules",
-    "id": "4VmdHqsa6hhQW7EEKlmFly",
-    "year": "1981",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|mob rules",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Never Say Die!",
-    "id": "3L6ss776rbc4BlupPEDOLw",
-    "year": "1978",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|never say die!",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Past Lives (Deluxe Edition)",
-    "id": "6NlK09HVhTPd26O7Fjmx3n",
-    "year": "2002",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|past lives",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Reunion",
-    "id": "0G3YLIcJdk5wqqLAgOCmL8",
-    "year": "1998",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|reunion",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Sabotage",
-    "id": "3VSOzRDe4dNrjcCYEeLz9b",
-    "year": "1975",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|sabotage",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 5,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Seventh Star (Deluxe Edition)",
-    "id": "7iXIQEXGaf6JDOUIvjNSpP",
-    "year": "1986",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|seventh star",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Technical Ecstasy",
-    "id": "6YRSguBqTTkCNMFprOLVo8",
-    "year": "1976",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|technical ecstasy",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "The Eternal Idol (Deluxe Edition)",
-    "id": "4OgWqXEzb8CWzAgqhTp9sq",
-    "year": "1987",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|the eternal idol",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Black Sabbath",
-    "artist_id": "5M52tdBnJaKSvOpJGz8mfZ",
-    "album": "Tyr (2024 Remaster)",
-    "id": "13Fi69tscrK2a4YmvKbHBL",
-    "year": "2024",
-    "key": "5M52tdBnJaKSvOpJGz8mfZ|tyr",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Chicane",
-    "artist_id": "5GxyeQagayzZOg4UwffQlD",
-    "album": "Chicane Mini Mix 1",
-    "id": "1JyVZeCWBRYmT3b76TgGeN",
-    "year": "2022",
-    "key": "5GxyeQagayzZOg4UwffQlD|chicane mini mix 1",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Chicane",
-    "artist_id": "5GxyeQagayzZOg4UwffQlD",
-    "album": "Far From The Maddening Crowds (Evolution Mixes)",
-    "id": "5CR6luLHeshWtx2pgH7tAn",
-    "year": "2022",
-    "key": "5GxyeQagayzZOg4UwffQlD|far from the maddening crowds (evolution mixes)",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Chicane",
-    "artist_id": "5GxyeQagayzZOg4UwffQlD",
-    "album": "Far From The Maddening Crowds (Symphonic Rehearsals)",
-    "id": "5uMgrvxMnXv9AR1pnQFAFp",
-    "year": "2024",
-    "key": "5GxyeQagayzZOg4UwffQlD|far from the maddening crowds (symphonic rehearsals)",
-    "source": "known",
-    "artist_weight": 48.1,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
   }
 ]

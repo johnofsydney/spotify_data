@@ -21,6 +21,7 @@ CHVRCHES
 Columbia Mills
 Coroner
 Darksoft
+Diljit Dosanjh
 Doctor Smoke
 Dusty Springfield
 Eco

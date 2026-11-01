@@ -62,7 +62,7 @@
   },
   "0y1swFUZtekVKzOgApO2rz": {
     "name": "BO Discover Weekly",
-    "tracks": 966,
+    "tracks": 968,
     "weight": 1.0
   },
   "1Kfvd7tQw1EgYcUUQMSMmH": {
@@ -282,6 +282,11 @@
   },
   "6fjsUEJymIS0KxACNCmaiP": {
     "name": "BO ZZ Top",
+    "tracks": 30,
+    "weight": 1.0
+  },
+  "6g4Re3f9dhhHUzOVk18HFi": {
+    "name": "Eclectic Discovery Mix",
     "tracks": 30,
     "weight": 1.0
   },

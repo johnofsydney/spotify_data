@@ -160,22 +160,6 @@
     "rank": 10
   },
   {
-    "artist": "GHOSTWOMAN",
-    "artist_id": "4IEpQR24sUgq6BQw2MdZIy",
-    "album": "Ghost Woman",
-    "id": "7vpXyhnVVUdrln1HfdURkr",
-    "year": "2022",
-    "key": "4IEpQR24sUgq6BQw2MdZIy|ghost woman",
-    "source": "known",
-    "artist_weight": 41.7,
-    "hits": 6,
-    "new": false,
-    "known_tracks": 3,
-    "from": [],
-    "score": 35.4,
-    "rank": 11
-  },
-  {
     "artist": "sleepmakeswaves",
     "artist_id": "0EnDtiDrCgklr97QMJOSPv",
     "album": "sleepmakeswaves (USA)",
@@ -189,7 +173,7 @@
     "known_tracks": 2,
     "from": [],
     "score": 34.9,
-    "rank": 12
+    "rank": 11
   },
   {
     "artist": "Elder",
@@ -205,7 +189,7 @@
     "known_tracks": 0,
     "from": [],
     "score": 34.8,
-    "rank": 13
+    "rank": 12
   },
   {
     "artist": "The Dharma Chain",
@@ -221,7 +205,7 @@
     "known_tracks": 3,
     "from": [],
     "score": 34.8,
-    "rank": 14
+    "rank": 13
   },
   {
     "artist": "Fuck Buttons",
@@ -237,7 +221,7 @@
     "known_tracks": 3,
     "from": [],
     "score": 34.1,
-    "rank": 15
+    "rank": 14
   },
   {
     "artist": "Psychlona",
@@ -253,7 +237,7 @@
     "known_tracks": 1,
     "from": [],
     "score": 33.2,
-    "rank": 16
+    "rank": 15
   },
   {
     "artist": "Sea Power",
@@ -269,7 +253,7 @@
     "known_tracks": 0,
     "from": [],
     "score": 32.9,
-    "rank": 17
+    "rank": 16
   },
   {
     "artist": "65daysofstatic",
@@ -285,7 +269,7 @@
     "known_tracks": 0,
     "from": [],
     "score": 32.8,
-    "rank": 18
+    "rank": 17
   },
   {
     "artist": "The Chemical Brothers",
@@ -301,7 +285,7 @@
     "known_tracks": 1,
     "from": [],
     "score": 31.6,
-    "rank": 19
+    "rank": 18
   },
   {
     "artist": "Black Sabbath",
@@ -315,6 +299,22 @@
     "hits": 4,
     "new": false,
     "known_tracks": 4,
+    "from": [],
+    "score": 31.3,
+    "rank": 19
+  },
+  {
+    "artist": "Chicane",
+    "artist_id": "5GxyeQagayzZOg4UwffQlD",
+    "album": "Behind The Sun",
+    "id": "3mzidGeKvgDgS7BmRfE8xC",
+    "year": "2000",
+    "key": "5GxyeQagayzZOg4UwffQlD|behind the sun",
+    "source": "known",
+    "artist_weight": 48.1,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 7,
     "from": [],
     "score": 31.3,
     "rank": 20
