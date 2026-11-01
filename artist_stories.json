@@ -34,6 +34,11 @@
   "label": "The long haul",
   "story": "In 5 of your 10 wraps since 2017, biggest in 2023; quiet right now. Has a playlist that is mostly theirs."
  },
+ "sleepmakeswaves": {
+  "archetype": "comeback",
+  "label": "Back after a gap",
+  "story": "Last in a wrap in 2018, now 2 tracks in your top 50."
+ },
  "Paul van Dyk": {
   "archetype": "long haul",
   "label": "The long haul",
@@ -53,11 +58,6 @@
   "archetype": "faded",
   "label": "Faded",
   "story": "Biggest in 2017, not in a wrap since 2018. Kept up here by how many of your playlists they turn up in. Has a playlist that is mostly theirs."
- },
- "sleepmakeswaves": {
-  "archetype": "comeback",
-  "label": "Back after a gap",
-  "story": "Last in a wrap in 2018, now 2 tracks in your top 50."
  },
  "Dusty Springfield": {
   "archetype": "steady",
@@ -84,11 +84,6 @@
   "label": "Back after a gap",
   "story": "Last in a wrap in 2020, now 1 track in your top 50."
  },
- "Maserati": {
-  "archetype": "comeback",
-  "label": "Back after a gap",
-  "story": "Last in a wrap in 2020, now 2 tracks in your top 50."
- },
  "Night Beats": {
   "archetype": "comeback",
   "label": "Back after a gap",
@@ -104,10 +99,25 @@
   "label": "A playlist regular",
   "story": "In 5 playlists, last in a wrap in 2025. Releasing a lot lately."
  },
+ "New Order": {
+  "archetype": "collected",
+  "label": "Collected more than played",
+  "story": "In 2 playlists, and on your favourites list, but rarely in the wraps. New to the top 50 this week."
+ },
+ "Maserati": {
+  "archetype": "comeback",
+  "label": "Back after a gap",
+  "story": "Last in a wrap in 2020, now 1 track in your top 50."
+ },
  "The National": {
   "archetype": "rising",
   "label": "Rising",
   "story": "First wrap 2025, and 1 track in your top 50 now."
+ },
+ "Pixies": {
+  "archetype": "collected",
+  "label": "Collected more than played",
+  "story": "In 2 playlists, and on your favourites list, but rarely in the wraps. New to the top 50 this week."
  },
  "Valley of the Sun": {
   "archetype": "faded",
@@ -172,7 +182,7 @@
  "GHOSTWOMAN": {
   "archetype": "steady",
   "label": "A playlist regular",
-  "story": "In 3 playlists, last in a wrap in 2024. Down 16 places this week."
+  "story": "In 3 playlists, last in a wrap in 2024. Releasing a lot lately."
  },
  "ATB": {
   "archetype": "long haul",
@@ -193,6 +203,11 @@
   "archetype": "steady",
   "label": "A wraps regular",
   "story": "In 3 of them, most recently 2025. Releasing a lot lately."
+ },
+ "The Cure": {
+  "archetype": "collected",
+  "label": "Collected more than played",
+  "story": "In 1.0 playlist, and on your favourites list, but rarely in the wraps. New to the top 50 this week."
  },
  "65daysofstatic": {
   "archetype": "steady",
@@ -384,10 +399,10 @@
   "label": "A playlist regular",
   "story": "In 5 playlists, last in a wrap in 2024. Releasing a lot lately."
  },
- "New Order": {
-  "archetype": "steady",
-  "label": "A playlist regular",
-  "story": "In 2 playlists, last in a wrap in 2024."
+ "Dinosaur Jr.": {
+  "archetype": "collected",
+  "label": "Collected more than played",
+  "story": "In 1.0 playlist, and on your favourites list, but rarely in the wraps."
  },
  "The Budos Band": {
   "archetype": "steady",
@@ -409,15 +424,15 @@
   "label": "Faded",
   "story": "Biggest in 2022, not in a wrap since 2023. Kept up here by a follow."
  },
+ "U2": {
+  "archetype": "collected",
+  "label": "Collected more than played",
+  "story": "In 1.0 playlist, and on your favourites list, but rarely in the wraps."
+ },
  "GIFT": {
   "archetype": "steady",
   "label": "One big year",
   "story": "2 tracks in the 2025 wrap. Releasing a lot lately."
- },
- "Pixies": {
-  "archetype": "steady",
-  "label": "A playlist regular",
-  "story": "In 2 playlists, last in a wrap in 2017. Releasing a lot lately."
  },
  "Silversun Pickups": {
   "archetype": "new",
@@ -478,6 +493,11 @@
   "archetype": "steady",
   "label": "A playlist regular",
   "story": "In 3 playlists, last in a wrap in 2025. Releasing a lot lately."
+ },
+ "The Clash": {
+  "archetype": "collected",
+  "label": "Collected more than played",
+  "story": "In 1.0 playlist, and on your favourites list, but rarely in the wraps."
  },
  "The Church": {
   "archetype": "collected",
@@ -570,11 +590,6 @@
   "story": "In 2 playlists, but never in the wraps."
  },
  "Lorelle Meets The Obsolete": {
-  "archetype": "steady",
-  "label": "steady",
-  "story": "Mostly a follow; little of them in your listening. Releasing a lot lately."
- },
- "The Cure": {
   "archetype": "steady",
   "label": "steady",
   "story": "Mostly a follow; little of them in your listening. Releasing a lot lately."
@@ -673,6 +688,11 @@
   "archetype": "steady",
   "label": "steady",
   "story": "Mostly a follow; little of them in your listening."
+ },
+ "The Fabulous Thunderbirds": {
+  "archetype": "new",
+  "label": "New",
+  "story": "2 tracks in your top 50, nothing in the wraps yet."
  },
  "The Stone Roses": {
   "archetype": "faded",
@@ -859,11 +879,6 @@
   "label": "Faded",
   "story": "Last in a wrap in 2021. Kept up here by how many of your playlists they turn up in."
  },
- "The Fabulous Thunderbirds": {
-  "archetype": "new",
-  "label": "New",
-  "story": "1 track in your top 50, nothing in the wraps yet."
- },
  "The Smile": {
   "archetype": "steady",
   "label": "A playlist regular",
@@ -934,6 +949,11 @@
   "label": "New",
   "story": "1 track in your top 50, nothing in the wraps yet."
  },
+ "Hound Dog Taylor": {
+  "archetype": "new",
+  "label": "New",
+  "story": "2 tracks in your top 50, nothing in the wraps yet."
+ },
  "Sasha": {
   "archetype": "steady",
   "label": "A playlist regular",
@@ -984,11 +1004,6 @@
   "label": "Collected more than played",
   "story": "In 2 playlists, but never in the wraps."
  },
- "Stella Rose": {
-  "archetype": "new",
-  "label": "New",
-  "story": "1 track in your top 50, nothing in the wraps yet."
- },
  "Kidnap": {
   "archetype": "steady",
   "label": "A playlist regular",
@@ -1034,6 +1049,11 @@
   "label": "Collected more than played",
   "story": "In 2 playlists, but never in the wraps."
  },
+ "Diljit Dosanjh": {
+  "archetype": "new",
+  "label": "New",
+  "story": "1 track in your top 50, nothing in the wraps yet."
+ },
  "The Go-Betweens": {
   "archetype": "collected",
   "label": "Collected more than played",
@@ -1048,11 +1068,6 @@
   "archetype": "steady",
   "label": "A playlist regular",
   "story": "In 1.0 playlist, last in a wrap in 2020."
- },
- "Dinosaur Jr.": {
-  "archetype": "collected",
-  "label": "Collected more than played",
-  "story": "In 1.0 playlist, but rarely in the wraps."
  },
  "Jerome Isma-Ae": {
   "archetype": "steady",
@@ -1149,11 +1164,6 @@
   "label": "Faded",
   "story": "Biggest in 2017, not in a wrap since 2018. Kept up here by how many of your playlists they turn up in."
  },
- "U2": {
-  "archetype": "collected",
-  "label": "Collected more than played",
-  "story": "In 1.0 playlist, but rarely in the wraps."
- },
  "Sleep": {
   "archetype": "steady",
   "label": "steady",
@@ -1168,11 +1178,6 @@
   "archetype": "collected",
   "label": "Collected more than played",
   "story": "In 2 playlists, but never in the wraps."
- },
- "Mothership": {
-  "archetype": "new",
-  "label": "New",
-  "story": "1 track in your top 50, nothing in the wraps yet."
  },
  "Brant Bjork": {
   "archetype": "steady",
@@ -1218,6 +1223,11 @@
   "archetype": "collected",
   "label": "Collected more than played",
   "story": "In 2 playlists, but never in the wraps."
+ },
+ "Dire Straits": {
+  "archetype": "collected",
+  "label": "Collected more than played",
+  "story": "In 0 playlists, and on your favourites list, but never in the wraps."
  },
  "Khruangbin": {
   "archetype": "steady",
@@ -1529,6 +1539,11 @@
   "label": "Collected more than played",
   "story": "In 2 playlists, but never in the wraps."
  },
+ "Black Market Karma": {
+  "archetype": "collected",
+  "label": "Collected more than played",
+  "story": "In 1.0 playlist, but never in the wraps."
+ },
  "Chartreuse": {
   "archetype": "collected",
   "label": "Collected more than played",
@@ -1638,11 +1653,6 @@
   "archetype": "steady",
   "label": "A playlist regular",
   "story": "In 1.0 playlist, last in a wrap in 2020."
- },
- "The Clash": {
-  "archetype": "steady",
-  "label": "A playlist regular",
-  "story": "In 1.0 playlist, last in a wrap in 2017."
  },
  "The Kilimanjaro Darkjazz Ensemble": {
   "archetype": "steady",
@@ -1779,11 +1789,6 @@
   "label": "steady",
   "story": "Mostly a follow; little of them in your listening."
  },
- "Carcass": {
-  "archetype": "new",
-  "label": "New",
-  "story": "4 tracks in your top 50, nothing in the wraps yet."
- },
  "Golden Features": {
   "archetype": "new",
   "label": "New",
@@ -1868,6 +1873,11 @@
   "archetype": "steady",
   "label": "One big year",
   "story": "1 track in the 2025 wrap. Releasing a lot lately."
+ },
+ "Stella Rose": {
+  "archetype": "steady",
+  "label": "steady",
+  "story": "Mostly a follow; little of them in your listening."
  },
  "The Beatles": {
   "archetype": "new",
@@ -2044,6 +2054,11 @@
   "label": "Collected more than played",
   "story": "In 1.0 playlist, but never in the wraps."
  },
+ "Carcass": {
+  "archetype": "new",
+  "label": "New",
+  "story": "3 tracks in your top 50, nothing in the wraps yet."
+ },
  "Ahkmed": {
   "archetype": "steady",
   "label": "steady",
@@ -2073,11 +2088,6 @@
   "archetype": "steady",
   "label": "steady",
   "story": "Mostly a follow; little of them in your listening."
- },
- "Black Market Karma": {
-  "archetype": "collected",
-  "label": "Collected more than played",
-  "story": "In 1.0 playlist, but never in the wraps."
  },
  "FEWS": {
   "archetype": "collected",
@@ -2185,6 +2195,11 @@
   "story": "Mostly a follow; little of them in your listening."
  },
  "Monster Magnet": {
+  "archetype": "steady",
+  "label": "steady",
+  "story": "Mostly a follow; little of them in your listening."
+ },
+ "Mothership": {
   "archetype": "steady",
   "label": "steady",
   "story": "Mostly a follow; little of them in your listening."
@@ -2625,11 +2640,6 @@
   "story": "Mostly on a run of new releases. In 1 wrap, last 2019. Releasing a lot lately."
  },
  "Brown Sabbath": {
-  "archetype": "steady",
-  "label": "steady",
-  "story": "Mostly a follow; little of them in your listening."
- },
- "Diljit Dosanjh": {
   "archetype": "steady",
   "label": "steady",
   "story": "Mostly a follow; little of them in your listening."
@@ -3095,6 +3105,16 @@
   "story": "1 track in your top 50, nothing in the wraps yet."
  },
  "Grant McLennan": {
+  "archetype": "new",
+  "label": "New",
+  "story": "1 track in your top 50, nothing in the wraps yet."
+ },
+ "HIZZY HUNDAL": {
+  "archetype": "new",
+  "label": "New",
+  "story": "1 track in your top 50, nothing in the wraps yet."
+ },
+ "Intense": {
   "archetype": "new",
   "label": "New",
   "story": "1 track in your top 50, nothing in the wraps yet."

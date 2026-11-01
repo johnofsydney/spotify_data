@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2027-01-21-dinosaur-jr@spotify_data
+DTSTAMP:20261101T222536Z
+DTSTART:20270121T090000Z
+DTEND:20270121T120000Z
+SUMMARY:Dinosaur Jr. (USA)
+LOCATION:Hordern Pavilion\, 1 Driver Ave\, Moore Park
+DESCRIPTION:Dinosaur Jr. (USA)\n\nDinosaur Jr. (USA): favourite #81\n\nhttp
+ s://thehordern.com.au/event/dinosaur-jr/
+URL:https://thehordern.com.au/event/dinosaur-jr/
+END:VEVENT
+END:VCALENDAR

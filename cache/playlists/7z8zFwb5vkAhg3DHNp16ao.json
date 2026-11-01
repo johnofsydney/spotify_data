@@ -5,7 +5,7 @@
     "name": "Elderly Gents Album Club",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAeZ8GozeEmNi/38Rl8e14jKjzv+K2"
+    "snapshot_id": "AAAAeq5pQtNSH+Eoku41dUaA9R2q43FE"
   },
   "tracks": [
     {
@@ -17673,6 +17673,286 @@
       "duration": {
         "secs": 215,
         "nanos": 826000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0bNIlLb9Mkoi9mHA6j2dv2",
+      "name": "Perfect Detonator",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 353,
+        "nanos": 989000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "66VqEn2Xyt5tu1wIvqFBzw",
+      "name": "Traced In Constellations",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 277,
+        "nanos": 202000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2z15kjNOzyNbf3XJXgRRWw",
+      "name": "Singularity",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 68,
+        "nanos": 517000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7lWUMvcKBR9RtEJubQONkd",
+      "name": "Emergent",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 508,
+        "nanos": 127000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "02rNiBybNdOOlPRonQEKLr",
+      "name": "Great Northern",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 297,
+        "nanos": 742000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0uXme861HlofXfMJztcgTH",
+      "name": "The Stars Are Stigmata",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 365,
+        "nanos": 916000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3d7MZTEcBmI3eKwkc3zp9E",
+      "name": "A Little Spark",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 192,
+        "nanos": 85000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6CxnikJKyqcmqEe3snhUQD",
+      "name": "How We Built The Ocean",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 421,
+        "nanos": 768000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "28tDxihCMdcTvhzcHbhpg3",
+      "name": "Something Like Avalanches",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 329,
+        "nanos": 612000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "61MGc3J3ywA0v4r1MwWRfH",
+      "name": "Your Time Will Come Again",
+      "artists": [
+        {
+          "id": "0EnDtiDrCgklr97QMJOSPv",
+          "name": "sleepmakeswaves"
+        }
+      ],
+      "album": {
+        "id": "6tqGofms2Lnj1A7SlF00dV",
+        "release_date": "2014-07-04",
+        "name": "Love Of Cartography",
+        "artists": [
+          {
+            "id": "0EnDtiDrCgklr97QMJOSPv",
+            "name": "sleepmakeswaves"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 536,
+        "nanos": 383000000
       },
       "explicit": false
     }

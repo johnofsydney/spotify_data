@@ -1,0 +1,208 @@
+{
+  "playlist": {
+    "id": "7ztYtxYE1mWEQ6JnVEoTFT",
+    "collaborative": false,
+    "name": "Formative Years",
+    "desc": "Seeded by spotify_data from formative.txt; add to it freely.",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAAWHZFQdj1RsRXeu0a37ysoUxkf+t"
+  },
+  "tracks": [
+    {
+      "id": "7j5Q3zhjvpQvMeoPSZwdsa",
+      "name": "Temptation",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "6iHuSGy6pq4tNGFV3ZVPtl",
+        "release_date": "1987-08-17",
+        "name": "Substance",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 419,
+        "nanos": 240000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5cy5IStIn7OSHDEIgXeDyq",
+      "name": "Debaser",
+      "artists": [
+        {
+          "id": "6zvul52xwTWzilBZl6BUbT",
+          "name": "Pixies"
+        }
+      ],
+      "album": {
+        "id": "0DQyTVcDhK9wm0f6RaErWO",
+        "release_date": "1989-04-17",
+        "name": "Doolittle",
+        "artists": [
+          {
+            "id": "6zvul52xwTWzilBZl6BUbT",
+            "name": "Pixies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 171,
+        "nanos": 746000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0lNudhCTfcGBQVvSO22g4r",
+      "name": "Just Like Heaven",
+      "artists": [
+        {
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure"
+        }
+      ],
+      "album": {
+        "id": "0KOhXClxQdLxMpLW7UCuNi",
+        "release_date": "1987-05-18",
+        "name": "Kiss Me Kiss Me Kiss Me",
+        "artists": [
+          {
+            "id": "7bu3H8JO7d0UbMoVzbo70s",
+            "name": "The Cure"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 212,
+        "nanos": 826000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7FIhuHZUdUxWX2hDMGdIbF",
+      "name": "Freak Scene",
+      "artists": [
+        {
+          "id": "267VY6GX5LyU5c9M85ECZQ",
+          "name": "Dinosaur Jr."
+        }
+      ],
+      "album": {
+        "id": "217wquCr9YCvsIHEsFkVPs",
+        "release_date": "1988-10-31",
+        "name": "Bug",
+        "artists": [
+          {
+            "id": "267VY6GX5LyU5c9M85ECZQ",
+            "name": "Dinosaur Jr."
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 216,
+        "nanos": 960000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "37Tmv4NnfQeb0ZgUC4fOJj",
+      "name": "Sultans Of Swing",
+      "artists": [
+        {
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+          "name": "Dire Straits"
+        }
+      ],
+      "album": {
+        "id": "2rCS6Xwx32V27pvgFzLzlT",
+        "release_date": "1978-10-07",
+        "name": "Dire Straits",
+        "artists": [
+          {
+            "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+            "name": "Dire Straits"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 348,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2KqY6DZhVEuwVeJ1oYaVOF",
+      "name": "Bad - Live at Wembley Stadium, 13th July 1985",
+      "artists": [
+        {
+          "id": "51Blml2LZPmy7TTiAg47vQ",
+          "name": "U2"
+        }
+      ],
+      "album": {
+        "id": "3tf6lMAgHfEsdPwOxYEbds",
+        "release_date": "2018",
+        "name": "U2 at Live Aid (Live at Wembley Stadium, 13th July 1985)",
+        "artists": [
+          {
+            "id": "51Blml2LZPmy7TTiAg47vQ",
+            "name": "U2"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 732,
+        "nanos": 955000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "124Y9LPRCAz3q2OP0iCvcJ",
+      "name": "London Calling",
+      "artists": [
+        {
+          "id": "3RGLhK1IP9jnYFH4BRFJBS",
+          "name": "The Clash"
+        }
+      ],
+      "album": {
+        "id": "3TZuLZx0zB3Q45aQXDswb9",
+        "release_date": "1979",
+        "name": "London Calling (Expanded Edition)",
+        "artists": [
+          {
+            "id": "3RGLhK1IP9jnYFH4BRFJBS",
+            "name": "The Clash"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 199,
+        "nanos": 733000000
+      },
+      "explicit": false
+    }
+  ]
+}

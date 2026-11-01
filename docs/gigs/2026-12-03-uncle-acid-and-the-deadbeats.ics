@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2026-12-03-uncle-acid-and-the-deadbeats@spotify_data
+DTSTAMP:20261101T222536Z
+DTSTART:20261203T090000Z
+DTEND:20261203T120000Z
+SUMMARY:Uncle Acid & The Deadbeats (UK)
+LOCATION:Crowbar\, 345 Parramatta Rd\, Leichhardt
+DESCRIPTION:Uncle Acid & The Deadbeats (UK)\n\nUncle Acid & The Deadbeats (
+ UK): favourite #133\n\nhttps://crowbarsyd.oztix.com.au/outlet/event/81a309
+ 2a-2756-4351-bc5c-229c300b0cb9?Event=238657
+URL:https://crowbarsyd.oztix.com.au/outlet/event/81a3092a-2756-4351-bc5c-22
+ 9c300b0cb9?Event=238657
+END:VEVENT
+END:VCALENDAR

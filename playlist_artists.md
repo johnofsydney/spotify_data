@@ -16,11 +16,12 @@
 38x  Night Beats
 37x  Spiritualized
 36x  Long Distance Calling
-34x  New Order
+35x  New Order
 34x  Noel Gallagher's High Flying Birds
 32x  Primal Scream
 31x  Causa Sui
 31x  The Raveonettes
+29x  sleepmakeswaves
 29x  The Fall
 29x  The Flaming Lips
 29x  Tides From Nebula
@@ -61,7 +62,6 @@
 20x  Yppah
 19x  Neuman
 19x  Rival Consoles
-19x  sleepmakeswaves
 19x  Still Corners
 19x  Syd Barrett
 19x  UNKLE
@@ -75,6 +75,7 @@
 17x  Johnny Marr
 17x  Matthew E. White
 17x  Orbital
+17x  Pixies
 17x  Soulwax
 17x  Talking Heads
 17x  The Prodigy
@@ -84,12 +85,12 @@
 16x  October Drift
 16x  Pale Honey
 16x  Perry Farrell
-16x  Pixies
 16x  Solarstone
 16x  Thee Oh Sees
 16x  Ulrich Schnauss
 15x  Amon Tobin
 15x  Andy Bell
+15x  Dinosaur Jr.
 15x  Elder
 15x  Max Cooper
 15x  Nils Frahm
@@ -98,7 +99,6 @@
 15x  Triangle Singular
 15x  You Am I
 14x  Death From Above 1979
-14x  Dinosaur Jr.
 14x  Fuck Buttons
 14x  The House of Love
 14x  The Jesus and Mary Chain
@@ -164,6 +164,7 @@
 10x  Pumarosa
 10x  Quantum Fantay
 10x  The Black Angels
+10x  The Cure
 9x  A Place To Bury Strangers
 9x  All India Radio
 9x  Binary Finary
@@ -185,7 +186,6 @@
 9x  Snarky Puppy
 9x  Supergrass
 9x  Tapes
-9x  The Cure
 9x  The Horrors
 9x  TVAM
 9x  Wolf Alice
@@ -491,6 +491,7 @@
 5x  Tinlicker
 5x  Toundra
 5x  True Widow
+5x  U2
 5x  Unloved
 5x  Wire
 5x  Your Favorite Enemies
@@ -683,6 +684,7 @@
 4x  The Breeders
 4x  The Chameleons
 4x  The Charlatans
+4x  The Clash
 4x  The Cryin Shames
 4x  The Crystals
 4x  The Durutti Column
@@ -708,7 +710,6 @@
 4x  TOY
 4x  Turbowolf
 4x  Télépopmusik
-4x  U2
 4x  Ulrika Spacek
 4x  Vast
 4x  Warmduscher
@@ -1052,7 +1053,6 @@
 3x  The Big Moon
 3x  The Blackwater Fever
 3x  The Bright Light Social Hour
-3x  The Clash
 3x  The Coral
 3x  The Damned
 3x  The Dead Pirates
@@ -2796,6 +2796,7 @@
 1x  Dijf Sanders
 1x  DILLY DALLY
 1x  Dimension 5
+1x  Dire Straits
 1x  Director
 1x  Dirty Sound Magnet
 1x  Disclosure

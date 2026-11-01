@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2027-02-28-kings-of-leon@spotify_data
+DTSTAMP:20261101T222536Z
+DTSTART:20270228T051500Z
+DTEND:20270228T081500Z
+SUMMARY:Kings of Leon (USA) / Ocean Alley
+LOCATION:Centennial Park\, Centennial Park\, Centennial Park
+DESCRIPTION:Kings of Leon (USA) / Ocean Alley\n\nKings of Leon (USA): favou
+ rite #36\n\nhttps://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%
+ 3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fkings-of-leon%2F201554&partnerproper
+ tyid=6900038&MediaPartnerPropertyId=6900038
+URL:https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fm
+ oshtix.com.au%2Fv2%2Fevent%2Fkings-of-leon%2F201554&partnerpropertyid=6900
+ 038&MediaPartnerPropertyId=6900038
+END:VEVENT
+END:VCALENDAR

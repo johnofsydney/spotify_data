@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2027-03-28-cam-cole@spotify_data
+DTSTAMP:20261101T222536Z
+DTSTART:20270328T083000Z
+DTEND:20270328T113000Z
+SUMMARY:Cam Cole (USA)
+LOCATION:Factory Floor @ Factory Theatre\, 105 Victoria Rd\, Marrickville
+DESCRIPTION:Cam Cole (USA)\n\nCam Cole (USA): favourite #156\n\nhttps://auc
+ entury.sales.ticketsearch.com/sales/salesevent/169171
+URL:https://aucentury.sales.ticketsearch.com/sales/salesevent/169171
+END:VEVENT
+END:VCALENDAR

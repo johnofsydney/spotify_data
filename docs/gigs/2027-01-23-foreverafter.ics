@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2027-01-23-foreverafter@spotify_data
+DTSTAMP:20261101T222536Z
+DTSTART:20270123T060000Z
+DTEND:20270123T090000Z
+SUMMARY:Foreverafter / The Presets / Cut Copy / Ladyhawke (NZ) / Bag Raider
+ s / Bang Gang DJs / Fukhed
+LOCATION:Carriageworks\, 245 Wilson St\, Eveleigh
+DESCRIPTION:Foreverafter / The Presets / Cut Copy / Ladyhawke (NZ) / Bag Ra
+ iders / Bang Gang DJs / Fukhed\n\nCut Copy: favourite #600\nLadyhawke (NZ)
+ : favourite #78\n\nhttps://carriageworks.com.au/events/foreverafter/
+URL:https://carriageworks.com.au/events/foreverafter/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2027-03-06-sasha@spotify_data
+DTSTAMP:20261101T222536Z
+DTSTART:20270306T060000Z
+DTEND:20270306T090000Z
+SUMMARY:Sasha / John Digweed / Sasha & John Digweed
+LOCATION:White Bay Power Station\, Robert St\, Rozelle
+DESCRIPTION:Sasha / John Digweed / Sasha & John Digweed\n\nSasha: favourite
+  #192\n\nhttps://www.moshtix.com.au/v2/event/tmrw-music-pres-sasha-john-di
+ gweed-sydney/200332
+URL:https://www.moshtix.com.au/v2/event/tmrw-music-pres-sasha-john-digweed-
+ sydney/200332
+END:VEVENT
+END:VCALENDAR

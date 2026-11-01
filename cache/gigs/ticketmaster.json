@@ -1,0 +1,5614 @@
+[
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_ef",
+  "start": "2026-11-04T20:00:00+11:00",
+  "date": "2026-11-04",
+  "time": "20:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "#1 Dads",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/-1-dads/199094",
+  "free": false,
+  "title": "#1 DADS"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_A4",
+  "start": "2026-11-05T19:00:00+11:00",
+  "date": "2026-11-05",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Odette",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/odette-blink-tour-2026/199155",
+  "free": false,
+  "title": "ODETTE ‘BLINK’ TOUR 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kb4-",
+  "start": "2026-11-05T20:00:00+11:00",
+  "date": "2026-11-05",
+  "time": "20:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "#1 Dads",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/-1-dads/198561",
+  "free": false,
+  "title": "#1 DADS"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1k7YvPazGAul-nE",
+  "start": "2026-11-05T20:00:00+11:00",
+  "date": "2026-11-05",
+  "time": "20:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Andres Cepeda",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/andres-cepeda-bogota-la-gira-sydney-05-11-2026/event/130065278DAE1AA7",
+  "free": false,
+  "title": "Andres Cepeda - Bogota: La Gira"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9A8",
+  "start": "2026-11-06T18:00:00+11:00",
+  "date": "2026-11-06",
+  "time": "18:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Shockone",
+    "billing": "headline"
+   },
+   {
+    "name": "Aeon:Mode",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/end-of-days-2026-sydney-feat-shockone-b2b-on-mode/197150",
+  "free": false,
+  "title": "END OF DAYS 2026 - SYDNEY feat. SHOCKONE b2b ÆON:MODE "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17koq7",
+  "start": "2026-11-06T19:00:00+11:00",
+  "date": "2026-11-06",
+  "time": "19:00",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "The Animals",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-animals-uk-the-house-of-the-rising-sun-tour/191744",
+  "free": false,
+  "title": "The Animals (UK) - The House Of The Rising Sun Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9kp",
+  "start": "2026-11-06T19:30:00+11:00",
+  "date": "2026-11-06",
+  "time": "19:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Charlie Jeer",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/charlie-jeer/197196",
+  "free": false,
+  "title": "Charlie Jeer"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZkf3GkdJoJXB",
+  "start": "2026-11-06T19:30:00+11:00",
+  "date": "2026-11-06",
+  "time": "19:30",
+  "venue": "Sydney Event Centre",
+  "venue_id": "KovZ917Aflf",
+  "address": "80 Pyrmont Street, Pyrmont",
+  "suburb": "Pyrmont",
+  "acts": [
+   {
+    "name": "Omnipotent Youth Society",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/omnipotent-youth-society-australia-new-zealand-pyrmont-06-11-2026/event/13006512E6466FBA",
+  "free": false,
+  "title": "Omnipotent Youth Society Australia & New Zealand Tour 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9Zv",
+  "start": "2026-11-06T20:00:00+11:00",
+  "date": "2026-11-06",
+  "time": "20:00",
+  "venue": "Selina's at Coogee Bay Hotel",
+  "venue_id": "KovZ917AcQJ",
+  "address": "253 Coogee Bay Rd, Coogee",
+  "suburb": "Coogee",
+  "acts": [
+   {
+    "name": "Live Baby Live",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/live-baby-live-the-inxs-tribute-show/197001",
+  "free": false,
+  "title": "LIVE BABY LIVE THE INXS TRIBUTE SHOW"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv0a",
+  "start": "2026-11-06T21:00:00+11:00",
+  "date": "2026-11-06",
+  "time": "21:00",
+  "venue": "Chinese Laundry",
+  "venue_id": "KovZ917ARtD",
+  "address": "111 Sussex Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Chinese Laundry",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-bouki-friends-full-venue-takeover-/201909",
+  "free": false,
+  "title": "Chinese Laundry Invites BOUKI & FRIENDS [FULL VENUE TAKEOVER]"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvjE",
+  "start": "2026-11-06T21:30:00+11:00",
+  "date": "2026-11-06",
+  "time": "21:30",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "WAO Superclub",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/fri-06-nov-int-guest-dj-highness-wao-superclub/201727",
+  "free": false,
+  "title": "FRI 06 NOV - INT GUEST DJ HIGHNESS @ WAO SUPERCLUB"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_jE",
+  "start": "2026-11-06T23:00:00+11:00",
+  "date": "2026-11-06",
+  "time": "23:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Ocean Wisdom",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ocean-wisdom-uk-/199727",
+  "free": false,
+  "title": "OCEAN WISDOM [UK]"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_rv",
+  "start": "2026-11-07T16:00:00+11:00",
+  "date": "2026-11-07",
+  "time": "16:00",
+  "venue": "Heaps Normal Health Club",
+  "venue_id": "KovZ917AVL0",
+  "address": "2/10 Brompton Street, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Rodrigo Gallardo",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/mahico-presents-rodrigo-gallardo-chl-/199781",
+  "free": false,
+  "title": "MAHICO PRESENTS: RODRIGO GALLARDO (CHL)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpQe",
+  "start": "2026-11-07T18:30:00+11:00",
+  "date": "2026-11-07",
+  "time": "18:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Fleshwater",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/fleshwater-australian-tour-2026/196682",
+  "free": false,
+  "title": "Fleshwater Australian Tour 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k98O",
+  "start": "2026-11-07T19:00:00+11:00",
+  "date": "2026-11-07",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Alta Falls",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/alta-falls-don-t-make-me-a-number-ep-tour/197420",
+  "free": false,
+  "title": "Alta Falls - ‘Don’t Make Me A Number’ EP Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_vZ",
+  "start": "2026-11-07T19:00:00+11:00",
+  "date": "2026-11-07",
+  "time": "19:00",
+  "venue": "Bootleggers",
+  "venue_id": "KovZ917AV_A",
+  "address": "283/285 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "A Night In Texas",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/a-night-in-texas-the-darkest-side-of-humanity-east-coast-tour/199040",
+  "free": false,
+  "title": "A Night In Texas \"The Darkest Side Of Humanity\" East Coast Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17koqA",
+  "start": "2026-11-07T19:00:00+11:00",
+  "date": "2026-11-07",
+  "time": "19:00",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "The Animals",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-animals-uk-the-house-of-the-rising-sun-tour/191745",
+  "free": false,
+  "title": "The Animals (UK) - The House Of The Rising Sun Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k47Y",
+  "start": "2026-11-07T19:00:00+11:00",
+  "date": "2026-11-07",
+  "time": "19:00",
+  "venue": "Selina's at Coogee Bay Hotel",
+  "venue_id": "KovZ917AcQJ",
+  "address": "253 Coogee Bay Rd, Coogee",
+  "suburb": "Coogee",
+  "acts": [
+   {
+    "name": "MC Pat Flynn",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/mc-pat-flynn/195130",
+  "free": false,
+  "title": "MC PAT FLYNN"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv08",
+  "start": "2026-11-07T21:00:00+11:00",
+  "date": "2026-11-07",
+  "time": "21:00",
+  "venue": "Chinese Laundry",
+  "venue_id": "KovZ917ARtD",
+  "address": "111 Sussex Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Chinese Laundry",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-undr-ctrl-12th-birthday-full-venue-takeover-/201910",
+  "free": false,
+  "title": "CHINESE LAUNDRY INVITES UNDR CTRL 12TH BIRTHDAY [FULL VENUE TAKEOVER]"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZQe",
+  "start": "2026-11-08T14:00:00+11:00",
+  "date": "2026-11-08",
+  "time": "14:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Leyla Sabo",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/leyla-sabo-all-ages-/200682",
+  "free": false,
+  "title": "Leyla Sabo *ALL AGES*"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZ__",
+  "start": "2026-11-08T16:00:00+11:00",
+  "date": "2026-11-08",
+  "time": "16:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "MK",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/mk/200659",
+  "free": false,
+  "title": "MK"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k4r8",
+  "start": "2026-11-08T19:30:00+11:00",
+  "date": "2026-11-08",
+  "time": "19:30",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Voyager",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/voyager/195790",
+  "free": false,
+  "title": "VOYAGER"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZkfyGkd4OXhz",
+  "start": "2026-11-10T19:00:00+11:00",
+  "date": "2026-11-10",
+  "time": "19:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Parkway Drive",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/parkway-drive-home-feature-documentary-world-sydney-10-11-2026/event/13006539D583E6F8",
+  "free": false,
+  "title": "Parkway Drive: Home - Feature Documentary World Premiere"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_Ae",
+  "start": "2026-11-11T19:00:00+11:00",
+  "date": "2026-11-11",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Ben Morgan",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ben-morgan/199142",
+  "free": false,
+  "title": "Ben Morgan"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9GZ",
+  "start": "2026-11-12T19:00:00+11:00",
+  "date": "2026-11-12",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Ecca Vandal",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour-second-show-added/197300",
+  "free": false,
+  "title": "Ecca Vandal ‘Looking For People to Unfollow’ Album Tour | SECOND SHOW ADDED"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbvp",
+  "start": "2026-11-12T19:00:00+11:00",
+  "date": "2026-11-12",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Holly Throsby",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/holly-throsby/198056",
+  "free": false,
+  "title": "Holly Throsby"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k4fz",
+  "start": "2026-11-13T17:00:00+11:00",
+  "date": "2026-11-13",
+  "time": "17:00",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "Vanishing Point",
+    "billing": "headline"
+   },
+   {
+    "name": "White Widdow",
+    "billing": "support"
+   },
+   {
+    "name": "Harlott",
+    "billing": "support"
+   },
+   {
+    "name": "Psychonaut",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/steel-assassins-2026-two-day-pass/195538",
+  "free": false,
+  "title": "Steel Assassins 2026 Two Day Pass"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k4J6",
+  "start": "2026-11-13T19:00:00+11:00",
+  "date": "2026-11-13",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Ecca Vandal",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour/195987",
+  "free": false,
+  "title": "Ecca Vandal ‘Looking For People to Unfollow’ Album Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_uI",
+  "start": "2026-11-13T19:00:00+11:00",
+  "date": "2026-11-13",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "The Tullamarines",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-tullamarines-2026-tour/199368",
+  "free": false,
+  "title": "THE TULLAMARINES 2026 TOUR"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_ad",
+  "start": "2026-11-13T19:00:00+11:00",
+  "date": "2026-11-13",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Ella Thompson",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ella-thompson/199243",
+  "free": false,
+  "title": "Ella Thompson"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9xk",
+  "start": "2026-11-13T19:30:00+11:00",
+  "date": "2026-11-13",
+  "time": "19:30",
+  "venue": "Metro Theatre",
+  "venue_id": "KovZpafHUe",
+  "address": "624 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "daine",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18-/197886",
+  "free": false,
+  "title": "daine - the In Endless Awe & Agony tour (18+) "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kKPS",
+  "start": "2026-11-13T19:30:00+11:00",
+  "date": "2026-11-13",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Reverend Horton Heat",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-reverend-horton-heat-australian-tour-2026/193973",
+  "free": false,
+  "title": "THE REVEREND HORTON HEAT - Australian Tour 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpqy",
+  "start": "2026-11-13T20:00:00+11:00",
+  "date": "2026-11-13",
+  "time": "20:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Saša Matić",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/sasa-matic-live-with-full-band/196779",
+  "free": false,
+  "title": "Sasa Matic Live with Full Band"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_dGkw4TV72",
+  "start": "2026-11-13T20:00:00+11:00",
+  "date": "2026-11-13",
+  "time": "20:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Sir El Tom",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/sir-el-tom-sydney-13-11-2026/event/1300643C95FF410F",
+  "free": false,
+  "title": "Sir El Tom"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv4k",
+  "start": "2026-11-13T20:00:00+11:00",
+  "date": "2026-11-13",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Mick Jenkins",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/mick-jenkins/201546",
+  "free": false,
+  "title": "MICK JENKINS"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv0o",
+  "start": "2026-11-13T21:00:00+11:00",
+  "date": "2026-11-13",
+  "time": "21:00",
+  "venue": "Chinese Laundry",
+  "venue_id": "KovZ917ARtD",
+  "address": "111 Sussex Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Chinese Laundry",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-november-13/201911",
+  "free": false,
+  "title": "Chinese Laundry | November 13"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvjI",
+  "start": "2026-11-13T21:30:00+11:00",
+  "date": "2026-11-13",
+  "time": "21:30",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "WAO Superclub",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/fri-13-nov-wao-superclub-ivy/201728",
+  "free": false,
+  "title": "FRI 13 NOV - WAO SUPERCLUB @ IVY"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZ0O",
+  "start": "2026-11-14T14:00:00+11:00",
+  "date": "2026-11-14",
+  "time": "14:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "KUKO",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/sandbox-presents-kuko/200920",
+  "free": false,
+  "title": "Sandbox presents Kuko"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZkoSGkdQ3FwF",
+  "start": "2026-11-14T16:00:00+11:00",
+  "date": "2026-11-14",
+  "time": "16:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Jack Johnson",
+    "billing": "headline"
+   },
+   {
+    "name": "Ben Harper",
+    "billing": "support"
+   },
+   {
+    "name": "John Butler",
+    "billing": "support"
+   },
+   {
+    "name": "Emily Wurramara",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/jack-johnson-surfilmusic-tour-australia-new-sydney-14-11-2026/event/13006473DA488C88",
+  "free": false,
+  "title": "Jack Johnson - Surfilmusic Tour - Australia / New Zealand - 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kb_d",
+  "start": "2026-11-14T18:00:00+11:00",
+  "date": "2026-11-14",
+  "time": "18:00",
+  "venue": "Metro Theatre",
+  "venue_id": "KovZpafHUe",
+  "address": "624 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "daine",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages-/198643",
+  "free": false,
+  "title": "daine - the In Endless Awe & Agony tour (ALL AGES) "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_JA",
+  "start": "2026-11-14T18:30:00+11:00",
+  "date": "2026-11-14",
+  "time": "18:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "HEADSEND",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/good-music-house-party/199985",
+  "free": false,
+  "title": "Good Music House Party"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZJb",
+  "start": "2026-11-14T19:00:00+11:00",
+  "date": "2026-11-14",
+  "time": "19:00",
+  "venue": "Waywards",
+  "venue_id": "KovZ917AmkG",
+  "address": "324 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "PARK RD",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/park-rd-boyhood-tour/200998",
+  "free": false,
+  "title": "PARK RD – Boyhood Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9O3",
+  "start": "2026-11-14T20:00:00+11:00",
+  "date": "2026-11-14",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "The Mark of Cain",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-mark-of-cain/197812",
+  "free": false,
+  "title": "THE MARK OF CAIN"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv03",
+  "start": "2026-11-14T21:00:00+11:00",
+  "date": "2026-11-14",
+  "time": "21:00",
+  "venue": "Chinese Laundry",
+  "venue_id": "KovZ917ARtD",
+  "address": "111 Sussex Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Chinese Laundry",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-november-14/201912",
+  "free": false,
+  "title": "Chinese Laundry | November 14"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbq8",
+  "start": "2026-11-14T22:00:00+11:00",
+  "date": "2026-11-14",
+  "time": "22:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "GUDFELLA",
+    "billing": "headline"
+   },
+   {
+    "name": "ABOVE",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/above-nov-14-ft-gudfella/198750",
+  "free": false,
+  "title": "Above - Nov 14 ft. Gudfella"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpZ8",
+  "start": "2026-11-15T15:00:00+11:00",
+  "date": "2026-11-15",
+  "time": "15:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Gilles Peterson",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/gilles-peterson/196010",
+  "free": false,
+  "title": "Gilles Peterson "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_6GkBkbs-G",
+  "start": "2026-11-15T16:00:00+11:00",
+  "date": "2026-11-15",
+  "time": "16:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "James Morrison",
+    "billing": "headline"
+   },
+   {
+    "name": "Mahalia Barnes",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/james-morrison-with-special-guest-mahalia-sydney-15-11-2026/event/1300647E8663184C",
+  "free": false,
+  "title": "James Morrison with Special Guest Mahalia Barnes"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "16efZ_ArFG7tKwS",
+  "start": "2026-11-15T17:30:00+11:00",
+  "date": "2026-11-15",
+  "time": "17:30",
+  "venue": "Allianz Stadium",
+  "venue_id": "KovZ917ASDc",
+  "address": "Moore Park Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Iron Maiden",
+    "billing": "headline"
+   },
+   {
+    "name": "Megadeth",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3",
+  "free": false,
+  "title": "IRON MAIDEN - RUN FOR YOUR LIVES - WORLD TOUR 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpZA",
+  "start": "2026-11-15T19:00:00+11:00",
+  "date": "2026-11-15",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Kristin Hersh",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/an-evening-with-kristin-hersh-us-/196005",
+  "free": false,
+  "title": "An Evening With Kristin Hersh (US)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k48O",
+  "start": "2026-11-16T19:30:00+11:00",
+  "date": "2026-11-16",
+  "time": "19:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Flyte",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/flyte-uk-/195420",
+  "free": false,
+  "title": "Flyte (UK)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv3K",
+  "start": "2026-11-17T18:00:00+11:00",
+  "date": "2026-11-17",
+  "time": "18:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Gilles Peterson",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/gilles-peterson-liner-notes-tales-from-down-under/201493",
+  "free": false,
+  "title": "Gilles Peterson - Liner Notes: Tales from Down Under"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_Ag",
+  "start": "2026-11-17T19:00:00+11:00",
+  "date": "2026-11-17",
+  "time": "19:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "YVES",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/yves-australian-tour-2026-/199175",
+  "free": false,
+  "title": "YVES. Australian Tour 2026. "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpbO",
+  "start": "2026-11-19T19:00:00+11:00",
+  "date": "2026-11-19",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Ryan Harris",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ryan-harris-live-in-sydney/196620",
+  "free": false,
+  "title": "Ryan Harris Live in Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpFO",
+  "start": "2026-11-19T19:30:00+11:00",
+  "date": "2026-11-19",
+  "time": "19:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Venna",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/venna/196220",
+  "free": false,
+  "title": "Venna"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpvS",
+  "start": "2026-11-20T18:00:00+11:00",
+  "date": "2026-11-20",
+  "time": "18:00",
+  "venue": "Mrs Macquaries Point",
+  "venue_id": "KovZpZA6FAlA",
+  "address": "Royal Botanic Gardens, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Hot Dub Time Machine",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/hot-dub-on-the-harbour-2026/196073",
+  "free": false,
+  "title": "Hot Dub on the Harbour 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_0Z",
+  "start": "2026-11-20T18:00:00+11:00",
+  "date": "2026-11-20",
+  "time": "18:00",
+  "venue": "Heaps Normal Health Club",
+  "venue_id": "KovZ917AVL0",
+  "address": "2/10 Brompton Street, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Urthboy",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/urthboy-reckless-bloom-album-tour/199900",
+  "free": false,
+  "title": "Urthboy - Reckless Bloom - Album Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_od",
+  "start": "2026-11-20T19:00:00+11:00",
+  "date": "2026-11-20",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Day We Ran",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/day-we-ran-the-naked-at-your-door-tour/199443",
+  "free": false,
+  "title": "Day We Ran - The Naked At Your Door Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_Gg",
+  "start": "2026-11-20T19:30:00+11:00",
+  "date": "2026-11-20",
+  "time": "19:30",
+  "venue": "King Street Wharf",
+  "venue_id": "KovZpa8iOe",
+  "address": "The Promenade/ King Street Whrf, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Louis the Child",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/louis-the-child-sydney/199335",
+  "free": false,
+  "title": "Louis The Child | Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbbf",
+  "start": "2026-11-20T19:30:00+11:00",
+  "date": "2026-11-20",
+  "time": "19:30",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Thirsty Merc",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/thirsty-merc-20-good-regions-tour/198614",
+  "free": false,
+  "title": "THIRSTY MERC - 20 GOOD REGIONS TOUR"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k4bx",
+  "start": "2026-11-20T20:00:00+11:00",
+  "date": "2026-11-20",
+  "time": "20:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Kofi Stone",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/kofi-stone-all-the-flowers-have-bloomed/195622",
+  "free": false,
+  "title": "KOFI STONE | ALL THE FLOWERS HAVE BLOOMED"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv_s",
+  "start": "2026-11-20T21:00:00+11:00",
+  "date": "2026-11-20",
+  "time": "21:00",
+  "venue": "Chinese Laundry",
+  "venue_id": "KovZ917ARtD",
+  "address": "111 Sussex Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Chinese Laundry",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-ahadadream-jesse-mass-nl-/201671",
+  "free": false,
+  "title": "Chinese Laundry Invites AHADADREAM + JESSE MASS [NL]"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZkf6GkdP8ByG",
+  "start": "2026-11-20T21:00:00+11:00",
+  "date": "2026-11-20",
+  "time": "21:00",
+  "venue": "Sydney Event Centre",
+  "venue_id": "KovZ917Aflf",
+  "address": "80 Pyrmont Street, Pyrmont",
+  "suburb": "Pyrmont",
+  "acts": [
+   {
+    "name": "Kadim Al Sahir",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/kadim-al-sahir-pyrmont-20-11-2026/event/13006507E543AE4C",
+  "free": false,
+  "title": "Kadim Al Sahir"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvjt",
+  "start": "2026-11-20T21:30:00+11:00",
+  "date": "2026-11-20",
+  "time": "21:30",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "WAO Superclub",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/fri-20-nov-wao-superclub-ivy/201729",
+  "free": false,
+  "title": "FRI 20 NOV - WAO SUPERCLUB @ IVY"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbbK",
+  "start": "2026-11-20T23:00:00+11:00",
+  "date": "2026-11-20",
+  "time": "23:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Marcel Dettmann",
+    "billing": "headline"
+   },
+   {
+    "name": "Gerd Janson",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/marcel-dettmann-gerd-janson-ger-/198613",
+  "free": false,
+  "title": "Marcel Dettmann & Gerd Janson [GER]"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kFrA",
+  "start": "2026-11-21T14:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "14:00",
+  "venue": "Mrs Macquaries Point",
+  "venue_id": "KovZpZA6FAlA",
+  "address": "Royal Botanic Gardens, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Harbourlife",
+    "billing": "headline"
+   },
+   {
+    "name": "Honey Dijon",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/harbourlife-2026/188785",
+  "free": false,
+  "title": "Harbourlife 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k4jf",
+  "start": "2026-11-21T15:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "15:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Silva Bumpa",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/silva-bumpa/195714",
+  "free": false,
+  "title": "Silva Bumpa"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kKFU",
+  "start": "2026-11-21T18:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "18:00",
+  "venue": "Metro Theatre",
+  "venue_id": "KovZpafHUe",
+  "address": "624 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Delilah Bon",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/delilah-bon-australian-east-coast-tour-sydney-now-at-metro-social/193236",
+  "free": false,
+  "title": "Delilah Bon | Australian East Coast Tour | Sydney | NOW AT METRO SOCIAL"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kp4y",
+  "start": "2026-11-21T19:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Eric Hutchinson",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/eric-hutchinson/196579",
+  "free": false,
+  "title": "Eric Hutchinson "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvFM",
+  "start": "2026-11-21T19:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "19:00",
+  "venue": "Bootleggers",
+  "venue_id": "KovZ917AV_A",
+  "address": "283/285 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Outloved",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/outloved-is-this-letting-go-album-tour-w-broken-earth-alera-dreamcult/201237",
+  "free": false,
+  "title": "OUTLOVED | IS THIS LETTING GO Album Tour | w BROKEN EARTH, ALERA & DREAMCULT "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZJF",
+  "start": "2026-11-21T19:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "19:00",
+  "venue": "Heaps Normal Health Club",
+  "venue_id": "KovZ917AVL0",
+  "address": "2/10 Brompton Street, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "byjaye",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/byjaye-and-gazal-what-s-left-when-you-put-it-down-/200988",
+  "free": false,
+  "title": "byjaye and GAZAL: What's left when you put it down? "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvo0",
+  "start": "2026-11-21T19:30:00+11:00",
+  "date": "2026-11-21",
+  "time": "19:30",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "BOL4",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/bol4/201464",
+  "free": false,
+  "title": "BOL4"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9fE",
+  "start": "2026-11-21T21:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "21:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Silva Bumpa",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/sterling-w-silva-bumpa-special-guests/197527",
+  "free": false,
+  "title": "STERLING w/ Silva Bumpa + special guests "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv_S",
+  "start": "2026-11-21T21:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "21:00",
+  "venue": "Chinese Laundry",
+  "venue_id": "KovZ917ARtD",
+  "address": "111 Sussex Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Chinese Laundry",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-riria/201673",
+  "free": false,
+  "title": "Chinese Laundry Invites RIRIA"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_8Gknx1wfh",
+  "start": "2026-11-21T21:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "21:00",
+  "venue": "Sydney Event Centre",
+  "venue_id": "KovZ917Aflf",
+  "address": "80 Pyrmont Street, Pyrmont",
+  "suburb": "Pyrmont",
+  "acts": [
+   {
+    "name": "Kadim Al Sahir",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/kadim-al-sahir-pyrmont-21-11-2026/event/1300650AA22B251B",
+  "free": false,
+  "title": "Kadim Al Sahir"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZPo",
+  "start": "2026-11-21T22:00:00+11:00",
+  "date": "2026-11-21",
+  "time": "22:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Max Dean",
+    "billing": "headline"
+   },
+   {
+    "name": "Luke Dean",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/max-dean-b2b-luke-dean/200951",
+  "free": false,
+  "title": "Max Dean B2B Luke Dean"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_0I",
+  "start": "2026-11-22T15:00:00+11:00",
+  "date": "2026-11-22",
+  "time": "15:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Hedex",
+    "billing": "headline"
+   },
+   {
+    "name": "Eksman",
+    "billing": "support"
+   },
+   {
+    "name": "Mozey",
+    "billing": "support"
+   },
+   {
+    "name": "NERSHA",
+    "billing": "support"
+   },
+   {
+    "name": "Simula",
+    "billing": "support"
+   },
+   {
+    "name": "Amplify",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/mhitr-sydney-hedex-eksman-mozey-more/199928",
+  "free": false,
+  "title": "MHITR Sydney: Hedex & Eksman, Mozey & More"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZx9",
+  "start": "2026-11-22T16:00:00+11:00",
+  "date": "2026-11-22",
+  "time": "16:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Lost Sundays",
+    "billing": "headline"
+   },
+   {
+    "name": "OMAR+",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/lost-sundays-november-22-ft-omar-the-trip-lewis-taylor/200897",
+  "free": false,
+  "title": "Lost Sundays - November 22 ft. Omar+, The Trip & Lewis Taylor"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZGN",
+  "start": "2026-11-22T18:00:00+11:00",
+  "date": "2026-11-22",
+  "time": "18:00",
+  "venue": "The Roundhouse UNSW",
+  "venue_id": "KovZpZAadIlA",
+  "address": "University of New South Wales, Kensington",
+  "suburb": "Kensington",
+  "acts": [
+   {
+    "name": "The Edge Band",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/edge-band-laure-vyoma-live-in-sydney/200323",
+  "free": false,
+  "title": "EDGE Band, Laure & Vyoma - Live in Sydney "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9j6",
+  "start": "2026-11-22T19:00:00+11:00",
+  "date": "2026-11-22",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Ultra Naté",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ultra-nat-sydney/197707",
+  "free": false,
+  "title": "Ultra Naté | SYDNEY"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9aS",
+  "start": "2026-11-22T19:00:00+11:00",
+  "date": "2026-11-22",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Haywire",
+    "billing": "headline"
+   },
+   {
+    "name": "Feel the Pain",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/new-date-haywire-usa-australian-tour-sydney/197273",
+  "free": false,
+  "title": "NEW DATE | HAYWIRE (USA) Australian Tour - Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_fM",
+  "start": "2026-11-23T19:00:00+11:00",
+  "date": "2026-11-23",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Allegra Krieger",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/allegra-krieger-usa-/199537",
+  "free": false,
+  "title": "Allegra Krieger (USA)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_pp",
+  "start": "2026-11-26T19:00:00+11:00",
+  "date": "2026-11-26",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Caroline Rose",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/caroline-rose-usa-/199596",
+  "free": false,
+  "title": "Caroline Rose (USA)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k4bd",
+  "start": "2026-11-26T19:00:00+11:00",
+  "date": "2026-11-26",
+  "time": "19:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "MICO",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/mico/195603",
+  "free": false,
+  "title": "MICO"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpOE",
+  "start": "2026-11-26T19:00:00+11:00",
+  "date": "2026-11-26",
+  "time": "19:00",
+  "venue": "The Roundhouse UNSW",
+  "venue_id": "KovZpZAadIlA",
+  "address": "University of New South Wales, Kensington",
+  "suburb": "Kensington",
+  "acts": [
+   {
+    "name": "MICO",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/mico-venue-upgrade/196827",
+  "free": false,
+  "title": "MICO | VENUE UPGRADE"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kba_",
+  "start": "2026-11-27T19:00:00+11:00",
+  "date": "2026-11-27",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Sly Withers",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/sly-withers-tbh-album-tour/198259",
+  "free": false,
+  "title": "SLY WITHERS - TBH ALBUM TOUR"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZaP",
+  "start": "2026-11-27T19:00:00+11:00",
+  "date": "2026-11-27",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "ECHT!",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/echt-bel-special-guest-haztet/200265",
+  "free": false,
+  "title": "ECHT! (BEL) + special guest Haztet"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZ70",
+  "start": "2026-11-27T19:00:00+11:00",
+  "date": "2026-11-27",
+  "time": "19:00",
+  "venue": "The Whalers at Mosman Club",
+  "venue_id": "KovZ917AVLS",
+  "address": "719 Military Rd, Mossman",
+  "suburb": "Mossman",
+  "acts": [
+   {
+    "name": "Live Baby Live",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/live-baby-live-the-inxs-tribute-show/200124",
+  "free": false,
+  "title": "Live Baby Live - The INXS Tribute Show "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_jU",
+  "start": "2026-11-27T19:30:00+11:00",
+  "date": "2026-11-27",
+  "time": "19:30",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "JACOTÉNE",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/jacot-ne-australia-headline-tour/199736",
+  "free": false,
+  "title": "Jacoténe Australia Headline Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbrk",
+  "start": "2026-11-27T19:30:00+11:00",
+  "date": "2026-11-27",
+  "time": "19:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Neophyte",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/dedication-1-0/198786",
+  "free": false,
+  "title": "Dedication 1.0 "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9GK",
+  "start": "2026-11-27T19:30:00+11:00",
+  "date": "2026-11-27",
+  "time": "19:30",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "Don't Change - Ultimate INXS",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/don-t-change-ultimate-inxs-tribute-get-kicked-tour/197313",
+  "free": false,
+  "title": "Don't Change - Ultimate INXS Tribute Get Kicked Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbbU",
+  "start": "2026-11-27T20:00:00+11:00",
+  "date": "2026-11-27",
+  "time": "20:00",
+  "venue": "Plaza Hotel Sydney",
+  "venue_id": "KovZ917ASRQ",
+  "address": "600 George St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "VTSS",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/vtss/198636",
+  "free": false,
+  "title": "VTSS"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_JZ",
+  "start": "2026-11-27T21:00:00+11:00",
+  "date": "2026-11-27",
+  "time": "21:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Honey Dijon",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/honey-dijon/199980",
+  "free": false,
+  "title": "HONEY DIJON"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvjY",
+  "start": "2026-11-27T21:30:00+11:00",
+  "date": "2026-11-27",
+  "time": "21:30",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "WAO Superclub",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/fri-27-nov-int-guest-dj-anime-wao-superclub/201730",
+  "free": false,
+  "title": "FRI 27 NOV - INT GUEST DJ ANIME @ WAO SUPERCLUB"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9ov",
+  "start": "2026-11-28T14:00:00+11:00",
+  "date": "2026-11-28",
+  "time": "14:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Lee Burridge",
+    "billing": "headline"
+   },
+   {
+    "name": "Double Touch",
+    "billing": "support"
+   },
+   {
+    "name": "Lost Desert",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/all-day-i-dream-of-australia-sydney/197441",
+  "free": false,
+  "title": "All Day I Dream of Australia | Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpro",
+  "start": "2026-11-28T17:00:00+11:00",
+  "date": "2026-11-28",
+  "time": "17:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Nina Kraviz",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/nina-kraviz/196791",
+  "free": false,
+  "title": "NINA KRAVIZ"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_3GkDd5gFi",
+  "start": "2026-11-28T18:00:00+11:00",
+  "date": "2026-11-28",
+  "time": "18:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Australian Crawl",
+    "billing": "headline"
+   },
+   {
+    "name": "Boom Crash Opera",
+    "billing": "support"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/australian-crawl-sydney-28-11-2026/event/1300652EC32F522C",
+  "free": false,
+  "title": "Australian Crawl"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9G4",
+  "start": "2026-11-28T19:30:00+11:00",
+  "date": "2026-11-28",
+  "time": "19:30",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "Don't Change - Ultimate INXS",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/don-t-change-ultimate-inxs-tribute-get-kicked-tour/197315",
+  "free": false,
+  "title": "Don't Change - Ultimate INXS Tribute Get Kicked Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9Gx",
+  "start": "2026-11-28T19:30:00+11:00",
+  "date": "2026-11-28",
+  "time": "19:30",
+  "venue": "Selina's at Coogee Bay Hotel",
+  "venue_id": "KovZ917AcQJ",
+  "address": "253 Coogee Bay Rd, Coogee",
+  "suburb": "Coogee",
+  "acts": [
+   {
+    "name": "Piti Fernandez",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/piti-fern-ndez/197322",
+  "free": false,
+  "title": "PITI FERNÁNDEZ"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_8Gknxfw4A",
+  "start": "2026-11-28T21:00:00+11:00",
+  "date": "2026-11-28",
+  "time": "21:00",
+  "venue": "Sydney Event Centre",
+  "venue_id": "KovZ917Aflf",
+  "address": "80 Pyrmont Street, Pyrmont",
+  "suburb": "Pyrmont",
+  "acts": [
+   {
+    "name": "Kadim Al Sahir",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/kadim-al-sahir-pyrmont-28-11-2026/event/1300650AA2532545",
+  "free": false,
+  "title": "Kadim Al Sahir"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbqo",
+  "start": "2026-11-28T22:00:00+11:00",
+  "date": "2026-11-28",
+  "time": "22:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "TSHA",
+    "billing": "headline"
+   },
+   {
+    "name": "ABOVE",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/above-nov-28-ft-tsha/198751",
+  "free": false,
+  "title": "Above - Nov 28 ft. TSHA"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpCo",
+  "start": "2026-11-29T15:00:00+11:00",
+  "date": "2026-11-29",
+  "time": "15:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Kerri Chandler",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/kerri-chandler-live-hybrid-/196391",
+  "free": false,
+  "title": "Kerri Chandler (LIVE HYBRID)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9Gp",
+  "start": "2026-11-29T18:00:00+11:00",
+  "date": "2026-11-29",
+  "time": "18:00",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "Don't Change - Ultimate INXS",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/don-t-change-ultimate-inxs-tribute-get-kicked-tour/197316",
+  "free": false,
+  "title": "Don't Change - Ultimate INXS Tribute Get Kicked Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9vJ",
+  "start": "2026-11-29T19:00:00+11:00",
+  "date": "2026-11-29",
+  "time": "19:00",
+  "venue": "The Roundhouse UNSW",
+  "venue_id": "KovZpZAadIlA",
+  "address": "University of New South Wales, Kensington",
+  "suburb": "Kensington",
+  "acts": [
+   {
+    "name": "Albatross",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/albatross-ibtidaa-live-in-sydney/197066",
+  "free": false,
+  "title": "ALBATROSS “IBTIDAA”  LIVE IN SYDNEY"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbCk",
+  "start": "2026-11-29T20:00:00+11:00",
+  "date": "2026-11-29",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Buckshot",
+    "billing": "headline"
+   },
+   {
+    "name": "Sidney Phillips",
+    "billing": "support"
+   },
+   {
+    "name": "Oscar18",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/buckshot-with-sidney-phillips-and-oscar18/198386",
+  "free": false,
+  "title": "BUCKSHOT with Sidney Phillips and Oscar18 "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G62UTbJx2",
+  "start": "2026-11-30T19:30:00+11:00",
+  "date": "2026-11-30",
+  "time": "19:30",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Ann Wilson",
+    "billing": "headline"
+   },
+   {
+    "name": "Dragon",
+    "billing": "support"
+   },
+   {
+    "name": "Tripsitter",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/ann-wilson-tripsitter-the-voice-of-sydney-30-11-2026/event/130064FDBF62688F",
+  "free": false,
+  "title": "ANN WILSON & TRIPSITTER - The Voice Of Heart"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G61pCOxfN",
+  "start": "2026-12-01T17:00:00+11:00",
+  "date": "2026-12-01",
+  "time": "17:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Rise Against",
+    "billing": "headline"
+   },
+   {
+    "name": "Dropkick Murphys",
+    "billing": "support"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/rise-against-sydney-01-12-2026/event/130064A58E822523",
+  "free": false,
+  "title": "Rise Against"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZFN",
+  "start": "2026-12-01T19:00:00+11:00",
+  "date": "2026-12-01",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "The Home Team",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-home-team-usa-/200223",
+  "free": false,
+  "title": "THE HOME TEAM (USA)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G6G10ixw6",
+  "start": "2026-12-02T18:00:00+11:00",
+  "date": "2026-12-02",
+  "time": "18:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "James Blake",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/james-blake-sydney-02-12-2026/event/130064C2A4B22C87",
+  "free": false,
+  "title": "James Blake"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZFO",
+  "start": "2026-12-02T19:00:00+11:00",
+  "date": "2026-12-02",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Kami Kehoe",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/kami-kehoe-with-special-guests/200220",
+  "free": false,
+  "title": "KAMI KEHOE with special guests"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbk8",
+  "start": "2026-12-02T19:30:00+11:00",
+  "date": "2026-12-02",
+  "time": "19:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Thaiboy Digital",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/thaiboy-digital/198190",
+  "free": false,
+  "title": "Thaiboy Digital"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZk34GkdbmMhK",
+  "start": "2026-12-03T18:00:00+11:00",
+  "date": "2026-12-03",
+  "time": "18:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "DMA'S",
+    "billing": "headline"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/dmas-sydney-03-12-2026/event/13006495D8BB76D3",
+  "free": false,
+  "title": "DMA'S"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_dGkDEomZ7",
+  "start": "2026-12-04T18:00:00+11:00",
+  "date": "2026-12-04",
+  "time": "18:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Wolf Alice",
+    "billing": "headline"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/wolf-alice-australian-tour-2026-sydney-04-12-2026/event/1300643EE746E004",
+  "free": false,
+  "title": "Wolf Alice | Australian Tour 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpO-",
+  "start": "2026-12-04T19:00:00+11:00",
+  "date": "2026-12-04",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Deceits",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/deceits-us-/196821",
+  "free": false,
+  "title": "DECEITS (US)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvo-",
+  "start": "2026-12-04T19:30:00+11:00",
+  "date": "2026-12-04",
+  "time": "19:30",
+  "venue": "Metro Theatre",
+  "venue_id": "KovZpafHUe",
+  "address": "624 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Memphis LK",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/memphis-lk-are-you-holding-on-tour/201461",
+  "free": false,
+  "title": "MEMPHIS LK | \"Are You Holding On?\" Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k44S",
+  "start": "2026-12-04T19:30:00+11:00",
+  "date": "2026-12-04",
+  "time": "19:30",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "The Sharp",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-sharp-live-loud-at-the-bridge-hotel/195573",
+  "free": false,
+  "title": "The Sharp \"Live & Loud\" at The Bridge Hotel"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kaG3",
+  "start": "2026-12-05T14:00:00+11:00",
+  "date": "2026-12-05",
+  "time": "14:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Ministry of Sound",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ministry-of-sound-summer-dance-festival-sydney/189312",
+  "free": false,
+  "title": "Ministry of Sound Summer Dance Festival - Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G6uUIFKAc",
+  "start": "2026-12-05T18:00:00+11:00",
+  "date": "2026-12-05",
+  "time": "18:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Dizzee Rascal",
+    "billing": "headline"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   },
+   {
+    "name": "Example",
+    "billing": "support"
+   },
+   {
+    "name": "ArrDee",
+    "billing": "support"
+   },
+   {
+    "name": "Swaglord Savannah",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/dizzee-rascal-sydney-05-12-2026/event/130064DDA821316D",
+  "free": false,
+  "title": "Dizzee Rascal"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k4q0",
+  "start": "2026-12-05T19:00:00+11:00",
+  "date": "2026-12-05",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Anika",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/anika-de-/195764",
+  "free": false,
+  "title": "ANIKA (DE)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_-_",
+  "start": "2026-12-05T20:00:00+11:00",
+  "date": "2026-12-05",
+  "time": "20:00",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "The Reflex",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-reflex-80s-new-wave/199859",
+  "free": false,
+  "title": "The Reflex - 80s New Wave"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvZN",
+  "start": "2026-12-05T20:45:00+11:00",
+  "date": "2026-12-05",
+  "time": "20:45",
+  "venue": "Metro Theatre",
+  "venue_id": "KovZpafHUe",
+  "address": "624 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "CUUHRAIG",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/cuuhraig-usa-/201023",
+  "free": false,
+  "title": "CUUHRAIG (USA)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvPM",
+  "start": "2026-12-05T21:00:00+11:00",
+  "date": "2026-12-05",
+  "time": "21:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Dizzee Rascal",
+    "billing": "headline"
+   },
+   {
+    "name": "ArrDee",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/dizzee-rascal-special-guest-arrdee/201977",
+  "free": false,
+  "title": "DIZZEE RASCAL + SPECIAL GUEST ARRDEE "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9rF",
+  "start": "2026-12-05T23:00:00+11:00",
+  "date": "2026-12-05",
+  "time": "23:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "LF System",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/lf-system-sydney/197788",
+  "free": false,
+  "title": "LF SYSTEM | SYDNEY"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbPd",
+  "start": "2026-12-06T17:00:00+11:00",
+  "date": "2026-12-06",
+  "time": "17:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Jordie Lane",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/jordie-lane/198943",
+  "free": false,
+  "title": "Jordie Lane"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G655_-4R3",
+  "start": "2026-12-06T18:00:00+11:00",
+  "date": "2026-12-06",
+  "time": "18:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Dylan Gossett",
+    "billing": "headline"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/dylan-gossett-the-headed-out-back-sydney-06-12-2026/event/130064B2D9855BD2",
+  "free": false,
+  "title": "Dylan Gossett - The Headed Out Back Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G6CkmmEiS",
+  "start": "2026-12-06T19:00:00+11:00",
+  "date": "2026-12-06",
+  "time": "19:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "The Rockwiz Christmas Show",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/rockwiz-rocks-christmas-sydney-06-12-2026/event/130064E1AEBA7B33",
+  "free": false,
+  "title": "RocKwiz Rocks Christmas"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbA3",
+  "start": "2026-12-06T19:30:00+11:00",
+  "date": "2026-12-06",
+  "time": "19:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Evening Elephants",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/evening-elephants-australian-tour/198152",
+  "free": false,
+  "title": "Evening Elephants Australian Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_8d",
+  "start": "2026-12-06T19:30:00+11:00",
+  "date": "2026-12-06",
+  "time": "19:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "The Wallflowers",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-wallflowers-30-years-of-bringing-down-the-horse-more/199403",
+  "free": false,
+  "title": "THE WALLFLOWERS  30 Years of Bringing Down the Horse + more"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZkfsGkdJGtkU",
+  "start": "2026-12-08T18:00:00+11:00",
+  "date": "2026-12-08",
+  "time": "18:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Suki Waterhouse",
+    "billing": "headline"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/suki-waterhouse-sydney-08-12-2026/event/13006531E63291B6",
+  "free": false,
+  "title": "Suki Waterhouse"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_0p",
+  "start": "2026-12-08T19:00:00+11:00",
+  "date": "2026-12-08",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "LOCKED SHUT",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/locked-shut-usa-with-special-guests/199916",
+  "free": false,
+  "title": "LOCKED SHUT (USA) with special guests"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_0a",
+  "start": "2026-12-08T19:00:00+11:00",
+  "date": "2026-12-08",
+  "time": "19:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Ministry",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ministry-farewell-australia-/199909",
+  "free": false,
+  "title": "MINISTRY 'Farewell Australia' "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZxe",
+  "start": "2026-12-09T19:00:00+11:00",
+  "date": "2026-12-09",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Hana Stretton",
+    "billing": "headline"
+   },
+   {
+    "name": "The Vernon Spring",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/an-evening-with-hana-stretton-the-vernon-spring-uk-/200882",
+  "free": false,
+  "title": "An evening with Hana Stretton & The Vernon Spring (UK)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbPy",
+  "start": "2026-12-09T19:00:00+11:00",
+  "date": "2026-12-09",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Nadia Reid",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/nadia-reid/198979",
+  "free": false,
+  "title": "Nadia Reid"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G61Na2DNl",
+  "start": "2026-12-10T18:00:00+11:00",
+  "date": "2026-12-10",
+  "time": "18:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Spacey Jane",
+    "billing": "headline"
+   },
+   {
+    "name": "Telenova",
+    "billing": "support"
+   },
+   {
+    "name": "Armlock",
+    "billing": "support"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/spacey-jane-heading-back-down-under-sydney-10-12-2026/event/130064A8C93FB8EB",
+  "free": false,
+  "title": "Spacey Jane | Heading Back Down Under Australian Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9uf",
+  "start": "2026-12-10T19:00:00+11:00",
+  "date": "2026-12-10",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Steve Hogarth",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/steve-hogarth-marillion-h-natural/197354",
+  "free": false,
+  "title": "Steve Hogarth (Marillion) - H Natural"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_6GkmlvPsa",
+  "start": "2026-12-10T19:00:00+11:00",
+  "date": "2026-12-10",
+  "time": "19:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "The Ten Tenors",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/the-ten-tenors-a-not-so-sydney-10-12-2026/event/1300647BAB065C49",
+  "free": false,
+  "title": "The TEN Tenors: A Not So Silent Night"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G61N3Tjf2",
+  "start": "2026-12-11T18:00:00+11:00",
+  "date": "2026-12-11",
+  "time": "18:00",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Spacey Jane",
+    "billing": "headline"
+   },
+   {
+    "name": "Telenova",
+    "billing": "support"
+   },
+   {
+    "name": "Armlock",
+    "billing": "support"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/spacey-jane-heading-back-down-under-sydney-11-12-2026/event/130064A8D2FDC50F",
+  "free": false,
+  "title": "Spacey Jane | Heading Back Down Under Australian Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZCo",
+  "start": "2026-12-11T19:00:00+11:00",
+  "date": "2026-12-11",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Shag Rock",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/shag-rock-three-deep-breaths-tour/200391",
+  "free": false,
+  "title": "Shag Rock - Three Deep Breaths Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZ3F",
+  "start": "2026-12-11T19:30:00+11:00",
+  "date": "2026-12-11",
+  "time": "19:30",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "jackzebra",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/jackzebra-zhuang-zhuang-tour/200488",
+  "free": false,
+  "title": "jackzebra - Zhuang Zhuang Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_kv",
+  "start": "2026-12-11T21:00:00+11:00",
+  "date": "2026-12-11",
+  "time": "21:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "jigitz",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/jigitz-australian-tour-2026-/199181",
+  "free": false,
+  "title": "JIGITZ. Australian Tour 2026. "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvQ_",
+  "start": "2026-12-11T23:00:00+11:00",
+  "date": "2026-12-11",
+  "time": "23:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Laura King",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/rukus-takeover-oaf/201699",
+  "free": false,
+  "title": "Rukus Takeover @ OAF"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZPY",
+  "start": "2026-12-12T14:30:00+11:00",
+  "date": "2026-12-12",
+  "time": "14:30",
+  "venue": "King Street Wharf",
+  "venue_id": "KovZpa8iOe",
+  "address": "The Promenade/ King Street Whrf, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Black Traffic",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/black-traffic/200970",
+  "free": false,
+  "title": "Black Traffic"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZk3oGkd5eIUm",
+  "start": "2026-12-12T17:30:00+11:00",
+  "date": "2026-12-12",
+  "time": "17:30",
+  "venue": "Sydney Opera House - Forecourt",
+  "venue_id": "KovZpZAaAtlA",
+  "address": "Bennelong Point (Near Circular Quay), Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "The Amity Affliction",
+    "billing": "headline"
+   },
+   {
+    "name": "On The Steps",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/the-amity-affliction-sydney-12-12-2026/event/13006491CB0A8DAE",
+  "free": false,
+  "title": "The Amity Affliction"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_G9",
+  "start": "2026-12-12T19:00:00+11:00",
+  "date": "2026-12-12",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Sophia Stel",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/sophia-stel/199317",
+  "free": false,
+  "title": "SOPHIA STEL"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZPZ",
+  "start": "2026-12-12T19:00:00+11:00",
+  "date": "2026-12-12",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Dappled Cities",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/dappled-cities-granddance-20th-anniversary-shows/200940",
+  "free": false,
+  "title": "Dappled Cities - Granddance 20th Anniversary Shows"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvuY",
+  "start": "2026-12-12T19:30:00+11:00",
+  "date": "2026-12-12",
+  "time": "19:30",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Lucy Gray",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/lucy-gray-sydney/201370",
+  "free": false,
+  "title": "LUCY GRAY: Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kb7y",
+  "start": "2026-12-12T19:30:00+11:00",
+  "date": "2026-12-12",
+  "time": "19:30",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Beherit",
+    "billing": "headline"
+   },
+   {
+    "name": "Portal",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/beherit-w-special-guests-portal/198139",
+  "free": false,
+  "title": "BEHERIT w/ special guests Portal"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbxk",
+  "start": "2026-12-12T21:00:00+11:00",
+  "date": "2026-12-12",
+  "time": "21:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "moktar",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/moktar-live-/198886",
+  "free": false,
+  "title": "moktar (LIVE)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_PA",
+  "start": "2026-12-12T23:00:00+11:00",
+  "date": "2026-12-12",
+  "time": "23:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "COTTO",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/cotto-all-night-long/199945",
+  "free": false,
+  "title": "COTTO ALL NIGHT LONG"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_bp",
+  "start": "2026-12-14T19:30:00+11:00",
+  "date": "2026-12-14",
+  "time": "19:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Samara Cyn",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/samara-cyn-the-detour/199616",
+  "free": false,
+  "title": "Samara Cyn - The Detour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZxv",
+  "start": "2026-12-15T19:00:00+11:00",
+  "date": "2026-12-15",
+  "time": "19:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Show Me the Body",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/show-me-the-body/200881",
+  "free": false,
+  "title": "Show Me The Body"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_e8",
+  "start": "2026-12-15T19:30:00+11:00",
+  "date": "2026-12-15",
+  "time": "19:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "F3miii",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/f3miii/199090",
+  "free": false,
+  "title": "F3MIII"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_G4",
+  "start": "2026-12-16T19:30:00+11:00",
+  "date": "2026-12-16",
+  "time": "19:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Twisted Teens",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/twisted-teens-usa-/199315",
+  "free": false,
+  "title": "TWISTED TEENS (USA)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZ0x",
+  "start": "2026-12-16T20:00:00+11:00",
+  "date": "2026-12-16",
+  "time": "20:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Smokedope2016",
+    "billing": "headline"
+   },
+   {
+    "name": "GHOSTFACEKUSH",
+    "billing": "support"
+   },
+   {
+    "name": "BARTESIANWATER",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/2016lyfe-smokedope2016-ghostfacekush-bartesianwater-/200922",
+  "free": false,
+  "title": "2016LYFE [smokedope2016] + [ghostfacekush] + [BARTESIANWATER]"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FveK",
+  "start": "2026-12-17T19:30:00+11:00",
+  "date": "2026-12-17",
+  "time": "19:30",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "The Gnomes",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-gnomes/201093",
+  "free": false,
+  "title": "The Gnomes"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvFV",
+  "start": "2026-12-18T21:00:00+11:00",
+  "date": "2026-12-18",
+  "time": "21:00",
+  "venue": "Plaza Hotel Sydney",
+  "venue_id": "KovZ917ASRQ",
+  "address": "600 George St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Chaos In The CBD",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/chaos-in-the-cbd-all-night-long-in-dust-we-trust/201234",
+  "free": false,
+  "title": "Chaos In The CBD [All Night Long] - In Dust We Trust"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvQK",
+  "start": "2026-12-19T19:30:00+11:00",
+  "date": "2026-12-19",
+  "time": "19:30",
+  "venue": "Metro Theatre",
+  "venue_id": "KovZpafHUe",
+  "address": "624 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Cryptic Shift",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/cryptic-shift/201693",
+  "free": false,
+  "title": "CRYPTIC SHIFT"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZjv",
+  "start": "2026-12-20T19:00:00+11:00",
+  "date": "2026-12-20",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Azure Ryder",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/azure-ryder/200701",
+  "free": false,
+  "title": "Azure Ryder"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZZV",
+  "start": "2026-12-31T20:00:00+11:00",
+  "date": "2026-12-31",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "BIIANCO",
+    "billing": "headline"
+   },
+   {
+    "name": "Anna Lunoe",
+    "billing": "support"
+   },
+   {
+    "name": "Jodie Harsh",
+    "billing": "support"
+   },
+   {
+    "name": "XKYLAR",
+    "billing": "support"
+   },
+   {
+    "name": "BIG WETT",
+    "billing": "support"
+   },
+   {
+    "name": "Harry Gay",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/nye-but-gay-2026/200034",
+  "free": false,
+  "title": "NYE BUT GAY 2026"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpJb",
+  "start": "2026-12-31T20:00:00+11:00",
+  "date": "2026-12-31",
+  "time": "20:00",
+  "venue": "Selina's at Coogee Bay Hotel",
+  "venue_id": "KovZ917AcQJ",
+  "address": "253 Coogee Bay Rd, Coogee",
+  "suburb": "Coogee",
+  "acts": [
+   {
+    "name": "Dusky",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-last-dance-nye-ft-dusky-friends/196998",
+  "free": false,
+  "title": "The Last Dance NYE ft Dusky & Friends"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_Fv",
+  "start": "2027-01-01T12:00:00+11:00",
+  "date": "2027-01-01",
+  "time": "12:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Field Day",
+    "billing": "headline"
+   },
+   {
+    "name": "Major Lazer",
+    "billing": "support"
+   },
+   {
+    "name": "Sub Focus",
+    "billing": "support"
+   },
+   {
+    "name": "Andy C",
+    "billing": "support"
+   },
+   {
+    "name": "Elderbrook",
+    "billing": "support"
+   },
+   {
+    "name": "Hannah Laing",
+    "billing": "support"
+   },
+   {
+    "name": "Laszewo",
+    "billing": "support"
+   },
+   {
+    "name": "nimino",
+    "billing": "support"
+   },
+   {
+    "name": "Boys Noize",
+    "billing": "support"
+   },
+   {
+    "name": "Club Angel",
+    "billing": "support"
+   },
+   {
+    "name": "Funk Tribu",
+    "billing": "support"
+   },
+   {
+    "name": "Tiff Cornish",
+    "billing": "support"
+   },
+   {
+    "name": "Wolters",
+    "billing": "support"
+   },
+   {
+    "name": "Oppidan",
+    "billing": "support"
+   },
+   {
+    "name": "MPH",
+    "billing": "support"
+   },
+   {
+    "name": "southstar",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/field-day-2027/199201",
+  "free": false,
+  "title": "Field Day 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_AS",
+  "start": "2027-01-03T19:00:00+11:00",
+  "date": "2027-01-03",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "After",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/after/199173",
+  "free": false,
+  "title": "After"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvp_",
+  "start": "2027-01-08T19:00:00+11:00",
+  "date": "2027-01-08",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "The East Pointers",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-east-pointers-australian-tour/201599",
+  "free": false,
+  "title": "The East Pointers Australian Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZFv",
+  "start": "2027-01-08T21:00:00+11:00",
+  "date": "2027-01-08",
+  "time": "21:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "4am Kru",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/run-the-numbers-ft-4am-kru-uk-/200201",
+  "free": false,
+  "title": "RUN THE NUMBERS ft. 4AM KRU [UK] "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv_M",
+  "start": "2027-01-09T19:00:00+11:00",
+  "date": "2027-01-09",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Flook",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/flook-australian-tour/201677",
+  "free": false,
+  "title": "Flook Australian Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvAM",
+  "start": "2027-01-12T19:00:00+11:00",
+  "date": "2027-01-12",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Pachyman",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/pachyman-pr-/201177",
+  "free": false,
+  "title": "Pachyman (PR)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvA_",
+  "start": "2027-01-15T19:00:00+11:00",
+  "date": "2027-01-15",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Crime and the City Solution",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/crime-the-city-solution-australian-acoustic-tour-2027/201159",
+  "free": false,
+  "title": "Crime & the City Solution - Australian Acoustic Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kb7g",
+  "start": "2027-01-15T19:30:00+11:00",
+  "date": "2027-01-15",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Start Making Sense",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/start-making-sense-talking-heads-tribute-usa-/198135",
+  "free": false,
+  "title": "Start Making Sense (Talking Heads Tribute) (USA)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZ49",
+  "start": "2027-01-16T19:30:00+11:00",
+  "date": "2027-01-16",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Alex Cameron",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/alex-cameron/200557",
+  "free": false,
+  "title": "Alex Cameron"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_19",
+  "start": "2027-01-16T19:45:00+11:00",
+  "date": "2027-01-16",
+  "time": "19:45",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "MacHinations",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/machinations-live-is-precious-tour-2027/199297",
+  "free": false,
+  "title": "Machinations - 'Live is Precious' Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpvd",
+  "start": "2027-01-16T20:00:00+11:00",
+  "date": "2027-01-16",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Soen",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/soen/196043",
+  "free": false,
+  "title": "SOEN"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kb4g",
+  "start": "2027-01-16T21:00:00+11:00",
+  "date": "2027-01-16",
+  "time": "21:00",
+  "venue": "Selina's at Coogee Bay Hotel",
+  "venue_id": "KovZ917AcQJ",
+  "address": "253 Coogee Bay Rd, Coogee",
+  "suburb": "Coogee",
+  "acts": [
+   {
+    "name": "Kyle Cooke",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/kyle-cooke-sydney-show-/198575",
+  "free": false,
+  "title": "Kyle Cooke (Sydney Show)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvrk",
+  "start": "2027-01-17T16:30:00+11:00",
+  "date": "2027-01-17",
+  "time": "16:30",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "Cinema Show",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/cinema-show-the-australian-genesis-show/201786",
+  "free": false,
+  "title": "Cinema Show - The Australian Genesis Show"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpQa",
+  "start": "2027-01-20T19:30:00+11:00",
+  "date": "2027-01-20",
+  "time": "19:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "honestav",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/honestav-sweet-american-boy-tour/196689",
+  "free": false,
+  "title": "honestav - Sweet American Boy Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvrb",
+  "start": "2027-01-21T19:00:00+11:00",
+  "date": "2027-01-21",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Flamingo Pier",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/flamingo-pier-live-woven-together-album-release-tour-/201798",
+  "free": false,
+  "title": "FLAMINGO PIER (LIVE). WOVEN TOGETHER ALBUM RELEASE TOUR."
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZAV",
+  "start": "2027-01-21T19:00:00+11:00",
+  "date": "2027-01-21",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Beans On Toast",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/beans-on-toast-australian-tour-2027/200174",
+  "free": false,
+  "title": "Beans on Toast Australian Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpjf",
+  "start": "2027-01-22T19:30:00+11:00",
+  "date": "2027-01-22",
+  "time": "19:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Against the Current",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/against-the-current-till-death-and-back-australian-tour/196714",
+  "free": false,
+  "title": "Against the Current - Till Death and Back Australian Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZee",
+  "start": "2027-01-22T23:00:00+11:00",
+  "date": "2027-01-22",
+  "time": "23:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Daniel Allan",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/daniel-allan-australian-tour-2027/200082",
+  "free": false,
+  "title": "DANIEL ALLAN — AUSTRALIAN TOUR 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv1a",
+  "start": "2027-01-23T14:00:00+11:00",
+  "date": "2027-01-23",
+  "time": "14:00",
+  "venue": "Greenwood Hotel",
+  "venue_id": "KovZ917A2S7",
+  "address": "36 Blue St, North Sydney",
+  "suburb": "North Sydney",
+  "acts": [
+   {
+    "name": "Dave ‘Love’ Lee",
+    "billing": "headline"
+   },
+   {
+    "name": "Mousse T.",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/tmrw-music-one-hit-pres-brighter-daze-sydney/201289",
+  "free": false,
+  "title": "TMRW Music & One Hit pres. BRIGHTER DAZE Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_8E",
+  "start": "2027-01-23T19:00:00+11:00",
+  "date": "2027-01-23",
+  "time": "19:00",
+  "venue": "Waywards",
+  "venue_id": "KovZ917AmkG",
+  "address": "324 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Little Quirks",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/little-quirks-she-s-wild-album-launch/199427",
+  "free": false,
+  "title": "Little Quirks 'She's Wild' Album Launch"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZ4V",
+  "start": "2027-01-25T19:00:00+11:00",
+  "date": "2027-01-25",
+  "time": "19:00",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Free Throw",
+    "billing": "headline"
+   },
+   {
+    "name": "Ben Quad",
+    "billing": "support"
+   },
+   {
+    "name": "sunbleached",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/free-throw-moments-before-the-wind-aus-tour-2027-with-special-guests-ben-quad-sunbleached/200574",
+  "free": false,
+  "title": "Free Throw 'Moments Before The Wind' Aus Tour 2027 with special guests Ben Quad & sunbleached"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZjk",
+  "start": "2027-01-27T19:30:00+11:00",
+  "date": "2027-01-27",
+  "time": "19:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Willowake",
+    "billing": "headline"
+   },
+   {
+    "name": "Jack Kays",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/jack-kays/200706",
+  "free": false,
+  "title": "JACK KAYS"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kb7w",
+  "start": "2027-01-28T19:30:00+11:00",
+  "date": "2027-01-28",
+  "time": "19:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Carpenter Brut",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/carpenter-brut-australia-tour-27-with-guests-sierra-veins/198132",
+  "free": false,
+  "title": "CARPENTER BRUT AUSTRALIA-TOUR.27 with guests SIERRA VEINS "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G6uUi4dfz",
+  "start": "2027-01-28T20:00:00+11:00",
+  "date": "2027-01-28",
+  "time": "20:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Joe Jackson",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/joe-jackson-australian-nz-tour-sydney-28-01-2027/event/130064DDAC543538",
+  "free": false,
+  "title": "Joe Jackson Australian & NZ Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_3K",
+  "start": "2027-01-28T20:00:00+11:00",
+  "date": "2027-01-28",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Death to All",
+    "billing": "headline"
+   },
+   {
+    "name": "Dark Angel",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/death-to-all-with-guests-dark-angel-mortal-sin/199493",
+  "free": false,
+  "title": "DEATH TO ALL with guests Dark Angel & Mortal Sin"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_8k",
+  "start": "2027-01-29T19:30:00+11:00",
+  "date": "2027-01-29",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Rops1",
+    "billing": "headline"
+   },
+   {
+    "name": "CV",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/rops1-cv-the-takeover-tour/199406",
+  "free": false,
+  "title": "Rops1 & CV - The Takeover Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G6uMrQ4S1",
+  "start": "2027-01-29T20:00:00+11:00",
+  "date": "2027-01-29",
+  "time": "20:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Joe Jackson",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/joe-jackson-australian-nz-tour-sydney-29-01-2027/event/130064DDDE695CCA",
+  "free": false,
+  "title": "Joe Jackson Australian & NZ Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv8w",
+  "start": "2027-02-04T20:00:00+11:00",
+  "date": "2027-02-04",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Death Angel",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/death-angel-act-iii-australian-tour-sydney/201432",
+  "free": false,
+  "title": "DEATH ANGEL - ACT III AUSTRALIAN TOUR |  SYDNEY"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpob",
+  "start": "2027-02-05T19:00:00+11:00",
+  "date": "2027-02-05",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Sawyer Hill",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/sawyer-hill-everybody-s-home-nobody-s-happy-tour/196458",
+  "free": false,
+  "title": "Sawyer Hill - Everybody's Home, Nobody's Happy Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9fg",
+  "start": "2027-02-05T19:00:00+11:00",
+  "date": "2027-02-05",
+  "time": "19:00",
+  "venue": "The Roundhouse UNSW",
+  "venue_id": "KovZpZAadIlA",
+  "address": "University of New South Wales, Kensington",
+  "suburb": "Kensington",
+  "acts": [
+   {
+    "name": "Fox Lake",
+    "billing": "headline"
+   },
+   {
+    "name": "Counterparts",
+    "billing": "support"
+   },
+   {
+    "name": "Paleface Swiss",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/paleface-swiss-counterparts-fox-lake/197535",
+  "free": false,
+  "title": "PALEFACE SWISS + COUNTERPARTS + FOX LAKE"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZQd",
+  "start": "2027-02-05T19:30:00+11:00",
+  "date": "2027-02-05",
+  "time": "19:30",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Deicide",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/deicide/200683",
+  "free": false,
+  "title": "DEICIDE"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZoo",
+  "start": "2027-02-05T20:00:00+11:00",
+  "date": "2027-02-05",
+  "time": "20:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Solkyri",
+    "billing": "headline"
+   },
+   {
+    "name": "Kylesa",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/kylesa-usa-with-special-guests-solkyri/200451",
+  "free": false,
+  "title": "KYLESA (USA) with special guests SOLKYRI"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZ_s",
+  "start": "2027-02-06T19:00:00+11:00",
+  "date": "2027-02-06",
+  "time": "19:00",
+  "venue": "The Roundhouse UNSW",
+  "venue_id": "KovZpZAadIlA",
+  "address": "University of New South Wales, Kensington",
+  "suburb": "Kensington",
+  "acts": [
+   {
+    "name": "DRAMA",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/drama/200671",
+  "free": false,
+  "title": "DRAMA"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kpx8",
+  "start": "2027-02-06T19:30:00+11:00",
+  "date": "2027-02-06",
+  "time": "19:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Igorrr",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/igorrr/196890",
+  "free": false,
+  "title": "IGORRR"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G6uQmDktU",
+  "start": "2027-02-06T19:30:00+11:00",
+  "date": "2027-02-06",
+  "time": "19:30",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Seventh Wonder",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/seventh-wonder-performs-fleetwood-mac-orchestrated-sydney-06-02-2027/event/130064D6AEEC6A76",
+  "free": false,
+  "title": "Seventh Wonder performs Fleetwood Mac Orchestrated"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvOF",
+  "start": "2027-02-06T21:00:00+11:00",
+  "date": "2027-02-06",
+  "time": "21:00",
+  "venue": "Civic Underground",
+  "venue_id": "KovZpZAa6EFA",
+  "address": "64 Goulburn Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "BL3SS",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/bl3ss-sydney/201808",
+  "free": false,
+  "title": "BL3SS - Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvbw",
+  "start": "2027-02-06T23:00:00+11:00",
+  "date": "2027-02-06",
+  "time": "23:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Don't F**ck With Disco",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/don-t-f-k-with-disco/201632",
+  "free": false,
+  "title": "Don’t F**k With Disco"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvfI",
+  "start": "2027-02-07T18:00:00+11:00",
+  "date": "2027-02-07",
+  "time": "18:00",
+  "venue": "Heaps Normal Health Club",
+  "venue_id": "KovZ917AVL0",
+  "address": "2/10 Brompton Street, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Felipe Baldomir",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/felipe-baldomir-beach-day-world-tour/201528",
+  "free": false,
+  "title": "Felipe Baldomir | Beach Day World Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvof",
+  "start": "2027-02-07T18:30:00+11:00",
+  "date": "2027-02-07",
+  "time": "18:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Antytila",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/antytila/201454",
+  "free": false,
+  "title": "ANTYTILA"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvvU",
+  "start": "2027-02-09T19:00:00+11:00",
+  "date": "2027-02-09",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Marlon Funaki",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/marlon-funaki-australia-tour-2027/201076",
+  "free": false,
+  "title": "Marlon Funaki - Australia Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvbE",
+  "start": "2027-02-10T19:00:00+11:00",
+  "date": "2027-02-10",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Marlon Funaki",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/marlon-funaki-australia-tour-2027/201627",
+  "free": false,
+  "title": "Marlon Funaki - Australia Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbPp",
+  "start": "2027-02-11T18:30:00+11:00",
+  "date": "2027-02-11",
+  "time": "18:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "THROWN",
+    "billing": "headline"
+   },
+   {
+    "name": "Boundaries",
+    "billing": "support"
+   },
+   {
+    "name": "156/Silence",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/thrown-australian-tour-2027-with-boundaries-156-silence/198956",
+  "free": false,
+  "title": "Thrown Australian Tour 2027 with Boundaries & 156/Silence"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbue",
+  "start": "2027-02-12T18:30:00+11:00",
+  "date": "2027-02-12",
+  "time": "18:30",
+  "venue": "Metro Theatre",
+  "venue_id": "KovZpafHUe",
+  "address": "624 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Teenage Bottlerocket",
+    "billing": "headline"
+   },
+   {
+    "name": "Brendan Kelly",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/teenage-bottlerocket-usa-brendan-kelly-the-lawrence-arms-/198342",
+  "free": false,
+  "title": "Teenage Bottlerocket (USA) & Brendan Kelly (The Lawrence Arms)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv4Y",
+  "start": "2027-02-12T19:30:00+11:00",
+  "date": "2027-02-12",
+  "time": "19:30",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Tijuana Cartel",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/tijuana-cartel-with-future-roots/201570",
+  "free": false,
+  "title": "Tijuana Cartel with Future Roots"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvox",
+  "start": "2027-02-12T19:30:00+11:00",
+  "date": "2027-02-12",
+  "time": "19:30",
+  "venue": "The Whalers at Mosman Club",
+  "venue_id": "KovZ917AVLS",
+  "address": "719 Military Rd, Mossman",
+  "suburb": "Mossman",
+  "acts": [
+   {
+    "name": "The Australian Beach Boys Tribute Show",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-australian-beach-boys-show/201462",
+  "free": false,
+  "title": "The Australian Beach Boys Show"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_qs",
+  "start": "2027-02-13T15:00:00+11:00",
+  "date": "2027-02-13",
+  "time": "15:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Chicane",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/chicane-30-year-anniversary-tour-ivy-sydney/199771",
+  "free": false,
+  "title": "CHICANE - 30 YEAR ANNIVERSARY TOUR @ IVY, SYDNEY "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbCp",
+  "start": "2027-02-13T19:00:00+11:00",
+  "date": "2027-02-13",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Winyah",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/winyah-right-here-right-now-world-tour-2027/198396",
+  "free": false,
+  "title": "Winyah - Right Here, Right Now World Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvC3",
+  "start": "2027-02-19T21:00:00+11:00",
+  "date": "2027-02-19",
+  "time": "21:00",
+  "venue": "The Roundhouse UNSW",
+  "venue_id": "KovZpZAadIlA",
+  "address": "University of New South Wales, Kensington",
+  "suburb": "Kensington",
+  "acts": [
+   {
+    "name": "Josh Baker",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/josh-baker-sold-out-/201392",
+  "free": false,
+  "title": "Josh Baker [SOLD OUT]"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZaV",
+  "start": "2027-02-20T16:15:00+11:00",
+  "date": "2027-02-20",
+  "time": "16:15",
+  "venue": "Centennial Park",
+  "venue_id": "KovZpZAakdnA",
+  "address": "Oxford Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "The Strokes",
+    "billing": "headline"
+   },
+   {
+    "name": "Promiseland",
+    "billing": "support"
+   },
+   {
+    "name": "Beck",
+    "billing": "support"
+   },
+   {
+    "name": "Courtney Barnett",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-strokes-reality-awaits/200274",
+  "free": false,
+  "title": "The Strokes - Reality Awaits"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_3GkXCT3eN",
+  "start": "2027-02-20T17:00:00+11:00",
+  "date": "2027-02-20",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Calvin Harris",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-20-02-2027/event/1300652F8EFD20A3",
+  "free": false,
+  "title": "Calvin Harris - Australia Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZ0M",
+  "start": "2027-02-20T18:00:00+11:00",
+  "date": "2027-02-20",
+  "time": "18:00",
+  "venue": "Metro Theatre",
+  "venue_id": "KovZpafHUe",
+  "address": "624 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Winterbourne",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/winterbourne-we-have-not-disappeared-tour/200937",
+  "free": false,
+  "title": "Winterbourne | 'We Have Not Disappeared' Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv13",
+  "start": "2027-02-20T19:00:00+11:00",
+  "date": "2027-02-20",
+  "time": "19:00",
+  "venue": "Waywards",
+  "venue_id": "KovZ917AmkG",
+  "address": "324 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Will Varley",
+    "billing": "headline"
+   },
+   {
+    "name": "Dave Hause",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/will-varley-dave-hause-australian-tour-2027/201292",
+  "free": false,
+  "title": "Will Varley & Dave Hause - Australian Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_3GkT8ZBnW",
+  "start": "2027-02-21T17:00:00+11:00",
+  "date": "2027-02-21",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Calvin Harris",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-21-02-2027/event/1300652FD003AABD",
+  "free": false,
+  "title": "Calvin Harris - Australia Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZkfMGkdbb5z5",
+  "start": "2027-02-22T17:00:00+11:00",
+  "date": "2027-02-22",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Calvin Harris",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-22-02-2027/event/13006537D860BE0B",
+  "free": false,
+  "title": "Calvin Harris - Australia Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZkfMGkdbrDyF",
+  "start": "2027-02-23T17:00:00+11:00",
+  "date": "2027-02-23",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Calvin Harris",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-23-02-2027/event/13006537D87BBE48",
+  "free": false,
+  "title": "Calvin Harris - Australia Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZkfUGkdxPtN8",
+  "start": "2027-02-24T17:00:00+11:00",
+  "date": "2027-02-24",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Calvin Harris",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-24-02-2027/event/13006536E29698D0",
+  "free": false,
+  "title": "Calvin Harris - Australia Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZbp",
+  "start": "2027-02-26T19:00:00+11:00",
+  "date": "2027-02-26",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Survive Said The Prophet",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/survive-said-the-prophet-jpn-debut-australian-tour-2027/200616",
+  "free": false,
+  "title": "Survive Said The Prophet (jpn) Debut Australian Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kfqN",
+  "start": "2027-02-27T18:30:00+11:00",
+  "date": "2027-02-27",
+  "time": "18:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Citizen",
+    "billing": "headline"
+   },
+   {
+    "name": "Drug Church",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/citizen-halcyon-blues-australian-tour-2027-w-drug-church/194763",
+  "free": false,
+  "title": "Citizen 'Halcyon Blues' Australian Tour 2027 w/ Drug Church"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZk4pGkdI7q5Y",
+  "start": "2027-02-27T19:00:00+11:00",
+  "date": "2027-02-27",
+  "time": "19:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Monsieur Camembert",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/monsieur-camemberts-cohen-noir-sydney-27-02-2027/event/13006556E811D2F0",
+  "free": false,
+  "title": "Monsieur Camembert's Cohen Noir"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_uN",
+  "start": "2027-02-27T19:00:00+11:00",
+  "date": "2027-02-27",
+  "time": "19:00",
+  "venue": "The Roundhouse UNSW",
+  "venue_id": "KovZpZAadIlA",
+  "address": "University of New South Wales, Kensington",
+  "suburb": "Kensington",
+  "acts": [
+   {
+    "name": "PRESIDENT",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/president/199363",
+  "free": false,
+  "title": "PRESIDENT"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZfb",
+  "start": "2027-02-27T19:30:00+11:00",
+  "date": "2027-02-27",
+  "time": "19:30",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Chapterhouse",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/chapterhouse-whirlpool-35-aus-nz-tour/200518",
+  "free": false,
+  "title": "Chapterhouse - Whirlpool 35 Aus & NZ Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvb_",
+  "start": "2027-02-27T23:00:00+11:00",
+  "date": "2027-02-27",
+  "time": "23:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Bellaire",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/bellaire-fr-/201619",
+  "free": false,
+  "title": "Bellaire [FR]"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv4f",
+  "start": "2027-02-28T16:15:00+11:00",
+  "date": "2027-02-28",
+  "time": "16:15",
+  "venue": "Centennial Park",
+  "venue_id": "KovZpZAakdnA",
+  "address": "Oxford Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Kings of Leon",
+    "billing": "headline"
+   },
+   {
+    "name": "Ocean Alley",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/kings-of-leon/201554",
+  "free": false,
+  "title": "Kings of Leon"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvFa",
+  "start": "2027-02-28T19:30:00+11:00",
+  "date": "2027-02-28",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Peter Cat Recording Co.",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/peter-cat-recording-co-tour-of-oz/201209",
+  "free": false,
+  "title": "Peter Cat Recording Co. - Tour of Oz"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvr7",
+  "start": "2027-03-03T19:00:00+11:00",
+  "date": "2027-03-03",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "SALIMATA",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/salimata/201784",
+  "free": false,
+  "title": "SALIMATA"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9OJ",
+  "start": "2027-03-04T19:30:00+11:00",
+  "date": "2027-03-04",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Knox",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/knox-s-midwest-best-australian-tour/197826",
+  "free": false,
+  "title": "Knox's Midwest Best Australian Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_3Z",
+  "start": "2027-03-05T20:00:00+11:00",
+  "date": "2027-03-05",
+  "time": "20:00",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "C.O.F.F.I.N",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/c-o-f-f-i-n-out-in-oslo-australian-tour-sydney/199480",
+  "free": false,
+  "title": "C.O.F.F.I.N ‘Out In Oslo’ Australian Tour | Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZuY",
+  "start": "2027-03-05T21:00:00+11:00",
+  "date": "2027-03-05",
+  "time": "21:00",
+  "venue": "Home the Venue",
+  "venue_id": "KovZpa8Lxe",
+  "address": "Cockle Bay Wharf, Darling Harbour",
+  "suburb": "Darling Harbour",
+  "acts": [
+   {
+    "name": "Late Nite Tuff Guy",
+    "billing": "headline"
+   },
+   {
+    "name": "Horse Meat Disco",
+    "billing": "support"
+   },
+   {
+    "name": "Aline Rocha",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/glitterbox-sydney-2027/200370",
+  "free": false,
+  "title": "Glitterbox Sydney 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZGw",
+  "start": "2027-03-06T17:00:00+11:00",
+  "date": "2027-03-06",
+  "time": "17:00",
+  "venue": "White Bay Power Station",
+  "venue_id": "KovZ917AR_I",
+  "address": "Robert St, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "Sasha",
+    "billing": "headline"
+   },
+   {
+    "name": "John Digweed",
+    "billing": "support"
+   },
+   {
+    "name": "Sasha & John Digweed",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/tmrw-music-pres-sasha-john-digweed-sydney/200332",
+  "free": false,
+  "title": "TMRW Music pres. SASHA & JOHN DIGWEED, Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AvGZ_8GkRA-Sgo",
+  "start": "2027-03-06T19:00:00+11:00",
+  "date": "2027-03-06",
+  "time": "19:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Smokie",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/smokie-uk-greatest-hits-tour-sydney-06-03-2027/event/1300650BC5873D51",
+  "free": false,
+  "title": "Smokie (UK) Greatest Hits Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvxF",
+  "start": "2027-03-13T19:00:00+11:00",
+  "date": "2027-03-13",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Joshua Burnside",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/joshua-burnside/201888",
+  "free": false,
+  "title": "Joshua Burnside"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "177Yv0G619EUbJy",
+  "start": "2027-03-13T20:00:00+11:00",
+  "date": "2027-03-13",
+  "time": "20:00",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "The Fab Four",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/the-fab-four-sydney-13-03-2027/event/130064A5E7D989B9",
+  "free": false,
+  "title": "The Fab Four"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvC4",
+  "start": "2027-03-17T19:30:00+11:00",
+  "date": "2027-03-17",
+  "time": "19:30",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Aaron Rowe",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/aaron-rowe-st-patrick-s-day-/201395",
+  "free": false,
+  "title": "AARON ROWE (St. Patrick's Day)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k90p",
+  "start": "2027-03-18T20:00:00+11:00",
+  "date": "2027-03-18",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Hellacopters",
+    "billing": "headline"
+   },
+   {
+    "name": "Gluecifer",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/respect-the-rock-australian-tour-w-the-hellacopters-gluecifer/197916",
+  "free": false,
+  "title": "RESPECT THE ROCK - AUSTRALIAN TOUR w/ THE HELLACOPTERS + GLUECIFER"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv3A",
+  "start": "2027-03-19T19:30:00+11:00",
+  "date": "2027-03-19",
+  "time": "19:30",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "360",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/falling-flying-15-year-anniversary/201485",
+  "free": false,
+  "title": "Falling & Flying 15 Year Anniversary"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1avGZ_KkZxoZdC6d",
+  "start": "2027-03-19T19:30:00+11:00",
+  "date": "2027-03-19",
+  "time": "19:30",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Celtic Thunder",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/an-evening-with-celtic-thunder-sydney-19-03-2027/event/1300653180891D62",
+  "free": false,
+  "title": "An evening with CELTIC THUNDER"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZe_",
+  "start": "2027-03-19T19:30:00+11:00",
+  "date": "2027-03-19",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Hellogoodbye",
+    "billing": "headline"
+   },
+   {
+    "name": "The Early November",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/20-years-young-the-early-november-and-hellogoodbye-2027-australia-tour-sydney/200099",
+  "free": false,
+  "title": "20 Years Young | The Early November and Hellogoodbye 2027 Australia Tour | Sydney "
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv0f",
+  "start": "2027-03-19T20:00:00+11:00",
+  "date": "2027-03-19",
+  "time": "20:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "El Plan De La Mariposa",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/el-plan-de-la-mariposa-australia-tour-2027/201914",
+  "free": false,
+  "title": "El Plan de la Mariposa – Australia Tour 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k_aM",
+  "start": "2027-03-20T19:00:00+11:00",
+  "date": "2027-03-20",
+  "time": "19:00",
+  "venue": "The Roundhouse UNSW",
+  "venue_id": "KovZpZAadIlA",
+  "address": "University of New South Wales, Kensington",
+  "suburb": "Kensington",
+  "acts": [
+   {
+    "name": "Soul Asylum",
+    "billing": "headline"
+   },
+   {
+    "name": "Ugly Kid Joe",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/soul-asylum-ugly-kid-joe-australia-2027/199277",
+  "free": false,
+  "title": "Soul Asylum + Ugly Kid Joe Australia 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvfe",
+  "start": "2027-03-20T19:30:00+11:00",
+  "date": "2027-03-20",
+  "time": "19:30",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "360",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/falling-flying-15-year-anniversary/201502",
+  "free": false,
+  "title": "Falling & Flying 15 Year Anniversary"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fva0",
+  "start": "2027-03-20T19:30:00+11:00",
+  "date": "2027-03-20",
+  "time": "19:30",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Slow Pilot",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/slow-pilot-belgium-performing-the-songs-of-jeff-buckley/201264",
+  "free": false,
+  "title": "Slow Pilot (Belgium) - Performing the songs of Jeff Buckley"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZGI",
+  "start": "2027-03-21T19:15:00+11:00",
+  "date": "2027-03-21",
+  "time": "19:15",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Babes in Canyon",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/babes-in-canyon-us-with-special-guest-anna-smyrk/200328",
+  "free": false,
+  "title": "Babes In Canyon (US) with special guest Anna Smyrk"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZup",
+  "start": "2027-03-21T19:30:00+11:00",
+  "date": "2027-03-21",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Ben Ottewell",
+    "billing": "headline"
+   },
+   {
+    "name": "Ben Ottewell & Ian Ball",
+    "billing": "support"
+   },
+   {
+    "name": "Ian Ball",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ben-ottewell-ian-ball-from-gomez/200356",
+  "free": false,
+  "title": "BEN OTTEWELL & IAN BALL from GOMEZ"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv36",
+  "start": "2027-03-24T19:00:00+11:00",
+  "date": "2027-03-24",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Bess Atwell",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/bess-atwell-australian-tour/201487",
+  "free": false,
+  "title": "Bess Atwell Australian Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvus",
+  "start": "2027-04-01T19:00:00+11:00",
+  "date": "2027-04-01",
+  "time": "19:00",
+  "venue": "Lansdowne Hotel",
+  "venue_id": "KovZ917ApQf",
+  "address": "2-6 City Rd, Chippendale, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Ruby Gill",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ruby-gill-fishin-tour/201371",
+  "free": false,
+  "title": "Ruby Gill Fishin’ Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvoO",
+  "start": "2027-04-03T19:30:00+11:00",
+  "date": "2027-04-03",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Sparta",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/sparta-usa-australian-tour/201460",
+  "free": false,
+  "title": "SPARTA (USA) Australian Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvZ9",
+  "start": "2027-04-09T20:00:00+10:00",
+  "date": "2027-04-09",
+  "time": "20:00",
+  "venue": "Bridge Hotel",
+  "venue_id": "KovZ917AaY0",
+  "address": "119 Victoria Rd, Rozelle",
+  "suburb": "Rozelle",
+  "acts": [
+   {
+    "name": "Ted Mulry Gang (TMG)",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ted-mulry-gang-50-years-of-rock-n-roll-/201017",
+  "free": false,
+  "title": "Ted Mulry Gang - \"50 Years of Rock N Roll\""
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZJk",
+  "start": "2027-04-21T19:30:00+10:00",
+  "date": "2027-04-21",
+  "time": "19:30",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "The Delines",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/the-delines-usa-/200986",
+  "free": false,
+  "title": "THE DELINES (USA)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kfeK",
+  "start": "2027-04-23T20:00:00+10:00",
+  "date": "2027-04-23",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "MONO",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/mono/194093",
+  "free": false,
+  "title": "MONO"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1k7YvP4_GAuofhO",
+  "start": "2027-05-01T19:30:00+10:00",
+  "date": "2027-05-01",
+  "time": "19:30",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Chocolate Starfish",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/chocolate-starfish-bat-out-of-hell-sydney-01-05-2027/event/130065559D4546E0",
+  "free": false,
+  "title": "Chocolate Starfish - Bat Out of Hell"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvGM",
+  "start": "2027-05-08T18:00:00+10:00",
+  "date": "2027-05-08",
+  "time": "18:00",
+  "venue": "Metro Theatre",
+  "venue_id": "KovZpafHUe",
+  "address": "624 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Naethan Apollo",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/naethan-apollo-australia-2027-sydney/201337",
+  "free": false,
+  "title": "Naethan Apollo | Australia 2027 | Sydney"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZkf3Gkdm_6qr",
+  "start": "2027-05-14T19:30:00+10:00",
+  "date": "2027-05-14",
+  "time": "19:30",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Micky Dolenz",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/micky-dolenz-60-years-of-the-sydney-14-05-2027/event/13006512EE64775E",
+  "free": false,
+  "title": "Micky Dolenz: 60 YEARS OF THE MONKEES"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17k9_I",
+  "start": "2027-05-14T20:00:00+10:00",
+  "date": "2027-05-14",
+  "time": "20:00",
+  "venue": "Manning Bar",
+  "venue_id": "KovZpaoZVe",
+  "address": "Manning Rd, Camperdown",
+  "suburb": "Camperdown",
+  "acts": [
+   {
+    "name": "Elder",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/elder/197668",
+  "free": false,
+  "title": "ELDER"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FZaa",
+  "start": "2027-05-27T19:30:00+10:00",
+  "date": "2027-05-27",
+  "time": "19:30",
+  "venue": "The Factory Theatre",
+  "venue_id": "KovZpZAEnJaA",
+  "address": "105 Victoria Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Men Without Hats",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/men-without-hats-you-can-dance-if-you-want-tour/200249",
+  "free": false,
+  "title": "MEN WITHOUT HATS | You Can Dance If You Want Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kp4t",
+  "start": "2027-08-28T18:00:00+10:00",
+  "date": "2027-08-28",
+  "time": "18:00",
+  "venue": "Liberty Hall",
+  "venue_id": "KovZ917Acfp",
+  "address": "Entertainment Quarter, Building 220, Moore Park",
+  "suburb": "Moore Park",
+  "acts": [
+   {
+    "name": "Crush 40",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/crush40-speed-of-sound-world-tour/196569",
+  "free": false,
+  "title": "Crush40: Speed of Sound World Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZk46GkdQpnzU",
+  "start": "2027-10-01T17:00:00+10:00",
+  "date": "2027-10-01",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Powderfinger",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-01-10-2027/event/13006547DA5AAE36",
+  "free": false,
+  "title": "Powderfinger - Live 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZk4FGkd_qB_V",
+  "start": "2027-10-02T17:00:00+10:00",
+  "date": "2027-10-02",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Powderfinger",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-02-10-2027/event/13006548D977A674",
+  "free": false,
+  "title": "Powderfinger - Live 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZk4FGkd_z1h4",
+  "start": "2027-10-04T17:00:00+11:00",
+  "date": "2027-10-04",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Powderfinger",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-04-10-2027/event/13006548D9E0A6D5",
+  "free": false,
+  "title": "Powderfinger - Live 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZk4FGkdQv1hi",
+  "start": "2027-10-06T17:00:00+11:00",
+  "date": "2027-10-06",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Powderfinger",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-06-10-2027/event/13006548DA04A6EC",
+  "free": false,
+  "title": "Powderfinger - Live 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZk4FGkdQaBj6",
+  "start": "2027-10-08T17:00:00+11:00",
+  "date": "2027-10-08",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Powderfinger",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-08-10-2027/event/13006548DA27A707",
+  "free": false,
+  "title": "Powderfinger - Live 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "1AKZk4FGkdQ4QjU",
+  "start": "2027-10-09T17:00:00+11:00",
+  "date": "2027-10-09",
+  "time": "17:00",
+  "venue": "The Domain",
+  "venue_id": "KovZpZA6FktA",
+  "address": "Hospital Rd, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Powderfinger",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-09-10-2027/event/13006548DA55A736",
+  "free": false,
+  "title": "Powderfinger - Live 2027"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "16vGZ_oayG7zvfP",
+  "start": "2027-10-30T19:30:00+11:00",
+  "date": "2027-10-30",
+  "time": "19:30",
+  "venue": "State Theatre, Sydney",
+  "venue_id": "KovZpa8Qie",
+  "address": "49 Market Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Passenger",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.ticketmaster.com.au/passenger-wild-love-tour-sydney-30-10-2027/event/1300651279E01525",
+  "free": false,
+  "title": "Passenger - Wild Love Tour"
+ }
+]

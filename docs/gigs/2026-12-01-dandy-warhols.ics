@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2026-12-01-dandy-warhols@spotify_data
+DTSTAMP:20261101T222536Z
+DTSTART:20261201T090000Z
+DTEND:20261201T120000Z
+SUMMARY:The Dandy Warhols (USA)
+LOCATION:Enmore Theatre\, 128 Enmore Rd\, Newtown
+DESCRIPTION:The Dandy Warhols (USA)\n\nThe Dandy Warhols (USA): favourite #
+ 178\n\nhttps://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fp
+ remier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DDANWAR26&partnerproperty
+ id=6900038&MediaPartnerPropertyId=6900038
+URL:https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremi
+ er.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DDANWAR26&partnerpropertyid=6
+ 900038&MediaPartnerPropertyId=6900038
+END:VEVENT
+END:VCALENDAR
