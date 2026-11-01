@@ -478,6 +478,17 @@ commit.
 override the defaults. Renaming it in Spotify starts a fresh playlist next run,
 and leaves the renamed one counted as one of mine.
 
+### Rate limits
+
+`spotify_player` shares one client id with all its users, and the playlist is
+built one track per call, so a rebuild is about a hundred calls in a row. The
+first run on 1 November 2026 was refused partway with 429 Too Many Requests.
+Calls now go through `sp()` in `bin/lib_spotify.sh`, which waits
+`SPOTIFY_PACE` (0.5s) between calls and, on a 429, retries after 5, 10, 20… up
+to 160 seconds. A rebuild takes a couple of minutes longer and finishes. If a
+run is still cut short, the next one sees a correct but partial playlist and
+adds only what is missing instead of starting again.
+
 ### Does it work?
 
 `backtest_discovery.sh` answers that against the only ground truth available.

@@ -16,6 +16,9 @@ cache="$root/cache/discover"
 [ -f "$root/.env" ] && . "$root/.env"
 : "${SPOTIFY_USER_ID:?not set — copy .env.example to .env and fill it in}"
 
+# shellcheck source=lib_spotify.sh
+. "$root/bin/lib_spotify.sh"
+
 name="${DISCOVER_PLAYLIST_NAME:-Worth Investigating}"
 artists="${DISCOVER_PLAYLIST_ARTISTS:-${PAGE_DISCOVER:-50}}"
 per_artist="${DISCOVER_PLAYLIST_TRACKS:-2}"
@@ -41,7 +44,7 @@ if [ -z "$desired" ]; then
 fi
 
 find_playlist() {
-  spotify_player get key user-playlists |
+  sp get key user-playlists |
     jq -r --arg me "$SPOTIFY_USER_ID" --arg name "$name" \
       '[.[] | select(.owner[1] == $me and .name == $name) | .id] | first // empty'
 }
@@ -50,13 +53,13 @@ pid=$(find_playlist)
 if [ -z "$pid" ]; then
   public_flag=()
   [ "${DISCOVER_PLAYLIST_PUBLIC:-0}" = "1" ] && public_flag=(--public)
-  spotify_player playlist new "$name" "$description" ${public_flag[@]+"${public_flag[@]}"} >/dev/null
+  sp playlist new "$name" "$description" ${public_flag[@]+"${public_flag[@]}"} >/dev/null
   pid=$(find_playlist)
   [ -n "$pid" ] || { echo "playlist: created '$name' but cannot find it" >&2; exit 1; }
   echo "playlist: created '$name' ($pid)"
 fi
 
-current=$(spotify_player get item -i "$pid" playlist | jq -r '.tracks[].id')
+current=$(sp get item -i "$pid" playlist | jq -r '.tracks[].id')
 
 if [ "$current" = "$desired" ]; then
   echo "playlist: '$name' unchanged, $(wc -l <<< "$desired" | tr -d ' ') tracks"
@@ -64,18 +67,30 @@ if [ "$current" = "$desired" ]; then
 fi
 
 # The CLI can only add or remove one track per call, and an add always appends.
-# Clearing and refilling is the only way to keep the playlist in ranked order.
-removed=0
-while read -r track; do
-  [ -n "$track" ] || continue
-  spotify_player playlist edit delete "$pid" --track-id "$track" >/dev/null
-  removed=$((removed + 1))
-done < <(sort -u <<< "$current")
+# So the playlist is kept in ranked order by clearing and refilling it, except
+# when what is there is the start of what should be: a run cut short (by a rate
+# limit, say) left a correct but partial playlist, and only the rest is added.
+current_n=$(grep -c . <<< "$current" || true)
+if [ "$current_n" -gt 0 ] && [ "$current" = "$(head -n "$current_n" <<< "$desired")" ]; then
+  removed=0
+  todo=$(tail -n +"$((current_n + 1))" <<< "$desired")
+  verb="topped up"
+else
+  removed=0
+  while read -r track; do
+    [ -n "$track" ] || continue
+    sp playlist edit delete "$pid" --track-id "$track" >/dev/null
+    removed=$((removed + 1))
+  done < <(sort -u <<< "$current")
+  todo="$desired"
+  verb="rebuilt"
+fi
 
 added=0
 while read -r track; do
-  spotify_player playlist edit add "$pid" --track-id "$track" >/dev/null
+  [ -n "$track" ] || continue
+  sp playlist edit add "$pid" --track-id "$track" >/dev/null
   added=$((added + 1))
-done <<< "$desired"
+done <<< "$todo"
 
-echo "playlist: '$name' rebuilt, $removed removed, $added added"
+echo "playlist: '$name' $verb, $removed removed, $added added"
