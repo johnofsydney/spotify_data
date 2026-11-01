@@ -313,6 +313,15 @@ Then at most one extra clause: a move of 5+ places since last week, a run of
 four weeks in the top 50 for a binge, a playlist that is mostly theirs, or a run
 of new releases. The thresholds are constants at the top of the script.
 
+### Links into Spotify
+
+Every artist name on the page (favourites, discovery and its "via" names,
+albums, the breakdown, gigs and the not-followed list) links to the artist in
+the Spotify app with a `spotify:artist:<id>` URI, and album titles with
+`spotify:album:<id>`. Those open the desktop app directly and, on a phone,
+the app after the browser asks. Ids come from the artist caches and the
+discovery list; a gig act with no id yet opens a Spotify search for its name.
+
 ### Changing the weights
 
 Weights live in `weights.json`, one line per signal, and nowhere else:

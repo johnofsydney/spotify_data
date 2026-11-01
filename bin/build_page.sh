@@ -35,7 +35,7 @@ albums=$( [ -f "$root/album_pool.json" ] && jq -c '[.[] | {k: .key, a: .artist_i
 gigs=$( [ -f "$root/gig_recs.json" ] && jq -c '
   def slim: {key, date, time, venue, suburb, free, score, new,
              link: ([.links[]?.url | select(.)] | first),
-             acts: [.acts[] | {name, kind, score, rank, via, guess, billing}]};
+             acts: [.acts[] | {name, id, kind, score, rank, via, guess, billing}]};
   {generated, pending_acts, listed,
    new: [.new[] | slim], coming: [.coming[] | slim], later: [.later[] | slim],
    nodata: [.nodata[] | {key, date, time, venue, free,
@@ -51,6 +51,13 @@ club_name=$(jq -r '.exclude_playlist // "Elderly Gents Album Club"' "$root/album
 club_id=$(jq -r --arg n "$club_name" 'to_entries[] | select(.value.name == $n) | .key' "$root/playlist_weights.json" | head -1)
 club=$( [ -n "$club_id" ] && [ -f "$root/cache/playlists/$club_id.json" ] &&
   jq -c '[.tracks[].artists[].name] | unique' "$root/cache/playlists/$club_id.json" || echo '[]')
+
+# Spotify ids by artist name, for linking names in every table to the artist's
+# page. Known artists come from their cached details, discovery artists from the
+# discovery list; gig acts carry their own ids.
+artist_ids=$( { jq -s '[.[] | .artist | select(.id) | {key: .name, value: .id}]' "$root"/cache/artists/*.json
+  jq '[.[] | select(.id) | {key: .name, value: .id}]' "$root/discover_artists.json"; } |
+  jq -s -c 'add | from_entries')
 
 generated=$(date '+%-d %B %Y')
 snapshots=$(awk -F',' 'NR>1 {print $1}' "$root/history/rankings.csv" 2>/dev/null | sort -u | wc -l | tr -d ' ')
@@ -97,6 +104,9 @@ h2:first-of-type { margin-top: 36px; }
   align-items: baseline; padding: 11px 4px; border-bottom: 1px solid var(--line);
 }
 .row:hover { background: var(--card); }
+a.artist { color: inherit; text-decoration: none; }
+a.artist:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.meta a.artist { border-bottom: 1px dotted var(--line); }
 .note.todo { margin-top: 14px; color: var(--fg); }
 .note.todo .rank { color: var(--muted); font-size: 12px; }
 /* Rows with an artist from the album club playlist, in every table. */
@@ -250,6 +260,19 @@ const clubSet = new Set($club.map(clubNorm));
 const isClub = name => clubSet.has(clubNorm(name));
 const clubCls = names => [].concat(names).some(isClub) ? ' club' : '';
 if (clubSet.size) document.getElementById('clubkey').hidden = false;
+const artistIds = $artist_ids;
+// Names link straight into the Spotify app (spotify: URIs open the desktop app,
+// and on a phone the app, after the browser asks), not the web player.
+// An act without a known id (a gig act not looked up yet, or not matched)
+// opens a Spotify search for its name instead, billing tags like "(USA)" or
+// "[DJ]" removed.
+const artistLink = (name, id) => {
+  id = id || artistIds[name];
+  if (id) return '<a class="artist" href="spotify:artist:' + id + '">' + esc(name) + '</a>';
+  const q = String(name).replace(/\s*[\(\[][^\)\]]*[\)\]]/g, '').trim();
+  return '<a class="artist search" href="spotify:search:' + encodeURIComponent(q) + '">' + esc(name) + '</a>';
+};
+const linkList = names => [].concat(names).map(n => artistLink(n)).join(', ');
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 document.getElementById('favs').innerHTML = favs.map(a => {
   const chips = [
@@ -265,7 +288,7 @@ document.getElementById('favs').innerHTML = favs.map(a => {
   if (a.top > 0) bits.push(a.top + ' in top 50');
   if (a.years > 0) bits.push('top songs in ' + a.years + (a.years === 1 ? ' year' : ' years'));
   return '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
-    '<div><div class="name">' + esc(a.name) + chips + '</div>' +
+    '<div><div class="name">' + artistLink(a.name) + chips + '</div>' +
     '<div class="meta">' + bits.join(' &middot; ') + '</div></div>' +
     '<div class="score">' + a.score + '</div></div>';
 }).join('');
@@ -276,13 +299,13 @@ if (unfollowed.length) {
   const el = document.getElementById('unfollowed');
   el.hidden = false;
   el.innerHTML = '<b>Not followed yet (' + unfollowed.length + '):</b> ' +
-    unfollowed.map(a => esc(a.name) + ' <span class="rank">#' + a.rank + '</span>').join(', ') +
+    unfollowed.map(a => artistLink(a.name) + ' <span class="rank">#' + a.rank + '</span>').join(', ') +
     '. Follow them in Spotify and they drop off this list.';
 }
 document.getElementById('disc').innerHTML = disc.map(a =>
   '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
-  '<div><div class="name">' + esc(a.name) + '</div>' +
-  '<div class="meta">via ' + esc(a.from) + '</div></div>' +
+  '<div><div class="name">' + artistLink(a.name, a.id) + '</div>' +
+  '<div class="meta">via ' + linkList(a.from.split(', ')) + '</div></div>' +
   '<div class="score">' + a.votes + '</div></div>'
 ).join('');
 // The pool is every eligible album, ranked. "Show me twenty others" puts the
@@ -318,8 +341,8 @@ const renderAlbums = () => {
     if (a.hits > 0) why.push(a.hits + ' of their top tracks');
     const chip = a.new ? '<span class="chip">new</span>' : '';
     return '<div class="row' + clubCls(a.artist) + '"><div class="rank">' + (i + 1) + '</div>' +
-      '<div><div class="name"><a href="https://open.spotify.com/album/' + a.id + '">' + esc(a.album) + '</a>' + chip + '</div>' +
-      '<div class="meta">' + esc(a.artist) + ' &middot; ' + a.year + ' &middot; ' + why.join(' &middot; ') + '</div></div>' +
+      '<div><div class="name"><a href="spotify:album:' + a.id + '">' + esc(a.album) + '</a>' + chip + '</div>' +
+      '<div class="meta">' + artistLink(a.artist, a.a) + ' &middot; ' + a.year + ' &middot; ' + why.join(' &middot; ') + '</div></div>' +
       '<div class="score">' + a.score + '</div></div>';
   }).join('') || '<div class="row"><div></div><div class="meta">Nothing left in the pool. Go back to this week\'s list.</div><div></div></div>';
   const sets = Math.round(skipped.length / albumCount);
@@ -351,11 +374,11 @@ if (gigData) {
   };
   const actHtml = a => {
     const cls = a.kind === 'known' ? 'act-fav' : (a.score >= 5 ? '' : 'act-dim');
-    return '<span class="' + cls + '">' + esc(a.name) + '</span>';
+    return '<span class="' + cls + '">' + artistLink(a.name, a.id) + '</span>';
   };
   const whyHtml = g => g.acts.filter(a => a.score >= 1 && (a.rank || (a.via && a.via.length))).slice(0, 3).map(a =>
     a.rank ? esc(a.name) + ' is favourite #' + a.rank
-           : esc(a.name) + ' sounds like ' + esc(a.via.join(', ')) + (a.guess ? ' <span class="chip guess">guess</span>' : '')
+           : esc(a.name) + ' sounds like ' + linkList(a.via) + (a.guess ? ' <span class="chip guess">guess</span>' : '')
   ).join(' &middot; ');
   const row = g => '<div class="row gigrow' + clubCls(g.acts.map(a => a.name)) + '">' +
     '<a class="gigdate" href="gigs/' + g.key + '.ics">' + when(g) + '</a>' +
@@ -375,7 +398,7 @@ if (gigData) {
     '<details class="nodata"><summary>' + nd.length + ' gigs Spotify cannot place yet' +
       (gigData.pending_acts ? ' (' + gigData.pending_acts + ' acts not looked up yet)' : '') + '</summary>' +
     '<div class="list">' + nd.map(g => '<div class="row' + clubCls(g.acts) + '"><div class="gigdate">' + when(g) + '</div><div>' +
-      esc(g.acts.join(' · ')) + ' <span class="meta">' +
+      g.acts.map(n => artistLink(n)).join(' · ') + ' <span class="meta">' +
       (g.link ? '<a href="' + esc(g.link) + '">' + esc(g.venue) + '</a>' : esc(g.venue)) + '</span></div></div>').join('') +
     '</div></details>';
 }
@@ -427,7 +450,7 @@ const sorted = () => {
   });
 };
 const rows = list => '<tbody>' + list.map(a =>
-  '<tr' + (isClub(a.name) ? ' class="club"' : '') + '><td class="pin r">' + a.rank + '</td><td class="pin n" title="' + esc(a.name) + '">' + esc(a.name) + '</td>' +
+  '<tr' + (isClub(a.name) ? ' class="club"' : '') + '><td class="pin r">' + a.rank + '</td><td class="pin n" title="' + esc(a.name) + '">' + artistLink(a.name) + '</td>' +
   '<td class="total">' + fmt(a.score) + '</td>' +
   signals.map(s => {
     const p = a.points[s[0]] || 0;
