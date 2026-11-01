@@ -39,6 +39,21 @@ h2:first-of-type { margin-top: 36px; }
   align-items: baseline; padding: 11px 4px; border-bottom: 1px solid var(--line);
 }
 .row:hover { background: var(--card); }
+/* Rows with an artist from the album club playlist, in every table. */
+:root { --club: #f5ecd9; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --club: #2e2719; } }
+:root[data-theme="dark"] { --club: #2e2719; }
+.row.club, .row.club:hover, .brk tr.club td.pin { background: var(--club); }
+.brk tr.club td:not([style]) { background: var(--club); }
+.clubkey { display: inline-block; width: 10px; height: 10px; border-radius: 2px;
+  background: var(--club); border: 1px solid var(--line); vertical-align: -1px; margin-right: 4px; }
+/* Heading explanations in the score breakdown. */
+.toast { position: fixed; left: 50%; bottom: 20px; transform: translate(-50%, 12px);
+  max-width: min(92vw, 460px); background: var(--fg); color: var(--bg); font-size: 13px;
+  line-height: 1.45; padding: 11px 14px; border-radius: 10px; opacity: 0; pointer-events: none;
+  transition: opacity .18s, transform .18s; z-index: 10; box-shadow: 0 6px 24px rgba(0,0,0,.18); }
+.toast.on { opacity: 1; transform: translate(-50%, 0); pointer-events: auto; }
+.toast b { display: block; margin-bottom: 2px; }
 .rank { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 14px; }
 .name { font-weight: 550; }
 .meta { color: var(--muted); font-size: 13px; margin-top: 3px; }
@@ -54,6 +69,18 @@ h2:first-of-type { margin-top: 36px; }
   font-variant-numeric: tabular-nums; color: var(--accent);
   font-size: 14px; font-weight: 600;
 }
+.gigs h3 { font-size: 15px; margin: 26px 0 8px; color: var(--muted); font-weight: 600;
+  text-transform: uppercase; letter-spacing: .04em; }
+.gigrow { grid-template-columns: 70px 1fr auto; }
+.gigdate { font-size: 13px; color: var(--accent); text-decoration: none; line-height: 1.25;
+  font-variant-numeric: tabular-nums; }
+.gigdate b { display: block; font-size: 15px; color: var(--fg); }
+.gigs .meta a, details.nodata a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--line); }
+.act-fav { font-weight: 650; }
+.act-dim { color: var(--muted); font-weight: 400; }
+details.nodata summary { cursor: pointer; color: var(--accent); font-size: 14px; margin: 18px 0 8px; }
+details.nodata .row { grid-template-columns: 70px 1fr; padding: 7px 4px; font-size: 14px; }
+.chip.guess { font-style: italic; }
 .chip {
   display: inline-block; background: var(--chip); color: var(--muted);
   border-radius: 10px; padding: 1px 7px; font-size: 11px; margin-left: 6px;
@@ -96,6 +123,7 @@ footer { margin-top: 56px; color: var(--muted); font-size: 13px; border-top: 1px
 <header>
   <h1>Listening</h1>
   <div class="sub">Generated 1 November 2026 &middot; 2 weekly snapshot(s) recorded</div>
+  <div class="sub" id="clubkey" hidden><span class="clubkey"></span>Tinted rows include an artist from Elderly Gents Album Club.</div>
 </header>
 
 <h2>Favourite artists</h2>
@@ -109,6 +137,16 @@ playlists, follows and recent releases. Updated weekly.</p>
 Spotify says they resemble &mdash; a nod from a higher-ranked artist counts for
 more. Household names I simply have not saved can still slip through.</p>
 <div class="list" id="disc"></div>
+
+<section id="gigsection" hidden>
+<h2>Gigs</h2>
+<p class="note">Inner west, eastern suburbs and the city, from SydneyMusic.net and
+Ticketmaster. Each act scores on the favourites' scale: a favourite at their own
+score, anyone else by which favourites Spotify says they resemble (up to 40).
+A gig is its best act plus 0.3 of the next three. Tap the date to add it to your
+calendar.</p>
+<div id="gigs"></div>
+</section>
 
 <h2>Albums to hear in full</h2>
 <p class="note">From favourites and from the discovery list, ranked by how much I
@@ -125,10 +163,11 @@ and anything that has had four weeks on the list.</p>
 figure is the points that signal contributes, out of the most it can give (under
 the heading), and the small figure is the raw measurement. The points add up to
 the score. Counts are square-rooted against the highest of any artist, so the
-first few tracks earn far more than the fortieth. Tap a heading to sort by it;
-tap again to reverse.</p>
+first few tracks earn far more than the fortieth. Tap a heading to sort by it
+and see what it measures; tap again to reverse.</p>
 <div class="tablewrap"><table class="brk" id="brk"></table></div>
 
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
 <footer>Built from Spotify data by <code>bin/build_page.sh</code>.</footer>
 </div>
 <script>
@@ -138,6 +177,14 @@ const albumPool = [{"k":"3g2slv6elrXxGnXqy7Q2ap|ruin everything","a":"3g2slv6elr
 const albumPer = 1, albumCount = 20, albumStamp = '1 November 2026';
 const brk = [{"rank":1,"score":76.9,"name":"King Buffalo","points":{"alltime":0,"yearly":30,"top":8.05,"spread":12.09,"tracks":6.94,"followed":7,"dedicated":0,"activity":0.87,"favourite":12},"yearly":36.26,"years":6,"top":2,"spread":4,"tracks":13,"followed":true,"dedicated":false,"favourite":true,"activity":0.08333333333333333},{"rank":2,"score":60.2,"name":"ZZ Top","points":{"alltime":0,"yearly":7.47,"top":5.69,"spread":13.52,"tracks":8.39,"followed":7,"dedicated":4,"activity":2.12,"favourite":12},"yearly":2.25,"years":2,"top":1,"spread":5,"tracks":19,"followed":true,"dedicated":true,"favourite":true,"activity":0.5},{"rank":3,"score":57.5,"name":"Les Big Byrd","points":{"alltime":0,"yearly":10.22,"top":16.1,"spread":13.52,"tracks":7.7,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":4.21,"years":4,"top":8,"spread":5,"tracks":16,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":4,"score":57.4,"name":"The Chemical Brothers","points":{"alltime":0,"yearly":4.43,"top":8.05,"spread":13.52,"tracks":9.43,"followed":7,"dedicated":0,"activity":3,"favourite":12},"yearly":0.79,"years":1,"top":2,"spread":5,"tracks":24,"followed":true,"dedicated":false,"favourite":true,"activity":1},{"rank":5,"score":56.5,"name":"Papa M","points":{"alltime":0,"yearly":4.31,"top":15.06,"spread":8.55,"tracks":6.94,"followed":7,"dedicated":0,"activity":2.6,"favourite":12},"yearly":0.75,"years":1,"top":7,"spread":2,"tracks":13,"followed":true,"dedicated":false,"favourite":true,"activity":0.75},{"rank":6,"score":54.3,"name":"LCD Soundsystem","points":{"alltime":0,"yearly":9.05,"top":0,"spread":12.09,"tracks":8.61,"followed":7,"dedicated":4,"activity":1.5,"favourite":12},"yearly":3.3,"years":3,"top":0,"spread":4,"tracks":20,"followed":true,"dedicated":true,"favourite":true,"activity":0.25},{"rank":7,"score":50.7,"name":"Taylor Swift","points":{"alltime":0,"yearly":25.93,"top":0,"spread":6.05,"tracks":4.71,"followed":7,"dedicated":4,"activity":3,"favourite":0},"yearly":27.09,"years":5,"top":0,"spread":1.0,"tracks":6,"followed":true,"dedicated":true,"favourite":false,"activity":1},{"rank":8,"score":48.3,"name":"Paul van Dyk","points":{"alltime":0,"yearly":15.95,"top":0,"spread":13.52,"tracks":8.82,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":10.25,"years":6,"top":0,"spread":5,"tracks":21,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":9,"score":48.1,"name":"Black Sabbath","points":{"alltime":0,"yearly":3.86,"top":0,"spread":12.09,"tracks":7.93,"followed":7,"dedicated":4,"activity":1.22,"favourite":12},"yearly":0.6,"years":2,"top":0,"spread":4,"tracks":17,"followed":true,"dedicated":true,"favourite":true,"activity":0.16666666666666666},{"rank":10,"score":48.1,"name":"Chicane","points":{"alltime":0,"yearly":16.18,"top":0,"spread":13.52,"tracks":8.39,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":10.55,"years":5,"top":0,"spread":5,"tracks":19,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":11,"score":47.3,"name":"God Is An Astronaut","points":{"alltime":0,"yearly":9.98,"top":0,"spread":13.52,"tracks":9.81,"followed":7,"dedicated":4,"activity":3,"favourite":0},"yearly":4.01,"years":3,"top":0,"spread":5,"tracks":26,"followed":true,"dedicated":true,"favourite":false,"activity":1},{"rank":12,"score":46.5,"name":"sleepmakeswaves","points":{"alltime":0,"yearly":2.23,"top":8.05,"spread":8.55,"tracks":6.09,"followed":7,"dedicated":0,"activity":2.6,"favourite":12},"yearly":0.2,"years":1,"top":2,"spread":2,"tracks":10,"followed":true,"dedicated":false,"favourite":true,"activity":0.75},{"rank":13,"score":46.1,"name":"Dusty Springfield","points":{"alltime":0,"yearly":9.85,"top":0,"spread":13.52,"tracks":9.62,"followed":7,"dedicated":4,"activity":2.12,"favourite":0},"yearly":3.91,"years":3,"top":0,"spread":5,"tracks":25,"followed":true,"dedicated":true,"favourite":false,"activity":0.5},{"rank":14,"score":46.1,"name":"Booka Shade","points":{"alltime":0,"yearly":11.26,"top":0,"spread":14.81,"tracks":10,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":5.11,"years":4,"top":0,"spread":6,"tracks":27,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":15,"score":45.4,"name":"Fuck Buttons","points":{"alltime":0,"yearly":10.73,"top":8.05,"spread":8.55,"tracks":6.09,"followed":0,"dedicated":0,"activity":0,"favourite":12},"yearly":4.64,"years":4,"top":2,"spread":2,"tracks":10,"followed":false,"dedicated":false,"favourite":true,"activity":0},{"rank":16,"score":44.3,"name":"Eco","points":{"alltime":0,"yearly":12.57,"top":9.86,"spread":8.55,"tracks":5.09,"followed":7,"dedicated":0,"activity":1.22,"favourite":0},"yearly":6.37,"years":2,"top":3,"spread":2,"tracks":7,"followed":true,"dedicated":false,"favourite":false,"activity":0.16666666666666666},{"rank":17,"score":43.6,"name":"Causa Sui","points":{"alltime":0,"yearly":6.96,"top":5.69,"spread":12.09,"tracks":8.82,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":1.95,"years":3,"top":1,"spread":4,"tracks":21,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":18,"score":42.2,"name":"Maserati","points":{"alltime":0,"yearly":9.21,"top":8.05,"spread":10.47,"tracks":7.45,"followed":7,"dedicated":0,"activity":0,"favourite":0},"yearly":3.42,"years":4,"top":2,"spread":3,"tracks":15,"followed":true,"dedicated":false,"favourite":false,"activity":0},{"rank":19,"score":41.8,"name":"Night Beats","points":{"alltime":0,"yearly":3.52,"top":8.05,"spread":13.52,"tracks":8.82,"followed":7,"dedicated":0,"activity":0.87,"favourite":0},"yearly":0.5,"years":1,"top":2,"spread":5,"tracks":21,"followed":true,"dedicated":false,"favourite":false,"activity":0.08333333333333333},{"rank":20,"score":41.5,"name":"Greenleaf","points":{"alltime":0,"yearly":11.01,"top":0,"spread":13.52,"tracks":7.7,"followed":7,"dedicated":0,"activity":2.29,"favourite":0},"yearly":4.88,"years":5,"top":0,"spread":5,"tracks":16,"followed":true,"dedicated":false,"favourite":false,"activity":0.5833333333333334},{"rank":21,"score":40.4,"name":"Röyksopp","points":{"alltime":0,"yearly":8.7,"top":0,"spread":13.52,"tracks":8.16,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":3.05,"years":3,"top":0,"spread":5,"tracks":18,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":22,"score":39.3,"name":"The National","points":{"alltime":0,"yearly":7.05,"top":5.69,"spread":10.47,"tracks":6.67,"followed":7,"dedicated":0,"activity":2.45,"favourite":0},"yearly":2,"years":1,"top":1,"spread":3,"tracks":12,"followed":true,"dedicated":false,"favourite":false,"activity":0.6666666666666666},{"rank":23,"score":39.2,"name":"Valley of the Sun","points":{"alltime":0,"yearly":9.53,"top":0,"spread":12.09,"tracks":7.93,"followed":7,"dedicated":0,"activity":2.6,"favourite":0},"yearly":3.66,"years":3,"top":0,"spread":4,"tracks":17,"followed":true,"dedicated":false,"favourite":false,"activity":0.75},{"rank":24,"score":39.1,"name":"Maps","points":{"alltime":0,"yearly":7.7,"top":0,"spread":10.47,"tracks":7.45,"followed":7,"dedicated":4,"activity":2.45,"favourite":0},"yearly":2.39,"years":2,"top":0,"spread":3,"tracks":15,"followed":true,"dedicated":true,"favourite":false,"activity":0.6666666666666666},{"rank":25,"score":39,"name":"White Lies","points":{"alltime":0,"yearly":7.47,"top":0,"spread":14.81,"tracks":10,"followed":0,"dedicated":4,"activity":2.74,"favourite":0},"yearly":2.25,"years":1,"top":0,"spread":6,"tracks":27,"followed":false,"dedicated":true,"favourite":false,"activity":0.8333333333333333},{"rank":26,"score":39,"name":"Spiritualized","points":{"alltime":0,"yearly":7.97,"top":0,"spread":13.52,"tracks":8.39,"followed":7,"dedicated":0,"activity":2.12,"favourite":0},"yearly":2.56,"years":3,"top":0,"spread":5,"tracks":19,"followed":true,"dedicated":false,"favourite":false,"activity":0.5},{"rank":27,"score":38.7,"name":"Jon Hopkins","points":{"alltime":0,"yearly":4.43,"top":5.69,"spread":16,"tracks":9.62,"followed":0,"dedicated":0,"activity":3,"favourite":0},"yearly":0.79,"years":1,"top":1,"spread":7,"tracks":25,"followed":false,"dedicated":false,"favourite":false,"activity":1},{"rank":28,"score":38.2,"name":"Tides From Nebula","points":{"alltime":0,"yearly":4.54,"top":12.73,"spread":10.47,"tracks":7.45,"followed":0,"dedicated":0,"activity":3,"favourite":0},"yearly":0.83,"years":2,"top":5,"spread":3,"tracks":15,"followed":false,"dedicated":false,"favourite":false,"activity":1},{"rank":29,"score":38.1,"name":"The Beach Boys","points":{"alltime":0,"yearly":17.96,"top":0,"spread":10.47,"tracks":6.67,"followed":0,"dedicated":0,"activity":3,"favourite":0},"yearly":13,"years":1,"top":0,"spread":3,"tracks":12,"followed":false,"dedicated":false,"favourite":false,"activity":1},{"rank":30,"score":37.7,"name":"Noel Gallagher's High Flying Birds","points":{"alltime":0,"yearly":6.48,"top":0,"spread":13.52,"tracks":9.23,"followed":7,"dedicated":0,"activity":1.5,"favourite":0},"yearly":1.69,"years":2,"top":0,"spread":5,"tracks":23,"followed":true,"dedicated":false,"favourite":false,"activity":0.25},{"rank":31,"score":37.1,"name":"Elder","points":{"alltime":0,"yearly":7.49,"top":5.69,"spread":8.55,"tracks":5.77,"followed":7,"dedicated":0,"activity":2.6,"favourite":0},"yearly":2.26,"years":3,"top":1,"spread":2,"tracks":9,"followed":true,"dedicated":false,"favourite":false,"activity":0.75},{"rank":32,"score":36.6,"name":"The Raveonettes","points":{"alltime":0,"yearly":4.43,"top":0,"spread":13.52,"tracks":8.61,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":0.79,"years":1,"top":0,"spread":5,"tracks":20,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":33,"score":36.1,"name":"October Drift","points":{"alltime":0,"yearly":9.96,"top":0,"spread":10.47,"tracks":6.09,"followed":7,"dedicated":0,"activity":2.6,"favourite":0},"yearly":4,"years":1,"top":0,"spread":3,"tracks":10,"followed":true,"dedicated":false,"favourite":false,"activity":0.75},{"rank":34,"score":36,"name":"Kings of Leon","points":{"alltime":0,"yearly":2.49,"top":0,"spread":12.09,"tracks":7.45,"followed":7,"dedicated":4,"activity":3,"favourite":0},"yearly":0.25,"years":1,"top":0,"spread":4,"tracks":15,"followed":true,"dedicated":true,"favourite":false,"activity":1},{"rank":35,"score":36,"name":"GHOSTWOMAN","points":{"alltime":0,"yearly":8.87,"top":0,"spread":10.47,"tracks":6.67,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":3.17,"years":1,"top":0,"spread":3,"tracks":12,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":36,"score":35.9,"name":"ATB","points":{"alltime":0,"yearly":6.74,"top":0,"spread":12.09,"tracks":8.16,"followed":7,"dedicated":0,"activity":1.94,"favourite":0},"yearly":1.83,"years":5,"top":0,"spread":4,"tracks":18,"followed":true,"dedicated":false,"favourite":false,"activity":0.4166666666666667},{"rank":37,"score":35.5,"name":"Caesars","points":{"alltime":0,"yearly":7.67,"top":0,"spread":10.47,"tracks":6.38,"followed":7,"dedicated":4,"activity":0,"favourite":0},"yearly":2.37,"years":2,"top":0,"spread":3,"tracks":11,"followed":true,"dedicated":true,"favourite":false,"activity":0},{"rank":38,"score":35.4,"name":"GB3 AU","points":{"alltime":0,"yearly":0,"top":18,"spread":6.05,"tracks":4.3,"followed":7,"dedicated":0,"activity":0,"favourite":0},"yearly":0,"years":0,"top":10,"spread":1.0,"tracks":5,"followed":true,"dedicated":false,"favourite":false,"activity":0},{"rank":39,"score":35,"name":"Still Corners","points":{"alltime":0,"yearly":10.65,"top":0,"spread":8.55,"tracks":5.77,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":4.57,"years":3,"top":0,"spread":2,"tracks":9,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":40,"score":34.5,"name":"65daysofstatic","points":{"alltime":0,"yearly":6.53,"top":0,"spread":10.47,"tracks":7.45,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":1.72,"years":3,"top":0,"spread":3,"tracks":15,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":41,"score":34.1,"name":"The Holy","points":{"alltime":0,"yearly":7.47,"top":0,"spread":10.47,"tracks":6.67,"followed":7,"dedicated":0,"activity":2.45,"favourite":0},"yearly":2.25,"years":1,"top":0,"spread":3,"tracks":12,"followed":true,"dedicated":false,"favourite":false,"activity":0.6666666666666666},{"rank":42,"score":33.7,"name":"Beyond The Wizards Sleeve","points":{"alltime":0,"yearly":9.31,"top":0,"spread":6.05,"tracks":5.09,"followed":0,"dedicated":0,"activity":1.22,"favourite":12},"yearly":3.49,"years":2,"top":0,"spread":1.0,"tracks":7,"followed":false,"dedicated":false,"favourite":true,"activity":0.16666666666666666},{"rank":43,"score":33.6,"name":"Long Distance Calling","points":{"alltime":0,"yearly":6.2,"top":0,"spread":10.47,"tracks":6.94,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":1.55,"years":3,"top":0,"spread":3,"tracks":13,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":44,"score":33.5,"name":"The Flaming Lips","points":{"alltime":0,"yearly":0,"top":0,"spread":12.09,"tracks":8.16,"followed":0,"dedicated":0,"activity":1.22,"favourite":12},"yearly":0,"years":0,"top":0,"spread":4,"tracks":18,"followed":false,"dedicated":false,"favourite":true,"activity":0.16666666666666666},{"rank":45,"score":33.4,"name":"Holy Fuck","points":{"alltime":0,"yearly":3.99,"top":0,"spread":12.09,"tracks":7.45,"followed":7,"dedicated":0,"activity":2.87,"favourite":0},"yearly":0.64,"years":3,"top":0,"spread":4,"tracks":15,"followed":true,"dedicated":false,"favourite":false,"activity":0.9166666666666667},{"rank":46,"score":33.3,"name":"Public Service Broadcasting","points":{"alltime":0,"yearly":6.12,"top":0,"spread":10.47,"tracks":6.94,"followed":7,"dedicated":0,"activity":2.74,"favourite":0},"yearly":1.51,"years":4,"top":0,"spread":3,"tracks":13,"followed":true,"dedicated":false,"favourite":false,"activity":0.8333333333333333},{"rank":47,"score":33,"name":"Tuber","points":{"alltime":0,"yearly":6.28,"top":0,"spread":10.47,"tracks":6.94,"followed":7,"dedicated":0,"activity":2.29,"favourite":0},"yearly":1.59,"years":1,"top":0,"spread":3,"tracks":13,"followed":true,"dedicated":false,"favourite":false,"activity":0.5833333333333334},{"rank":48,"score":32.8,"name":"Mattiel","points":{"alltime":0,"yearly":9.69,"top":0,"spread":8.55,"tracks":6.38,"followed":7,"dedicated":0,"activity":1.22,"favourite":0},"yearly":3.78,"years":1,"top":0,"spread":2,"tracks":11,"followed":true,"dedicated":false,"favourite":false,"activity":0.16666666666666666},{"rank":49,"score":32.1,"name":"Barry Can't Swim","points":{"alltime":0,"yearly":12.2,"top":0,"spread":6.05,"tracks":3.85,"followed":7,"dedicated":0,"activity":3,"favourite":0},"yearly":6,"years":1,"top":0,"spread":1.0,"tracks":4,"followed":true,"dedicated":false,"favourite":false,"activity":1},{"rank":50,"score":32,"name":"All Them Witches","points":{"alltime":0,"yearly":11.66,"top":0,"spread":6.05,"tracks":4.71,"followed":7,"dedicated":0,"activity":2.6,"favourite":0},"yearly":5.48,"years":3,"top":0,"spread":1.0,"tracks":6,"followed":true,"dedicated":false,"favourite":false,"activity":0.75}];
 const weights = {"yearly":0.30,"top":0.18,"spread":0.16,"favourite":0.12,"tracks":0.10,"followed":0.07,"dedicated":0.04,"activity":0.03,"alltime":0.00};
+const tuning = {"yearly_half_life_years":3,"track_cap":5,"min_playlist_tracks":3,"dedicated_min_playlist":5,"dedicated_min_share":0.5,"activity_years":3};
+const clubNorm = s => String(s).toLowerCase().replace(/\s*[\(\[][^\)\]]*[\)\]]/g, '')
+  .normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/&/g, ' and ')
+  .replace(/[^a-z0-9]+/g, ' ').trim().replace(/^the /, '');
+const clubSet = new Set(["65daysofstatic","Arcade Fire","Beasts Of Bourbon","Bill Evans","Björk","Bon Iver","Cannonball Adderley","Causa Sui","Chain","Dappled Cities","David Bascombe","Dead Kennedys","Doves","Dusty Springfield","Elbow","Explosions In The Sky","GB3 AU","Gary Numan","God Is An Astronaut","Gotye","Greenleaf","INXS","If These Trees Could Talk","Iron Maiden","Jah Wobble","Jean-Michel Jarre","John Coltrane","Jon Hopkins","Jules Buckley","Kimbra","Leftfield","Metropole Orkest","Miles Davis","Night Beats","Nils Frahm","Noel Gallagher","Paul Chambers","Philippa Nihill","Pop Will Eat Itself","Portishead","Primal Scream","Quantum Fantay","Regurgitator","Richard Hawley","Shpongle","Snarky Puppy","Steve Kilbey","Swervedriver","Syd Barrett","Talking Heads","Tame Impala","The Beach Boys","The Brian Jonestown Massacre","The Chemical Brothers","The Church","The Fall","The Go-Betweens","The House of Love","The National","The Pogues","The Prodigy","Tides From Nebula","Wynton Kelly","You Am I","ZZ Top"].map(clubNorm));
+const isClub = name => clubSet.has(clubNorm(name));
+const clubCls = names => [].concat(names).some(isClub) ? ' club' : '';
+if (clubSet.size) document.getElementById('clubkey').hidden = false;
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 document.getElementById('favs').innerHTML = favs.map(a => {
   const chips = [
@@ -152,13 +199,13 @@ document.getElementById('favs').innerHTML = favs.map(a => {
   if (a.tracks > 0) bits.push(a.tracks + ' tracks');
   if (a.top > 0) bits.push(a.top + ' in top 50');
   if (a.years > 0) bits.push('top songs in ' + a.years + (a.years === 1 ? ' year' : ' years'));
-  return '<div class="row"><div class="rank">' + a.rank + '</div>' +
+  return '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
     '<div><div class="name">' + esc(a.name) + chips + '</div>' +
     '<div class="meta">' + bits.join(' &middot; ') + '</div></div>' +
     '<div class="score">' + a.score + '</div></div>';
 }).join('');
 document.getElementById('disc').innerHTML = disc.map(a =>
-  '<div class="row"><div class="rank">' + a.rank + '</div>' +
+  '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
   '<div><div class="name">' + esc(a.name) + '</div>' +
   '<div class="meta">via ' + esc(a.from) + '</div></div>' +
   '<div class="score">' + a.votes + '</div></div>'
@@ -195,7 +242,7 @@ const renderAlbums = () => {
     const why = [a.source === 'known' ? 'favourite' : 'new to me, via ' + esc(a.from)];
     if (a.hits > 0) why.push(a.hits + ' of their top tracks');
     const chip = a.new ? '<span class="chip">new</span>' : '';
-    return '<div class="row"><div class="rank">' + (i + 1) + '</div>' +
+    return '<div class="row' + clubCls(a.artist) + '"><div class="rank">' + (i + 1) + '</div>' +
       '<div><div class="name"><a href="https://open.spotify.com/album/' + a.id + '">' + esc(a.album) + '</a>' + chip + '</div>' +
       '<div class="meta">' + esc(a.artist) + ' &middot; ' + a.year + ' &middot; ' + why.join(' &middot; ') + '</div></div>' +
       '<div class="score">' + a.score + '</div></div>';
@@ -208,12 +255,55 @@ const renderAlbums = () => {
 document.getElementById('albumsNext').addEventListener('click', () => {
   skipped = skipped.concat(shown.map(a => a.k));
   saveSkips(skipped); renderAlbums();
+
   document.getElementById('albums').scrollIntoView({block: 'start'});
 });
 document.getElementById('albumsReset').addEventListener('click', () => {
   skipped = []; saveSkips(skipped); renderAlbums();
 });
 renderAlbums();
+
+const gigData = null;
+if (gigData) {
+  document.getElementById('gigsection').hidden = false;
+  const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  const when = g => {
+    const d = new Date(g.date + 'T12:00:00');
+    const [h, m] = g.time.split(':').map(Number);
+    const t = (h % 12 || 12) + (m ? ':' + String(m).padStart(2, '0') : '') + (h < 12 ? 'am' : 'pm');
+    return '<b>' + days[d.getDay()] + ' ' + d.getDate() + '</b>' + months[d.getMonth()] + '<br>' + t;
+  };
+  const actHtml = a => {
+    const cls = a.kind === 'known' ? 'act-fav' : (a.score >= 5 ? '' : 'act-dim');
+    return '<span class="' + cls + '">' + esc(a.name) + '</span>';
+  };
+  const whyHtml = g => g.acts.filter(a => a.score >= 1 && (a.rank || (a.via && a.via.length))).slice(0, 3).map(a =>
+    a.rank ? esc(a.name) + ' is favourite #' + a.rank
+           : esc(a.name) + ' sounds like ' + esc(a.via.join(', ')) + (a.guess ? ' <span class="chip guess">guess</span>' : '')
+  ).join(' &middot; ');
+  const row = g => '<div class="row gigrow' + clubCls(g.acts.map(a => a.name)) + '">' +
+    '<a class="gigdate" href="gigs/' + g.key + '.ics">' + when(g) + '</a>' +
+    '<div><div class="name">' + g.acts.map(actHtml).join(' &middot; ') +
+      (g.new ? '<span class="chip">new</span>' : '') + (g.free ? '<span class="chip">free</span>' : '') + '</div>' +
+    '<div class="meta">' + (g.link ? '<a href="' + esc(g.link) + '">' + esc(g.venue) + '</a>' : esc(g.venue)) +
+      (g.suburb ? ', ' + esc(g.suburb) : '') + (whyHtml(g) ? ' &middot; ' + whyHtml(g) : '') + '</div></div>' +
+    '<div class="score">' + g.score + '</div></div>';
+  const block = (title, list, empty) => '<h3>' + title + '</h3>' +
+    (list.length ? '<div class="list">' + list.map(row).join('') + '</div>' : '<p class="note">' + empty + '</p>');
+  const nd = gigData.nodata;
+  document.getElementById('gigs').className = 'gigs';
+  document.getElementById('gigs').innerHTML =
+    block('New announcements', gigData.new, 'Nothing new from your top 100 since last week.') +
+    block('Coming up', gigData.coming, 'Nothing above the cut-off in the next eight weeks.') +
+    block('Further out', gigData.later, 'Nothing above the cut-off further ahead yet.') +
+    '<details class="nodata"><summary>' + nd.length + ' gigs Spotify cannot place yet' +
+      (gigData.pending_acts ? ' (' + gigData.pending_acts + ' acts not looked up yet)' : '') + '</summary>' +
+    '<div class="list">' + nd.map(g => '<div class="row' + clubCls(g.acts) + '"><div class="gigdate">' + when(g) + '</div><div>' +
+      esc(g.acts.join(' · ')) + ' <span class="meta">' +
+      (g.link ? '<a href="' + esc(g.link) + '">' + esc(g.venue) + '</a>' : esc(g.venue)) + '</span></div></div>').join('') +
+    '</div></details>';
+}
 // One column per signal that carries weight, heaviest first, so the table
 // follows weights.json without editing: a signal set to zero drops out.
 const flag = v => v ? 'yes' : 'no';
@@ -261,7 +351,7 @@ const sorted = () => {
   });
 };
 const rows = list => '<tbody>' + list.map(a =>
-  '<tr><td class="pin r">' + a.rank + '</td><td class="pin n" title="' + esc(a.name) + '">' + esc(a.name) + '</td>' +
+  '<tr' + (isClub(a.name) ? ' class="club"' : '') + '><td class="pin r">' + a.rank + '</td><td class="pin n" title="' + esc(a.name) + '">' + esc(a.name) + '</td>' +
   '<td class="total">' + fmt(a.score) + '</td>' +
   signals.map(s => {
     const p = a.points[s[0]] || 0;
@@ -273,9 +363,39 @@ const rows = list => '<tbody>' + list.map(a =>
   }).join('') + '</tr>').join('') + '</tbody>';
 const table = document.getElementById('brk');
 const render = () => { table.innerHTML = header() + rows(sorted()); };
+// Tapping a heading also explains it: what the signal measures, its weight in
+// weights.json, and so the most points it can add to the 100.
+const about = {
+  rank: ['Rank', 'Position in the favourites ranking, by total score.'],
+  name: ['Artist', 'Tap to sort A to Z.'],
+  score: ['Score', 'The total out of 100: the sum of the points in every signal column. Each column\'s ceiling is its weight × 100.'],
+  yearly: ['Yearly wraps', 'Tracks in every "Your Top Songs" playlist Spotify has made you, recent years counting more (half-life ' + (tuning.yearly_half_life_years || 3) + ' years). Ten years of what you actually played.'],
+  top: ['Top tracks', 'How many of your 50 current top tracks are theirs. Spotify\'s short-term window: the only signal that reflects now.'],
+  spread: ['Spread', 'How many different playlists of yours hold two or more of their tracks.'],
+  tracks: ['Tracks', 'Their tracks across your playlists, counting at most ' + (tuning.track_cap || 5) + ' per playlist, so one long Best Of cannot outvote years of listening.'],
+  favourite: ['Favourite', 'Whether they are in the favourites playlist you keep by hand. Yes or no.'],
+  followed: ['Followed', 'Whether you follow them on Spotify. Yes or no, and cheap: you follow once and forget.'],
+  dedicated: ['Best of', 'Whether more than half of some playlist of five or more tracks is theirs. Yes or no.'],
+  activity: ['Releases', 'New albums and singles in the last three years, reissues excluded. Nearly switched off.'],
+  alltime: ['All-time', 'Spotify\'s All-Time Top Songs playlist. Switched off: Spotify does not keep it current.']
+};
+const toast = document.getElementById('toast');
+let toastTimer;
+const explain = key => {
+  const [title, text] = about[key] || [key, ''];
+  const w = weights[key];
+  const weightLine = w ? 'Weight ' + (Math.round(w * 100) / 100) + ' in weights.json, so up to ' +
+    (Math.round(w * 1000) / 10) + ' of the 100 points.' : '';
+  toast.innerHTML = '<b>' + esc(title) + '</b>' + esc(text) + (weightLine ? ' ' + esc(weightLine) : '');
+  toast.classList.add('on');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.remove('on'), 6000);
+};
+toast.addEventListener('click', () => toast.classList.remove('on'));
 table.addEventListener('click', e => {
   const btn = e.target.closest('button[data-key]');
   if (!btn) return;
+  explain(btn.dataset.key);
   const col = columns.find(c => c.key === btn.dataset.key);
   sort = sort.key === col.key ? {key: col.key, asc: !sort.asc} : {key: col.key, asc: !!col.asc};
   render();

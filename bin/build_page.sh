@@ -18,6 +18,7 @@ favs=$(jq -c --argjson n "$top_n" '[.artists[0:$n][] |
 brk=$(jq -c --argjson n "$top_n" '[.artists[0:$n][] |
   {rank, score, name, points, yearly, years: .yearly_years, top, spread, tracks,
    followed, dedicated, favourite, activity}]' "$root/favourite_artists.json")
+tuning=$(jq -c '.config.tuning // {}' "$root/favourite_artists.json")
 weights=$(jq -c '.config.weights | ([.[]] | add) as $s | map_values(if $s > 1.5 then . / 100 else . end)' "$root/favourite_artists.json")
 
 disc=$(jq -c --argjson n "$disc_n" '[.[0:$n][] |
@@ -38,6 +39,13 @@ gigs=$( [ -f "$root/gig_recs.json" ] && jq -c '
 
 per_artist=$(jq -r '.per_artist // 1' "$root/albums.json" 2>/dev/null || echo 1)
 album_count=$(jq -r '.count // 20' "$root/albums.json" 2>/dev/null || echo 20)
+
+# Every artist on the album club playlist, for tinting their rows in every
+# table. Found by name in playlist_weights.json, like album_recs.sh does.
+club_name=$(jq -r '.exclude_playlist // "Elderly Gents Album Club"' "$root/albums.json" 2>/dev/null || echo "Elderly Gents Album Club")
+club_id=$(jq -r --arg n "$club_name" 'to_entries[] | select(.value.name == $n) | .key' "$root/playlist_weights.json" | head -1)
+club=$( [ -n "$club_id" ] && [ -f "$root/cache/playlists/$club_id.json" ] &&
+  jq -c '[.tracks[].artists[].name] | unique' "$root/cache/playlists/$club_id.json" || echo '[]')
 
 generated=$(date '+%-d %B %Y')
 snapshots=$(awk -F',' 'NR>1 {print $1}' "$root/history/rankings.csv" 2>/dev/null | sort -u | wc -l | tr -d ' ')
@@ -84,6 +92,21 @@ h2:first-of-type { margin-top: 36px; }
   align-items: baseline; padding: 11px 4px; border-bottom: 1px solid var(--line);
 }
 .row:hover { background: var(--card); }
+/* Rows with an artist from the album club playlist, in every table. */
+:root { --club: #f5ecd9; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --club: #2e2719; } }
+:root[data-theme="dark"] { --club: #2e2719; }
+.row.club, .row.club:hover, .brk tr.club td.pin { background: var(--club); }
+.brk tr.club td:not([style]) { background: var(--club); }
+.clubkey { display: inline-block; width: 10px; height: 10px; border-radius: 2px;
+  background: var(--club); border: 1px solid var(--line); vertical-align: -1px; margin-right: 4px; }
+/* Heading explanations in the score breakdown. */
+.toast { position: fixed; left: 50%; bottom: 20px; transform: translate(-50%, 12px);
+  max-width: min(92vw, 460px); background: var(--fg); color: var(--bg); font-size: 13px;
+  line-height: 1.45; padding: 11px 14px; border-radius: 10px; opacity: 0; pointer-events: none;
+  transition: opacity .18s, transform .18s; z-index: 10; box-shadow: 0 6px 24px rgba(0,0,0,.18); }
+.toast.on { opacity: 1; transform: translate(-50%, 0); pointer-events: auto; }
+.toast b { display: block; margin-bottom: 2px; }
 .rank { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 14px; }
 .name { font-weight: 550; }
 .meta { color: var(--muted); font-size: 13px; margin-top: 3px; }
@@ -153,6 +176,7 @@ footer { margin-top: 56px; color: var(--muted); font-size: 13px; border-top: 1px
 <header>
   <h1>Listening</h1>
   <div class="sub">Generated $generated &middot; $snapshots weekly snapshot(s) recorded</div>
+  <div class="sub" id="clubkey" hidden><span class="clubkey"></span>Tinted rows include an artist from $club_name.</div>
 </header>
 
 <h2>Favourite artists</h2>
@@ -192,10 +216,11 @@ and anything that has had four weeks on the list.</p>
 figure is the points that signal contributes, out of the most it can give (under
 the heading), and the small figure is the raw measurement. The points add up to
 the score. Counts are square-rooted against the highest of any artist, so the
-first few tracks earn far more than the fortieth. Tap a heading to sort by it;
-tap again to reverse.</p>
+first few tracks earn far more than the fortieth. Tap a heading to sort by it
+and see what it measures; tap again to reverse.</p>
 <div class="tablewrap"><table class="brk" id="brk"></table></div>
 
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
 <footer>Built from Spotify data by <code>bin/build_page.sh</code>.</footer>
 </div>
 <script>
@@ -205,6 +230,14 @@ const albumPool = $albums;
 const albumPer = $per_artist, albumCount = $album_count, albumStamp = '$generated';
 const brk = $brk;
 const weights = $weights;
+const tuning = $tuning;
+const clubNorm = s => String(s).toLowerCase().replace(/\s*[\(\[][^\)\]]*[\)\]]/g, '')
+  .normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/&/g, ' and ')
+  .replace(/[^a-z0-9]+/g, ' ').trim().replace(/^the /, '');
+const clubSet = new Set($club.map(clubNorm));
+const isClub = name => clubSet.has(clubNorm(name));
+const clubCls = names => [].concat(names).some(isClub) ? ' club' : '';
+if (clubSet.size) document.getElementById('clubkey').hidden = false;
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 document.getElementById('favs').innerHTML = favs.map(a => {
   const chips = [
@@ -219,13 +252,13 @@ document.getElementById('favs').innerHTML = favs.map(a => {
   if (a.tracks > 0) bits.push(a.tracks + ' tracks');
   if (a.top > 0) bits.push(a.top + ' in top 50');
   if (a.years > 0) bits.push('top songs in ' + a.years + (a.years === 1 ? ' year' : ' years'));
-  return '<div class="row"><div class="rank">' + a.rank + '</div>' +
+  return '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
     '<div><div class="name">' + esc(a.name) + chips + '</div>' +
     '<div class="meta">' + bits.join(' &middot; ') + '</div></div>' +
     '<div class="score">' + a.score + '</div></div>';
 }).join('');
 document.getElementById('disc').innerHTML = disc.map(a =>
-  '<div class="row"><div class="rank">' + a.rank + '</div>' +
+  '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
   '<div><div class="name">' + esc(a.name) + '</div>' +
   '<div class="meta">via ' + esc(a.from) + '</div></div>' +
   '<div class="score">' + a.votes + '</div></div>'
@@ -262,7 +295,7 @@ const renderAlbums = () => {
     const why = [a.source === 'known' ? 'favourite' : 'new to me, via ' + esc(a.from)];
     if (a.hits > 0) why.push(a.hits + ' of their top tracks');
     const chip = a.new ? '<span class="chip">new</span>' : '';
-    return '<div class="row"><div class="rank">' + (i + 1) + '</div>' +
+    return '<div class="row' + clubCls(a.artist) + '"><div class="rank">' + (i + 1) + '</div>' +
       '<div><div class="name"><a href="https://open.spotify.com/album/' + a.id + '">' + esc(a.album) + '</a>' + chip + '</div>' +
       '<div class="meta">' + esc(a.artist) + ' &middot; ' + a.year + ' &middot; ' + why.join(' &middot; ') + '</div></div>' +
       '<div class="score">' + a.score + '</div></div>';
@@ -302,7 +335,7 @@ if (gigData) {
     a.rank ? esc(a.name) + ' is favourite #' + a.rank
            : esc(a.name) + ' sounds like ' + esc(a.via.join(', ')) + (a.guess ? ' <span class="chip guess">guess</span>' : '')
   ).join(' &middot; ');
-  const row = g => '<div class="row gigrow">' +
+  const row = g => '<div class="row gigrow' + clubCls(g.acts.map(a => a.name)) + '">' +
     '<a class="gigdate" href="gigs/' + g.key + '.ics">' + when(g) + '</a>' +
     '<div><div class="name">' + g.acts.map(actHtml).join(' &middot; ') +
       (g.new ? '<span class="chip">new</span>' : '') + (g.free ? '<span class="chip">free</span>' : '') + '</div>' +
@@ -319,7 +352,7 @@ if (gigData) {
     block('Further out', gigData.later, 'Nothing above the cut-off further ahead yet.') +
     '<details class="nodata"><summary>' + nd.length + ' gigs Spotify cannot place yet' +
       (gigData.pending_acts ? ' (' + gigData.pending_acts + ' acts not looked up yet)' : '') + '</summary>' +
-    '<div class="list">' + nd.map(g => '<div class="row"><div class="gigdate">' + when(g) + '</div><div>' +
+    '<div class="list">' + nd.map(g => '<div class="row' + clubCls(g.acts) + '"><div class="gigdate">' + when(g) + '</div><div>' +
       esc(g.acts.join(' · ')) + ' <span class="meta">' +
       (g.link ? '<a href="' + esc(g.link) + '">' + esc(g.venue) + '</a>' : esc(g.venue)) + '</span></div></div>').join('') +
     '</div></details>';
@@ -371,7 +404,7 @@ const sorted = () => {
   });
 };
 const rows = list => '<tbody>' + list.map(a =>
-  '<tr><td class="pin r">' + a.rank + '</td><td class="pin n" title="' + esc(a.name) + '">' + esc(a.name) + '</td>' +
+  '<tr' + (isClub(a.name) ? ' class="club"' : '') + '><td class="pin r">' + a.rank + '</td><td class="pin n" title="' + esc(a.name) + '">' + esc(a.name) + '</td>' +
   '<td class="total">' + fmt(a.score) + '</td>' +
   signals.map(s => {
     const p = a.points[s[0]] || 0;
@@ -383,9 +416,39 @@ const rows = list => '<tbody>' + list.map(a =>
   }).join('') + '</tr>').join('') + '</tbody>';
 const table = document.getElementById('brk');
 const render = () => { table.innerHTML = header() + rows(sorted()); };
+// Tapping a heading also explains it: what the signal measures, its weight in
+// weights.json, and so the most points it can add to the 100.
+const about = {
+  rank: ['Rank', 'Position in the favourites ranking, by total score.'],
+  name: ['Artist', 'Tap to sort A to Z.'],
+  score: ['Score', 'The total out of 100: the sum of the points in every signal column. Each column\'s ceiling is its weight × 100.'],
+  yearly: ['Yearly wraps', 'Tracks in every "Your Top Songs" playlist Spotify has made you, recent years counting more (half-life ' + (tuning.yearly_half_life_years || 3) + ' years). Ten years of what you actually played.'],
+  top: ['Top tracks', 'How many of your 50 current top tracks are theirs. Spotify\'s short-term window: the only signal that reflects now.'],
+  spread: ['Spread', 'How many different playlists of yours hold two or more of their tracks.'],
+  tracks: ['Tracks', 'Their tracks across your playlists, counting at most ' + (tuning.track_cap || 5) + ' per playlist, so one long Best Of cannot outvote years of listening.'],
+  favourite: ['Favourite', 'Whether they are in the favourites playlist you keep by hand. Yes or no.'],
+  followed: ['Followed', 'Whether you follow them on Spotify. Yes or no, and cheap: you follow once and forget.'],
+  dedicated: ['Best of', 'Whether more than half of some playlist of five or more tracks is theirs. Yes or no.'],
+  activity: ['Releases', 'New albums and singles in the last three years, reissues excluded. Nearly switched off.'],
+  alltime: ['All-time', 'Spotify\'s All-Time Top Songs playlist. Switched off: Spotify does not keep it current.']
+};
+const toast = document.getElementById('toast');
+let toastTimer;
+const explain = key => {
+  const [title, text] = about[key] || [key, ''];
+  const w = weights[key];
+  const weightLine = w ? 'Weight ' + (Math.round(w * 100) / 100) + ' in weights.json, so up to ' +
+    (Math.round(w * 1000) / 10) + ' of the 100 points.' : '';
+  toast.innerHTML = '<b>' + esc(title) + '</b>' + esc(text) + (weightLine ? ' ' + esc(weightLine) : '');
+  toast.classList.add('on');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.remove('on'), 6000);
+};
+toast.addEventListener('click', () => toast.classList.remove('on'));
 table.addEventListener('click', e => {
   const btn = e.target.closest('button[data-key]');
   if (!btn) return;
+  explain(btn.dataset.key);
   const col = columns.find(c => c.key === btn.dataset.key);
   sort = sort.key === col.key ? {key: col.key, asc: !sort.asc} : {key: col.key, asc: !!col.asc};
   render();
