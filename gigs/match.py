@@ -4,7 +4,10 @@
 In order:
   1. Known artists (cache/artists, the favourites ranking) by name. No call.
   2. The discovery list by name. No call.
-  3. A previous lookup in gig_acts.json younger than cache_days. No call.
+  3. A previous lookup in gig_acts.json that is still fresh. No call. A match
+     keeps for cache_days (180): an act's Spotify identity does not change. A
+     miss keeps for unmatched_cache_days (30), since a new local band may join
+     Spotify, and a namesake guess is worth re-checking now and then.
   4. Otherwise a Spotify search, accepting exact name matches only:
      - one match: taken;
      - several: each candidate's related artists are fetched and the one most
@@ -48,7 +51,17 @@ def compact(payload):
 
 def main():
     today = datetime.date.today()
-    max_age = datetime.timedelta(days=cfg["matching"].get("cache_days", 30))
+    m = cfg["matching"]
+    keep = datetime.timedelta(days=m.get("cache_days", 180))
+    keep_miss = datetime.timedelta(days=m.get("unmatched_cache_days", 30))
+    every = m.get("progress_every", 25)
+
+    def fresh(rec):
+        if not rec or not rec.get("checked"):
+            return False
+        age = today - datetime.date.fromisoformat(rec["checked"])
+        settled = rec.get("kind") == "similar" and not rec.get("guess")
+        return age < (keep if settled else keep_miss)
     budget = cfg["matching"].get("max_new_lookups", 400)
 
     known = {}
@@ -77,6 +90,11 @@ def main():
     order.sort()
 
     acts, stats = {}, {"known": 0, "discovery": 0, "cached": 0, "looked_up": 0, "pending": 0}
+    todo = sum(1 for _, _, _, k in order
+               if k not in known and k not in discovery and not fresh(previous.get(k)))
+    todo = min(todo, budget)
+    print(f"gig acts: {len(order)} this run, {todo} to look up on Spotify", file=sys.stderr, flush=True)
+    found = 0
     for _, _, _, k in order:
         name = first[k]
         if k in known:
@@ -88,8 +106,7 @@ def main():
             stats["discovery"] += 1
             continue
         prev = previous.get(k)
-        if prev and prev.get("checked") and \
-                today - datetime.date.fromisoformat(prev["checked"]) < max_age:
+        if fresh(prev):
             acts[k] = prev
             stats["cached"] += 1
             continue
@@ -107,11 +124,14 @@ def main():
             continue
         acts[k]["checked"] = today.isoformat()
         stats["looked_up"] += 1
+        found += acts[k]["kind"] == "similar"
+        if every and (stats["looked_up"] % every == 0 or stats["looked_up"] == todo):
+            print(f"gig acts: looked up {stats['looked_up']}/{todo}, {found} found on Spotify",
+                  file=sys.stderr, flush=True)
 
     # Keep month-old lookups for acts not playing this week too: they come round.
     for k, v in previous.items():
-        if k not in acts and v.get("checked") and \
-                today - datetime.date.fromisoformat(v["checked"]) < max_age:
+        if k not in acts and fresh(v):
             acts[k] = v
 
     with open(OUT, "w", encoding="utf-8") as f:

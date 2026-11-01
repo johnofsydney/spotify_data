@@ -102,7 +102,9 @@
   },
   "matching": {
     "max_new_lookups": 400,
-    "cache_days": 30
+    "cache_days": 180,
+    "unmatched_cache_days": 30,
+    "progress_every": 25
   },
   "playlist": {
     "name": "Gig Scouting",

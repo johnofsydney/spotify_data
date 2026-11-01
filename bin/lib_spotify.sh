@@ -39,22 +39,25 @@ sp() {
 
 # sync_playlist NAME DESCRIPTION PUBLIC(0|1) < track ids, one per line, in order
 #
-# Makes my playlist called NAME hold exactly those tracks in that order,
-# creating it if missing. Found by name among my own playlists, so no id is
-# stored. Needs SPOTIFY_USER_ID.
+# Makes my playlist called NAME hold exactly those tracks, creating it if
+# missing. Found by name among my own playlists, so no id is stored. Needs
+# SPOTIFY_USER_ID.
 #
-# The CLI can only add or remove one track per call, and an add always appends.
-# So the playlist is kept in order by clearing and refilling it, except when
-# what is there is the start of what should be: a run cut short (by a rate
-# limit, say) left a correct but partial playlist, and only the rest is added.
+# The CLI adds or removes one track per call, and an add always appends, so
+# the playlist is updated rather than rebuilt: tracks no longer wanted are
+# removed, new ones are added at the end, and the rest stay put. A weekly
+# change is a few dozen calls instead of a few hundred. The cost is order: a
+# fresh playlist is in ranked order, and after that newcomers join at the end.
+# SPOTIFY_PROGRESS_EVERY (default 25) sets how often progress is printed.
 sync_playlist() {
   local name="$1" description="$2" public="${3:-0}"
-  local desired pid current current_n todo verb removed added track
+  local desired pid current drop add n_drop n_add done every track
   desired=$(cat)
   if [ -z "$desired" ]; then
     echo "playlist: no tracks for '$name', leaving it alone" >&2
     return 1
   fi
+  every="${SPOTIFY_PROGRESS_EVERY:-25}"
 
   _find_playlist() {
     sp get key user-playlists |
@@ -75,32 +78,39 @@ sync_playlist() {
   fi
 
   current=$(sp get item -i "$pid" playlist | jq -r '.tracks[].id')
-  if [ "$current" = "$desired" ]; then
+  # Set differences, keeping the desired order for what is added.
+  # (An empty pattern list would match everything, so an empty playlist is
+  # handled on its own.)
+  if [ -z "$current" ]; then
+    drop=""
+    add="$desired"
+  else
+    drop=$(grep -vxF -f <(printf '%s\n' "$desired") <<< "$current" | sort -u || true)
+    add=$(grep -vxF -f <(printf '%s\n' "$current") <<< "$desired" || true)
+  fi
+  n_drop=$(grep -c . <<< "$drop" || true)
+  n_add=$(grep -c . <<< "$add" || true)
+  if [ "$n_drop" -eq 0 ] && [ "$n_add" -eq 0 ]; then
     echo "playlist: '$name' unchanged, $(grep -c . <<< "$desired") tracks"
     return 0
   fi
+  echo "playlist: '$name' updating, $n_drop to remove, $n_add to add"
 
-  removed=0
-  current_n=$(grep -c . <<< "$current" || true)
-  if [ "$current_n" -gt 0 ] && [ "$current" = "$(head -n "$current_n" <<< "$desired")" ]; then
-    todo=$(tail -n +"$((current_n + 1))" <<< "$desired")
-    verb="topped up"
-  else
-    while read -r track; do
-      [ -n "$track" ] || continue
-      sp playlist edit delete "$pid" --track-id "$track" >/dev/null
-      removed=$((removed + 1))
-    done < <(sort -u <<< "$current")
-    todo="$desired"
-    verb="rebuilt"
-  fi
+  done=0
+  while read -r track; do
+    [ -n "$track" ] || continue
+    sp playlist edit delete "$pid" --track-id "$track" >/dev/null
+    done=$((done + 1))
+    [ $((done % every)) -eq 0 ] && echo "playlist: '$name' removed $done/$n_drop"
+  done <<< "$drop"
 
-  added=0
+  done=0
   while read -r track; do
     [ -n "$track" ] || continue
     sp playlist edit add "$pid" --track-id "$track" >/dev/null
-    added=$((added + 1))
-  done <<< "$todo"
+    done=$((done + 1))
+    [ $((done % every)) -eq 0 ] && echo "playlist: '$name' added $done/$n_add"
+  done <<< "$add"
 
-  echo "playlist: '$name' $verb, $removed removed, $added added"
+  echo "playlist: '$name' updated, $n_drop removed, $n_add added"
 }
