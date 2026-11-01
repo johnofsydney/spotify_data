@@ -19,6 +19,11 @@ brk=$(jq -c --argjson n "$top_n" '[.artists[0:$n][] |
   {rank, score, name, points, yearly, years: .yearly_years, top, spread, tracks,
    followed, dedicated, favourite, activity}]' "$root/favourite_artists.json")
 tuning=$(jq -c '.config.tuning // {}' "$root/favourite_artists.json")
+# One-line stories from bin/artist_stories.py, for the breakdown's last column.
+stories=$( [ -f "$root/artist_stories.json" ] &&
+  jq -c --slurpfile f "$root/favourite_artists.json" --argjson n "$top_n" \
+    '. as $s | [$f[0].artists[0:$n][].name] | map({key: ., value: $s[.]}) | map(select(.value)) | from_entries' \
+    "$root/artist_stories.json" || echo '{}')
 weights=$(jq -c '.config.weights | ([.[]] | add) as $s | map_values(if $s > 1.5 then . / 100 else . end)' "$root/favourite_artists.json")
 
 disc=$(jq -c --argjson n "$disc_n" '[.[0:$n][] |
@@ -158,6 +163,9 @@ table.brk { border-collapse: collapse; font-size: 12px; line-height: 1.25; width
 .brk .pin.r { left: 0; width: 30px; min-width: 30px; color: var(--muted); }
 .brk .pin.n { left: 30px; max-width: 150px; overflow: hidden; text-overflow: ellipsis; font-weight: 550; box-shadow: inset -1px 0 0 var(--line); }
 .brk thead th.pin { z-index: 3; }
+.brk td.story { white-space: normal; text-align: left; min-width: 240px; max-width: 320px; color: var(--fg); font-size: 12px; line-height: 1.4; }
+.brk th.storyh { text-align: left; }
+.brk td.story .arch { display: block; font-size: 10px; text-transform: uppercase; letter-spacing: .05em; color: var(--accent); font-weight: 600; margin-bottom: 2px; }
 .brk thead th.pin.n { box-shadow: inset -1px 0 0 var(--line), inset 0 -1px 0 var(--line); }
 .brk td.total { color: var(--accent); font-weight: 650; }
 .brk td b { font-weight: 600; display: block; }
@@ -231,6 +239,7 @@ const albumPer = $per_artist, albumCount = $album_count, albumStamp = '$generate
 const brk = $brk;
 const weights = $weights;
 const tuning = $tuning;
+const stories = $stories;
 const clubNorm = s => String(s).toLowerCase().replace(/\s*[\(\[][^\)\]]*[\)\]]/g, '')
   .normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/&/g, ' and ')
   .replace(/[^a-z0-9]+/g, ' ').trim().replace(/^the /, '');
@@ -381,7 +390,8 @@ const columns = [
   {key: 'name', label: 'Artist', cls: 'pin n', value: a => a.name.toLowerCase(), asc: true},
   {key: 'score', label: 'Score', max: '/100', value: a => a.score}
 ].concat(signals.map(s => ({key: s[0], label: s[1],
-  max: '/' + String(Math.round(weights[s[0]] * 1000) / 10), value: a => a.points[s[0]] || 0})));
+  max: '/' + String(Math.round(weights[s[0]] * 1000) / 10), value: a => a.points[s[0]] || 0})))
+ .concat([{key: 'story', label: 'Story', cls: 'storyh', value: a => (stories[a.name] || {}).archetype || '~', asc: true}]);
 let sort = {key: 'rank', asc: true};
 const header = () => '<thead><tr>' + columns.map(c => {
   const on = sort.key === c.key;
@@ -413,7 +423,9 @@ const rows = list => '<tbody>' + list.map(a =>
     const share = Math.min(1, p / (weights[s[0]] * 100));
     const bg = p > 0 ? ' style="background: color-mix(in srgb, var(--accent) ' + Math.round(share * 22) + '%, transparent)"' : '';
     return '<td' + (p > 0 ? '' : ' class="zero"') + bg + '><b>' + fmt(p) + '</b><span class="raw">' + esc(s[2](a)) + '</span></td>';
-  }).join('') + '</tr>').join('') + '</tbody>';
+  }).join('') +
+  '<td class="story">' + (stories[a.name] ? '<span class="arch">' + esc(stories[a.name].label || stories[a.name].archetype) + '</span>' +
+    esc(stories[a.name].story) : '') + '</td></tr>').join('') + '</tbody>';
 const table = document.getElementById('brk');
 const render = () => { table.innerHTML = header() + rows(sorted()); };
 // Tapping a heading also explains it: what the signal measures, its weight in
@@ -430,6 +442,7 @@ const about = {
   followed: ['Followed', 'Whether you follow them on Spotify. Yes or no, and cheap: you follow once and forget.'],
   dedicated: ['Best of', 'Whether more than half of some playlist of five or more tracks is theirs. Yes or no.'],
   activity: ['Releases', 'New albums and singles in the last three years, reissues excluded. Nearly switched off.'],
+  story: ['Story', 'Why they sit where they do, worked out from your data alone by bin/artist_stories.py: the same data always gives the same story. Tap to group by kind of story.'],
   alltime: ['All-time', 'Spotify\'s All-Time Top Songs playlist. Switched off: Spotify does not keep it current.']
 };
 const toast = document.getElementById('toast');
