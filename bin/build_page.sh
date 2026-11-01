@@ -97,6 +97,8 @@ h2:first-of-type { margin-top: 36px; }
   align-items: baseline; padding: 11px 4px; border-bottom: 1px solid var(--line);
 }
 .row:hover { background: var(--card); }
+.note.todo { margin-top: 14px; color: var(--fg); }
+.note.todo .rank { color: var(--muted); font-size: 12px; }
 /* Rows with an artist from the album club playlist, in every table. */
 :root { --club: #f5ecd9; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --club: #2e2719; } }
@@ -192,6 +194,7 @@ footer { margin-top: 56px; color: var(--muted); font-size: 13px; border-top: 1px
 tracks, playlist breadth and depth, a hand-kept favourites playlist, dedicated
 playlists, follows and recent releases. Updated weekly.</p>
 <div class="list" id="favs"></div>
+<p class="note todo" id="unfollowed" hidden></p>
 
 <h2>Worth investigating</h2>
 <p class="note">Artists absent from my library, ranked by which of my favourites
@@ -266,6 +269,16 @@ document.getElementById('favs').innerHTML = favs.map(a => {
     '<div class="meta">' + bits.join(' &middot; ') + '</div></div>' +
     '<div class="score">' + a.score + '</div></div>';
 }).join('');
+// Following is not scored (it docks whoever I have not got round to yet), so
+// the gap becomes a to-do instead: favourites on the page I do not follow.
+const unfollowed = favs.filter(a => a.fol !== 'y');
+if (unfollowed.length) {
+  const el = document.getElementById('unfollowed');
+  el.hidden = false;
+  el.innerHTML = '<b>Not followed yet (' + unfollowed.length + '):</b> ' +
+    unfollowed.map(a => esc(a.name) + ' <span class="rank">#' + a.rank + '</span>').join(', ') +
+    '. Follow them in Spotify and they drop off this list.';
+}
 document.getElementById('disc').innerHTML = disc.map(a =>
   '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
   '<div><div class="name">' + esc(a.name) + '</div>' +

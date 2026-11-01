@@ -187,7 +187,7 @@ def story(a, wraps, latest, n_wraps, runs, move):
         extra = "Releasing a lot lately."
     # Most stories open "Label: …". The label is shown on its own above the
     # story, so it moves out of the text; the archetype stays as a stable key.
-    label = archetype
+    label = archetype.capitalize()
     if ": " in text.split(".")[0]:
         label, text = text.split(": ", 1)
         text = text[0].upper() + text[1:]
