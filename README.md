@@ -531,9 +531,12 @@ built one track per call, so a rebuild is about a hundred calls in a row. The
 first run on 1 November 2026 was refused partway with 429 Too Many Requests.
 Calls now go through `sp()` in `bin/lib_spotify.sh`, which waits
 `SPOTIFY_PACE` (0.5s) between calls and, on a 429, retries after 5, 10, 20… up
-to 160 seconds. A rebuild takes a couple of minutes longer and finishes. If a
-run is still cut short, the next one sees a correct but partial playlist and
-adds only what is missing instead of starting again.
+to 160 seconds, so a slow run still finishes. Playlists are updated, not rebuilt: tracks
+that dropped off are removed and new ones are added at the end, so a weekly
+change is a few dozen calls rather than a few hundred. A new playlist starts in
+ranked order; after that, newcomers join at the end. A run cut short simply
+leaves the rest for next time. Progress prints every `SPOTIFY_PROGRESS_EVERY`
+(25) tracks.
 
 ### Does it work?
 
@@ -638,10 +641,12 @@ headliner on the same date in two sources is one gig.
 matched by name. Anyone else is searched on Spotify and accepted on an exact
 name match; several matches means a best guess (the one whose related artists
 overlap most with my favourites), marked as a guess. Each lookup is kept in
-`gig_acts.json` for `cache_days` (30), unmatched ones included. New lookups are
-capped at `max_new_lookups` (400) a run, soonest gigs and headliners first, so
-the first few weeks fill in gradually; set it higher in `gigs.json` for one run
-to catch up faster. Calls are paced and retried like the playlists'.
+`gig_acts.json`: a match for `cache_days` (180), since an act's Spotify identity
+does not change, and a miss or a guess for `unmatched_cache_days` (30), since a
+new local band may join Spotify. New lookups are capped at `max_new_lookups`
+(400) a run, soonest gigs and headliners first, so the first few weeks fill in
+gradually; set it higher in `gigs.json` for one run to catch up faster. It
+prints its progress every `progress_every` (25) lookups. Calls are paced and retried like the playlists'.
 
 **Scoring** (`gigs/score.py`), on the favourites' 0-100 scale:
 
