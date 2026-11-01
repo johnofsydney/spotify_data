@@ -11,3 +11,7 @@ cache/discover/
 *.tmp
 .DS_Store
 .refresh.log
+
+# Raw source pages, kept locally for re-parsing; large and refetched weekly.
+cache/gigs/raw/
+__pycache__/

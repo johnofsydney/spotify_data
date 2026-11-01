@@ -168,6 +168,11 @@ the following week to carry rather than aborting the run.
 | `bin/backtest_discovery.sh` | stdout | Scores that ranking against artists I actually went on to keep. Offline. |
 | `bin/fetch_discover.sh` | `cache/discover/` | Full artist payloads for the head of the discovery list. Gitignored, a month's TTL. |
 | `bin/album_recs.sh` | `album_recs.md` | Twenty albums to hear in full, plus `album_pool.json` for the page. Offline. Settings in `albums.json`. |
+| `bin/fetch_gigs.sh` | `gig_listings.json` | Every enabled gig source, merged and filtered to the inner city. Settings in `gigs.json`. |
+| `gigs/match.py` | `gig_acts.json` | Gig acts matched to Spotify artists. Network, capped per run. |
+| `gigs/score.py` | `gig_recs.md` | Gigs scored against the favourites. Offline. |
+| `gigs/calendar.py` | `docs/gigs/*.ics` | A calendar file per recommended gig. |
+| `bin/gig_playlist.sh` | Spotify playlist | Rebuilds "Gig Scouting" from the coming-up gigs. |
 | `bin/record_history.sh` | `history/rankings.csv` | Appends the week's top 50 to the time series. Offline. |
 | `bin/build_page.sh` | `docs/index.html` | A readable page of the favourites, discoveries and a per-signal score breakdown. Offline, self-contained. |
 | `bin/discover_playlist.sh` | Spotify playlist | Rebuilds "Worth Investigating" from the page's discovery list. Writes to Spotify, not to this repository. |
@@ -558,6 +563,68 @@ weekly rotation.
 
 Discovery artists need `cache/discover/`, which `fetch_discover.sh` fills in the
 weekly run. Without it the list still builds, from favourites only.
+
+## Gigs
+
+Recommended gigs in the inner west, eastern suburbs and the city, on the page
+and in `gig_recs.md`. The design and the reasoning behind it are in
+[planning/gigs.md](planning/gigs.md); what is still open is in
+[planning/open_questions.md](planning/open_questions.md).
+
+**Sources are adapters.** Each is a Python script in `gigs/sources/` (standard
+library only) that prints gigs in the shape `gigs/lib/gigshape.py` defines.
+`gigs.json` enables them and holds their settings; keys live in `.env`.
+Nothing after `fetch_gigs.sh` knows which source a gig came from.
+
+- **SydneyMusic.net**, scraped: `/gig-guide` is one server-rendered page of
+  about two months, so a run is one request. `"mode": "api"` is the slot for
+  their licensed API; write `from_api()` and flip the mode. The raw page is kept
+  in `cache/gigs/raw/` (gitignored) so the parser can be re-run against it with
+  `"html_file"`.
+- **Ticketmaster**, Discovery API: music within `radius_km` of the inner city
+  for `months` ahead, a month per query. Needs `TICKETMASTER_API_KEY` (the app's
+  Consumer Key). Catches big tours months before SydneyMusic lists them.
+- **Adding one**: a new `gigs/sources/<name>.py` and a block in `gigs.json`.
+
+If a source fails, or returns under `min_keep_ratio` of last run's gigs (a
+layout change, most likely), its previous gigs are kept and the run says so.
+
+**Filtering.** Past gigs, suburbs not in `area.suburbs`, venues in
+`exclude/gig_venues.txt`, and tribute or covers shows (`skip_titles`). The same
+headliner on the same date in two sources is one gig.
+
+**Matching** (`gigs/match.py`). Known artists and the discovery list are
+matched by name. Anyone else is searched on Spotify and accepted on an exact
+name match; several matches means a best guess (the one whose related artists
+overlap most with my favourites), marked as a guess. Each lookup is kept in
+`gig_acts.json` for `cache_days` (30), unmatched ones included. New lookups are
+capped at `max_new_lookups` (400) a run, soonest gigs and headliners first, so
+the first few weeks fill in gradually; set it higher in `gigs.json` for one run
+to catch up faster. Calls are paced and retried like the playlists'.
+
+**Scoring** (`gigs/score.py`), on the favourites' 0-100 scale:
+
+- a favourite scores their favourite score;
+- a discovery-list artist their discovery score, scaled so the top one is 40;
+- anyone else by which favourites they are related to, either way round, the
+  discovery method applied to a stranger, also capped at 40;
+- guessed matches × 0.7; an act scores the same headlining or supporting;
+- a gig is its best act + 0.3 × the next three. Only three, or a 30-act
+  festival outscores a favourite's own show on volume alone.
+
+Acts that cannot be placed (not on Spotify, no related artists, or not looked
+up yet) are "no data", not zero.
+
+**The page** shows New announcements (a top-100 favourite's gig not seen last
+run, however far ahead; `history/gig_alerts_seen.json` remembers), Coming up
+(next 8 weeks, at least `min_gig_score`, best first), Further out (by date),
+and a collapsed list of no-data gigs. Tapping a gig's date downloads its
+`.ics`; on an iPhone that opens the add-to-calendar sheet. Events last three
+hours, since neither source gives an end time.
+
+**Gig Scouting** is a playlist of two tracks from each scored act in New and
+Coming up, at most 100 tracks, rebuilt each run like Worth Investigating and
+skipped by the playlist export for the same reason.
 
 ## Data in here
 

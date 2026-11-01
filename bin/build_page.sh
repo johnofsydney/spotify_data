@@ -24,6 +24,18 @@ disc=$(jq -c --argjson n "$disc_n" '[.[0:$n][] |
   {rank, score, votes, name, from: (.from | join(", "))}]' "$root/discover_artists.json")
 
 albums=$( [ -f "$root/album_pool.json" ] && jq -c '[.[] | {k: .key, a: .artist_id, artist, album, id, year, source, hits, new, score, from: (.from | join(", "))}]' "$root/album_pool.json" || echo '[]')
+# Gigs: the scored sections in full, the no-data list trimmed to what the
+# collapsed list shows. Absent until the first gig run.
+gigs=$( [ -f "$root/gig_recs.json" ] && jq -c '
+  def slim: {key, date, time, venue, suburb, free, score, new,
+             link: ([.links[]?.url | select(.)] | first),
+             acts: [.acts[] | {name, kind, score, rank, via, guess, billing}]};
+  {generated, pending_acts, listed,
+   new: [.new[] | slim], coming: [.coming[] | slim], later: [.later[] | slim],
+   nodata: [.nodata[] | {key, date, time, venue, free,
+                         link: ([.links[]?.url | select(.)] | first),
+                         acts: [.acts[].name]}]}' "$root/gig_recs.json" || echo 'null')
+
 per_artist=$(jq -r '.per_artist // 1' "$root/albums.json" 2>/dev/null || echo 1)
 album_count=$(jq -r '.count // 20' "$root/albums.json" 2>/dev/null || echo 20)
 
@@ -87,6 +99,18 @@ h2:first-of-type { margin-top: 36px; }
   font-variant-numeric: tabular-nums; color: var(--accent);
   font-size: 14px; font-weight: 600;
 }
+.gigs h3 { font-size: 15px; margin: 26px 0 8px; color: var(--muted); font-weight: 600;
+  text-transform: uppercase; letter-spacing: .04em; }
+.gigrow { grid-template-columns: 70px 1fr auto; }
+.gigdate { font-size: 13px; color: var(--accent); text-decoration: none; line-height: 1.25;
+  font-variant-numeric: tabular-nums; }
+.gigdate b { display: block; font-size: 15px; color: var(--fg); }
+.gigs .meta a, details.nodata a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--line); }
+.act-fav { font-weight: 650; }
+.act-dim { color: var(--muted); font-weight: 400; }
+details.nodata summary { cursor: pointer; color: var(--accent); font-size: 14px; margin: 18px 0 8px; }
+details.nodata .row { grid-template-columns: 70px 1fr; padding: 7px 4px; font-size: 14px; }
+.chip.guess { font-style: italic; }
 .chip {
   display: inline-block; background: var(--chip); color: var(--muted);
   border-radius: 10px; padding: 1px 7px; font-size: 11px; margin-left: 6px;
@@ -142,6 +166,16 @@ playlists, follows and recent releases. Updated weekly.</p>
 Spotify says they resemble &mdash; a nod from a higher-ranked artist counts for
 more. Household names I simply have not saved can still slip through.</p>
 <div class="list" id="disc"></div>
+
+<section id="gigsection" hidden>
+<h2>Gigs</h2>
+<p class="note">Inner west, eastern suburbs and the city, from SydneyMusic.net and
+Ticketmaster. Each act scores on the favourites' scale: a favourite at their own
+score, anyone else by which favourites Spotify says they resemble (up to 40).
+A gig is its best act plus 0.3 of the next three. Tap the date to add it to your
+calendar.</p>
+<div id="gigs"></div>
+</section>
 
 <h2>Albums to hear in full</h2>
 <p class="note">From favourites and from the discovery list, ranked by how much I
@@ -241,12 +275,55 @@ const renderAlbums = () => {
 document.getElementById('albumsNext').addEventListener('click', () => {
   skipped = skipped.concat(shown.map(a => a.k));
   saveSkips(skipped); renderAlbums();
+
   document.getElementById('albums').scrollIntoView({block: 'start'});
 });
 document.getElementById('albumsReset').addEventListener('click', () => {
   skipped = []; saveSkips(skipped); renderAlbums();
 });
 renderAlbums();
+
+const gigData = $gigs;
+if (gigData) {
+  document.getElementById('gigsection').hidden = false;
+  const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  const when = g => {
+    const d = new Date(g.date + 'T12:00:00');
+    const [h, m] = g.time.split(':').map(Number);
+    const t = (h % 12 || 12) + (m ? ':' + String(m).padStart(2, '0') : '') + (h < 12 ? 'am' : 'pm');
+    return '<b>' + days[d.getDay()] + ' ' + d.getDate() + '</b>' + months[d.getMonth()] + '<br>' + t;
+  };
+  const actHtml = a => {
+    const cls = a.kind === 'known' ? 'act-fav' : (a.score >= 5 ? '' : 'act-dim');
+    return '<span class="' + cls + '">' + esc(a.name) + '</span>';
+  };
+  const whyHtml = g => g.acts.filter(a => a.score >= 1 && (a.rank || (a.via && a.via.length))).slice(0, 3).map(a =>
+    a.rank ? esc(a.name) + ' is favourite #' + a.rank
+           : esc(a.name) + ' sounds like ' + esc(a.via.join(', ')) + (a.guess ? ' <span class="chip guess">guess</span>' : '')
+  ).join(' &middot; ');
+  const row = g => '<div class="row gigrow">' +
+    '<a class="gigdate" href="gigs/' + g.key + '.ics">' + when(g) + '</a>' +
+    '<div><div class="name">' + g.acts.map(actHtml).join(' &middot; ') +
+      (g.new ? '<span class="chip">new</span>' : '') + (g.free ? '<span class="chip">free</span>' : '') + '</div>' +
+    '<div class="meta">' + (g.link ? '<a href="' + esc(g.link) + '">' + esc(g.venue) + '</a>' : esc(g.venue)) +
+      (g.suburb ? ', ' + esc(g.suburb) : '') + (whyHtml(g) ? ' &middot; ' + whyHtml(g) : '') + '</div></div>' +
+    '<div class="score">' + g.score + '</div></div>';
+  const block = (title, list, empty) => '<h3>' + title + '</h3>' +
+    (list.length ? '<div class="list">' + list.map(row).join('') + '</div>' : '<p class="note">' + empty + '</p>');
+  const nd = gigData.nodata;
+  document.getElementById('gigs').className = 'gigs';
+  document.getElementById('gigs').innerHTML =
+    block('New announcements', gigData.new, 'Nothing new from your top 100 since last week.') +
+    block('Coming up', gigData.coming, 'Nothing above the cut-off in the next eight weeks.') +
+    block('Further out', gigData.later, 'Nothing above the cut-off further ahead yet.') +
+    '<details class="nodata"><summary>' + nd.length + ' gigs Spotify cannot place yet' +
+      (gigData.pending_acts ? ' (' + gigData.pending_acts + ' acts not looked up yet)' : '') + '</summary>' +
+    '<div class="list">' + nd.map(g => '<div class="row"><div class="gigdate">' + when(g) + '</div><div>' +
+      esc(g.acts.join(' · ')) + ' <span class="meta">' +
+      (g.link ? '<a href="' + esc(g.link) + '">' + esc(g.venue) + '</a>' : esc(g.venue)) + '</span></div></div>').join('') +
+    '</div></details>';
+}
 // One column per signal that carries weight, heaviest first, so the table
 // follows weights.json without editing: a signal set to zero drops out.
 const flag = v => v ? 'yes' : 'no';
