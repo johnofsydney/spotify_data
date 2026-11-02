@@ -11,6 +11,8 @@ echo "=== refresh $(date '+%F %T') ==="
 ./bin/followed_artists.sh
 ./bin/liked_tracks_artists.sh
 ./bin/top_tracks_artists.sh
+# Straight after a spotify_player call, so its cached token is fresh to borrow.
+python3 bin/top_artists.py
 ./bin/alltime_artists.sh
 ./bin/yearly_artists.sh
 ./bin/playlist_artists.sh

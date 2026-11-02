@@ -8,7 +8,8 @@
     "followed": 0.00,
     "dedicated": 0.04,
     "activity": 0.03,
-    "alltime": 0.00
+    "alltime": 0.00,
+    "artists": 0.00
   },
   "tuning": {
     "yearly_half_life_years": 3,

@@ -17,7 +17,7 @@ favs=$(jq -c --argjson n "$top_n" '[.artists[0:$n][] |
 # recomputing them, so the page cannot disagree with the ranking.
 brk=$(jq -c --argjson n "$top_n" '[.artists[0:$n][] |
   {rank, score, name, points, yearly, years: .yearly_years, top, spread, tracks,
-   followed, dedicated, favourite, activity}]' "$root/favourite_artists.json")
+   followed, dedicated, favourite, activity, top_artists}]' "$root/favourite_artists.json")
 tuning=$(jq -c '.config.tuning // {}' "$root/favourite_artists.json")
 # One-line stories from bin/artist_stories.py, for the breakdown's last column.
 stories=$( [ -f "$root/artist_stories.json" ] &&
@@ -414,6 +414,7 @@ const signals = [
   ['followed', 'Followed', a => flag(a.followed)],
   ['dedicated', 'Best of', a => flag(a.dedicated)],
   ['activity', 'Releases', a => a.activity.toFixed(2)],
+  ['artists', 'Top artists', a => a.top_artists ? a.top_artists.toFixed(2) : '0'],
   ['alltime', 'All-time', a => '']
 ].filter(s => (weights[s[0]] || 0) > 0)
  .sort((x, y) => weights[y[0]] - weights[x[0]]);
@@ -471,13 +472,14 @@ const about = {
   name: ['Artist', 'Tap to sort A to Z.'],
   score: ['Score', 'The total out of 100: the sum of the points in every signal column. Each column\'s ceiling is its weight × 100.'],
   yearly: ['Yearly wraps', 'Tracks in every "Your Top Songs" playlist Spotify has made you, recent years counting more (half-life ' + (tuning.yearly_half_life_years || 3) + ' years). Ten years of what you actually played.'],
-  top: ['Top tracks', 'How many of your 50 current top tracks are theirs. Spotify\'s short-term window: the only signal that reflects now.'],
+  top: ['Top tracks', 'How many of your 50 top tracks are theirs, in Spotify\'s default window of about six months.'],
   spread: ['Spread', 'How many different playlists of yours hold two or more of their tracks.'],
   tracks: ['Tracks', 'Their tracks across your playlists, counting at most ' + (tuning.track_cap || 5) + ' per playlist, so one long Best Of cannot outvote years of listening.'],
   favourite: ['Favourite', 'Whether they are in the favourites playlist you keep by hand. Yes or no.'],
   followed: ['Followed', 'Whether you follow them on Spotify. Yes or no, and cheap: you follow once and forget.'],
   dedicated: ['Best of', 'Whether more than half of some playlist of five or more tracks is theirs. Yes or no.'],
   activity: ['Releases', 'New albums and singles in the last three years, reissues excluded. Nearly switched off.'],
+  artists: ['Top artists', 'Spotify\'s own top artists for you, across the last four weeks, six months and year-plus (weighted 0.5, 0.3, 0.2). Artist-level, so a whole-catalogue listen or a few very long tracks count, which the track-based signals miss.'],
   story: ['Story', 'Why they sit where they do, worked out from your data alone by bin/artist_stories.py: the same data always gives the same story. Tap to group by kind of story.'],
   alltime: ['All-time', 'Spotify\'s All-Time Top Songs playlist. Switched off: Spotify does not keep it current.']
 };
