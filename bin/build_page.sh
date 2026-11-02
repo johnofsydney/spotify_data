@@ -59,6 +59,26 @@ artist_ids=$( { jq -s '[.[] | .artist | select(.id) | {key: .name, value: .id}]'
   jq '[.[] | select(.id) | {key: .name, value: .id}]' "$root/discover_artists.json"; } |
   jq -s -c 'add | from_entries')
 
+# Weekly positions from history/rankings.csv: every run date, the weights stamp
+# each was scored with, and each artist's rank per date (null when outside the
+# top 50 that week). Feeds the trend on each favourites row and the chart.
+history=$(python3 - "$root/history/rankings.csv" <<'PY'
+import csv, json, sys, os
+path = sys.argv[1]
+if not os.path.exists(path):
+    print('{"dates":[],"weights":[],"ranks":{}}'); sys.exit()
+rows = list(csv.DictReader(open(path, encoding="utf-8")))
+dates = sorted({r["date"] for r in rows})
+idx = {d: i for i, d in enumerate(dates)}
+weights = {r["date"]: r.get("weights", "") for r in rows}
+ranks = {}
+for r in rows:
+    ranks.setdefault(r["artist"], [None] * len(dates))[idx[r["date"]]] = int(r["rank"])
+print(json.dumps({"dates": dates, "weights": [weights[d] for d in dates], "ranks": ranks},
+                 separators=(",", ":"), ensure_ascii=False))
+PY
+)
+
 generated=$(date '+%-d %B %Y')
 snapshots=$(awk -F',' 'NR>1 {print $1}' "$root/history/rankings.csv" 2>/dev/null | sort -u | wc -l | tr -d ' ')
 
@@ -104,6 +124,26 @@ h2:first-of-type { margin-top: 36px; }
   align-items: baseline; padding: 11px 4px; border-bottom: 1px solid var(--line);
 }
 .row:hover { background: var(--card); }
+h3.subhead { font-size: 15px; margin: 28px 0 6px; }
+.trend { display: flex; align-items: center; justify-content: flex-end; gap: 4px; margin-top: 3px;
+  font-size: 11px; color: var(--muted); font-weight: 500; font-variant-numeric: tabular-nums; }
+.trend svg { display: block; overflow: visible; }
+.trend .up { color: var(--accent); }
+.bump { position: relative; }
+.bump svg { display: block; overflow: visible; font: 11px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+.bump .grid { stroke: var(--line); stroke-width: 1; }
+.bump .axis { fill: var(--muted); }
+.bump .halo { paint-order: stroke; stroke: var(--bg); stroke-width: 4px; stroke-linejoin: round; }
+.bump .wchange { stroke: var(--muted); stroke-dasharray: 3 3; stroke-width: 1; }
+.bump .ln { fill: none; stroke: var(--muted); stroke-opacity: .45; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.bump .pt { fill: var(--muted); fill-opacity: .55; stroke: var(--bg); stroke-width: 2; cursor: pointer; }
+.bump .lbl { fill: var(--muted); cursor: pointer; }
+.bump .hit { fill: none; stroke: transparent; stroke-width: 14; cursor: pointer; pointer-events: stroke; }
+.bump .on .ln { stroke: var(--accent); stroke-opacity: 1; stroke-width: 2.5; }
+.bump .on .pt { fill: var(--accent); fill-opacity: 1; }
+.bump .on .lbl { fill: var(--fg); font-weight: 650; }
+.bump .tip { position: absolute; pointer-events: none; background: var(--fg); color: var(--bg);
+  font-size: 12px; padding: 4px 8px; border-radius: 6px; white-space: nowrap; transform: translate(-50%, -130%); }
 a.artist { color: inherit; text-decoration: none; }
 a.artist:hover { text-decoration: underline; text-decoration-color: var(--accent); }
 .meta a.artist { border-bottom: 1px dotted var(--line); }
@@ -204,6 +244,13 @@ footer { margin-top: 56px; color: var(--muted); font-size: 13px; border-top: 1px
 tracks, playlist breadth and depth, a hand-kept favourites playlist, dedicated
 playlists, follows and recent releases. Updated weekly.</p>
 <div class="list" id="favs"></div>
+<div id="bumpwrap" hidden>
+<h3 class="subhead">The top 15 over time</h3>
+<p class="note">Weekly position of today's top 15. Tap a name or a line to follow
+one artist; a dashed line marks a change of weights, where positions jump for
+reasons that are not listening. Below the floor means outside the top 50.</p>
+<div id="bump" class="bump"></div>
+</div>
 <p class="note todo" id="unfollowed" hidden></p>
 
 <h2>Worth investigating</h2>
@@ -261,6 +308,29 @@ const isClub = name => clubSet.has(clubNorm(name));
 const clubCls = names => [].concat(names).some(isClub) ? ' club' : '';
 if (clubSet.size) document.getElementById('clubkey').hidden = false;
 const artistIds = $artist_ids;
+const hist = $history;
+// A small line of an artist's weekly rank (1 at the top), the last point
+// marked, and the move since the previous run.
+const trendHtml = name => {
+  const r = hist.ranks[name];
+  if (!r || hist.dates.length < 2) return '';
+  const pts = r.slice(-12), n = pts.length, W = 54, H = 16;
+  const x = i => n === 1 ? W : i * W / (n - 1);
+  const y = v => (v === null ? 51 : v - 1) / 50 * H;
+  let d = '', pen = false;
+  pts.forEach((v, i) => { if (v === null) { pen = false; return; }
+    d += (pen ? 'L' : 'M') + x(i).toFixed(1) + ' ' + y(v).toFixed(1); pen = true; });
+  const last = pts[n - 1], prev = pts[n - 2];
+  let mv = '';
+  if (last !== null && prev === null) mv = '<span class="up">new</span>';
+  else if (last !== null && prev !== null && prev !== last)
+    mv = prev > last ? '<span class="up">↑' + (prev - last) + '</span>' : '↓' + (last - prev);
+  return '<div class="trend" title="Weekly position, last ' + n + ' runs">' +
+    '<svg width="' + W + '" height="' + H + '" viewBox="0 0 ' + W + ' ' + H + '" aria-hidden="true">' +
+    '<path d="' + d + '" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" opacity=".7"/>' +
+    (last !== null ? '<circle cx="' + x(n - 1) + '" cy="' + y(last) + '" r="2.2" fill="var(--accent)"/>' : '') +
+    '</svg>' + mv + '</div>';
+};
 // Names link straight into the Spotify app (spotify: URIs open the desktop app,
 // and on a phone the app, after the browser asks), not the web player.
 // An act without a known id (a gig act not looked up yet, or not matched)
@@ -290,8 +360,106 @@ document.getElementById('favs').innerHTML = favs.map(a => {
   return '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
     '<div><div class="name">' + artistLink(a.name) + chips + '</div>' +
     '<div class="meta">' + bits.join(' &middot; ') + '</div></div>' +
-    '<div class="score">' + a.score + '</div></div>';
+    '<div class="score">' + a.score + trendHtml(a.name) + '</div></div>';
 }).join('');
+// The top 15 over time: every line muted, one highlighted at a time (no
+// palette of fifteen hues). x is real time, so gaps between runs show as gaps.
+(() => {
+  if (hist.dates.length < 2) return;
+  const top = favs.slice(0, 15).map(a => a.name).filter(n => hist.ranks[n]);
+  if (!top.length) return;
+  document.getElementById('bumpwrap').hidden = false;
+  const box = document.getElementById('bump');
+  let picked = null;
+  // Drawn at the box's real width, so text stays 11px on a phone and on a
+  // desktop alike; redrawn when the width changes.
+  const draw = () => {
+  const W = Math.max(320, Math.round(box.clientWidth || 640));
+  const narrow = W < 520;
+  const H = narrow ? 300 : 340, L = 26, R = narrow ? 118 : 170, T = 10, B = 24;
+  const t = hist.dates.map(d => new Date(d + 'T00:00:00').getTime());
+  const t0 = t[0], t1 = t[t.length - 1];
+  const X = ms => L + (t1 === t0 ? 0 : (ms - t0) / (t1 - t0)) * (W - L - R);
+  const floor = 55;
+  const Y = v => T + ((v === null ? floor : v) - 1) / (floor - 1) * (H - T - B);
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const fmt = d => { const x = new Date(d + 'T00:00:00'); return x.getDate() + ' ' + months[x.getMonth()]; };
+  let g = '';
+  [1, 10, 20, 30, 40, 50].forEach(v => {
+    g += '<line class="grid" x1="' + L + '" x2="' + (W - R) + '" y1="' + Y(v) + '" y2="' + Y(v) + '"/>' +
+         '<text class="axis" x="' + (L - 6) + '" y="' + (Y(v) + 4) + '" text-anchor="end">' + v + '</text>';
+  });
+  g += '<text class="axis" x="' + (L - 6) + '" y="' + (Y(null) + 4) + '" text-anchor="end">50+</text>';
+  // Date labels: first, last, and as many between as fit.
+  // Date labels: the last always, then working back, any that leave 44px clear.
+  const shown = [];
+  for (let i = hist.dates.length - 1; i >= 0; i--) {
+    const x = X(t[i]);
+    if (shown.every(o => Math.abs(o - x) >= 44)) {
+      shown.push(x);
+      g += '<text class="axis" x="' + x + '" y="' + (H - 6) + '" text-anchor="middle">' + fmt(hist.dates[i]) + '</text>';
+    }
+  }
+  for (let i = 1; i < hist.dates.length; i++) {
+    if (hist.weights[i] !== hist.weights[i - 1]) {
+      const xm = (X(t[i - 1]) + X(t[i])) / 2;
+      g += '<line class="wchange" x1="' + xm + '" x2="' + xm + '" y1="' + T + '" y2="' + (H - B) + '"/>' +
+           '<text class="axis halo" x="' + (xm - 4) + '" y="' + (H - B - 6) + '" text-anchor="end">weights changed</text>';
+    }
+  }
+  // Labels at the right edge, nudged apart so none overlap.
+  const lastY = top.map(n => ({n, y: Y(hist.ranks[n][hist.dates.length - 1])})).sort((a, b) => a.y - b.y);
+  for (let i = 1; i < lastY.length; i++) lastY[i].y = Math.max(lastY[i].y, lastY[i - 1].y + 12);
+  const labelY = Object.fromEntries(lastY.map(o => [o.n, o.y]));
+  let series = '';
+  top.forEach((n, k) => {
+    const r = hist.ranks[n];
+    let d = '', pts = '';
+    r.forEach((v, i) => {
+      const yy = Y(v);
+      d += (i ? 'L' : 'M') + X(t[i]).toFixed(1) + ' ' + yy.toFixed(1);
+      pts += '<circle class="pt" r="4" cx="' + X(t[i]) + '" cy="' + yy + '" data-i="' + i + '"/>';
+    });
+    const ly = labelY[n], ry = Y(r[r.length - 1]);
+    series += '<g class="s" data-n="' + esc(n) + '">' +
+      '<path class="ln" d="' + d + '"/><path class="hit" d="' + d + '"/>' + pts +
+      (Math.abs(ly - ry) > 1 ? '<path class="ln" d="M' + (W - R + 2) + ' ' + ry + 'L' + (W - R + 10) + ' ' + ly + '" stroke-width="1"/>' : '') +
+      '<text class="lbl" x="' + (W - R + 14) + '" y="' + (ly + 4) + '">' + (k + 1) + '. ' +
+        esc(narrow && n.length > 15 ? n.slice(0, 14) + '…' : n) + '</text></g>';
+  });
+  const VH = Math.max(H, lastY[lastY.length - 1].y + 16);
+  box.innerHTML = '<svg width="' + W + '" height="' + VH + '" viewBox="0 0 ' + W + ' ' + VH + '" role="img" aria-label="Weekly position of the top 15 artists">' +
+    g + series + '</svg><div class="tip" hidden></div>';
+  const svg = box.querySelector('svg'), tip = box.querySelector('.tip');
+  const focus = n => svg.querySelectorAll('g.s').forEach(el => el.classList.toggle('on', el.dataset.n === n));
+  svg.addEventListener('click', e => {
+    const s = e.target.closest('g.s');
+    picked = s && picked !== s.dataset.n ? s.dataset.n : null;
+    focus(picked);
+  });
+  svg.addEventListener('mouseover', e => {
+    const s = e.target.closest('g.s');
+    if (!picked) focus(s ? s.dataset.n : null);
+    const c = e.target.closest('circle.pt');
+    if (c && s) {
+      const i = +c.dataset.i, v = hist.ranks[s.dataset.n][i];
+      const b = box.getBoundingClientRect(), cb = c.getBoundingClientRect();
+      tip.textContent = s.dataset.n + ' · ' + fmt(hist.dates[i]) + ': ' + (v === null ? 'outside the top 50' : '#' + v);
+      tip.style.left = (cb.left + cb.width / 2 - b.left) + 'px';
+      tip.style.top = (cb.top - b.top) + 'px';
+      tip.hidden = false;
+    }
+  });
+  svg.addEventListener('mouseout', e => {
+    if (e.target.closest('circle.pt')) tip.hidden = true;
+    if (!picked && !e.relatedTarget?.closest?.('g.s')) focus(null);
+  });
+  focus(picked || top[0]);
+  };
+  draw();
+  let lastW = box.clientWidth;
+  window.addEventListener('resize', () => { if (box.clientWidth !== lastW) { lastW = box.clientWidth; draw(); } });
+})();
 // Following is not scored (it docks whoever I have not got round to yet), so
 // the gap becomes a to-do instead: favourites on the page I do not follow.
 const unfollowed = favs.filter(a => a.fol !== 'y');

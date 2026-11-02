@@ -466,6 +466,16 @@ overrides the date and `HISTORY_DEPTH` the fifty.
 CSV because it outlives whatever plots it: a spreadsheet, a notebook, or
 something not yet written.
 
+### On the page
+
+Each favourites row carries a small line of that artist's weekly position over
+the last twelve runs, with the move since the previous run (↑3, ↓5, new). Under
+the list, a chart follows today's top 15 across every run: all lines muted, one
+highlighted at a time (tap a name or a line), x on real dates so a missed week
+shows as a gap, positions outside the top 50 drawn below a floor, and a dashed
+line wherever the weights stamp changes, since a jump there is the model, not
+the listening. Both read `history/rankings.csv` when the page is built.
+
 ### Open: the `top` signal reads only the newest snapshot
 
 `favourite_artists.sh` scores the latest `top_tracks_artists_<date>.md` and no
