@@ -48,6 +48,18 @@ yearly=$([ -f "$root/yearly_artists.json" ] && jq 'map_values(.score)' "$root/ye
 # How many separate years an artist made the wrap: a plainer fact than the score.
 yearly_n=$([ -f "$root/yearly_artists.json" ] && jq 'map_values(.years | split(" ") | length)' "$root/yearly_artists.json" || echo '{}')
 followed=$(jq -Rn '[inputs | select(length > 0)]' "$root/followed_artists.md")
+# Spotify's own top artists (bin/top_artists.py), artist-level rather than
+# per-track, so breadth across a catalogue and long tracks count as listening.
+# A position is worth (51 - rank) / 50 in each window, and the windows blend
+# short 0.5, medium 0.3, long 0.2 into one 0-1 value. A file older than 14 days
+# is ignored rather than trusted.
+top_artists=$([ -f "$root/top_artists.json" ] && jq --arg cutoff "$(date -v-14d +%F 2>/dev/null || date -d '14 days ago' +%F)" '
+  if .fetched < $cutoff then {} else
+  [ (.windows.short_term // [] | .[] | {name, v: (0.5 * (51 - .rank) / 50)}),
+    (.windows.medium_term // [] | .[] | {name, v: (0.3 * (51 - .rank) / 50)}),
+    (.windows.long_term // [] | .[] | {name, v: (0.2 * (51 - .rank) / 50)}) ]
+  | group_by(.name) | map({key: .[0].name, value: ([([.[].v] | add), 1] | min)}) | from_entries end' \
+  "$root/top_artists.json" || echo '{}')
 pw=$([ -f "$playlist_weights_file" ] && jq 'map_values(.weight)' "$playlist_weights_file" || echo '{}')
 
 # One playlist can say an artist matters; it cannot say so forty-one times. Without
@@ -95,6 +107,7 @@ jq -n -r \
   --argjson dedicated "$dedicated" \
   --argjson favourites "$favourites" \
   --argjson activity "$activity" \
+  --argjson topart "$top_artists" \
   --argjson w "$w" \
   --argjson cfg "$config" \
   --argjson min "$min_tracks" '
@@ -104,7 +117,7 @@ jq -n -r \
   | ($dedicated | map({key: ., value: true}) | from_entries) as $ded
   | ($favourites | map({key: ., value: true}) | from_entries) as $favs
   | ([($top | keys), ($alltime | keys), ($yearly | keys), ($playlists | keys),
-      $followed, $dedicated, $favourites] | add | unique) as $names
+      ($topart | keys), $followed, $dedicated, $favourites] | add | unique) as $names
   | ([$top[]] | max // 0) as $maxtop
   | ([$alltime[]] | max // 0) as $maxall
   | ([$yearly[]] | max // 0) as $maxyear
@@ -123,7 +136,8 @@ jq -n -r \
       | (if $ded[$n] then 1 else 0 end) as $d
       | (if $favs[$n] then 1 else 0 end) as $fv
       | ($activity[$n] // 0) as $act
-      | select($t > 0 or $at > 0 or $yr > 0 or $f > 0 or $d > 0 or $fv > 0 or $pt >= $min)
+      | ($topart[$n] // 0) as $ta
+      | select($ta > 0 or $t > 0 or $at > 0 or $yr > 0 or $f > 0 or $d > 0 or $fv > 0 or $pt >= $min)
       # The share of the score from each signal, kept so a ranking can be explained
       # rather than only read. They sum to the score.
       | {alltime: (100 * $w.alltime * norm($at; $maxall)),
@@ -134,8 +148,9 @@ jq -n -r \
          followed: (100 * $w.followed * $f),
          dedicated: (100 * $w.dedicated * $d),
          activity: (100 * $w.activity * norm($act; $maxact)),
-         favourite: (100 * $w.favourite * $fv)} as $pts
-      | [([$pts[]] | add), $n, $at, $t, $ps, $pt, $f, $d, $fv, $act, $yr, $yn, $pts])
+         favourite: (100 * $w.favourite * $fv),
+         artists: (100 * ($w.artists // 0) * $ta)} as $pts
+      | [([$pts[]] | add), $n, $at, $t, $ps, $pt, $f, $d, $fv, $act, $yr, $yn, $pts, $ta])
   | sort_by(-.[0], (.[1] | ascii_downcase))
   | to_entries
   | map({rank: (.key + 1), score: (.value[0] * 10 | round / 10), name: .value[1],
@@ -143,6 +158,7 @@ jq -n -r \
          top: .value[3], spread: .value[4], tracks: .value[5],
          followed: (.value[6] == 1), dedicated: (.value[7] == 1),
          favourite: (.value[8] == 1), activity: .value[9],
+         top_artists: (.value[13] * 1000 | round / 1000),
          points: (.value[12] | map_values(. * 100 | round / 100))})
   | {config: $cfg, artists: .}' > "$json"
 

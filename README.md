@@ -159,6 +159,7 @@ the following week to carry rather than aborting the run.
 | --- | --- | --- |
 | `bin/followed_artists.sh` | `followed_artists.md` | Artists I follow. Overwrites. |
 | `bin/liked_tracks_artists.sh` | `liked_tracks_artists.md` | Artists by liked-track count. Overwrites. Not scored — see below. |
+| `bin/top_artists.py` | `top_artists.json` | Spotify's top artists, short, medium and long term, via the Web API with `spotify_player`'s cached token. Skips cleanly if it cannot. |
 | `bin/top_tracks_artists.sh` | `top_tracks_artists_<date>.md` | Artists in my top tracks. Dated, one file per run. |
 | `bin/alltime_artists.sh` | `alltime_artists.md` | Artists in Spotify's "Your All-Time Top Songs". Logs the snapshot id each run. Scored at zero — see below. |
 | `bin/yearly_artists.sh` | `yearly_artists.md` | Artists across every "Your Top Songs &lt;year&gt;" wrap, weighted by recency. Caches; `--force` to refetch. |
@@ -214,13 +215,14 @@ combines them into a single 0-100 score.
 | Signal | Column | Weight | What it means |
 | --- | --- | --- | --- |
 | Yearly wraps | `yearly` | 0.33 | Their tracks across every "Your Top Songs &lt;year&gt;" playlist, each year weighted by recency. Ten years of Spotify's own measurement of what I actually played — the deepest evidence in the data, and the signal that gets my reference cases right unprompted. |
-| Top tracks | `top` | 0.20 | How many of my 50 current top tracks are theirs. Spotify returns a short-term window, so this is the only signal that reflects *now*. Weighted to keep the chart moving between wraps. |
+| Top tracks | `top` | 0.20 | How many of my 50 top tracks are theirs. `spotify_player` asks for Spotify's default window, which is **medium term, about six months** (not four weeks, as this table said until November 2026), so it reflects the last half-year rather than *now*. Weighted to keep the chart moving between wraps. |
 | Playlist spread | `spread` | 0.18 | How many *different* playlists hold two or more of their tracks. One track in a 4,577-track bucket is not evidence of anything. |
 | Playlist tracks | `tracks` | 0.10 | Track credits across my playlists, capped at `track_cap` (5) per playlist. Uncapped it measured catalogue size and how thorough a compilation felt on the day: a 41-track Best Of outvoted ten years of listening. The cap is the same idea as `spread` requiring two tracks before a playlist counts. |
 | Favourites playlist | `FAV` | 0.12 | Whether they are in the playlist I keep by hand. The one place I can tell the ranking something the data does not record. |
 | Dedicated playlist | `ded` | 0.04 | Whether more than half of a playlist of five or more tracks is theirs. Binary and undated: three Best Ofs score the same as one, and one built in 2018 scores the same as one built last month. Priced against `yearly` it is worth about one decent year of charting — at 0.09 it was worth a decade of it, which put artists I rarely play above ones I play constantly. |
 | Followed | `fol` | 0.00 | Off since 2 November 2026. The aim is to follow every artist I like, and once that is true a follow stops telling liked artists apart: it only docks the ones not followed yet, which is housekeeping, not taste. Half the follows were also ranked below #100. Its 0.07 went to `yearly` (+0.03), `top` (+0.02) and `spread` (+0.02). Still exported, and the page lists top-50 artists I do not follow yet. |
 | Recording activity | `rel3y` | 0.03 | New albums and singles over three years, reissues excluded. Nearly off — see below. |
+| Top artists | `artists` | 0.00 | Spotify's own top 50 artists in three windows (four weeks, six months, a year and more), each position worth (51 − rank) / 50 and the windows blended 0.5 / 0.3 / 0.2. Artist-level, so breadth across a catalogue and long tracks count as listening, which the per-track signals cannot see. Fetched by `bin/top_artists.py` from the Web API with `spotify_player`'s cached login, since the CLI has no top-artists key. Wired in at zero until there is data to choose a weight from. |
 | All-time top songs | `alltime` | 0.00 | Off. Spotify does not keep it current — two readings a day apart returned an identical snapshot id, and `history/alltime_snapshots.csv` watches whether that ever changes. The yearly wraps say the same thing with dates attached, so this is exported but not scored. |
 
 ### The yearly wraps
@@ -331,7 +333,7 @@ Weights live in `weights.json`, one line per signal, and nowhere else:
   "weights": {
     "yearly": 0.33, "top": 0.20, "spread": 0.18, "favourite": 0.12,
     "tracks": 0.10, "followed": 0.00, "dedicated": 0.04,
-    "activity": 0.03, "alltime": 0.00
+    "activity": 0.03, "alltime": 0.00, "artists": 0.00
   },
   "tuning": {
     "yearly_half_life_years": 3, "track_cap": 5, "min_playlist_tracks": 3,
