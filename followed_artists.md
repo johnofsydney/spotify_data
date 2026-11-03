@@ -9,6 +9,7 @@ Antenna
 Arrowhead
 ATB
 Barry Can't Swim
+Beyond The Wizards Sleeve
 Black Sabbath
 Booka Shade
 Brown Sabbath
@@ -34,6 +35,7 @@ Faces on TV
 Firefriend
 Floating Points
 Freedom Hawk
+Fuck Buttons
 Full Fathom 5
 Gang of Youths
 GB3 AU
@@ -52,6 +54,7 @@ Holy Holy
 hubris.
 Human Bell
 James Norbert Ivanyi
+Jimi Hendrix
 Johnny Cash
 Johnny Marr
 José Junior
@@ -106,6 +109,7 @@ Papir
 Paul van Dyk
 Paul van Dyk’s VONYC Sessions
 pHader
+Pink Floyd
 Pixies
 Placebo
 Psychedelic Porn Crumpets
@@ -143,8 +147,10 @@ The Chemical Brothers
 The Clockworks
 The Cure
 The Exorcist GBG
+The Flaming Lips
 The Holy
 The Ivory Elephant
+The Jesus and Mary Chain
 The Kings Of Frog Island
 The Mysterines
 The National

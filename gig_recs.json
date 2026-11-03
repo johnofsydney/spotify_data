@@ -1,300 +1,11 @@
 {
- "generated": "2026-11-02",
- "first_run": true,
- "horizon": "2026-12-28",
- "pending_acts": 1466,
- "listed": 922,
- "new": [
-  {
-   "key": "2027-01-21-dinosaur-jr",
-   "start": "2027-01-21T20:00:00+11:00",
-   "date": "2027-01-21",
-   "time": "20:00",
-   "venue": "Hordern Pavilion",
-   "suburb": "Moore Park",
-   "address": "1 Driver Ave, Moore Park",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://thehordern.com.au/event/dinosaur-jr/"
-    }
-   ],
-   "title": "Dinosaur Jr. (USA)",
-   "acts": [
-    {
-     "name": "Dinosaur Jr. (USA)",
-     "kind": "known",
-     "id": "267VY6GX5LyU5c9M85ECZQ",
-     "guess": false,
-     "score": 27.9,
-     "rank": 81,
-     "billing": "headline"
-    }
-   ],
-   "score": 27.9,
-   "new": true
-  },
-  {
-   "key": "2027-01-23-foreverafter",
-   "start": "2027-01-23T17:00:00+11:00",
-   "date": "2027-01-23",
-   "time": "17:00",
-   "venue": "Carriageworks",
-   "suburb": "Eveleigh",
-   "address": "245 Wilson St, Eveleigh",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://carriageworks.com.au/events/foreverafter/"
-    }
-   ],
-   "title": "Foreverafter",
-   "acts": [
-    {
-     "name": "Foreverafter",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "The Presets",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Cut Copy",
-     "kind": "known",
-     "id": "4EENT7N7rCBwrddM3s0vFS",
-     "guess": false,
-     "score": 6.1,
-     "rank": 600,
-     "billing": "support"
-    },
-    {
-     "name": "Ladyhawke (NZ)",
-     "kind": "known",
-     "id": "5TfnQ0Ai1cEbKY5katFK14",
-     "guess": false,
-     "score": 27.9,
-     "rank": 78,
-     "billing": "support"
-    },
-    {
-     "name": "Bag Raiders",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Bang Gang DJs",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Fukhed",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": 29.7,
-   "new": true
-  },
-  {
-   "key": "2027-02-13-chicane",
-   "start": "2027-02-13T21:00:00+11:00",
-   "date": "2027-02-13",
-   "time": "21:00",
-   "venue": "Ivy",
-   "suburb": "Sydney",
-   "address": "330 George St, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fchicane-30-year-anniversary-tour-ivy-sydney%2F199771&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/chicane-30-year-anniversary-tour-ivy-sydney/199771"
-    }
-   ],
-   "title": "Chicane (UK)",
-   "acts": [
-    {
-     "name": "Chicane (UK)",
-     "kind": "known",
-     "id": "5GxyeQagayzZOg4UwffQlD",
-     "guess": false,
-     "score": 48.1,
-     "rank": 11,
-     "billing": "headline"
-    }
-   ],
-   "score": 48.1,
-   "new": true
-  },
-  {
-   "key": "2027-02-28-kings-of-leon",
-   "start": "2027-02-28T16:15:00+11:00",
-   "date": "2027-02-28",
-   "time": "16:15",
-   "venue": "Centennial Park",
-   "suburb": "Centennial Park",
-   "address": "Centennial Park, Centennial Park",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fkings-of-leon%2F201554&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/kings-of-leon/201554"
-    }
-   ],
-   "title": "Kings of Leon (USA)",
-   "acts": [
-    {
-     "name": "Kings of Leon (USA)",
-     "kind": "known",
-     "id": "2qk9voo8llSGYcZ6xrBzKx",
-     "guess": false,
-     "score": 36,
-     "rank": 36,
-     "billing": "headline"
-    },
-    {
-     "name": "Ocean Alley",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": 36.0,
-   "new": true
-  },
-  {
-   "key": "2027-03-07-avalanches",
-   "start": "2027-03-07T18:00:00+11:00",
-   "date": "2027-03-07",
-   "time": "18:00",
-   "venue": "Sydney Opera House Forecourt",
-   "suburb": "Sydney",
-   "address": "Bennelong Point, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.sydneyoperahouse.com/contemporary-music/avalanches"
-    }
-   ],
-   "title": "The Avalanches",
-   "acts": [
-    {
-     "name": "The Avalanches",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "HAAi",
-     "kind": "known",
-     "id": "0pkLgeB9j465x1QB2kRoy4",
-     "guess": false,
-     "score": 27.9,
-     "rank": 80,
-     "billing": "support"
-    }
-   ],
-   "score": 27.9,
-   "new": true
-  },
-  {
-   "key": "2027-05-14-elder",
-   "start": "2027-05-14T20:00:00+10:00",
-   "date": "2027-05-14",
-   "time": "20:00",
-   "venue": "Manning Bar",
-   "suburb": "Camperdown",
-   "address": "a18 Manning Rd, Camperdown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Felder%2F197668&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/elder/197668"
-    }
-   ],
-   "title": "Elder (USA)",
-   "acts": [
-    {
-     "name": "Elder (USA)",
-     "kind": "known",
-     "id": "1687IqXRdWmbRshgn194tT",
-     "guess": false,
-     "score": 37.1,
-     "rank": 33,
-     "billing": "headline"
-    },
-    {
-     "name": "Khan",
-     "kind": "known",
-     "id": "58HjcrZgkKUaldPPK7BuDX",
-     "guess": false,
-     "score": 28,
-     "rank": 76,
-     "billing": "support"
-    }
-   ],
-   "score": 45.5,
-   "new": true
-  }
- ],
+ "generated": "2026-11-03",
+ "first_run": false,
+ "horizon": "2026-12-29",
+ "pending_acts": 1407,
+ "listed": 1047,
+ "new": [],
  "coming": [
-  {
-   "key": "2026-12-03-uncle-acid-and-the-deadbeats",
-   "start": "2026-12-03T20:00:00+11:00",
-   "date": "2026-12-03",
-   "time": "20:00",
-   "venue": "Crowbar",
-   "suburb": "Leichhardt",
-   "address": "345 Parramatta Rd, Leichhardt",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://crowbarsyd.oztix.com.au/outlet/event/81a3092a-2756-4351-bc5c-229c300b0cb9?Event=238657"
-    }
-   ],
-   "title": "Uncle Acid & The Deadbeats (UK)",
-   "acts": [
-    {
-     "name": "Uncle Acid & The Deadbeats (UK)",
-     "kind": "known",
-     "id": "16PcI6JjJuUfPlsX8Ffvfl",
-     "guess": false,
-     "score": 20.3,
-     "rank": 133,
-     "billing": "headline"
-    }
-   ],
-   "score": 20.3
-  },
   {
    "key": "2026-12-01-dandy-warhols",
    "start": "2026-12-01T20:00:00+11:00",
@@ -317,12 +28,12 @@
      "kind": "known",
      "id": "7siPLyFwRFYQkKgWKJ5Sod",
      "guess": false,
-     "score": 17.3,
-     "rank": 178,
+     "score": 18.4,
+     "rank": 152,
      "billing": "headline"
     }
    ],
-   "score": 17.3
+   "score": 18.4
   }
  ],
  "later": [
@@ -348,13 +59,12 @@
      "kind": "known",
      "id": "267VY6GX5LyU5c9M85ECZQ",
      "guess": false,
-     "score": 27.9,
-     "rank": 81,
+     "score": 28.8,
+     "rank": 52,
      "billing": "headline"
     }
    ],
-   "score": 27.9,
-   "new": true
+   "score": 28.8
   },
   {
    "key": "2027-01-23-foreverafter",
@@ -393,7 +103,7 @@
      "id": "4EENT7N7rCBwrddM3s0vFS",
      "guess": false,
      "score": 6.1,
-     "rank": 600,
+     "rank": 591,
      "billing": "support"
     },
     {
@@ -401,8 +111,8 @@
      "kind": "known",
      "id": "5TfnQ0Ai1cEbKY5katFK14",
      "guess": false,
-     "score": 27.9,
-     "rank": 78,
+     "score": 22.6,
+     "rank": 102,
      "billing": "support"
     },
     {
@@ -427,42 +137,106 @@
      "billing": "support"
     }
    ],
-   "score": 29.7,
-   "new": true
+   "score": 24.4
   },
   {
-   "key": "2027-02-13-chicane",
-   "start": "2027-02-13T21:00:00+11:00",
-   "date": "2027-02-13",
-   "time": "21:00",
-   "venue": "Ivy",
-   "suburb": "Sydney",
-   "address": "330 George St, Sydney",
+   "key": "2027-01-23-public-image-ltd",
+   "start": "2027-01-23T20:00:00+11:00",
+   "date": "2027-01-23",
+   "time": "20:00",
+   "venue": "Enmore Theatre",
+   "suburb": "Newtown",
+   "address": "128 Enmore Rd, Newtown",
    "free": false,
    "links": [
     {
      "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fchicane-30-year-anniversary-tour-ivy-sydney%2F199771&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/chicane-30-year-anniversary-tour-ivy-sydney/199771"
+     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DPUBIMLTD27&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
     }
    ],
-   "title": "Chicane (UK)",
+   "title": "Public Image Ltd (UK)",
    "acts": [
     {
-     "name": "Chicane (UK)",
-     "kind": "known",
-     "id": "5GxyeQagayzZOg4UwffQlD",
+     "name": "Public Image Ltd (UK)",
+     "kind": "discovery",
+     "id": "70MMkLXtue3Edj3RJhJkYp",
      "guess": false,
-     "score": 48.1,
-     "rank": 11,
+     "score": 17.0,
+     "via": [
+      "The Jesus and Mary Chain",
+      "The Church",
+      "The Fall"
+     ],
      "billing": "headline"
     }
    ],
-   "score": 48.1,
-   "new": true
+   "score": 17.0
+  },
+  {
+   "key": "2027-01-30-human-league",
+   "start": "2027-01-30T20:00:00+11:00",
+   "date": "2027-01-30",
+   "time": "20:00",
+   "venue": "Enmore Theatre",
+   "suburb": "Newtown",
+   "address": "128 Enmore Rd, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DTHLEAGUE27&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "The Human League (UK)",
+   "acts": [
+    {
+     "name": "The Human League (UK)",
+     "kind": "discovery",
+     "id": "1aX2dmV8XoHYCOQRxjPESG",
+     "guess": false,
+     "score": 15.5,
+     "via": [
+      "New Order",
+      "INXS",
+      "Talking Heads"
+     ],
+     "billing": "headline"
+    }
+   ],
+   "score": 15.5
+  },
+  {
+   "key": "2027-01-31-human-league",
+   "start": "2027-01-31T20:00:00+11:00",
+   "date": "2027-01-31",
+   "time": "20:00",
+   "venue": "Enmore Theatre",
+   "suburb": "Newtown",
+   "address": "128 Enmore Rd, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DTHLEAGUE27&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "The Human League (UK)",
+   "acts": [
+    {
+     "name": "The Human League (UK)",
+     "kind": "discovery",
+     "id": "1aX2dmV8XoHYCOQRxjPESG",
+     "guess": false,
+     "score": 15.5,
+     "via": [
+      "New Order",
+      "INXS",
+      "Talking Heads"
+     ],
+     "billing": "headline"
+    }
+   ],
+   "score": 15.5
   },
   {
    "key": "2027-02-20-strokes",
@@ -490,8 +264,8 @@
      "kind": "known",
      "id": "0epOFNiUfyON9EYx7Tpr6V",
      "guess": false,
-     "score": 17.2,
-     "rank": 181,
+     "score": 18.4,
+     "rank": 150,
      "billing": "headline"
     },
     {
@@ -499,8 +273,8 @@
      "kind": "known",
      "id": "3vbKDsSS70ZX9D2OcvbZmS",
      "guess": false,
-     "score": 10.8,
-     "rank": 373,
+     "score": 11.2,
+     "rank": 356,
      "billing": "support"
     },
     {
@@ -508,7 +282,7 @@
      "kind": "similar",
      "id": "4OOlG5eBXSkSAAEeKjJb5Y",
      "guess": true,
-     "score": 3.2,
+     "score": 3.8,
      "via": [
       "Ty Segall",
       "Parquet Courts"
@@ -523,7 +297,7 @@
      "billing": "support"
     }
    ],
-   "score": 21.4
+   "score": 22.9
   },
   {
    "key": "2027-02-28-kings-of-leon",
@@ -551,8 +325,8 @@
      "kind": "known",
      "id": "2qk9voo8llSGYcZ6xrBzKx",
      "guess": false,
-     "score": 36,
-     "rank": 36,
+     "score": 30.8,
+     "rank": 45,
      "billing": "headline"
     },
     {
@@ -563,8 +337,7 @@
      "billing": "support"
     }
    ],
-   "score": 36.0,
-   "new": true
+   "score": 30.8
   },
   {
    "key": "2027-03-03-underworld",
@@ -588,12 +361,12 @@
      "kind": "known",
      "id": "1PXHzxRDiLnjqNrRn2Xbsa",
      "guess": false,
-     "score": 18.2,
-     "rank": 167,
+     "score": 19.3,
+     "rank": 137,
      "billing": "headline"
     }
    ],
-   "score": 18.2
+   "score": 19.3
   },
   {
    "key": "2027-03-06-sasha",
@@ -617,8 +390,8 @@
      "kind": "known",
      "id": "6u4jLGLPuarS3i2XWHVxoS",
      "guess": false,
-     "score": 16.8,
-     "rank": 192,
+     "score": 18,
+     "rank": 159,
      "billing": "headline"
     },
     {
@@ -636,7 +409,7 @@
      "billing": "support"
     }
    ],
-   "score": 16.8
+   "score": 18.0
   },
   {
    "key": "2027-03-07-avalanches",
@@ -667,71 +440,12 @@
      "kind": "known",
      "id": "0pkLgeB9j465x1QB2kRoy4",
      "guess": false,
-     "score": 27.9,
-     "rank": 80,
+     "score": 30,
+     "rank": 48,
      "billing": "support"
     }
    ],
-   "score": 27.9,
-   "new": true
-  },
-  {
-   "key": "2027-03-09-angine-de-poitrine",
-   "start": "2027-03-09T19:00:00+11:00",
-   "date": "2027-03-09",
-   "time": "19:00",
-   "venue": "Enmore Theatre",
-   "suburb": "Newtown",
-   "address": "128 Enmore Rd, Newtown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DANGIDE27&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Angine de Poitrine (CAN)",
-   "acts": [
-    {
-     "name": "Angine de Poitrine (CAN)",
-     "kind": "known",
-     "id": "13NmOYYfvONNZ9mn2qn8P2",
-     "guess": false,
-     "score": 18.4,
-     "rank": 165,
-     "billing": "headline"
-    }
-   ],
-   "score": 18.4
-  },
-  {
-   "key": "2027-03-28-cam-cole",
-   "start": "2027-03-28T19:30:00+11:00",
-   "date": "2027-03-28",
-   "time": "19:30",
-   "venue": "Factory Floor @ Factory Theatre",
-   "suburb": "Marrickville",
-   "address": "105 Victoria Rd, Marrickville",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://aucentury.sales.ticketsearch.com/sales/salesevent/169171"
-    }
-   ],
-   "title": "Cam Cole (USA)",
-   "acts": [
-    {
-     "name": "Cam Cole (USA)",
-     "kind": "known",
-     "id": "0US6t3wOzabccOupxTHl2S",
-     "guess": false,
-     "score": 18.8,
-     "rank": 156,
-     "billing": "headline"
-    }
-   ],
-   "score": 18.8
+   "score": 30.0
   },
   {
    "key": "2027-05-14-elder",
@@ -759,8 +473,8 @@
      "kind": "known",
      "id": "1687IqXRdWmbRshgn194tT",
      "guess": false,
-     "score": 37.1,
-     "rank": 33,
+     "score": 32.6,
+     "rank": 37,
      "billing": "headline"
     },
     {
@@ -768,50 +482,15 @@
      "kind": "known",
      "id": "58HjcrZgkKUaldPPK7BuDX",
      "guess": false,
-     "score": 28,
-     "rank": 76,
+     "score": 22.9,
+     "rank": 96,
      "billing": "support"
     }
    ],
-   "score": 45.5,
-   "new": true
+   "score": 39.5
   }
  ],
  "nodata": [
-  {
-   "key": "2026-11-02-dave-wilson",
-   "start": "2026-11-02T20:00:00+11:00",
-   "date": "2026-11-02",
-   "time": "20:00",
-   "venue": "Church St Studios",
-   "suburb": "Camperdown",
-   "address": "62-68 Church St, Camperdown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://events.humanitix.com/dave-wilson-nz-number-junky-wa"
-    }
-   ],
-   "title": "Dave Wilson (NZ)",
-   "acts": [
-    {
-     "name": "Dave Wilson (NZ)",
-     "kind": "similar",
-     "id": "1zDDr7PR0w2yolA3ycoFYy",
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Number Junkie",
-     "kind": "unmatched",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
   {
    "key": "2026-11-04-bang-strutt",
    "start": "2026-11-04T19:00:00+11:00",
@@ -1010,6 +689,33 @@
    "score": null
   },
   {
+   "key": "2026-11-06-eva-and-avaiki",
+   "start": "2026-11-06T19:00:00+11:00",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "venue": "Sappho Books, Cafe & Bar",
+   "suburb": "Glebe",
+   "address": "Cafe & Bar, 51 Glebe Point Rd Glebe, Glebe",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.sapphobooks.com.au/event/eva-avaiki/"
+    }
+   ],
+   "title": "Eva and Avaiki",
+   "acts": [
+    {
+     "name": "Eva and Avaiki",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-06-john-reischman-and-the-jailbirds",
    "start": "2026-11-06T19:00:00+11:00",
    "date": "2026-11-06",
@@ -1156,24 +862,24 @@
    "score": null
   },
   {
-   "key": "2026-11-06-wao-superclub",
-   "start": "2026-11-06T21:30:00+11:00",
+   "key": "2026-11-06-bouki-and-friends",
+   "start": "2026-11-06T21:00:00+11:00",
    "date": "2026-11-06",
-   "time": "21:30",
-   "venue": "ivy Sydney",
+   "time": "21:00",
+   "venue": "Chinese Laundry",
    "suburb": "Sydney",
-   "address": "330 George Street, Sydney",
+   "address": "1 Slip St, Sydney",
    "free": false,
    "links": [
     {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/fri-06-nov-int-guest-dj-highness-wao-superclub/201727"
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fchinese-laundry-invites-bouki-friends-full-venue-takeover%2F201909&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
     }
    ],
-   "title": "FRI 06 NOV - INT GUEST DJ HIGHNESS @ WAO SUPERCLUB",
+   "title": "Bouki & Friends",
    "acts": [
     {
-     "name": "WAO Superclub",
+     "name": "Bouki & Friends",
      "kind": "unmatched",
      "id": null,
      "guess": false,
@@ -1285,6 +991,47 @@
    "score": null
   },
   {
+   "key": "2026-11-07-headspacer",
+   "start": "2026-11-07T19:00:00+11:00",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "venue": "Sneaky Possum",
+   "suburb": "Chippendale",
+   "address": "86 Abercrombie St, Chippendale",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://tickets.wearecoral.org/e/headspacer-w-trojan-guns-trashtacular"
+    }
+   ],
+   "title": "Headspacer",
+   "acts": [
+    {
+     "name": "Headspacer",
+     "kind": "similar",
+     "id": "1cq7lG47UhCH6tWRvdlWJC",
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Trojan Guns",
+     "kind": "similar",
+     "id": "2lhnWDFYDiS12lLQhT794M",
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Trashtacular",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-07-ms-g-and-the-planet-nines",
    "start": "2026-11-07T19:00:00+11:00",
    "date": "2026-11-07",
@@ -1346,6 +1093,33 @@
    "score": null
   },
   {
+   "key": "2026-11-07-lenny-drummond",
+   "start": "2026-11-07T19:30:00+11:00",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "venue": "Prop Records",
+   "suburb": "Ashfield",
+   "address": "361 Liverpool Rd, Ashfield",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.instagram.com/p/DfFaoUeSrxp/?hl=en"
+    }
+   ],
+   "title": "Lenny Drummond",
+   "acts": [
+    {
+     "name": "Lenny Drummond",
+     "kind": "similar",
+     "id": "1mhiSAPrjMtHDGmCGPdjJL",
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-07-ramalamas",
    "start": "2026-11-07T20:00:00+11:00",
    "date": "2026-11-07",
@@ -1357,7 +1131,7 @@
    "links": [
     {
      "source": "sydneymusic",
-     "url": "https://www.instagram.com/p/Ddv2yswTeBw/"
+     "url": "https://www.facebook.com/events/1638654107593271"
     }
    ],
    "title": "The Ramalamas",
@@ -1366,6 +1140,47 @@
      "name": "The Ramalamas",
      "kind": "similar",
      "id": "1RlMq3HK8eJBCskA1a05aQ",
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Majestic XI",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Virgin Mary Disco Brawl",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-08-vladimir-ivkovic",
+   "start": "2026-11-08T14:00:00+11:00",
+   "date": "2026-11-08",
+   "time": "14:00",
+   "venue": "Endless Library",
+   "suburb": "Marrickville",
+   "address": "1/292 Marrickville Road, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/vladimir-ivkovic-presents-zaum-or-endless-library"
+    }
+   ],
+   "title": "Vladimir Ivkovic (DEU)",
+   "acts": [
+    {
+     "name": "Vladimir Ivkovic (DEU)",
+     "kind": "similar",
+     "id": "1PUaZn9kpDc712mH7vrMtG",
      "guess": false,
      "billing": "headline"
     }
@@ -1456,6 +1271,33 @@
      "id": null,
      "guess": false,
      "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-08-pink-lloyd",
+   "start": "2026-11-08T21:00:00+11:00",
+   "date": "2026-11-08",
+   "time": "21:00",
+   "venue": "Club 77",
+   "suburb": "Darlinghurst",
+   "address": "77 William St, Darlinghurst",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.club77.com.au/events/sundays-at-77"
+    }
+   ],
+   "title": "Pink Lloyd",
+   "acts": [
+    {
+     "name": "Pink Lloyd",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
     }
    ],
    "score": null
@@ -1563,6 +1405,78 @@
    "score": null
   },
   {
+   "key": "2026-11-12-exile-co",
+   "start": "2026-11-12T19:00:00+11:00",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "venue": "Mixtape Brewing & Bar",
+   "suburb": "Marrickville",
+   "address": "142A Victoria Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.facebook.com/events/1701297941508392/"
+    },
+    {
+     "source": "sydneymusic",
+     "url": "https://www.facebook.com/events/1701297941508392/"
+    }
+   ],
+   "title": "The Exile Co",
+   "acts": [
+    {
+     "name": "The Exile Co",
+     "kind": "similar",
+     "id": "0Ha1xMqfD6cNBrKqIlC1fH",
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Cheetah Beat",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Tilly Devine",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-12-raven-joy-bower",
+   "start": "2026-11-12T19:00:00+11:00",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "venue": "Sappho Books, Cafe & Bar",
+   "suburb": "Glebe",
+   "address": "Cafe & Bar, 51 Glebe Point Rd Glebe, Glebe",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.sapphobooks.com.au/event/raven-joy-bower/"
+    }
+   ],
+   "title": "Raven Joy Bower",
+   "acts": [
+    {
+     "name": "Raven Joy Bower",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-12-steve-hunter-trio",
    "start": "2026-11-12T19:00:00+11:00",
    "date": "2026-11-12",
@@ -1590,218 +1504,6 @@
    "score": null
   },
   {
-   "key": "2026-11-13-ashanti",
-   "start": "2026-11-13T19:30:00+11:00",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "venue": "ICC Sydney Theatre",
-   "suburb": "Sydney",
-   "address": "14 Darling Dr, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DGDFBALVS26&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Ashanti (USA)",
-   "acts": [
-    {
-     "name": "Ashanti (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Riah",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-daine",
-   "start": "2026-11-13T19:30:00+11:00",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "venue": "Metro Social @ Metro Theatre",
-   "suburb": "Sydney",
-   "address": "624 George St, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fdaine-the-in-endless-awe-agony-tour-18-new-all-ages-show-added%2F197886&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18-/197886"
-    }
-   ],
-   "title": "daine",
-   "acts": [
-    {
-     "name": "daine",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-fvneral",
-   "start": "2026-11-13T19:30:00+11:00",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "venue": "The Chippo Hotel",
-   "suburb": "Chippendale",
-   "address": "87-91 Abercrombie St, Chippendale",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://tickets.oztix.com.au/outlet/event/2bc2bb13-1272-484c-b7f5-a252283d0da1"
-    }
-   ],
-   "title": "FVNERAL",
-   "acts": [
-    {
-     "name": "FVNERAL",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Cry Club",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Worm Girlz",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-large-mirage",
-   "start": "2026-11-13T19:30:00+11:00",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "venue": "Botany View Hotel",
-   "suburb": "Newtown",
-   "address": "597 King St, Newtown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://tickets.oztix.com.au/outlet/event/b9199617-d2d2-43e6-adaa-662bb8cb6ff0?utm_source=Oztix&utm_medium=Website&_gl=1*vgdjp8*_ga*MTQ5MDkxMTQyMC4xNzg4NDgyNzc5*_ga_Z6Q34PSGS3*czE3OTE3MDA3ODAkbzQzJGcxJHQxNzkxNzAyMjc4JGoyOCRsMCRoMA.."
-    }
-   ],
-   "title": "Large Mirage",
-   "acts": [
-    {
-     "name": "Large Mirage",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-sasa-matic",
-   "start": "2026-11-13T19:30:00+11:00",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "venue": "Liberty Hall",
-   "suburb": "Moore Park",
-   "address": "Building 220, The Entertainment Quarter, Moore Park",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fsasa-matic-live-with-full-band%2F196779&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/sasa-matic-live-with-full-band/196779"
-    }
-   ],
-   "title": "Saša Matić (SRB)",
-   "acts": [
-    {
-     "name": "Saša Matić (SRB)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Dajana Ivić (AST)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "iBand",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-buddy-dingo",
-   "start": "2026-11-13T20:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Golden Barley Hotel",
-   "suburb": "Enmore",
-   "address": "165-169 Edgeware Rd, Enmore",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.facebook.com/events/1742425653482888/"
-    }
-   ],
-   "title": "Buddy Dingo",
-   "acts": [
-    {
-     "name": "Buddy Dingo",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Durry Mums",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
    "key": "2026-11-13-chaos-collective",
    "start": "2026-11-13T20:00:00+11:00",
    "date": "2026-11-13",
@@ -1820,233 +1522,10 @@
    "acts": [
     {
      "name": "Chaos Collective",
-     "kind": "pending",
-     "id": null,
+     "kind": "similar",
+     "id": "2mxuZkxzBwcgtglR73rqXY",
      "guess": false,
      "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-dream-on-dreamer",
-   "start": "2026-11-13T20:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Crowbar",
-   "suburb": "Leichhardt",
-   "address": "345 Parramatta Rd, Leichhardt",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://crowbarsyd.oztix.com.au/outlet/event/4d5d0ebb-4907-4e05-8cd7-1fc29371fad5?Event=248614"
-    }
-   ],
-   "title": "Dream On Dreamer",
-   "acts": [
-    {
-     "name": "Dream On Dreamer",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Wayside",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-house-of-strangers",
-   "start": "2026-11-13T20:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Ground Floor @ The Lansdowne",
-   "suburb": "Chippendale",
-   "address": "2-6 City Road, Chippendale",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fafter-dark-w-house-of-strangers-eva-and-avaiki-alina-grace%2F201519&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "House of Strangers",
-   "acts": [
-    {
-     "name": "House of Strangers",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Eva and Avaiki",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Alina Grace",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-kip-moore",
-   "start": "2026-11-13T20:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Enmore Theatre",
-   "suburb": "Newtown",
-   "address": "128 Enmore Rd, Newtown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DMOORKIP26&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Kip Moore (USA)",
-   "acts": [
-    {
-     "name": "Kip Moore (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-mick-jenkins",
-   "start": "2026-11-13T20:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Manning Bar",
-   "suburb": "Camperdown",
-   "address": "a18 Manning Rd, Camperdown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fmick-jenkins%2F201546&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/mick-jenkins/201546"
-    }
-   ],
-   "title": "Mick Jenkins (USA)",
-   "acts": [
-    {
-     "name": "Mick Jenkins (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Kobie Dee",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "BVT",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Crofty",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "DXVNDRE",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Glenview Collectiv",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Marl",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Quaid Pearce",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-moon-brain",
-   "start": "2026-11-13T20:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Petersham Bowling Club",
-   "suburb": "Petersham",
-   "address": "77 Brighton St, Petersham",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://events.humanitix.com/moon-brain-midaswell-launch"
-    }
-   ],
-   "title": "Moon Brain",
-   "acts": [
-    {
-     "name": "Moon Brain",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Fringe",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Enamel",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
     }
    ],
    "score": null
@@ -2070,210 +1549,6 @@
    "acts": [
     {
      "name": "Sir El Tom",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-trophy-eyes",
-   "start": "2026-11-13T20:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Metro Theatre",
-   "suburb": "Sydney",
-   "address": "614 George St, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DCHEMIRA26&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Trophy Eyes",
-   "acts": [
-    {
-     "name": "Trophy Eyes",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-yanomamo",
-   "start": "2026-11-13T20:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Dead Set",
-   "suburb": "Darlinghurst",
-   "address": "383 Bourke St, Darlinghurst",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.deadsetdarlo.com.au/whats-on/the-doom-tomb.html"
-    }
-   ],
-   "title": "Yanomamo",
-   "acts": [
-    {
-     "name": "Yanomamo",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Mourners",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Old Heathens",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Void Mxchine",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-druid-fluids",
-   "start": "2026-11-13T21:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "21:00",
-   "venue": "Marrickville Bowling Club",
-   "suburb": "Marrickville",
-   "address": "91 Sydenham Rd, Marrickville",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://tickets.oztix.com.au/outlet/event/f6975333-dba8-486b-9980-8657b94380bc"
-    }
-   ],
-   "title": "Druid Fluids",
-   "acts": [
-    {
-     "name": "Druid Fluids",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Magic Machine",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-step-in-blood",
-   "start": "2026-11-13T21:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "21:00",
-   "venue": "The Duke of Enmore",
-   "suburb": "Enmore",
-   "address": "148 Enmore Rd, Enmore",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://sydneymusic.net/gig-guide/venues/the-duke-of-enmore"
-    }
-   ],
-   "title": "Step in Blood",
-   "acts": [
-    {
-     "name": "Step in Blood",
-     "kind": "similar",
-     "id": "5tMVVcDZL9gLyvdCWLDrrh",
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Decimator",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Demon Devine",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-vandastruts",
-   "start": "2026-11-13T21:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "21:00",
-   "venue": "Vic on the Park",
-   "suburb": "Marrickville",
-   "address": "2 Addison Rd, Marrickville",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://tickets.oztix.com.au/outlet/event/a7fa0f0f-e1fa-432f-a75f-c67413c708d9"
-    }
-   ],
-   "title": "The Vandastruts",
-   "acts": [
-    {
-     "name": "The Vandastruts",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-wao-superclub",
-   "start": "2026-11-13T21:30:00+11:00",
-   "date": "2026-11-13",
-   "time": "21:30",
-   "venue": "ivy Sydney",
-   "suburb": "Sydney",
-   "address": "330 George Street, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/fri-13-nov-wao-superclub-ivy/201728"
-    }
-   ],
-   "title": "FRI 13 NOV - WAO SUPERCLUB @ IVY",
-   "acts": [
-    {
-     "name": "WAO Superclub",
      "kind": "unmatched",
      "id": null,
      "guess": false,
@@ -2283,852 +1558,25 @@
    "score": null
   },
   {
-   "key": "2026-11-13-ciel",
-   "start": "2026-11-13T22:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "22:00",
-   "venue": "The Abercrombie",
-   "suburb": "Chippendale",
-   "address": "100 Broadway, Chippendale",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ra.co/events/2548190"
-    }
-   ],
-   "title": "Ciel (CAN)",
-   "acts": [
-    {
-     "name": "Ciel (CAN)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-13-crybaby",
-   "start": "2026-11-13T22:00:00+11:00",
-   "date": "2026-11-13",
-   "time": "22:00",
-   "venue": "Club 77",
-   "suburb": "Darlinghurst",
-   "address": "77 William St, Darlinghurst",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.club77.com.au/events/fridays-at-77-crybaby-maz"
-    }
-   ],
-   "title": "Crÿbaby",
-   "acts": [
-    {
-     "name": "Crÿbaby",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Maz",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-futureproof-the-graduates",
-   "start": "2026-11-14T11:00:00+11:00",
+   "key": "2026-11-14-lil-hazelton",
+   "start": "2026-11-14T19:00:00+11:00",
    "date": "2026-11-14",
-   "time": "11:00",
-   "venue": "Petersham Town Hall",
-   "suburb": "Petersham",
-   "address": "107 Crystal St, Petersham",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.trybooking.com/au/event/1628188"
-    }
-   ],
-   "title": "Futureproof: The Graduates",
-   "acts": [
-    {
-     "name": "Futureproof: The Graduates",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Embrosia",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "T.U.B.B",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": ".jpeg",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "FREAK",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "The Avenue",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "RETEP",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Judy Seltmann",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "StereoLine",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Calamity",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Lula",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-heaps-gay-offensive-trade",
-   "start": "2026-11-14T14:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "venue": "White Bay Power Station",
-   "suburb": "Rozelle",
-   "address": "28 Robert St, Rozelle",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://events.humanitix.com/heaps-gay-offensive-trade-whitebay-powerstation"
-    }
-   ],
-   "title": "Heaps Gay: Offensive Trade",
-   "acts": [
-    {
-     "name": "Heaps Gay: Offensive Trade",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Amanda Lepore (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Cain Culto (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "CCL (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Chippy Nonstop (CAN)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Hercules & Love Affair (UK) [DJ]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Sadboi (CAN)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Mallrat [DJ]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Atarangi",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Bandit",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Benny & The Decks",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Carolina Gasolina",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Cuntessa",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Diva Cups",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Fried Pork Chop",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Gogo Bumhole",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "House of Silky",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Hollywould Star",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Karna Ford",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Lucias",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Lesbionica [Live]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Lucy Lamb [Live]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Lucy Smith",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Mowgli May b2b Tvoow",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Nikita Iman",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Robert Baxter [Live]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Ruby Teys",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Stelly G",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Shoop DJs",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Sidney Phillips [Live]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Sour",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "The Bombshells",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Unholy Drag Choir",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Viva Vivacious",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-kuko",
-   "start": "2026-11-14T14:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "venue": "ivy Sydney",
-   "suburb": "Sydney",
-   "address": "330 George Street, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/sandbox-presents-kuko/200920"
-    }
-   ],
-   "title": "Sandbox presents Kuko",
-   "acts": [
-    {
-     "name": "KUKO",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-real-hard-dark-hardcore-2",
-   "start": "2026-11-14T14:30:00+11:00",
-   "date": "2026-11-14",
-   "time": "14:30",
-   "venue": "Crowbar",
-   "suburb": "Leichhardt",
-   "address": "345 Parramatta Rd, Leichhardt",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://crowbarsyd.oztix.com.au/outlet/event/bdbe9352-e51f-4fd1-84c1-eb96dc3a44d8?Event=245339"
-    }
-   ],
-   "title": "The Real Hard Dark Hardcore 2",
-   "acts": [
-    {
-     "name": "The Real Hard Dark Hardcore 2",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Extortion",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Straitjacket Nation",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Backhand",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Tomcat",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Intro",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Spite",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Demolition",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Total Defeat",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Sintax",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-miau",
-   "start": "2026-11-14T15:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "15:00",
-   "venue": "Gasoline Pony",
-   "suburb": "Marrickville",
-   "address": "117 Marrickville Rd, Marrickville",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://events.humanitix.com/miau-anni-s-fins"
-    }
-   ],
-   "title": "Miau",
-   "acts": [
-    {
-     "name": "Miau",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Anni's Fins",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-jack-johnson",
-   "start": "2026-11-14T16:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "16:00",
-   "venue": "The Domain",
-   "suburb": "Sydney",
-   "address": "St Mary's Rd, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1965672/24024?u=https%3A%2F%2Fwww.ticketmaster.com.au%2Fjack-johnson-surfilmusic-tour-australia-new-sydney-14-11-2026%2Fevent%2F13006473DA488C88&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.ticketmaster.com.au/jack-johnson-surfilmusic-tour-australia-new-sydney-14-11-2026/event/13006473DA488C88"
-    }
-   ],
-   "title": "Jack Johnson - Surfilmusic Tour - Australia / New Zealand - 2026",
-   "acts": [
-    {
-     "name": "Jack Johnson",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Ben Harper",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "John Butler",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Emily Wurramara",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-scalp",
-   "start": "2026-11-14T16:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "16:00",
-   "venue": "The Church",
-   "suburb": "Alexandria",
-   "address": "9 Mitchell Road, Alexandria",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://phoenixcentralpark.com.au/the-church/scalp-26"
-    }
-   ],
-   "title": "Scalp",
-   "acts": [
-    {
-     "name": "Scalp",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-daine",
-   "start": "2026-11-14T18:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "18:00",
-   "venue": "Metro Social @ Metro Theatre",
-   "suburb": "Sydney",
-   "address": "624 George St, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fdaine-the-in-endless-awe-agony-tour-all-ages%2F198643&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages-/198643"
-    }
-   ],
-   "title": "daine",
-   "acts": [
-    {
-     "name": "daine",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-flux-state",
-   "start": "2026-11-14T18:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "18:00",
-   "venue": "Seymour Centre",
-   "suburb": "Chippendale",
-   "address": "Cnr City Road & Cleveland St, Chippendale",
+   "time": "19:00",
+   "venue": "Sappho Books, Cafe & Bar",
+   "suburb": "Glebe",
+   "address": "Cafe & Bar, 51 Glebe Point Rd Glebe, Glebe",
    "free": true,
    "links": [
     {
      "source": "sydneymusic",
-     "url": "https://www.seymourcentre.com/event/seymour-sounds/"
+     "url": "https://www.sapphobooks.com.au/event/lil-hazelton/"
     }
    ],
-   "title": "Flux State",
+   "title": "Lil Hazelton",
    "acts": [
     {
-     "name": "Flux State",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-headsend",
-   "start": "2026-11-14T18:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "18:00",
-   "venue": "Oxford Art Factory",
-   "suburb": "Darlinghurst",
-   "address": "38/46 Oxford St, Darlinghurst",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fgood-music-presents-headsend%2F199985%3Fref%3DRSS_rss_oaf_website%26skin%3DOAF&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/good-music-house-party/199985"
-    }
-   ],
-   "title": "HEADSEND",
-   "acts": [
-    {
-     "name": "HEADSEND",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Sonic Reducer",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-alzzy",
-   "start": "2026-11-14T18:30:00+11:00",
-   "date": "2026-11-14",
-   "time": "18:30",
-   "venue": "The Eveleigh Hotel",
-   "suburb": "Redfern",
-   "address": "158 Abercrombie St, Redfern",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://events.humanitix.com/alzzy-tmg-ep-tour?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAad5RIUJyD43smYmRO4x1L76XECPLd-VUhasqk0Ld1Q9OfgtOHZt-av9RB7Jtw_aem_11vAP0bp8xHpoTpWt-D9bw&utm_id=97760_v0_s00_e0_tv3"
-    }
-   ],
-   "title": "ALZZY",
-   "acts": [
-    {
-     "name": "ALZZY",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-miriam-lieberman",
-   "start": "2026-11-14T19:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "venue": "Django Bar @ Camelot Lounge",
-   "suburb": "Marrickville",
-   "address": "21 Marrickville Rd, Marrickville",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.stickytickets.com.au/cwtjg0/miriam_lieberman_single_launch.aspx"
-    }
-   ],
-   "title": "Miriam Lieberman",
-   "acts": [
-    {
-     "name": "Miriam Lieberman",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-nana-s-pie",
-   "start": "2026-11-14T19:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "venue": "Bootleggers @ Kelly's On King",
-   "suburb": "Newtown",
-   "address": "285 King St, Newtown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fnanas-pie-till-the-morning-tour%2F200850&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Nana's Pie",
-   "acts": [
-    {
-     "name": "Nana's Pie",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-park-rd",
-   "start": "2026-11-14T19:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "venue": "Waywards Ballroom",
-   "suburb": "Newtown",
-   "address": "320 King St, Newtown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fpark-rd-%25E2%2580%2593-boyhood-tour%2F200998&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/park-rd-boyhood-tour/200998"
-    }
-   ],
-   "title": "PARK RD (NZ)",
-   "acts": [
-    {
-     "name": "PARK RD (NZ)",
-     "kind": "pending",
+     "name": "Lil Hazelton",
+     "kind": "unmatched",
      "id": null,
      "guess": false,
      "billing": "headline"
@@ -3155,34 +1603,7 @@
    "acts": [
     {
      "name": "Skyscraper Stan & Oscar Herbig",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-alex-lloyd",
-   "start": "2026-11-14T19:30:00+11:00",
-   "date": "2026-11-14",
-   "time": "19:30",
-   "venue": "Factory Theatre",
-   "suburb": "Marrickville",
-   "address": "105 Victoria Rd, Marrickville",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://aucentury.sales.ticketsearch.com/sales/salesevent/163675"
-    }
-   ],
-   "title": "Alex Lloyd",
-   "acts": [
-    {
-     "name": "Alex Lloyd",
-     "kind": "pending",
+     "kind": "unmatched",
      "id": null,
      "guess": false,
      "billing": "headline"
@@ -3218,395 +1639,32 @@
    "score": null
   },
   {
-   "key": "2026-11-14-dated",
+   "key": "2026-11-14-queen-juno",
    "start": "2026-11-14T20:00:00+11:00",
    "date": "2026-11-14",
    "time": "20:00",
-   "venue": "Botany View Hotel",
-   "suburb": "Newtown",
-   "address": "597 King St, Newtown",
+   "venue": "Golden Barley Hotel",
+   "suburb": "Enmore",
+   "address": "165-169 Edgeware Rd, Enmore",
    "free": false,
    "links": [
     {
      "source": "sydneymusic",
-     "url": "https://tickets.oztix.com.au/outlet/event/d755a213-227f-445d-bfb8-c1a6cb2b3c39"
+     "url": "https://www.facebook.com/events/1365469098813040"
     }
    ],
-   "title": "The Dated",
+   "title": "Queen Juno",
    "acts": [
     {
-     "name": "The Dated",
-     "kind": "pending",
-     "id": null,
+     "name": "Queen Juno",
+     "kind": "similar",
+     "id": "5JiAcuJjIuQ85FDByVc5uw",
      "guess": false,
      "billing": "headline"
     },
     {
-     "name": "Spice Child",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "A Place in the Sky",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-george-wassouf",
-   "start": "2026-11-14T20:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "venue": "Darling Harbour Theatre",
-   "suburb": "Sydney",
-   "address": "14 Darling Drive, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DGEWASSAD26&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "George Wassouf (SYR)",
-   "acts": [
-    {
-     "name": "George Wassouf (SYR)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Adam (SYR)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-katchafire",
-   "start": "2026-11-14T20:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "venue": "Metro Theatre",
-   "suburb": "Sydney",
-   "address": "614 George St, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DKATCFI26&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Katchafire (NZ)",
-   "acts": [
-    {
-     "name": "Katchafire (NZ)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Mike Love (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-kip-moore",
-   "start": "2026-11-14T20:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "venue": "Enmore Theatre",
-   "suburb": "Newtown",
-   "address": "128 Enmore Rd, Newtown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DMOORKIP26&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Kip Moore (USA)",
-   "acts": [
-    {
-     "name": "Kip Moore (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-lapis",
-   "start": "2026-11-14T20:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "venue": "OAF Gallery @ Oxford Art Factory",
-   "suburb": "Darlinghurst",
-   "address": "38/46 Oxford St, Darlinghurst",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Flapis-spots-and-stripes-single-launch-ft-leo-abisaab-free-entry%2F201401&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "LAPIS",
-   "acts": [
-    {
-     "name": "LAPIS",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Leo Abisaab",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-mark-of-cain",
-   "start": "2026-11-14T20:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "venue": "Manning Bar",
-   "suburb": "Camperdown",
-   "address": "a18 Manning Rd, Camperdown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fthe-mark-of-cain%2F197812&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/the-mark-of-cain/197812"
-    }
-   ],
-   "title": "The Mark of Cain",
-   "acts": [
-    {
-     "name": "The Mark of Cain",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Budd",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Witch Spit",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-sega-jade",
-   "start": "2026-11-14T21:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "21:00",
-   "venue": "Vic on the Park",
-   "suburb": "Marrickville",
-   "address": "2 Addison Rd, Marrickville",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://tickets.oztix.com.au/outlet/event/f6cebdff-61cf-40ac-a3dd-7ee3ab330fbd"
-    }
-   ],
-   "title": "Sega Jade",
-   "acts": [
-    {
-     "name": "Sega Jade",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Sydney Water",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-elias-mazian",
-   "start": "2026-11-14T22:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "22:00",
-   "venue": "Club 77",
-   "suburb": "Darlinghurst",
-   "address": "77 William St, Darlinghurst",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.club77.com.au/events/club-77-elias-mazian-mazzacles"
-    }
-   ],
-   "title": "Elias Mazian",
-   "acts": [
-    {
-     "name": "Elias Mazian",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Mazzacles",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-14-gudfella",
-   "start": "2026-11-14T22:00:00+11:00",
-   "date": "2026-11-14",
-   "time": "22:00",
-   "venue": "ivy Sydney",
-   "suburb": "Sydney",
-   "address": "330 George St, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fabove-nov-14-ft-gudfella%2F198750&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/above-nov-14-ft-gudfella/198750"
-    }
-   ],
-   "title": "Above - Nov 14 ft. Gudfella",
-   "acts": [
-    {
-     "name": "GUDFELLA",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "ABOVE",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-15-melanie-c",
-   "start": "2026-11-15T12:00:00+11:00",
-   "date": "2026-11-15",
-   "time": "12:00",
-   "venue": "The Beresford",
-   "suburb": "Surry Hills",
-   "address": "354 Bourke St, Surry Hills",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://merivale.com/whatson/nightlife/beresford-nightlife/special-event/"
-    },
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DCMELANIE26&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Melanie C (UK) [DJ]",
-   "acts": [
-    {
-     "name": "Melanie C (UK) [DJ]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-15-gilles-peterson",
-   "start": "2026-11-15T15:00:00+11:00",
-   "date": "2026-11-15",
-   "time": "15:00",
-   "venue": "Liberty Hall Coach Bay",
-   "suburb": "Moore Park",
-   "address": "Errol Flynn Boulevard, Moore Park",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fgilles-peterson%2F196010&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/gilles-peterson/196010"
-    }
-   ],
-   "title": "Gilles Peterson (UK)",
-   "acts": [
-    {
-     "name": "Gilles Peterson (UK)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Kamma & Masalo (NLD)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Bria",
-     "kind": "pending",
+     "name": "The Clean Break",
+     "kind": "unmatched",
      "id": null,
      "guess": false,
      "billing": "support"
@@ -3633,443 +1691,10 @@
    "acts": [
     {
      "name": "Baran Yildiz Quintet",
-     "kind": "pending",
+     "kind": "unmatched",
      "id": null,
      "guess": false,
      "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-15-james-morrison",
-   "start": "2026-11-15T16:00:00+11:00",
-   "date": "2026-11-15",
-   "time": "16:00",
-   "venue": "State Theatre, Sydney",
-   "suburb": "Sydney",
-   "address": "49 Market Street, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.ticketmaster.com.au/james-morrison-with-special-guest-mahalia-sydney-15-11-2026/event/1300647E8663184C"
-    }
-   ],
-   "title": "James Morrison with Special Guest Mahalia Barnes",
-   "acts": [
-    {
-     "name": "James Morrison",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Mahalia Barnes",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-15-kristin-hersh",
-   "start": "2026-11-15T19:00:00+11:00",
-   "date": "2026-11-15",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "suburb": "Newtown",
-   "address": "42 King St, Newtown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fan-evening-with-kristin-hersh-us%2F196005&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/an-evening-with-kristin-hersh-us-/196005"
-    }
-   ],
-   "title": "Kristin Hersh (USA)",
-   "acts": [
-    {
-     "name": "Kristin Hersh (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Kellie Lloyd [Screamfeeder]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-15-grytt",
-   "start": "2026-11-15T19:30:00+11:00",
-   "date": "2026-11-15",
-   "time": "19:30",
-   "venue": "Enmore Hotel",
-   "suburb": "Enmore",
-   "address": "199 Enmore Road, Enmore",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.instagram.com/p/Dd8j-JiTq2L/"
-    }
-   ],
-   "title": "Grytt",
-   "acts": [
-    {
-     "name": "Grytt",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Outcest",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-15-ephemera-quartet",
-   "start": "2026-11-15T20:00:00+11:00",
-   "date": "2026-11-15",
-   "time": "20:00",
-   "venue": "21 Shepherd",
-   "suburb": "Marrickville",
-   "address": "21 Shepherd Street, Marrickville",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://events.humanitix.com/ephemera-quartet-clayton-thomas"
-    }
-   ],
-   "title": "Ephemera Quartet",
-   "acts": [
-    {
-     "name": "Ephemera Quartet",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Clayton Thomas / Lily Innis / Mariel Roberts / Freya Schack-Arnott & Phillippa Murphy-Haste",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-15-suzi-quatro",
-   "start": "2026-11-15T20:30:00+11:00",
-   "date": "2026-11-15",
-   "time": "20:30",
-   "venue": "Sydney Opera House Concert Hall",
-   "suburb": "Sydney",
-   "address": "2 Circular Quay E, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.sydneyoperahouse.com/contemporary-music/suzi-quatro"
-    }
-   ],
-   "title": "Suzi Quatro (USA)",
-   "acts": [
-    {
-     "name": "Suzi Quatro (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Baby Animals",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-16-flyte",
-   "start": "2026-11-16T19:30:00+11:00",
-   "date": "2026-11-16",
-   "time": "19:30",
-   "venue": "Oxford Art Factory",
-   "suburb": "Darlinghurst",
-   "address": "38/46 Oxford St, Darlinghurst",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fflyte-uk%2F195420%3Fref%3DRSS_rss_oaf_website%26skin%3DOAF&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/flyte-uk-/195420"
-    }
-   ],
-   "title": "Flyte (UK)",
-   "acts": [
-    {
-     "name": "Flyte (UK)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-16-justin-yeo",
-   "start": "2026-11-16T20:00:00+11:00",
-   "date": "2026-11-16",
-   "time": "20:00",
-   "venue": "Church St Studios",
-   "suburb": "Camperdown",
-   "address": "62-68 Church St, Camperdown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://events.humanitix.com/justin-yeo-wilbur-whitta-solo?_gl=1*13rjl2b*_gcl_au*Njg5NjgwMDY4LjE3ODMyODExNTg.*_ga*NjQ5MjQxMzk2LjE3NzUxMTI4MDc.*_ga_LHKW5FR9N6*czE3OTA1NTIzMTEkbzY2JGcxJHQxNzkwNTU1MTU3JGoxNSRsMCRoMA.."
-    }
-   ],
-   "title": "Justin Yeo",
-   "acts": [
-    {
-     "name": "Justin Yeo",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Wilbur Whitta",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-17-gilles-peterson",
-   "start": "2026-11-17T18:00:00+11:00",
-   "date": "2026-11-17",
-   "time": "18:00",
-   "venue": "The Vanguard",
-   "suburb": "Newtown",
-   "address": "42 King St, Newtown",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/gilles-peterson-liner-notes-tales-from-down-under/201493"
-    }
-   ],
-   "title": "Gilles Peterson - Liner Notes: Tales from Down Under",
-   "acts": [
-    {
-     "name": "Gilles Peterson",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-17-crimes-on-art",
-   "start": "2026-11-17T19:00:00+11:00",
-   "date": "2026-11-17",
-   "time": "19:00",
-   "venue": "MoshPit Bar",
-   "suburb": "Erskineville",
-   "address": "640-644 King St, Erskineville",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.facebook.com/events/1657731929248852/"
-    }
-   ],
-   "title": "Crimes on Art",
-   "acts": [
-    {
-     "name": "Crimes on Art",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Motordose",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Three Out Change",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-17-yves",
-   "start": "2026-11-17T19:00:00+11:00",
-   "date": "2026-11-17",
-   "time": "19:00",
-   "venue": "Liberty Hall",
-   "suburb": "Moore Park",
-   "address": "Building 220, The Entertainment Quarter, Moore Park",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fyves-australian-tour-2026%2F199175&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/yves-australian-tour-2026-/199175"
-    }
-   ],
-   "title": "Yves (KOR)",
-   "acts": [
-    {
-     "name": "Yves (KOR)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-18-c-w-stoneking",
-   "start": "2026-11-18T19:00:00+11:00",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "venue": "Art Gallery of NSW",
-   "suburb": "Sydney",
-   "address": "3B Art Gallery Rd, Sydney",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.artgallery.nsw.gov.au/whats-on/events/nolan-performance-stoneking/"
-    }
-   ],
-   "title": "C.W. Stoneking",
-   "acts": [
-    {
-     "name": "C.W. Stoneking",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-18-dermot-kennedy",
-   "start": "2026-11-18T19:00:00+11:00",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "venue": "ICC Sydney Theatre",
-   "suburb": "Sydney",
-   "address": "14 Darling Dr, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DALMDCSTS26&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Dermot Kennedy (IRL)",
-   "acts": [
-    {
-     "name": "Dermot Kennedy (IRL)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-18-tristen-bird",
-   "start": "2026-11-18T19:00:00+11:00",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "venue": "Butchers Brew Bar",
-   "suburb": "Dulwich Hill",
-   "address": "501 Marrickville Road, Dulwich Hill",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.stickytickets.com.au/w7q11c/tristen_bird__lily_innis__esther_sparkes_triple_bill__live_at_butchers_brew_bar.aspx"
-    }
-   ],
-   "title": "Tristen Bird",
-   "acts": [
-    {
-     "name": "Tristen Bird",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Lily Innis",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Esther Sparkes",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
     }
    ],
    "score": null
@@ -4124,6 +1749,13 @@
      "id": null,
      "guess": false,
      "billing": "headline"
+    },
+    {
+     "name": "Liam Kazar (USA)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
     }
    ],
    "score": null
@@ -4305,6 +1937,81 @@
    "score": null
   },
   {
+   "key": "2026-11-19-golgothan-remains",
+   "start": "2026-11-19T19:00:00+11:00",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "venue": "Hopsters Brewery",
+   "suburb": "Enmore",
+   "address": "198 Enmore Rd, Enmore",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.instagram.com/p/DfEJpCePEzW/?hl=en"
+    }
+   ],
+   "title": "Golgothan Remains",
+   "acts": [
+    {
+     "name": "Golgothan Remains",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-19-irked",
+   "start": "2026-11-19T19:00:00+11:00",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "venue": "Jura Books",
+   "suburb": "Petersham",
+   "address": "440 Parramatta Rd, Petersham",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.instagram.com/p/DfB5J3NFOt0/?hl=en&img_index=1"
+    }
+   ],
+   "title": "Irked (UK)",
+   "acts": [
+    {
+     "name": "Irked (UK)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "DVRKWORLD",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Sarah Jane & The Noise",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Alex Fears",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-19-jewel-owusu",
    "start": "2026-11-19T19:00:00+11:00",
    "date": "2026-11-19",
@@ -4409,6 +2116,60 @@
    "acts": [
     {
      "name": "Ryan Harris (CAN)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-19-select-all",
+   "start": "2026-11-19T19:00:00+11:00",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "venue": "The Vanguard",
+   "suburb": "Newtown",
+   "address": "42 King St, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fselect-all%2F201949&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Select All",
+   "acts": [
+    {
+     "name": "Select All",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-19-steve-sedergreen-and-friends",
+   "start": "2026-11-19T19:00:00+11:00",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "venue": "Level 1 @ Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Flvl-1-steve-sedergreen-friends%2F193881%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Steve Sedergreen & Friends",
+   "acts": [
+    {
+     "name": "Steve Sedergreen & Friends",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -4725,6 +2486,40 @@
    "score": null
   },
   {
+   "key": "2026-11-20-myma",
+   "start": "2026-11-20T18:00:00+11:00",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "venue": "35 Richards Lane",
+   "suburb": "Surry Hills",
+   "address": "35 Richards Lane, Surry Hills",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.eventbrite.com/e/fk-being-sad-lets-be-sexy-tickets-2003588364734?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile"
+    }
+   ],
+   "title": "MYMA",
+   "acts": [
+    {
+     "name": "MYMA",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Bird in Hand",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-20-urthboy",
    "start": "2026-11-20T18:00:00+11:00",
    "date": "2026-11-20",
@@ -4972,33 +2767,6 @@
    "score": null
   },
   {
-   "key": "2026-11-20-jam-sandwiches",
-   "start": "2026-11-20T19:00:00+11:00",
-   "date": "2026-11-20",
-   "time": "19:00",
-   "venue": "The Lansdowne",
-   "suburb": "Chippendale",
-   "address": "206 Broadway, Chippendale",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fthe-jam-sandwiches-infinite-launch%2F201092&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "The Jam Sandwiches",
-   "acts": [
-    {
-     "name": "The Jam Sandwiches",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
    "key": "2026-11-20-keyim-ba",
    "start": "2026-11-20T19:00:00+11:00",
    "date": "2026-11-20",
@@ -5080,6 +2848,33 @@
    "score": null
   },
   {
+   "key": "2026-11-20-ratcat",
+   "start": "2026-11-20T19:00:00+11:00",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "venue": "The Vanguard",
+   "suburb": "Newtown",
+   "address": "42 King St, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "ticketmaster",
+     "url": "https://www.moshtix.com.au/v2/event/ratcat/202178"
+    }
+   ],
+   "title": "RATCAT",
+   "acts": [
+    {
+     "name": "Ratcat",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-20-suzanne-ciani",
    "start": "2026-11-20T19:00:00+11:00",
    "date": "2026-11-20",
@@ -5102,6 +2897,47 @@
      "id": null,
      "guess": false,
      "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-20-john-kennedy",
+   "start": "2026-11-20T19:30:00+11:00",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "venue": "Marrickville Bowling Club",
+   "suburb": "Marrickville",
+   "address": "91 Sydenham Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://tickets.oztix.com.au/outlet/event/1765eb82-f32e-4890-99e7-1565195afbd7"
+    }
+   ],
+   "title": "John Kennedy",
+   "acts": [
+    {
+     "name": "John Kennedy",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Victoria",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Steve Broughton",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
     }
    ],
    "score": null
@@ -5485,6 +3321,40 @@
    "score": null
   },
   {
+   "key": "2026-11-20-rox-lavi",
+   "start": "2026-11-20T20:00:00+11:00",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "venue": "OAF Gallery @ Oxford Art Factory",
+   "suburb": "Darlinghurst",
+   "address": "38/46 Oxford St, Darlinghurst",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/rox-lavi-fall-off-single-release-party-oxford-art-factory?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAac0IzD_YN428XycO4gG63qEyJQpEAARr6qp1BEO4zNZXIYs1t86Nwy5Z0SrUQ_aem_hZZfLnrLM67qgIT_GJly_g&utm_id=97760_v0_s00_e0_tv3_a1dennhak3jji7"
+    }
+   ],
+   "title": "ROX LAVI",
+   "acts": [
+    {
+     "name": "ROX LAVI",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Nitecall [DJ]",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-20-shapeshifter",
    "start": "2026-11-20T20:00:00+11:00",
    "date": "2026-11-20",
@@ -5507,6 +3377,47 @@
      "id": null,
      "guess": false,
      "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-20-sugar-beats",
+   "start": "2026-11-20T20:00:00+11:00",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "venue": "Golden Barley Hotel",
+   "suburb": "Enmore",
+   "address": "165-169 Edgeware Rd, Enmore",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.facebook.com/events/1597282735212047"
+    }
+   ],
+   "title": "The Sugar Beats",
+   "acts": [
+    {
+     "name": "The Sugar Beats",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "The Coolz",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "The Geodes",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "support"
     }
    ],
    "score": null
@@ -5573,28 +3484,138 @@
    "score": null
   },
   {
-   "key": "2026-11-20-wao-superclub",
-   "start": "2026-11-20T21:30:00+11:00",
+   "key": "2026-11-20-lucidbloom",
+   "start": "2026-11-20T21:00:00+11:00",
    "date": "2026-11-20",
-   "time": "21:30",
-   "venue": "ivy Sydney",
-   "suburb": "Sydney",
-   "address": "330 George Street, Sydney",
+   "time": "21:00",
+   "venue": "Sneaky Possum",
+   "suburb": "Chippendale",
+   "address": "86 Abercrombie St, Chippendale",
    "free": false,
    "links": [
     {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/fri-20-nov-wao-superclub-ivy/201729"
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/lucidbloom-coexist"
     }
    ],
-   "title": "FRI 20 NOV - WAO SUPERCLUB @ IVY",
+   "title": "Lucidbloom",
    "acts": [
     {
-     "name": "WAO Superclub",
-     "kind": "unmatched",
+     "name": "Lucidbloom",
+     "kind": "pending",
      "id": null,
      "guess": false,
      "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-20-matthias",
+   "start": "2026-11-20T22:00:00+11:00",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "venue": "Club 77",
+   "suburb": "Darlinghurst",
+   "address": "77 William St, Darlinghurst",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ra.co/events/2555202"
+    }
+   ],
+   "title": "Matthias [Superluminal] (DEU)",
+   "acts": [
+    {
+     "name": "Matthias [Superluminal] (DEU)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Jesse You (KOR)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Tarj",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-20-monde-soniq",
+   "start": "2026-11-20T22:00:00+11:00",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "venue": "The Abercrombie",
+   "suburb": "Chippendale",
+   "address": "100 Broadway, Chippendale",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/monde-soniq"
+    }
+   ],
+   "title": "Monde Soniq",
+   "acts": [
+    {
+     "name": "Monde Soniq",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Leggy b2b Tomatoegg",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Kassita b2b Masheen",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Scusii b2b Deverence",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Nulty b2b Subcor",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Fair Xara b2b Miss Sunshine",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Krix b2b NFRMT",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
     }
    ],
    "score": null
@@ -5946,38 +3967,73 @@
    "score": null
   },
   {
-   "key": "2026-11-21-ally-george",
-   "start": "2026-11-21T18:00:00+11:00",
+   "key": "2026-11-21-artists-for-palestine",
+   "start": "2026-11-21T17:00:00+11:00",
    "date": "2026-11-21",
-   "time": "18:00",
-   "venue": "Ground Floor @ The Lansdowne",
-   "suburb": "Chippendale",
-   "address": "2-6 City Road, Chippendale",
+   "time": "17:00",
+   "venue": "Addison Road Community Centre",
+   "suburb": "Marrickville",
+   "address": "142 Addison Rd, Marrickville",
    "free": false,
    "links": [
     {
      "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fally-george-the-year-i-turned-eighteen-ep-launch%2F201072&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+     "url": "https://events.humanitix.com/artists-for-palestine"
     }
    ],
-   "title": "Ally George",
+   "title": "Artists For Palestine",
    "acts": [
     {
-     "name": "Ally George",
+     "name": "Artists For Palestine",
      "kind": "pending",
      "id": null,
      "guess": false,
      "billing": "headline"
     },
     {
-     "name": "Grace Newton",
+     "name": "Sound The Alarm",
      "kind": "pending",
      "id": null,
      "guess": false,
      "billing": "support"
     },
     {
-     "name": "Maxine Baker",
+     "name": "Urthboy",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "LEM",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Moe Omran",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Majdi Jelda",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Sound The Alarm",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Paja",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -6159,7 +4215,7 @@
    "start": "2026-11-21T19:00:00+11:00",
    "date": "2026-11-21",
    "time": "19:00",
-   "venue": "Chuck Trailer's - CBD",
+   "venue": "Chuck Trailer's – CBD",
    "suburb": "Sydney",
    "address": "36 York Street, Sydney",
    "free": true,
@@ -6211,6 +4267,33 @@
      "id": null,
      "guess": false,
      "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-21-mark-lucas",
+   "start": "2026-11-21T19:00:00+11:00",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "venue": "Sappho Books, Cafe & Bar",
+   "suburb": "Glebe",
+   "address": "Cafe & Bar, 51 Glebe Point Rd Glebe, Glebe",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.sapphobooks.com.au/event/mark-lucas-3/"
+    }
+   ],
+   "title": "Mark Lucas",
+   "acts": [
+    {
+     "name": "Mark Lucas",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
     }
    ],
    "score": null
@@ -6679,6 +4762,33 @@
    "score": null
   },
   {
+   "key": "2026-11-21-riria",
+   "start": "2026-11-21T21:00:00+11:00",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "venue": "Chinese Laundry",
+   "suburb": "Sydney",
+   "address": "1 Slip St, Sydney",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fchinese-laundry-invites-riria%2F201673&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "RIRIA",
+   "acts": [
+    {
+     "name": "RIRIA",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-21-dj-kiti",
    "start": "2026-11-21T22:00:00+11:00",
    "date": "2026-11-21",
@@ -6706,62 +4816,28 @@
    "score": null
   },
   {
-   "key": "2026-11-21-max-and-luke-dean",
+   "key": "2026-11-21-gabrielle-kwarteng",
    "start": "2026-11-21T22:00:00+11:00",
    "date": "2026-11-21",
    "time": "22:00",
-   "venue": "Ivy",
-   "suburb": "Sydney",
-   "address": "330 George St, Sydney",
+   "venue": "The Abercrombie",
+   "suburb": "Chippendale",
+   "address": "100 Broadway, Chippendale",
    "free": false,
    "links": [
     {
      "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fmax-dean-b2b-luke-dean%2F200951&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+     "url": "https://events.humanitix.com/abercrombie-pres-gabrielle-kwartang-usa"
     }
    ],
-   "title": "Max & Luke Dean (UK)",
+   "title": "Gabrielle Kwarteng (USA)",
    "acts": [
     {
-     "name": "Max & Luke Dean (UK)",
+     "name": "Gabrielle Kwarteng (USA)",
      "kind": "pending",
      "id": null,
      "guess": false,
      "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-21-max-dean",
-   "start": "2026-11-21T22:00:00+11:00",
-   "date": "2026-11-21",
-   "time": "22:00",
-   "venue": "ivy Sydney",
-   "suburb": "Sydney",
-   "address": "330 George Street, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/max-dean-b2b-luke-dean/200951"
-    }
-   ],
-   "title": "Max Dean B2B Luke Dean",
-   "acts": [
-    {
-     "name": "Max Dean",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Luke Dean",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
     }
    ],
    "score": null
@@ -6980,40 +5056,6 @@
    "score": null
   },
   {
-   "key": "2026-11-22-lost-sundays",
-   "start": "2026-11-22T16:00:00+11:00",
-   "date": "2026-11-22",
-   "time": "16:00",
-   "venue": "ivy Sydney",
-   "suburb": "Sydney",
-   "address": "330 George Street, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/lost-sundays-november-22-ft-omar-the-trip-lewis-taylor/200897"
-    }
-   ],
-   "title": "Lost Sundays - November 22 ft. Omar+, The Trip & Lewis Taylor",
-   "acts": [
-    {
-     "name": "Lost Sundays",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "OMAR+",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
    "key": "2026-11-22-edge-band",
    "start": "2026-11-22T18:00:00+11:00",
    "date": "2026-11-22",
@@ -7059,6 +5101,54 @@
    "score": null
   },
   {
+   "key": "2026-11-22-file-type",
+   "start": "2026-11-22T18:00:00+11:00",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "venue": "Mothership Studios",
+   "suburb": "Marrickville",
+   "address": "18-22 Sydney St, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/file-type-at-mothership?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAaeAhxNlxG9XFyyiNxjnprs2AAl3JI3UkTC7BA8zqsZiWr8qaPz2tB5TNx_-wg_aem_mH4lflYqTl5xvolRgxuHxw&utm_id=97760_v0_s00_e0_tv3_a1denngngiqh9a"
+    }
+   ],
+   "title": "File Type",
+   "acts": [
+    {
+     "name": "File Type",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Heaven Cell",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Sydney Water",
+     "kind": "unmatched",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Mannequin Radio",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-22-lucca-mae",
    "start": "2026-11-22T18:00:00+11:00",
    "date": "2026-11-22",
@@ -7084,6 +5174,47 @@
     },
     {
      "name": "Jack R. Reilly",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-22-s-c-u-m",
+   "start": "2026-11-22T18:00:00+11:00",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "venue": "Petersham Bowling Club",
+   "suburb": "Petersham",
+   "address": "77 Brighton St, Petersham",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/society-of-cutting-up-men-pbc"
+    }
+   ],
+   "title": "S.C.U.M.",
+   "acts": [
+    {
+     "name": "S.C.U.M.",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "<redux>",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Manticora",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -7230,6 +5361,54 @@
     },
     {
      "name": "Runa Cara",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-24-local-business",
+   "start": "2026-11-24T18:00:00+11:00",
+   "date": "2026-11-24",
+   "time": "18:00",
+   "venue": "Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Flocal-business-bear-the-knee-seldoon-and-insteria%2F201137%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Local Business",
+   "acts": [
+    {
+     "name": "Local Business",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Bear the Knee",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Seldoon",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Insteria",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -8349,6 +6528,47 @@
    "score": null
   },
   {
+   "key": "2026-11-27-cytosis",
+   "start": "2026-11-27T20:00:00+11:00",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "venue": "Ground Floor @ The Lansdowne",
+   "suburb": "Chippendale",
+   "address": "2-6 City Road, Chippendale",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fafter-dark-w-cytosis-maxgamble-drench%2F201994&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Cytosis",
+   "acts": [
+    {
+     "name": "Cytosis",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Maxgamble",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Drench",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-27-haru-nemuri",
    "start": "2026-11-27T20:00:00+11:00",
    "date": "2026-11-27",
@@ -8371,50 +6591,9 @@
      "id": null,
      "guess": false,
      "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-27-pyrokinesis",
-   "start": "2026-11-27T20:00:00+11:00",
-   "date": "2026-11-27",
-   "time": "20:00",
-   "venue": "Dead Set",
-   "suburb": "Darlinghurst",
-   "address": "383 Bourke St, Darlinghurst",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.deadsetdarlo.com.au/whats-on/pyrokinesis.html"
-    }
-   ],
-   "title": "Pyrokinesis",
-   "acts": [
-    {
-     "name": "Pyrokinesis",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
     },
     {
-     "name": "Stenchpit",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Repriever",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Face the Martyr",
+     "name": "Jaguar Jonze",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -8557,33 +6736,6 @@
    "score": null
   },
   {
-   "key": "2026-11-27-wao-superclub",
-   "start": "2026-11-27T21:30:00+11:00",
-   "date": "2026-11-27",
-   "time": "21:30",
-   "venue": "ivy Sydney",
-   "suburb": "Sydney",
-   "address": "330 George Street, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/fri-27-nov-int-guest-dj-anime-wao-superclub/201730"
-    }
-   ],
-   "title": "FRI 27 NOV - INT GUEST DJ ANIME @ WAO SUPERCLUB",
-   "acts": [
-    {
-     "name": "WAO Superclub",
-     "kind": "unmatched",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
    "key": "2026-11-27-bashkka",
    "start": "2026-11-27T22:00:00+11:00",
    "date": "2026-11-27",
@@ -8609,6 +6761,40 @@
     },
     {
      "name": "JakoJako (DEU)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-27-claddy",
+   "start": "2026-11-27T22:00:00+11:00",
+   "date": "2026-11-27",
+   "time": "22:00",
+   "venue": "Club 77",
+   "suburb": "Darlinghurst",
+   "address": "77 William St, Darlinghurst",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ra.co/events/2570793"
+    }
+   ],
+   "title": "Claddy",
+   "acts": [
+    {
+     "name": "Claddy",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Ciara",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -8664,47 +6850,6 @@
     },
     {
      "name": "VNESSA",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-28-lee-burridge",
-   "start": "2026-11-28T14:00:00+11:00",
-   "date": "2026-11-28",
-   "time": "14:00",
-   "venue": "ivy Sydney",
-   "suburb": "Sydney",
-   "address": "330 George Street, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/all-day-i-dream-of-australia-sydney/197441"
-    }
-   ],
-   "title": "All Day I Dream of Australia | Sydney",
-   "acts": [
-    {
-     "name": "Lee Burridge",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Double Touch",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Lost Desert",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -8960,6 +7105,74 @@
    "score": null
   },
   {
+   "key": "2026-11-28-jet-city-sports-club",
+   "start": "2026-11-28T19:00:00+11:00",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "venue": "Waywards Ballroom",
+   "suburb": "Newtown",
+   "address": "320 King St, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fjet-city-sports-club-antarctica-in-summer-sydney%2F201312&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Jet City Sports Club",
+   "acts": [
+    {
+     "name": "Jet City Sports Club",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-28-lord-esme",
+   "start": "2026-11-28T19:00:00+11:00",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "venue": "Golden Barley Hotel",
+   "suburb": "Enmore",
+   "address": "165-169 Edgeware Rd, Enmore",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.facebook.com/events/2486201345241418"
+    }
+   ],
+   "title": "Lord Esme",
+   "acts": [
+    {
+     "name": "Lord Esme",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Sleepy",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Worry Mall",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-28-noon-shift",
    "start": "2026-11-28T19:00:00+11:00",
    "date": "2026-11-28",
@@ -9042,49 +7255,28 @@
    "score": null
   },
   {
-   "key": "2026-11-28-soma-plume",
+   "key": "2026-11-28-whitt-s-end",
    "start": "2026-11-28T19:00:00+11:00",
    "date": "2026-11-28",
    "time": "19:00",
-   "venue": "The Lansdowne",
-   "suburb": "Chippendale",
-   "address": "206 Broadway, Chippendale",
-   "free": false,
+   "venue": "Chuck Trailer's – CBD",
+   "suburb": "Sydney",
+   "address": "36 York Street, Sydney",
+   "free": true,
    "links": [
     {
      "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Flow-heavy-vol-i%2F198628&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+     "url": "https://www.instagram.com/p/De9ASBnSQD8/?utm_source=ig_web_copy_link&obrf=NTc4MTIwNjQ2YQ=="
     }
    ],
-   "title": "Soma Plume",
+   "title": "Whitt's End",
    "acts": [
     {
-     "name": "Soma Plume",
+     "name": "Whitt's End",
      "kind": "pending",
      "id": null,
      "guess": false,
      "billing": "headline"
-    },
-    {
-     "name": "Mourners",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Amammoth",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Migret",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
     }
    ],
    "score": null
@@ -9165,6 +7357,37 @@
    "score": null
   },
   {
+   "key": "2026-11-28-liquid-zoo",
+   "start": "2026-11-28T19:30:00+11:00",
+   "date": "2026-11-28",
+   "time": "19:30",
+   "venue": "The Chippo Hotel",
+   "suburb": "Chippendale",
+   "address": "87-91 Abercrombie St, Chippendale",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://tickets.musicbooze.co/outlet/event/a08e3f58-485f-448f-82da-57f3ab7de0e4"
+    },
+    {
+     "source": "sydneymusic",
+     "url": "https://tickets.oztix.com.au/outlet/event/a08e3f58-485f-448f-82da-57f3ab7de0e4?utm_source=MBC&utm_medium=EventFeed"
+    }
+   ],
+   "title": "LIQUID ZOO",
+   "acts": [
+    {
+     "name": "LIQUID ZOO",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-28-mick-thomas-and-the-roving-commission",
    "start": "2026-11-28T19:30:00+11:00",
    "date": "2026-11-28",
@@ -9219,6 +7442,60 @@
    "score": null
   },
   {
+   "key": "2026-11-28-arthur-evans",
+   "start": "2026-11-28T20:00:00+11:00",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "venue": "Factory Floor @ Factory Theatre",
+   "suburb": "Marrickville",
+   "address": "105 Victoria Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.factorytheatre.com.au/event/arthur-evans/"
+    }
+   ],
+   "title": "Arthur Evans",
+   "acts": [
+    {
+     "name": "Arthur Evans",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-28-elliot-and-vincent",
+   "start": "2026-11-28T20:00:00+11:00",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "venue": "The Vanguard",
+   "suburb": "Newtown",
+   "address": "42 King St, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Felliot-vincent-nz%2F201824&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Elliot and Vincent (NZ)",
+   "acts": [
+    {
+     "name": "Elliot and Vincent (NZ)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-28-fingertips",
    "start": "2026-11-28T20:00:00+11:00",
    "date": "2026-11-28",
@@ -9244,6 +7521,47 @@
     },
     {
      "name": "MEEM",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-28-morituri",
+   "start": "2026-11-28T20:00:00+11:00",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "venue": "Botany View Hotel",
+   "suburb": "Newtown",
+   "address": "597 King St, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://tickets.oztix.com.au/outlet/event/7fcb5daf-7d4a-4972-ad8c-e5620c5f9e15?utm_source=Oztix&utm_medium=Website&_gl=1*b8bn4v*_ga*NzEyMjA5ODE5LjE3ODgwODcwMTY.*_ga_Z6Q34PSGS3*czE3OTM1MjQzMTckbzE2JGcxJHQxNzkzNTI1NDI0JGo0NCRsMCRoMA.."
+    }
+   ],
+   "title": "Morituri",
+   "acts": [
+    {
+     "name": "Morituri",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Blackened Rose",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "If Anything!",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -9346,7 +7664,7 @@
     },
     {
      "name": "Carolina Gasolina",
-     "kind": "pending",
+     "kind": "unmatched",
      "id": null,
      "guess": false,
      "billing": "support"
@@ -9457,40 +7775,6 @@
    "score": null
   },
   {
-   "key": "2026-11-28-tsha",
-   "start": "2026-11-28T22:00:00+11:00",
-   "date": "2026-11-28",
-   "time": "22:00",
-   "venue": "ivy Sydney",
-   "suburb": "Sydney",
-   "address": "330 George Street, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/above-nov-28-ft-tsha/198751"
-    }
-   ],
-   "title": "Above - Nov 28 ft. TSHA",
-   "acts": [
-    {
-     "name": "TSHA",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "ABOVE",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
    "key": "2026-11-29-kerri-chandler",
    "start": "2026-11-29T15:00:00+11:00",
    "date": "2026-11-29",
@@ -9568,6 +7852,40 @@
     },
     {
      "name": "Lola Scott",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-11-29-jc-and-the-tree",
+   "start": "2026-11-29T17:00:00+11:00",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "venue": "Level 1 @ Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Flvl-1-jc-the-tree-lost-in-the-wild-album-release-tour-with-support-jarrah%2F201108%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "JC & The Tree",
+   "acts": [
+    {
+     "name": "JC & The Tree",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Jarrah F Smitch",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -9689,6 +8007,33 @@
    "score": null
   },
   {
+   "key": "2026-11-29-smile-practice",
+   "start": "2026-11-29T19:00:00+11:00",
+   "date": "2026-11-29",
+   "time": "19:00",
+   "venue": "Enmore Hotel",
+   "suburb": "Enmore",
+   "address": "199 Enmore Road, Enmore",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.instagram.com/p/De86Tkilwqw/?hl=en&img_index=1"
+    }
+   ],
+   "title": "Smile Practice",
+   "acts": [
+    {
+     "name": "Smile Practice",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-11-29-suzanne-ciani",
    "start": "2026-11-29T19:00:00+11:00",
    "date": "2026-11-29",
@@ -9738,51 +8083,6 @@
      "id": null,
      "guess": false,
      "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-11-29-buckshot",
-   "start": "2026-11-29T20:00:00+11:00",
-   "date": "2026-11-29",
-   "time": "20:00",
-   "venue": "Manning Bar",
-   "suburb": "Camperdown",
-   "address": "a18 Manning Rd, Camperdown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fbuckshot-with-sidney-phillips-and-oscar18%2F198386&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/buckshot-with-sidney-phillips-and-oscar18/198386"
-    }
-   ],
-   "title": "Buckshot (IRL)",
-   "acts": [
-    {
-     "name": "Buckshot (IRL)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Sidney Phillips",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Oscar18",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
     }
    ],
    "score": null
@@ -10108,6 +8408,47 @@
    "score": null
   },
   {
+   "key": "2026-12-02-vanity-project",
+   "start": "2026-12-02T18:00:00+11:00",
+   "date": "2026-12-02",
+   "time": "18:00",
+   "venue": "Level 1 @ Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Flvl-1-off-the-clock-%F0%9F%8E%B8-presented-by-all-age-music%2F200485%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Vanity Project",
+   "acts": [
+    {
+     "name": "Vanity Project",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Parallel Processing",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Neon Rust",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-02-kami-kehoe",
    "start": "2026-12-02T19:00:00+11:00",
    "date": "2026-12-02",
@@ -10367,54 +8708,6 @@
    "score": null
   },
   {
-   "key": "2026-12-03-kosher-groove",
-   "start": "2026-12-03T18:00:00+11:00",
-   "date": "2026-12-03",
-   "time": "18:00",
-   "venue": "Lazybones Lounge",
-   "suburb": "Marrickville",
-   "address": "294 Marrickville Rd, Marrickville",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fkosher-groove-with-strings-over-two-rooms%2F200729%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "Kosher Groove",
-   "acts": [
-    {
-     "name": "Kosher Groove",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Gabriel De Castro",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Flux State [Live]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Reenie",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
    "key": "2026-12-03-yasmina-sadiki",
    "start": "2026-12-03T18:00:00+11:00",
    "date": "2026-12-03",
@@ -10518,6 +8811,20 @@
      "id": null,
      "guess": false,
      "billing": "headline"
+    },
+    {
+     "name": "Jade Hannah",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "The Charlie’s",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
     }
    ],
    "score": null
@@ -10832,54 +9139,6 @@
    "score": null
   },
   {
-   "key": "2026-12-04-old-heathens",
-   "start": "2026-12-04T19:00:00+11:00",
-   "date": "2026-12-04",
-   "time": "19:00",
-   "venue": "Gifts of Mercy Emporium",
-   "suburb": "Petersham",
-   "address": "452 Parramatta Rd, Petersham",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.eventbrite.com/e/arterial-wound-exchange-of-power-face-to-foot-old-heathens-tickets-2003283920132?utm_experiment=test_share_listing&aff=ebdsshios&sg=59e4c66dc3b2893cfac167e5ac589b48daa22ed8f3a371f634a01a79680d4ea46eff397fa068c0160d25203ea9ffc2789f140004de4679aef2f07d2cb9009ae4e069e32b87024ad89b4b2297"
-    }
-   ],
-   "title": "Old Heathens",
-   "acts": [
-    {
-     "name": "Old Heathens",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Face to Foot",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Arterial Wound",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Exchange of Power",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
    "key": "2026-12-04-memphis-lk",
    "start": "2026-12-04T19:30:00+11:00",
    "date": "2026-12-04",
@@ -11057,6 +9316,67 @@
    "score": null
   },
   {
+   "key": "2026-12-04-dirty-harry",
+   "start": "2026-12-04T21:00:00+11:00",
+   "date": "2026-12-04",
+   "time": "21:00",
+   "venue": "Vic on the Park",
+   "suburb": "Marrickville",
+   "address": "2 Addison Rd, Marrickville",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://tickets.oztix.com.au/outlet/event/4d47e1ac-0f51-409b-a9b5-3997e8eb9c79?utm_source=Oztix&utm_medium=Website&_gl=1*123rjcp*_ga*NzEyMjA5ODE5LjE3ODgwODcwMTY.*_ga_Z6Q34PSGS3*czE3OTM1MjQzMTckbzE2JGcxJHQxNzkzNTI2MzEzJGo0MiRsMCRoMA.."
+    }
+   ],
+   "title": "Dirty Harry",
+   "acts": [
+    {
+     "name": "Dirty Harry",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Bennetts Grove",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-04-olivia-mendez",
+   "start": "2026-12-04T22:00:00+11:00",
+   "date": "2026-12-04",
+   "time": "22:00",
+   "venue": "The Abercrombie",
+   "suburb": "Chippendale",
+   "address": "100 Broadway, Chippendale",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/abercrombie-pres-olivia-mendez"
+    }
+   ],
+   "title": "Olivia Mendez (FRA)",
+   "acts": [
+    {
+     "name": "Olivia Mendez (FRA)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-05-sultry-and-sample",
    "start": "2026-12-05T12:00:00+11:00",
    "date": "2026-12-05",
@@ -11110,6 +9430,54 @@
      "id": null,
      "guess": false,
      "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-05-thee-long-knights",
+   "start": "2026-12-05T16:00:00+11:00",
+   "date": "2026-12-05",
+   "time": "16:00",
+   "venue": "The Lansdowne",
+   "suburb": "Chippendale",
+   "address": "206 Broadway, Chippendale",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fbeat-freaks-gala-the-born-loser-launch-edition%2F200257&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Thee Long Knights",
+   "acts": [
+    {
+     "name": "Thee Long Knights",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "The Escapes",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "The Detectives",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Beat Freaks DJs",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
     }
    ],
    "score": null
@@ -11199,10 +9567,6 @@
     {
      "source": "ticketmaster",
      "url": "https://www.ticketmaster.com.au/dizzee-rascal-sydney-05-12-2026/event/130064DDA821316D"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/dizzee-rascal-special-guest-arrdee/201977"
     }
    ],
    "title": "Dizzee Rascal",
@@ -11241,33 +9605,6 @@
      "id": null,
      "guess": false,
      "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-12-05-riah",
-   "start": "2026-12-05T18:00:00+11:00",
-   "date": "2026-12-05",
-   "time": "18:00",
-   "venue": "Seymour Centre",
-   "suburb": "Chippendale",
-   "address": "Cnr City Road & Cleveland St, Chippendale",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.seymourcentre.com/event/seymour-sounds/"
-    }
-   ],
-   "title": "RIAH",
-   "acts": [
-    {
-     "name": "RIAH",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
     }
    ],
    "score": null
@@ -11460,6 +9797,44 @@
    "score": null
   },
   {
+   "key": "2026-12-05-lover",
+   "start": "2026-12-05T19:00:00+11:00",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "venue": "Chuck Trailer's – CBD",
+   "suburb": "Sydney",
+   "address": "36 York Street, Sydney",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.instagram.com/p/De8fJxMmr2D/?img_index=1"
+    },
+    {
+     "source": "sydneymusic",
+     "url": "https://www.instagram.com/p/De8fJxMmr2D/"
+    }
+   ],
+   "title": "lover",
+   "acts": [
+    {
+     "name": "lover",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Vinted Vaneer",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-05-mood-spill",
    "start": "2026-12-05T19:00:00+11:00",
    "date": "2026-12-05",
@@ -11505,7 +9880,7 @@
    "start": "2026-12-05T19:00:00+11:00",
    "date": "2026-12-05",
    "time": "19:00",
-   "venue": "Chuck Trailer's - CBD",
+   "venue": "Chuck Trailer's – CBD",
    "suburb": "Sydney",
    "address": "36 York Street, Sydney",
    "free": true,
@@ -11533,6 +9908,47 @@
     },
     {
      "name": "Jericho",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-05-verdani",
+   "start": "2026-12-05T19:00:00+11:00",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "venue": "Botany View Hotel",
+   "suburb": "Newtown",
+   "address": "597 King St, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.instagram.com/p/DfMZiXuJMz1/?utm_source=ig_web_copy_link&psln=NTc4MTIwNjQ2YQ=="
+    }
+   ],
+   "title": "Verdani",
+   "acts": [
+    {
+     "name": "Verdani",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Fowl Weather Vein",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Solomon Barbar & The Asp",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -11657,40 +10073,6 @@
    "score": null
   },
   {
-   "key": "2026-12-05-lover",
-   "start": "2026-12-05T20:00:00+11:00",
-   "date": "2026-12-05",
-   "time": "20:00",
-   "venue": "Dead Set",
-   "suburb": "Darlinghurst",
-   "address": "383 Bourke St, Darlinghurst",
-   "free": true,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://www.instagram.com/p/De8fJxMmr2D/"
-    }
-   ],
-   "title": "Lover",
-   "acts": [
-    {
-     "name": "Lover",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Vinted Veneer",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    }
-   ],
-   "score": null
-  },
-  {
    "key": "2026-12-05-reflex",
    "start": "2026-12-05T20:00:00+11:00",
    "date": "2026-12-05",
@@ -11772,6 +10154,67 @@
    "score": null
   },
   {
+   "key": "2026-12-05-house-of-her",
+   "start": "2026-12-05T21:00:00+11:00",
+   "date": "2026-12-05",
+   "time": "21:00",
+   "venue": "Vic on the Park",
+   "suburb": "Marrickville",
+   "address": "2 Addison Rd, Marrickville",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://tickets.oztix.com.au/outlet/event/1f49e36a-f731-4110-b587-eb8b5edc25d8?utm_source=Oztix&utm_medium=Website&_gl=1*14u5nq1*_ga*NzEyMjA5ODE5LjE3ODgwODcwMTY.*_ga_Z6Q34PSGS3*czE3OTM1MjQzMTckbzE2JGcxJHQxNzkzNTI2MzE2JGozOSRsMCRoMA.."
+    }
+   ],
+   "title": "House of Her",
+   "acts": [
+    {
+     "name": "House of Her",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Superblock",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-05-josh-shipton",
+   "start": "2026-12-05T21:00:00+11:00",
+   "date": "2026-12-05",
+   "time": "21:00",
+   "venue": "The Townie",
+   "suburb": "Newtown",
+   "address": "326 King St, Newtown",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://townhallhotelnewtown.com/event/1JC3UD"
+    }
+   ],
+   "title": "Josh Shipton",
+   "acts": [
+    {
+     "name": "Josh Shipton",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-05-sim0ne",
    "start": "2026-12-05T21:00:00+11:00",
    "date": "2026-12-05",
@@ -11790,6 +10233,67 @@
    "acts": [
     {
      "name": "sim0ne (UK)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-05-cherry-chola",
+   "start": "2026-12-05T22:00:00+11:00",
+   "date": "2026-12-05",
+   "time": "22:00",
+   "venue": "Civic Underground",
+   "suburb": "Sydney",
+   "address": "384 Pitt St, Sydney",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ra.co/events/2571257?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAafDTeby5xlXzlFj7VtUopzzW28GaEiXa2BueF-YRm5zhl80GAK3a7qZUVEH3Q_aem_R9BOFE8kJj9Vm0icZpywcQ"
+    }
+   ],
+   "title": "Cherry Chola",
+   "acts": [
+    {
+     "name": "Cherry Chola",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "killspoon",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-05-ploy",
+   "start": "2026-12-05T22:00:00+11:00",
+   "date": "2026-12-05",
+   "time": "22:00",
+   "venue": "The Abercrombie",
+   "suburb": "Chippendale",
+   "address": "100 Broadway, Chippendale",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/abercrombie-pres-ploy"
+    }
+   ],
+   "title": "PLOY (UK)",
+   "acts": [
+    {
+     "name": "PLOY (UK)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -12010,23 +10514,19 @@
    "date": "2026-12-06",
    "time": "19:30",
    "venue": "Oxford Art Factory",
-   "suburb": "Darlinghurst",
-   "address": "38/46 Oxford St, Darlinghurst",
+   "suburb": "Sydney",
+   "address": "38-46 Oxford St, Sydney",
    "free": false,
    "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fevening-elephants-australian-tour%2F198152%3Fref%3DRSS_rss_oaf_website%26skin%3DOAF&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
     {
      "source": "ticketmaster",
      "url": "https://www.moshtix.com.au/v2/event/evening-elephants-australian-tour/198152"
     }
    ],
-   "title": "Evening Elephants (USA)",
+   "title": "Evening Elephants Australian Tour",
    "acts": [
     {
-     "name": "Evening Elephants (USA)",
+     "name": "Evening Elephants",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -12242,6 +10742,20 @@
      "id": null,
      "guess": false,
      "billing": "headline"
+    },
+    {
+     "name": "Illan Kaapan",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "L.O.W",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
     }
    ],
    "score": null
@@ -12401,14 +10915,18 @@
    "free": false,
    "links": [
     {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fnadia-reid%2F198979&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    },
+    {
      "source": "ticketmaster",
      "url": "https://www.moshtix.com.au/v2/event/nadia-reid/198979"
     }
    ],
-   "title": "Nadia Reid",
+   "title": "Nadia Reid (NZ)",
    "acts": [
     {
-     "name": "Nadia Reid",
+     "name": "Nadia Reid (NZ)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -12599,6 +11117,33 @@
    "score": null
   },
   {
+   "key": "2026-12-10-crystal-set",
+   "start": "2026-12-10T19:00:00+11:00",
+   "date": "2026-12-10",
+   "time": "19:00",
+   "venue": "The Bridge Hotel",
+   "suburb": "Rozelle",
+   "address": "119 Victoria Rd, Rozelle",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://tickets.oztix.com.au/outlet/event/967a365d-f766-449e-a589-60d52c827593?utm_source=Burdekin&utm_medium=EventFeed"
+    }
+   ],
+   "title": "The Crystal Set",
+   "acts": [
+    {
+     "name": "The Crystal Set",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-10-jimmy-eat-world",
    "start": "2026-12-10T19:00:00+11:00",
    "date": "2026-12-10",
@@ -12705,6 +11250,33 @@
    "score": null
   },
   {
+   "key": "2026-12-10-steve-hunter-band",
+   "start": "2026-12-10T19:00:00+11:00",
+   "date": "2026-12-10",
+   "time": "19:00",
+   "venue": "Level 1 @ Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Flvl-1-steve-hunter-band%2F202041%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Steve Hunter Band",
+   "acts": [
+    {
+     "name": "Steve Hunter Band",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-10-ten-tenors",
    "start": "2026-12-10T19:00:00+11:00",
    "date": "2026-12-10",
@@ -12732,6 +11304,44 @@
    "score": null
   },
   {
+   "key": "2026-12-10-restless-leg",
+   "start": "2026-12-10T19:30:00+11:00",
+   "date": "2026-12-10",
+   "time": "19:30",
+   "venue": "Mixtape Brewing & Bar",
+   "suburb": "Marrickville",
+   "address": "142A Victoria Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.facebook.com/events/2194475638084411/"
+    },
+    {
+     "source": "sydneymusic",
+     "url": "https://www.facebook.com/events/2194475638084411/"
+    }
+   ],
+   "title": "Restless Leg",
+   "acts": [
+    {
+     "name": "Restless Leg",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Knievel",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-10-bayker-blankenship",
    "start": "2026-12-10T20:00:00+11:00",
    "date": "2026-12-10",
@@ -12754,110 +11364,6 @@
      "id": null,
      "guess": false,
      "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2026-12-11-nka-recordings-official-release-party",
-   "start": "2026-12-11T18:00:00+11:00",
-   "date": "2026-12-11",
-   "time": "18:00",
-   "venue": "Waywards Ballroom",
-   "suburb": "Newtown",
-   "address": "320 King St, Newtown",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fnka-recordings-official-release-party-w-kobie-dee-and-tasman-keith%2F200896%23&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    }
-   ],
-   "title": "NKA Recordings Official Release Party",
-   "acts": [
-    {
-     "name": "NKA Recordings Official Release Party",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    },
-    {
-     "name": "Kobie Dee",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Tasman Keith",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Yellowbelly Crew",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Tbreezy",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Tillow",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Shani",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Akilaqui",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Blakksol",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "TOKO NLZ",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "FlyWaves [DJ]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Mali [DJ]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
     }
    ],
    "score": null
@@ -12999,6 +11505,33 @@
      "id": null,
      "guess": false,
      "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-11-joe-mungovan",
+   "start": "2026-12-11T19:00:00+11:00",
+   "date": "2026-12-11",
+   "time": "19:00",
+   "venue": "Chuck Trailer's – CBD",
+   "suburb": "Sydney",
+   "address": "36 York Street, Sydney",
+   "free": true,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.instagram.com/p/DfGS7DtTAC6/?utm_source=ig_web_copy_link&rpxt=NTc4MTIwNjQ2YQ=="
+    }
+   ],
+   "title": "Joe Mungovan",
+   "acts": [
+    {
+     "name": "Joe Mungovan",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
     }
    ],
    "score": null
@@ -13236,6 +11769,47 @@
    "score": null
   },
   {
+   "key": "2026-12-11-aria-nova",
+   "start": "2026-12-11T20:00:00+11:00",
+   "date": "2026-12-11",
+   "time": "20:00",
+   "venue": "Botany View Hotel",
+   "suburb": "Newtown",
+   "address": "597 King St, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://tickets.oztix.com.au/outlet/event/b85eb564-d1a4-4128-8c7f-4f108d1adeaf?utm_source=Oztix&utm_medium=Website&_gl=1*cgqk80*_ga*NzEyMjA5ODE5LjE3ODgwODcwMTY.*_ga_Z6Q34PSGS3*czE3OTM1MjQzMTckbzE2JGcxJHQxNzkzNTI1NDI4JGo0MCRsMCRoMA.."
+    }
+   ],
+   "title": "Aria Nova",
+   "acts": [
+    {
+     "name": "Aria Nova",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Bunnybear",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Genevieve Lily & The Rose Street Band",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-11-jigitz",
    "start": "2026-12-11T21:00:00+11:00",
    "date": "2026-12-11",
@@ -13294,6 +11868,33 @@
    "score": null
   },
   {
+   "key": "2026-12-11-takaaki-itoh",
+   "start": "2026-12-11T22:00:00+11:00",
+   "date": "2026-12-11",
+   "time": "22:00",
+   "venue": "The Abercrombie",
+   "suburb": "Chippendale",
+   "address": "100 Broadway, Chippendale",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/takaaki-itoh"
+    }
+   ],
+   "title": "Takaaki Itoh (JPN)",
+   "acts": [
+    {
+     "name": "Takaaki Itoh (JPN)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-11-laura-king",
    "start": "2026-12-11T23:00:00+11:00",
    "date": "2026-12-11",
@@ -13339,6 +11940,37 @@
    "acts": [
     {
      "name": "Black Traffic",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-12-caleb-jackson",
+   "start": "2026-12-12T15:00:00+11:00",
+   "date": "2026-12-12",
+   "time": "15:00",
+   "venue": "Heaps Normal Health Club",
+   "suburb": "Marrickville",
+   "address": "2/10 Brompton Street, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fparty-favours-caleb-jackson-all-day-long%2F201890&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    },
+    {
+     "source": "ticketmaster",
+     "url": "https://www.moshtix.com.au/v2/event/party-favours-caleb-jackson-all-day-long/201890"
+    }
+   ],
+   "title": "Caleb Jackson",
+   "acts": [
+    {
+     "name": "Caleb Jackson",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -13486,6 +12118,10 @@
     {
      "source": "sydneymusic",
      "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Ffangz-the-final-tour-sydney%2F201475&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    },
+    {
+     "source": "ticketmaster",
+     "url": "https://www.moshtix.com.au/v2/event/fangz-the-final-tour-sydney/201475"
     }
    ],
    "title": "Fangz",
@@ -13960,6 +12596,33 @@
      "id": null,
      "guess": false,
      "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-12-hidden-spheres",
+   "start": "2026-12-12T22:00:00+11:00",
+   "date": "2026-12-12",
+   "time": "22:00",
+   "venue": "The Abercrombie",
+   "suburb": "Chippendale",
+   "address": "100 Broadway, Chippendale",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/hidden-spheres"
+    }
+   ],
+   "title": "Hidden Spheres (UK)",
+   "acts": [
+    {
+     "name": "Hidden Spheres (UK)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
     }
    ],
    "score": null
@@ -14493,6 +13156,33 @@
    "score": null
   },
   {
+   "key": "2026-12-16-delay-45",
+   "start": "2026-12-16T20:00:00+11:00",
+   "date": "2026-12-16",
+   "time": "20:00",
+   "venue": "Eight O'Clock Sharp",
+   "suburb": "Newtown",
+   "address": "280A King St, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://events.humanitix.com/delay-45-at-eight-o-clock-sharp"
+    }
+   ],
+   "title": "Delay 45",
+   "acts": [
+    {
+     "name": "Delay 45",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-16-smokedope2016",
    "start": "2026-12-16T20:00:00+11:00",
    "date": "2026-12-16",
@@ -14587,6 +13277,33 @@
    "acts": [
     {
      "name": "The Gnomes",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-17-sakr",
+   "start": "2026-12-17T19:30:00+11:00",
+   "date": "2026-12-17",
+   "time": "19:30",
+   "venue": "The Vanguard",
+   "suburb": "Newtown",
+   "address": "42 King St, Newtown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fsakr%2F201631&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Sakr (UK)",
+   "acts": [
+    {
+     "name": "Sakr (UK)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -14740,6 +13457,33 @@
      "id": null,
      "guess": false,
      "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-18-hard-ons",
+   "start": "2026-12-18T20:00:00+11:00",
+   "date": "2026-12-18",
+   "time": "20:00",
+   "venue": "The Lansdowne",
+   "suburb": "Chippendale",
+   "address": "206 Broadway, Chippendale",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fhard-ons-xmas-shows-3-piece%2F201997&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Hard-Ons",
+   "acts": [
+    {
+     "name": "Hard-Ons",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
     }
    ],
    "score": null
@@ -14948,7 +13692,7 @@
     },
     {
      "name": "Mina Tonic",
-     "kind": "pending",
+     "kind": "unmatched",
      "id": null,
      "guess": false,
      "billing": "support"
@@ -15264,6 +14008,67 @@
    "score": null
   },
   {
+   "key": "2026-12-23-sam-mcnally-s-jazz-funk-enterprise",
+   "start": "2026-12-23T18:00:00+11:00",
+   "date": "2026-12-23",
+   "time": "18:00",
+   "venue": "Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fsam-mcnally%E2%80%99s-jazz-funk-enterprise%E2%80%99-featuring-sheena-wilbow-the-hamiltons%2F200267%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Sam Mcnally's Jazz-Funk Enterprise",
+   "acts": [
+    {
+     "name": "Sam Mcnally's Jazz-Funk Enterprise",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "The Hamiltons",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2026-12-27-back-to-back",
+   "start": "2026-12-27T17:00:00+11:00",
+   "date": "2026-12-27",
+   "time": "17:00",
+   "venue": "Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fback-to-back%2F199222%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Back to Back",
+   "acts": [
+    {
+     "name": "Back to Back",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2026-12-27-ejt",
    "start": "2026-12-27T17:00:00+11:00",
    "date": "2026-12-27",
@@ -15380,206 +14185,38 @@
    "score": null
   },
   {
-   "key": "2026-12-31-nye-but-gay",
+   "key": "2026-12-31-joy-orbison",
    "start": "2026-12-31T20:00:00+11:00",
    "date": "2026-12-31",
    "time": "20:00",
-   "venue": "Manning Open-Air @ Manning House",
-   "suburb": "Camperdown",
-   "address": "Manning Road, Camperdown",
+   "venue": "Secret Location",
+   "suburb": null,
+   "address": null,
    "free": false,
    "links": [
     {
      "source": "sydneymusic",
-     "url": " https://dice.fm/partner/tickets/event/bbgp3k-nye-but-gay-31st-dec-manning-bar-sydney-tickets?dice_id=10344541&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1627210340234531150&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Xc2t0w1sUxLNjFPMbSvK0pNSy0qysxLj08qyi8vTi2y9S9ILUoEAKTtrJI6AAAA"
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fjoy-orbison-nye-sydney%2F200212&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
     }
    ],
-   "title": "NYE BUT GAY",
+   "title": "Joy Orbison (UK)",
    "acts": [
     {
-     "name": "NYE BUT GAY",
+     "name": "Joy Orbison (UK)",
      "kind": "pending",
      "id": null,
      "guess": false,
      "billing": "headline"
     },
     {
-     "name": "Anna Lunoe",
+     "name": "Fold (UK)",
      "kind": "pending",
      "id": null,
      "guess": false,
      "billing": "support"
     },
     {
-     "name": "Biianco (UK)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Jodie Harsh (UK)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Matthias Geerts (BEL)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Xkylar [Live] (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Big Wett [Live]",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Harry Gay (UK)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Hollywould Star",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Jarred Baker",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Jawbreakers",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Joey and the Mustache (USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Lucille Croft",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Marsh Long",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Rojdar",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "THC (COL/DEN)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Troy Beman",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Camp Minister",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Charlie from the World",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Citrus",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Dingo Disco",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Dionysus",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Dom Agnew",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "DJ GK",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Hazboy",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "James Queen",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "support"
-    },
-    {
-     "name": "Jofes",
+     "name": "DUNJ Crew",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -15868,7 +14505,7 @@
     },
     {
      "name": "Fried Pork Chop",
-     "kind": "pending",
+     "kind": "unmatched",
      "id": null,
      "guess": false,
      "billing": "support"
@@ -15907,6 +14544,33 @@
      "id": null,
      "guess": false,
      "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-01-02-king-tide",
+   "start": "2027-01-02T19:00:00+11:00",
+   "date": "2027-01-02",
+   "time": "19:00",
+   "venue": "Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fking-tide%2F202000%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "King Tide",
+   "acts": [
+    {
+     "name": "King Tide",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
     }
    ],
    "score": null
@@ -16053,6 +14717,40 @@
      "id": null,
      "guess": false,
      "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-01-07-kaliopi-and-the-blues-messengers",
+   "start": "2027-01-07T19:00:00+11:00",
+   "date": "2027-01-07",
+   "time": "19:00",
+   "venue": "Level 1 @ Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Flvl-1-kaliopi-the-blues-messengers-mitch-broadhead%2F201326%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Kaliopi and The Blues Messengers",
+   "acts": [
+    {
+     "name": "Kaliopi and The Blues Messengers",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Mitch Broadhead",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
     }
    ],
    "score": null
@@ -16450,14 +15148,18 @@
    "free": false,
    "links": [
     {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fflook-australian-tour%2F201677&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    },
+    {
      "source": "ticketmaster",
      "url": "https://www.moshtix.com.au/v2/event/flook-australian-tour/201677"
     }
    ],
-   "title": "Flook Australian Tour",
+   "title": "Flook (UK)",
    "acts": [
     {
-     "name": "Flook",
+     "name": "Flook (UK)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -16543,10 +15245,10 @@
      "url": "https://www.moshtix.com.au/v2/event/pachyman-pr-/201177"
     }
    ],
-   "title": "Pachyman (USA)",
+   "title": "Pachyman (PRI)",
    "acts": [
     {
-     "name": "Pachyman (USA)",
+     "name": "Pachyman (PRI)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -16690,6 +15392,130 @@
    "acts": [
     {
      "name": "Wasia Project (UK)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-01-16-redhook",
+   "start": "2027-01-16T14:00:00+11:00",
+   "date": "2027-01-16",
+   "time": "14:00",
+   "venue": "Petersham Town Hall",
+   "suburb": "Petersham",
+   "address": "107 Crystal St, Petersham",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.eventbrite.com.au/e/your-locals-fest-16127-tickets-2003851992251"
+    }
+   ],
+   "title": "Redhook",
+   "acts": [
+    {
+     "name": "Redhook",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Heavensgate",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Zuko",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Melancolia",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Maple's Pet Dinosaur",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "St Sinner",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Elision",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Aurateque",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Elara",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Lotus Born",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Planetfall",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-01-16-benji-and-the-saltwater-sound-system",
+   "start": "2027-01-16T19:00:00+11:00",
+   "date": "2027-01-16",
+   "time": "19:00",
+   "venue": "Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fbenji-and-the-saltwater-sound-system-bring-the-salt%2F200705%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Benji and The Saltwater Sound System",
+   "acts": [
+    {
+     "name": "Benji and The Saltwater Sound System",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -17055,20 +15881,24 @@
    "start": "2027-01-21T19:00:00+11:00",
    "date": "2027-01-21",
    "time": "19:00",
-   "venue": "Lansdowne Hotel",
-   "suburb": "Sydney",
-   "address": "2-6 City Rd, Chippendale, Sydney",
+   "venue": "The Lansdowne",
+   "suburb": "Chippendale",
+   "address": "206 Broadway, Chippendale",
    "free": false,
    "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fflamingo-pier-live-woven-together-album-release-tour%2F201798&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    },
     {
      "source": "ticketmaster",
      "url": "https://www.moshtix.com.au/v2/event/flamingo-pier-live-woven-together-album-release-tour-/201798"
     }
    ],
-   "title": "FLAMINGO PIER (LIVE). WOVEN TOGETHER ALBUM RELEASE TOUR.",
+   "title": "Flamingo Pier (NZ)",
    "acts": [
     {
-     "name": "Flamingo Pier",
+     "name": "Flamingo Pier (NZ)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -17137,6 +15967,61 @@
     },
     {
      "name": "Xani Kolac",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-01-22-ras-jahnow-band",
+   "start": "2027-01-22T19:00:00+11:00",
+   "date": "2027-01-22",
+   "time": "19:00",
+   "venue": "Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fafronesian-roots-soul-presents-the-reggae-rise-up-sessions%2F201583%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Ras Jahnow Band",
+   "acts": [
+    {
+     "name": "Ras Jahnow Band",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    },
+    {
+     "name": "Paulo Almeida",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "The Lady Beans",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Stick Mareebo",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "support"
+    },
+    {
+     "name": "Judex Rose",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -17233,6 +16118,33 @@
      "id": null,
      "guess": false,
      "billing": "support"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-01-22-real-young-and-lazy-horse",
+   "start": "2027-01-22T19:30:00+11:00",
+   "date": "2027-01-22",
+   "time": "19:30",
+   "venue": "Marrickville Bowling Club",
+   "suburb": "Marrickville",
+   "address": "91 Sydenham Road, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "ticketmaster",
+     "url": "https://www.moshtix.com.au/v2/event/real-young-lazy-horse-ny-usa-/201642"
+    }
+   ],
+   "title": "Real Young & Lazy Horse (NY, USA)",
+   "acts": [
+    {
+     "name": "Real Young & Lazy Horse",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
     }
    ],
    "score": null
@@ -17335,10 +16247,6 @@
     {
      "source": "sydneymusic",
      "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Flittle-quirks-shes-wild-album-launch%2F199427&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/little-quirks-she-s-wild-album-launch/199427"
     }
    ],
    "title": "Little Quirks",
@@ -18256,6 +17164,33 @@
    "score": null
   },
   {
+   "key": "2027-01-30-charles-wesley-godwin",
+   "start": "2027-01-30T19:30:00+11:00",
+   "date": "2027-01-30",
+   "time": "19:30",
+   "venue": "Metro Theatre",
+   "suburb": "Sydney",
+   "address": "614 George St, Sydney",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.metrotheatre.com.au/event/charles-wesley-godwin/"
+    }
+   ],
+   "title": "Charles Wesley Godwin",
+   "acts": [
+    {
+     "name": "Charles Wesley Godwin",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2027-01-30-mc-collection",
    "start": "2027-01-30T19:30:00+11:00",
    "date": "2027-01-30",
@@ -19042,11 +17977,15 @@
    "free": false,
    "links": [
     {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Ffelipe-baldomir-beach-day-world-tour%2F201528&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    },
+    {
      "source": "ticketmaster",
      "url": "https://www.moshtix.com.au/v2/event/felipe-baldomir-beach-day-world-tour/201528"
     }
    ],
-   "title": "Felipe Baldomir | Beach Day World Tour",
+   "title": "Felipe Baldomir",
    "acts": [
     {
      "name": "Felipe Baldomir",
@@ -20860,6 +19799,33 @@
    "score": null
   },
   {
+   "key": "2027-02-28-radical-son",
+   "start": "2027-02-28T17:00:00+11:00",
+   "date": "2027-02-28",
+   "time": "17:00",
+   "venue": "Lazybones Lounge",
+   "suburb": "Marrickville",
+   "address": "294 Marrickville Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fradical-son-%E2%80%94-full-band-album-launch-at-lazybones%2F201704%3Fref%3DRSS_Lazyboneslounge%26skin%3Dlazybones&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Radical Son",
+   "acts": [
+    {
+     "name": "Radical Son",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2027-02-28-angus-and-julia-stone",
    "start": "2027-02-28T18:00:00+11:00",
    "date": "2027-02-28",
@@ -21125,6 +20091,33 @@
    "acts": [
     {
      "name": "SALIMATA",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-03-03-haute-and-freddy",
+   "start": "2027-03-03T19:30:00+11:00",
+   "date": "2027-03-03",
+   "time": "19:30",
+   "venue": "Metro Theatre",
+   "suburb": "Sydney",
+   "address": "614 George St, Sydney",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DHAUFRE27&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Haute & Freddy (USA)",
+   "acts": [
+    {
+     "name": "Haute & Freddy (USA)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -21961,14 +20954,18 @@
    "free": false,
    "links": [
     {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Fjoshua-burnside%2F201888&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    },
+    {
      "source": "ticketmaster",
      "url": "https://www.moshtix.com.au/v2/event/joshua-burnside/201888"
     }
    ],
-   "title": "Joshua Burnside",
+   "title": "Joshua Burnside (UK)",
    "acts": [
     {
-     "name": "Joshua Burnside",
+     "name": "Joshua Burnside (UK)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -22144,6 +21141,33 @@
    "score": null
   },
   {
+   "key": "2027-03-17-beth-orton",
+   "start": "2027-03-17T20:00:00+11:00",
+   "date": "2027-03-17",
+   "time": "20:00",
+   "venue": "City Recital Hall",
+   "suburb": "Sydney",
+   "address": "2 Angel Pl, Sydney",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.cityrecitalhall.com/whats-on/events/beth-orton/"
+    }
+   ],
+   "title": "Beth Orton (UK)",
+   "acts": [
+    {
+     "name": "Beth Orton (UK)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2027-03-18-dakhabrakha",
    "start": "2027-03-18T20:00:00+11:00",
    "date": "2027-03-18",
@@ -22240,17 +21264,21 @@
    "start": "2027-03-19T19:30:00+11:00",
    "date": "2027-03-19",
    "time": "19:30",
-   "venue": "Lansdowne Hotel",
-   "suburb": "Sydney",
-   "address": "2-6 City Rd, Chippendale, Sydney",
+   "venue": "The Lansdowne",
+   "suburb": "Chippendale",
+   "address": "206 Broadway, Chippendale",
    "free": false,
    "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Ffalling-flying-15-year-anniversary%2F201485&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    },
     {
      "source": "ticketmaster",
      "url": "https://www.moshtix.com.au/v2/event/falling-flying-15-year-anniversary/201485"
     }
    ],
-   "title": "Falling & Flying 15 Year Anniversary",
+   "title": "360",
    "acts": [
     {
      "name": "360",
@@ -22591,17 +21619,21 @@
    "start": "2027-03-20T19:30:00+11:00",
    "date": "2027-03-20",
    "time": "19:30",
-   "venue": "Lansdowne Hotel",
-   "suburb": "Sydney",
-   "address": "2-6 City Rd, Chippendale, Sydney",
+   "venue": "The Lansdowne",
+   "suburb": "Chippendale",
+   "address": "206 Broadway, Chippendale",
    "free": false,
    "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.au%2Fv2%2Fevent%2Ffalling-flying-15-year-anniversary%2F201485&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    },
     {
      "source": "ticketmaster",
      "url": "https://www.moshtix.com.au/v2/event/falling-flying-15-year-anniversary/201502"
     }
    ],
-   "title": "Falling & Flying 15 Year Anniversary",
+   "title": "360",
    "acts": [
     {
      "name": "360",
@@ -23004,37 +22036,6 @@
    "score": null
   },
   {
-   "key": "2027-04-01-ruby-gill",
-   "start": "2027-04-01T19:00:00+11:00",
-   "date": "2027-04-01",
-   "time": "19:00",
-   "venue": "The Lansdowne",
-   "suburb": "Chippendale",
-   "address": "206 Broadway, Chippendale",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fruby-gill-fishin%25E2%2580%2599-tour%2F201371&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.moshtix.com.au/v2/event/ruby-gill-fishin-tour/201371"
-    }
-   ],
-   "title": "Ruby Gill",
-   "acts": [
-    {
-     "name": "Ruby Gill",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
    "key": "2027-04-03-haifa-wehbe",
    "start": "2027-04-03T20:00:00+11:00",
    "date": "2027-04-03",
@@ -23422,6 +22423,33 @@
    "score": null
   },
   {
+   "key": "2027-04-13-jonah-kagen",
+   "start": "2027-04-13T19:00:00+10:00",
+   "date": "2027-04-13",
+   "time": "19:00",
+   "venue": "Metro Theatre",
+   "suburb": "Sydney",
+   "address": "614 George St, Sydney",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DJNAKGE27&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Jonah Kagen (USA)",
+   "acts": [
+    {
+     "name": "Jonah Kagen (USA)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2027-04-16-geoff-tate",
    "start": "2027-04-16T19:00:00+10:00",
    "date": "2027-04-16",
@@ -23559,6 +22587,33 @@
    "acts": [
     {
      "name": "The Delines (USA)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-04-22-lottery-winners",
+   "start": "2027-04-22T20:00:00+10:00",
+   "date": "2027-04-22",
+   "time": "20:00",
+   "venue": "Manning Bar",
+   "suburb": "Camperdown",
+   "address": "a18 Manning Rd, Camperdown",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fmoshtix.com.au%2Fv2%2Fevent%2Fthe-lottery-winners-australia-new-zealand-tour%2F201640&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "The Lottery Winners (UK)",
+   "acts": [
+    {
+     "name": "The Lottery Winners (UK)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -23900,6 +22955,33 @@
    "score": null
   },
   {
+   "key": "2027-05-13-deca-joins",
+   "start": "2027-05-13T19:30:00+10:00",
+   "date": "2027-05-13",
+   "time": "19:30",
+   "venue": "Metro Theatre",
+   "suburb": "Sydney",
+   "address": "614 George St, Sydney",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.metrotheatre.com.au/event/deca-joins/"
+    }
+   ],
+   "title": "deca joins (TWN)",
+   "acts": [
+    {
+     "name": "deca joins (TWN)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
    "key": "2027-05-14-malcolm-todd",
    "start": "2027-05-14T19:00:00+10:00",
    "date": "2027-05-14",
@@ -23983,6 +23065,60 @@
    "acts": [
     {
      "name": "Arthur Hill (UK)",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-05-20-ash-grunwald",
+   "start": "2027-05-20T19:00:00+10:00",
+   "date": "2027-05-20",
+   "time": "19:00",
+   "venue": "Factory Theatre",
+   "suburb": "Marrickville",
+   "address": "105 Victoria Rd, Marrickville",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://www.factorytheatre.com.au/event/ash-grunwald-2/"
+    }
+   ],
+   "title": "Ash Grunwald",
+   "acts": [
+    {
+     "name": "Ash Grunwald",
+     "kind": "pending",
+     "id": null,
+     "guess": false,
+     "billing": "headline"
+    }
+   ],
+   "score": null
+  },
+  {
+   "key": "2027-05-20-almost-monday",
+   "start": "2027-05-20T20:00:00+10:00",
+   "date": "2027-05-20",
+   "time": "20:00",
+   "venue": "Metro Theatre",
+   "suburb": "Sydney",
+   "address": "614 George St, Sydney",
+   "free": false,
+   "links": [
+    {
+     "source": "sydneymusic",
+     "url": "https://ticketekau.pxf.io/c/6123356/1070554/13713?u=https%3A%2F%2Fpremier.ticketek.com.au%2Fshows%2Fshow.aspx%3Fsh%3DALMNDY27&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
+    }
+   ],
+   "title": "Almost Monday (USA)",
+   "acts": [
+    {
+     "name": "Almost Monday (USA)",
      "kind": "pending",
      "id": null,
      "guess": false,
@@ -24381,188 +23517,6 @@
    "acts": [
     {
      "name": "Crush40 (JPN/USA)",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2027-10-01-powderfinger",
-   "start": "2027-10-01T17:00:00+10:00",
-   "date": "2027-10-01",
-   "time": "17:00",
-   "venue": "The Domain",
-   "suburb": "Sydney",
-   "address": "St Mary's Rd, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1965672/24024?u=https%3A%2F%2Fwww.ticketmaster.com.au%2Fpowderfinger-live-2027-sydney-01-10-2027%2Fevent%2F13006547DA5AAE36&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-01-10-2027/event/13006547DA5AAE36"
-    }
-   ],
-   "title": "Powderfinger",
-   "acts": [
-    {
-     "name": "Powderfinger",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2027-10-02-powderfinger",
-   "start": "2027-10-02T17:00:00+10:00",
-   "date": "2027-10-02",
-   "time": "17:00",
-   "venue": "The Domain",
-   "suburb": "Sydney",
-   "address": "St Mary's Rd, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1965672/24024?u=https%3A%2F%2Fwww.ticketmaster.com.au%2Fpowderfinger-live-2027-sydney-02-10-2027%2Fevent%2F13006548D977A674&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-02-10-2027/event/13006548D977A674"
-    }
-   ],
-   "title": "Powderfinger",
-   "acts": [
-    {
-     "name": "Powderfinger",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2027-10-04-powderfinger",
-   "start": "2027-10-04T17:00:00+11:00",
-   "date": "2027-10-04",
-   "time": "17:00",
-   "venue": "The Domain",
-   "suburb": "Sydney",
-   "address": "Hospital Rd, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "ticketmaster",
-     "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-04-10-2027/event/13006548D9E0A6D5"
-    }
-   ],
-   "title": "Powderfinger - Live 2027",
-   "acts": [
-    {
-     "name": "Powderfinger",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2027-10-06-powderfinger",
-   "start": "2027-10-06T17:00:00+11:00",
-   "date": "2027-10-06",
-   "time": "17:00",
-   "venue": "The Domain",
-   "suburb": "Sydney",
-   "address": "St Mary's Rd, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1965672/24024?u=https%3A%2F%2Fwww.ticketmaster.com.au%2Fpowderfinger-live-2027-sydney-06-10-2027%2Fevent%2F13006548DA04A6EC&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-06-10-2027/event/13006548DA04A6EC"
-    }
-   ],
-   "title": "Powderfinger",
-   "acts": [
-    {
-     "name": "Powderfinger",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2027-10-08-powderfinger",
-   "start": "2027-10-08T17:00:00+11:00",
-   "date": "2027-10-08",
-   "time": "17:00",
-   "venue": "The Domain",
-   "suburb": "Sydney",
-   "address": "St Mary's Rd, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1965672/24024?u=https%3A%2F%2Fwww.ticketmaster.com.au%2Fpowderfinger-live-2027-sydney-08-10-2027%2Fevent%2F13006548DA27A707&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-08-10-2027/event/13006548DA27A707"
-    }
-   ],
-   "title": "Powderfinger",
-   "acts": [
-    {
-     "name": "Powderfinger",
-     "kind": "pending",
-     "id": null,
-     "guess": false,
-     "billing": "headline"
-    }
-   ],
-   "score": null
-  },
-  {
-   "key": "2027-10-09-powderfinger",
-   "start": "2027-10-09T17:00:00+11:00",
-   "date": "2027-10-09",
-   "time": "17:00",
-   "venue": "The Domain",
-   "suburb": "Sydney",
-   "address": "St Mary's Rd, Sydney",
-   "free": false,
-   "links": [
-    {
-     "source": "sydneymusic",
-     "url": "https://ticketmaster.evyy.net/c/6123356/1965672/24024?u=https%3A%2F%2Fwww.ticketmaster.com.au%2Fpowderfinger-live-2027-sydney-09-10-2027%2Fevent%2F13006548DA55A736&partnerpropertyid=6900038&MediaPartnerPropertyId=6900038"
-    },
-    {
-     "source": "ticketmaster",
-     "url": "https://www.ticketmaster.com.au/powderfinger-live-2027-sydney-09-10-2027/event/13006548DA55A736"
-    }
-   ],
-   "title": "Powderfinger",
-   "acts": [
-    {
-     "name": "Powderfinger",
      "kind": "pending",
      "id": null,
      "guess": false,

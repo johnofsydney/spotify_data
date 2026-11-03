@@ -1,0 +1,761 @@
+{
+ "fetched": "2026-11-03",
+ "windows": {
+  "short_term": [
+   {
+    "rank": 1,
+    "id": "602nksrzSSXE16wRC7QuhD",
+    "name": "Beasts Of Bourbon"
+   },
+   {
+    "rank": 2,
+    "id": "1CzKORB9IN0EjPEyeKBIkf",
+    "name": "Tides From Nebula"
+   },
+   {
+    "rank": 3,
+    "id": "07dZirN9KFAGIHeBvSDfuO",
+    "name": "Night Beats"
+   },
+   {
+    "rank": 4,
+    "id": "5gqhueRUZEa7VDnQt4HODp",
+    "name": "Nils Frahm"
+   },
+   {
+    "rank": 5,
+    "id": "1TAcaMoUlvLpTUzh18TzDY",
+    "name": "Causa Sui"
+   },
+   {
+    "rank": 6,
+    "id": "0yNLKJebCb8Aueb54LYya3",
+    "name": "New Order"
+   },
+   {
+    "rank": 7,
+    "id": "5m5cTNJ2RxfxKpGULocV9T",
+    "name": "The Cruel Sea"
+   },
+   {
+    "rank": 8,
+    "id": "0EnDtiDrCgklr97QMJOSPv",
+    "name": "sleepmakeswaves"
+   },
+   {
+    "rank": 9,
+    "id": "1uQWmt1OhuHGRKmZ2ZcL6p",
+    "name": "Explosions In The Sky"
+   },
+   {
+    "rank": 10,
+    "id": "5INjqkS1o8h1imAzPqGZBb",
+    "name": "Tame Impala"
+   },
+   {
+    "rank": 11,
+    "id": "2ZfogSsOWP4mVfEqfpLXCt",
+    "name": "The Church"
+   },
+   {
+    "rank": 12,
+    "id": "5MhLmv7GgyjbxGqiIGasvT",
+    "name": "Jean-Michel Jarre"
+   },
+   {
+    "rank": 13,
+    "id": "7GvCdRq4iHNQDsGlPWOycw",
+    "name": "You Am I"
+   },
+   {
+    "rank": 14,
+    "id": "1j3MgTGdEPOg24YXGJd9gP",
+    "name": "MEMORIALS"
+   },
+   {
+    "rank": 15,
+    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+    "name": "Bon Iver"
+   },
+   {
+    "rank": 16,
+    "id": "7w29UYBi0qsHi5RTcv3lmA",
+    "name": "Björk"
+   },
+   {
+    "rank": 17,
+    "id": "5zaXYwewAXedKNCff45U5l",
+    "name": "Dusty Springfield"
+   },
+   {
+    "rank": 18,
+    "id": "62Jwsvqi7hW8TR9rAcfBXY",
+    "name": "Grandbrothers"
+   },
+   {
+    "rank": 19,
+    "id": "6YK58h9BCYpFNv10fsMwoS",
+    "name": "pg.lost"
+   },
+   {
+    "rank": 20,
+    "id": "2Mjr7nb7vY7AQwxGskDlM7",
+    "name": "Greenleaf"
+   },
+   {
+    "rank": 21,
+    "id": "31GFg2x20JkksUlQxN9BMe",
+    "name": "Monkey3"
+   },
+   {
+    "rank": 22,
+    "id": "1xgFexIwrf2QjbU0buCNnp",
+    "name": "The Breeders"
+   },
+   {
+    "rank": 23,
+    "id": "6LBCQo20ri3tsvbsWWLmr6",
+    "name": "Powderfinger"
+   },
+   {
+    "rank": 24,
+    "id": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+    "name": "Syd Barrett"
+   },
+   {
+    "rank": 25,
+    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+    "name": "Pink Floyd"
+   },
+   {
+    "rank": 26,
+    "id": "7HQ1JiXyQVMLInXD17xtrG",
+    "name": "Dappled Cities"
+   },
+   {
+    "rank": 27,
+    "id": "079svMEXkbT5nGU2kfoqO2",
+    "name": "God Is An Astronaut"
+   },
+   {
+    "rank": 28,
+    "id": "3et9upNERQI5IYt5jEDTxM",
+    "name": "Thy Art Is Murder"
+   },
+   {
+    "rank": 29,
+    "id": "2GVzsXcXyU95u2EahzwqN7",
+    "name": "If These Trees Could Talk"
+   },
+   {
+    "rank": 30,
+    "id": "2e53aHBQdCMKWqHDuyJsjC",
+    "name": "Free"
+   },
+   {
+    "rank": 31,
+    "id": "40Yq4vzPs9VNUrIBG5Jr2i",
+    "name": "The Smashing Pumpkins"
+   },
+   {
+    "rank": 32,
+    "id": "2AM4ilv6UzW0uMRuqKtDgN",
+    "name": "ZZ Top"
+   },
+   {
+    "rank": 33,
+    "id": "714osTgzZrkyf3SGjggpfY",
+    "name": "North Mississippi Allstars"
+   },
+   {
+    "rank": 34,
+    "id": "4nhvb6x9ZhPiYCzrHDNia9",
+    "name": "Daphni"
+   },
+   {
+    "rank": 35,
+    "id": "7e34W5SzZeFaLrlhvSsic0",
+    "name": "hubris."
+   },
+   {
+    "rank": 36,
+    "id": "34UhPkLbtFKRq3nmfFgejG",
+    "name": "Mogwai"
+   },
+   {
+    "rank": 37,
+    "id": "5KeQyt1QJBjcutJ2AuLNO2",
+    "name": "Holy Holy"
+   },
+   {
+    "rank": 38,
+    "id": "7BIt8dmieIJhheLq5UVQaH",
+    "name": "Monomyth"
+   },
+   {
+    "rank": 39,
+    "id": "6tCENAD2FBfIMyygJMeOJV",
+    "name": "Fuck Buttons"
+   },
+   {
+    "rank": 40,
+    "id": "06C98uwTFduwmzsuaLWFA9",
+    "name": "Papir"
+   },
+   {
+    "rank": 41,
+    "id": "06D0YfeNZgBA7XWQ79Y42R",
+    "name": "King Buffalo"
+   },
+   {
+    "rank": 42,
+    "id": "5LEUigTSXpwrtERRcSW1N4",
+    "name": "Urge Overkill"
+   },
+   {
+    "rank": 43,
+    "id": "2rybQ8mU0cEKKO3zoVRQ23",
+    "name": "Treebeard"
+   },
+   {
+    "rank": 44,
+    "id": "4gIdjgLlvgEOz7MexDZzpM",
+    "name": "Status Quo"
+   },
+   {
+    "rank": 45,
+    "id": "1uLjBnFTDWAEVwhxZ4TKxu",
+    "name": "ROLLA"
+   },
+   {
+    "rank": 46,
+    "id": "4SXj7TVoA3bgfR8AVssACa",
+    "name": "Caspian"
+   },
+   {
+    "rank": 47,
+    "id": "0US6t3wOzabccOupxTHl2S",
+    "name": "Cam Cole"
+   },
+   {
+    "rank": 48,
+    "id": "1lbkSAoynPSO7OQOFSOdon",
+    "name": "Black Market Karma"
+   },
+   {
+    "rank": 49,
+    "id": "7uhNprgXG8aaMqUP256QTM",
+    "name": "The Crooks"
+   },
+   {
+    "rank": 50,
+    "id": "066X20Nz7iquqkkCW6Jxy6",
+    "name": "LCD Soundsystem"
+   }
+  ],
+  "medium_term": [
+   {
+    "rank": 1,
+    "id": "6ZWMXMg25PGVCaoYZXQSyn",
+    "name": "Papa M"
+   },
+   {
+    "rank": 2,
+    "id": "7ijTl8zn2jzAk8XuWOKTZ2",
+    "name": "GB3 AU"
+   },
+   {
+    "rank": 3,
+    "id": "3g2slv6elrXxGnXqy7Q2ap",
+    "name": "Les Big Byrd"
+   },
+   {
+    "rank": 4,
+    "id": "1GhPHrq36VKCY3ucVaZCfo",
+    "name": "The Chemical Brothers"
+   },
+   {
+    "rank": 5,
+    "id": "5lhaM01nwvsMZpmPY2HVER",
+    "name": "Carcass"
+   },
+   {
+    "rank": 6,
+    "id": "2AM4ilv6UzW0uMRuqKtDgN",
+    "name": "ZZ Top"
+   },
+   {
+    "rank": 7,
+    "id": "602nksrzSSXE16wRC7QuhD",
+    "name": "Beasts Of Bourbon"
+   },
+   {
+    "rank": 8,
+    "id": "1l9d7B8W0IHy3LqWsxP2SH",
+    "name": "Phantogram"
+   },
+   {
+    "rank": 9,
+    "id": "1CzKORB9IN0EjPEyeKBIkf",
+    "name": "Tides From Nebula"
+   },
+   {
+    "rank": 10,
+    "id": "07dZirN9KFAGIHeBvSDfuO",
+    "name": "Night Beats"
+   },
+   {
+    "rank": 11,
+    "id": "06D0YfeNZgBA7XWQ79Y42R",
+    "name": "King Buffalo"
+   },
+   {
+    "rank": 12,
+    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+    "name": "Pink Floyd"
+   },
+   {
+    "rank": 13,
+    "id": "5gqhueRUZEa7VDnQt4HODp",
+    "name": "Nils Frahm"
+   },
+   {
+    "rank": 14,
+    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+    "name": "The Beatles"
+   },
+   {
+    "rank": 15,
+    "id": "2MIoyDjdxCUdnV59UqbJGk",
+    "name": "Green Lung"
+   },
+   {
+    "rank": 16,
+    "id": "1TAcaMoUlvLpTUzh18TzDY",
+    "name": "Causa Sui"
+   },
+   {
+    "rank": 17,
+    "id": "6qyi8X6MdP1lu6B1K6yh3h",
+    "name": "Silversun Pickups"
+   },
+   {
+    "rank": 18,
+    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+    "name": "Bon Iver"
+   },
+   {
+    "rank": 19,
+    "id": "29Wmfm1CojrjQ3aQP0FI65",
+    "name": "All Them Witches"
+   },
+   {
+    "rank": 20,
+    "id": "53B8p4TVFXCtarwosey71M",
+    "name": "Eco"
+   },
+   {
+    "rank": 21,
+    "id": "37wnCBVoqmetYih8Y7tkmi",
+    "name": "The Kings Of Frog Island"
+   },
+   {
+    "rank": 22,
+    "id": "10gzBoINW3cLJfZUka8Zoe",
+    "name": "Above & Beyond"
+   },
+   {
+    "rank": 23,
+    "id": "0EnDtiDrCgklr97QMJOSPv",
+    "name": "sleepmakeswaves"
+   },
+   {
+    "rank": 24,
+    "id": "5m5cTNJ2RxfxKpGULocV9T",
+    "name": "The Cruel Sea"
+   },
+   {
+    "rank": 25,
+    "id": "22bE4uQ6baNwSHPVcDxLCe",
+    "name": "The Rolling Stones"
+   },
+   {
+    "rank": 26,
+    "id": "4tZwfgrHOc3mvqYlEYSvVi",
+    "name": "Daft Punk"
+   },
+   {
+    "rank": 27,
+    "id": "3kjuyTCjPG1WMFCiyc5IuB",
+    "name": "Arcade Fire"
+   },
+   {
+    "rank": 28,
+    "id": "0yNLKJebCb8Aueb54LYya3",
+    "name": "New Order"
+   },
+   {
+    "rank": 29,
+    "id": "7yxi31szvlbwvKq9dYOmFI",
+    "name": "Jon Hopkins"
+   },
+   {
+    "rank": 30,
+    "id": "0Sd7X8SxWV0AyDLbvd4uEu",
+    "name": "Swervedriver"
+   },
+   {
+    "rank": 31,
+    "id": "2cCUtGK9sDU2EoElnk0GNB",
+    "name": "The National"
+   },
+   {
+    "rank": 32,
+    "id": "4PSVYeo0dqy133iK0TLIZu",
+    "name": "Weedpecker"
+   },
+   {
+    "rank": 33,
+    "id": "1eClJfHLoDI4rZe5HxzBFv",
+    "name": "INXS"
+   },
+   {
+    "rank": 34,
+    "id": "13NmOYYfvONNZ9mn2qn8P2",
+    "name": "Angine de Poitrine"
+   },
+   {
+    "rank": 35,
+    "id": "1uQWmt1OhuHGRKmZ2ZcL6p",
+    "name": "Explosions In The Sky"
+   },
+   {
+    "rank": 36,
+    "id": "2CKaDZ1Yo8YnWega9IeUzB",
+    "name": "Booka Shade"
+   },
+   {
+    "rank": 37,
+    "id": "5INjqkS1o8h1imAzPqGZBb",
+    "name": "Tame Impala"
+   },
+   {
+    "rank": 38,
+    "id": "6WoTvA9qinpHtSRJuldYh6",
+    "name": "The Fall"
+   },
+   {
+    "rank": 39,
+    "id": "2ZfogSsOWP4mVfEqfpLXCt",
+    "name": "The Church"
+   },
+   {
+    "rank": 40,
+    "id": "2SrWifjYv7b5tR8EzEmn1x",
+    "name": "Golden Features"
+   },
+   {
+    "rank": 41,
+    "id": "31GFg2x20JkksUlQxN9BMe",
+    "name": "Monkey3"
+   },
+   {
+    "rank": 42,
+    "id": "58HjcrZgkKUaldPPK7BuDX",
+    "name": "Khan"
+   },
+   {
+    "rank": 43,
+    "id": "2wzMOQwNT6ZvVB4amvhFAH",
+    "name": "The Pogues"
+   },
+   {
+    "rank": 44,
+    "id": "4qQyS8N0BHNkGQRi8xsha8",
+    "name": "Maserati"
+   },
+   {
+    "rank": 45,
+    "id": "3oDbviiivRWhXwIE8hxkVV",
+    "name": "The Beach Boys"
+   },
+   {
+    "rank": 46,
+    "id": "4tfyTbsNNN5xfxKDwG4VfP",
+    "name": "The House of Love"
+   },
+   {
+    "rank": 47,
+    "id": "6Jg3DFzPWX2VIy01oqLGkz",
+    "name": "The Clockworks"
+   },
+   {
+    "rank": 48,
+    "id": "7GvCdRq4iHNQDsGlPWOycw",
+    "name": "You Am I"
+   },
+   {
+    "rank": 49,
+    "id": "36QJpDe2go2KgaRleHCDTp",
+    "name": "Led Zeppelin"
+   },
+   {
+    "rank": 50,
+    "id": "5MhLmv7GgyjbxGqiIGasvT",
+    "name": "Jean-Michel Jarre"
+   }
+  ],
+  "long_term": [
+   {
+    "rank": 1,
+    "id": "06HL4z0CvFAxyc27GXpf02",
+    "name": "Taylor Swift"
+   },
+   {
+    "rank": 2,
+    "id": "7wU1naftD3lNq7rNsiDvOR",
+    "name": "Paul van Dyk"
+   },
+   {
+    "rank": 3,
+    "id": "3g2slv6elrXxGnXqy7Q2ap",
+    "name": "Les Big Byrd"
+   },
+   {
+    "rank": 4,
+    "id": "06D0YfeNZgBA7XWQ79Y42R",
+    "name": "King Buffalo"
+   },
+   {
+    "rank": 5,
+    "id": "3oDbviiivRWhXwIE8hxkVV",
+    "name": "The Beach Boys"
+   },
+   {
+    "rank": 6,
+    "id": "2qk9voo8llSGYcZ6xrBzKx",
+    "name": "Kings of Leon"
+   },
+   {
+    "rank": 7,
+    "id": "1GhPHrq36VKCY3ucVaZCfo",
+    "name": "The Chemical Brothers"
+   },
+   {
+    "rank": 8,
+    "id": "2MIoyDjdxCUdnV59UqbJGk",
+    "name": "Green Lung"
+   },
+   {
+    "rank": 9,
+    "id": "2AM4ilv6UzW0uMRuqKtDgN",
+    "name": "ZZ Top"
+   },
+   {
+    "rank": 10,
+    "id": "58HjcrZgkKUaldPPK7BuDX",
+    "name": "Khan"
+   },
+   {
+    "rank": 11,
+    "id": "4IEpQR24sUgq6BQw2MdZIy",
+    "name": "GHOSTWOMAN"
+   },
+   {
+    "rank": 12,
+    "id": "0yNLKJebCb8Aueb54LYya3",
+    "name": "New Order"
+   },
+   {
+    "rank": 13,
+    "id": "2cCUtGK9sDU2EoElnk0GNB",
+    "name": "The National"
+   },
+   {
+    "rank": 14,
+    "id": "3K9muOlJVKLgH4SIwwZiDe",
+    "name": "Self Esteem"
+   },
+   {
+    "rank": 15,
+    "id": "22bE4uQ6baNwSHPVcDxLCe",
+    "name": "The Rolling Stones"
+   },
+   {
+    "rank": 16,
+    "id": "6ZWMXMg25PGVCaoYZXQSyn",
+    "name": "Papa M"
+   },
+   {
+    "rank": 17,
+    "id": "10gzBoINW3cLJfZUka8Zoe",
+    "name": "Above & Beyond"
+   },
+   {
+    "rank": 18,
+    "id": "2CKaDZ1Yo8YnWega9IeUzB",
+    "name": "Booka Shade"
+   },
+   {
+    "rank": 19,
+    "id": "0vTVU0KH0CVzijsoKGsTPl",
+    "name": "Barry Can't Swim"
+   },
+   {
+    "rank": 20,
+    "id": "1ltDgA6tV4utKM6y1BOYIE",
+    "name": "Estiva"
+   },
+   {
+    "rank": 21,
+    "id": "2Mjr7nb7vY7AQwxGskDlM7",
+    "name": "Greenleaf"
+   },
+   {
+    "rank": 22,
+    "id": "07dZirN9KFAGIHeBvSDfuO",
+    "name": "Night Beats"
+   },
+   {
+    "rank": 23,
+    "id": "7ijTl8zn2jzAk8XuWOKTZ2",
+    "name": "GB3 AU"
+   },
+   {
+    "rank": 24,
+    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+    "name": "The Beatles"
+   },
+   {
+    "rank": 25,
+    "id": "5lhaM01nwvsMZpmPY2HVER",
+    "name": "Carcass"
+   },
+   {
+    "rank": 26,
+    "id": "602nksrzSSXE16wRC7QuhD",
+    "name": "Beasts Of Bourbon"
+   },
+   {
+    "rank": 27,
+    "id": "6XIJivrO9KEaxh6bKai91s",
+    "name": "Psychlona"
+   },
+   {
+    "rank": 28,
+    "id": "1PfOXooPSLQhOTNZGrXM90",
+    "name": "Solarstone"
+   },
+   {
+    "rank": 29,
+    "id": "2DS5RPK5A2GQTucYlgsQdE",
+    "name": "Perry Farrell"
+   },
+   {
+    "rank": 30,
+    "id": "5GxyeQagayzZOg4UwffQlD",
+    "name": "Chicane"
+   },
+   {
+    "rank": 31,
+    "id": "0EnDtiDrCgklr97QMJOSPv",
+    "name": "sleepmakeswaves"
+   },
+   {
+    "rank": 32,
+    "id": "7yxi31szvlbwvKq9dYOmFI",
+    "name": "Jon Hopkins"
+   },
+   {
+    "rank": 33,
+    "id": "3ChjGRo4LfuJy7uXo0uQG5",
+    "name": "Rafael Osmo"
+   },
+   {
+    "rank": 34,
+    "id": "3kjuyTCjPG1WMFCiyc5IuB",
+    "name": "Arcade Fire"
+   },
+   {
+    "rank": 35,
+    "id": "6qyi8X6MdP1lu6B1K6yh3h",
+    "name": "Silversun Pickups"
+   },
+   {
+    "rank": 36,
+    "id": "5nPOO9iTcrs9k6yFffPxjH",
+    "name": "Röyksopp"
+   },
+   {
+    "rank": 37,
+    "id": "3uP1cpcy1q0stG3utL7tZS",
+    "name": "October Drift"
+   },
+   {
+    "rank": 38,
+    "id": "0f38k6IM0q7Je0QihLXpD8",
+    "name": "Weekend Heroes"
+   },
+   {
+    "rank": 39,
+    "id": "1Yox196W7bzVNZI7RBaPnf",
+    "name": "Megadeth"
+   },
+   {
+    "rank": 40,
+    "id": "1l9d7B8W0IHy3LqWsxP2SH",
+    "name": "Phantogram"
+   },
+   {
+    "rank": 41,
+    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+    "name": "Pink Floyd"
+   },
+   {
+    "rank": 42,
+    "id": "0l7GXb53ndWn97ul8Hpfzd",
+    "name": "Slomosa"
+   },
+   {
+    "rank": 43,
+    "id": "53B8p4TVFXCtarwosey71M",
+    "name": "Eco"
+   },
+   {
+    "rank": 44,
+    "id": "776Uo845nYHJpNaStv1Ds4",
+    "name": "Jimi Hendrix"
+   },
+   {
+    "rank": 45,
+    "id": "5gqhueRUZEa7VDnQt4HODp",
+    "name": "Nils Frahm"
+   },
+   {
+    "rank": 46,
+    "id": "1TAcaMoUlvLpTUzh18TzDY",
+    "name": "Causa Sui"
+   },
+   {
+    "rank": 47,
+    "id": "1IQ2e1buppatiN1bxUVkrk",
+    "name": "Slayer"
+   },
+   {
+    "rank": 48,
+    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+    "name": "Bon Iver"
+   },
+   {
+    "rank": 49,
+    "id": "2ye2Wgw4gimLv2eAKyk1NB",
+    "name": "Metallica"
+   },
+   {
+    "rank": 50,
+    "id": "1CzKORB9IN0EjPEyeKBIkf",
+    "name": "Tides From Nebula"
+   }
+  ]
+ }
+}

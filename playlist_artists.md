@@ -8,7 +8,7 @@
 49x  ZZ Top
 48x  Maps
 48x  Maserati
-45x  Black Sabbath
+46x  Black Sabbath
 43x  Jon Hopkins
 43x  The Chemical Brothers
 42x  Kings of Leon
@@ -95,14 +95,14 @@
 15x  Max Cooper
 15x  Nils Frahm
 15x  Orchid
+15x  The Jesus and Mary Chain
+15x  The Stone Roses
 15x  Tor
 15x  Triangle Singular
 15x  You Am I
 14x  Death From Above 1979
 14x  Fuck Buttons
 14x  The House of Love
-14x  The Jesus and Mary Chain
-14x  The Stone Roses
 14x  Underground Lovers
 14x  YOTTO
 13x  Daniel Avery
@@ -175,6 +175,7 @@
 9x  Hidden Orchestra
 9x  Hot Chip
 9x  Iron Maiden
+9x  Joy Division
 9x  Jules Buckley
 9x  Ladytron
 9x  Lindstrøm
@@ -211,7 +212,6 @@
 8x  Itch-E & Scratch-E
 8x  Jane Weaver
 8x  Jerome Isma-Ae
-8x  Joy Division
 8x  Kadavar
 8x  Killing Joke
 8x  Kurt Vile
@@ -263,6 +263,7 @@
 7x  MONO
 7x  Motorpsycho
 7x  Phosphorescent
+7x  Pink Floyd
 7x  POLIÇA
 7x  Portico Quartet
 7x  Queens of the Stone Age
@@ -330,7 +331,6 @@
 6x  Nine Inch Nails
 6x  OM
 6x  Pigs Pigs Pigs Pigs Pigs Pigs Pigs
-6x  Pink Floyd
 6x  Pinkshinyultrablast
 6x  Pond
 6x  Puscifer
@@ -341,6 +341,7 @@
 6x  She Drew The Gun
 6x  Sleaford Mods
 6x  Snapped Ankles
+6x  Sonic Youth
 6x  Steve Martin
 6x  Swans
 6x  The Atomic Bitchwax
@@ -465,7 +466,6 @@
 5x  Shearwater
 5x  Siena Root
 5x  SLIFT
-5x  Sonic Youth
 5x  Spencer Brown
 5x  Spiral Drive
 5x  Squarepusher
@@ -591,6 +591,7 @@
 4x  Jaga Jazzist
 4x  Jakub Zytecki
 4x  Jehnny Beth
+4x  Jimi Hendrix
 4x  Joe Fisher
 4x  Joe Goddard
 4x  John Grant
@@ -871,7 +872,6 @@
 3x  Jane's Addiction
 3x  jennylee
 3x  Jesu
-3x  Jimi Hendrix
 3x  Joe Turner
 3x  John Digweed
 3x  John Lee Hooker
@@ -1574,6 +1574,7 @@
 2x  Late Nite Tuff Guy
 2x  Lazerhawk
 2x  Leafcutter John
+2x  Led Zeppelin
 2x  Lee Hazlewood
 2x  Leo Kottke
 2x  Leprous
@@ -1964,6 +1965,7 @@
 2x  The Sadies
 2x  The Shins
 2x  The Shirelles
+2x  The Smiths
 2x  The Sound
 2x  The Specials
 2x  The Stooges
@@ -3651,7 +3653,6 @@
 1x  LEATHERS
 1x  Leave the Planet
 1x  Leaving Laurel
-1x  Led Zeppelin
 1x  Lee Dorsey
 1x  Lee Ranaldo
 1x  Leeman
@@ -3880,6 +3881,7 @@
 1x  Merry Clayton
 1x  Messenger
 1x  Mestís
+1x  Metallica
 1x  Metrik
 1x  Metronomy
 1x  Meursault
@@ -4988,7 +4990,6 @@
 1x  the sleepover disaster
 1x  The Slits
 1x  The Slow Show
-1x  The Smiths
 1x  The Smoking Trees
 1x  The Soft Cavalry
 1x  The Solar Motel Band

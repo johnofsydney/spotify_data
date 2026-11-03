@@ -1121,6 +1121,26 @@
  },
  {
   "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FvPo",
+  "start": "2026-11-19T21:00:00+11:00",
+  "date": "2026-11-19",
+  "time": "21:00",
+  "venue": "Marlborough Hotel",
+  "venue_id": "KovZ917AVLQ",
+  "address": "145 King Street, Newton",
+  "suburb": "Newton",
+  "acts": [
+   {
+    "name": "Robert Baxter",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/robert-baxter-partyanimal-east-coast-ep-tour/201951",
+  "free": false,
+  "title": "Robert Baxter - PARTYANIMAL EAST COAST EP TOUR"
+ },
+ {
+  "source": "ticketmaster",
   "source_id": "ZFwVzcymWZ17kpvS",
   "start": "2026-11-20T18:00:00+11:00",
   "date": "2026-11-20",
@@ -1178,6 +1198,26 @@
   "url": "https://www.moshtix.com.au/v2/event/day-we-ran-the-naked-at-your-door-tour/199443",
   "free": false,
   "title": "Day We Ran - The Naked At Your Door Tour"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17FeAz",
+  "start": "2026-11-20T19:00:00+11:00",
+  "date": "2026-11-20",
+  "time": "19:00",
+  "venue": "The Vanguard",
+  "venue_id": "KovZpZA6JkkA",
+  "address": "42 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "Ratcat",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/ratcat/202178",
+  "free": false,
+  "title": "RATCAT"
  },
  {
   "source": "ticketmaster",
@@ -3009,6 +3049,26 @@
  },
  {
   "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvx8",
+  "start": "2026-12-12T15:00:00+11:00",
+  "date": "2026-12-12",
+  "time": "15:00",
+  "venue": "Heaps Normal Health Club",
+  "venue_id": "KovZ917AVL0",
+  "address": "2/10 Brompton Street, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Caleb Jackson",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/party-favours-caleb-jackson-all-day-long/201890",
+  "free": false,
+  "title": "Party Favours - Caleb Jackson All Day Long"
+ },
+ {
+  "source": "ticketmaster",
   "source_id": "1AKZk3oGkd5eIUm",
   "start": "2026-12-12T17:30:00+11:00",
   "date": "2026-12-12",
@@ -3073,6 +3133,26 @@
  },
  {
   "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fvog",
+  "start": "2026-12-12T19:00:00+11:00",
+  "date": "2026-12-12",
+  "time": "19:00",
+  "venue": "Waywards",
+  "venue_id": "KovZ917AmkG",
+  "address": "324 King St, Newtown",
+  "suburb": "Newtown",
+  "acts": [
+   {
+    "name": "FANGZ",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/fangz-the-final-tour-sydney/201475",
+  "free": false,
+  "title": "FANGZ - The Final Tour | Sydney"
+ },
+ {
+  "source": "ticketmaster",
   "source_id": "ZFwVzcymWZ17FvuY",
   "start": "2026-12-12T19:30:00+11:00",
   "date": "2026-12-12",
@@ -3134,6 +3214,38 @@
   "url": "https://www.moshtix.com.au/v2/event/moktar-live-/198886",
   "free": false,
   "title": "moktar (LIVE)"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kbaI",
+  "start": "2026-12-12T21:00:00+11:00",
+  "date": "2026-12-12",
+  "time": "21:00",
+  "venue": "ivy Sydney",
+  "venue_id": "KovZ917ARtW",
+  "address": "330 George Street, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Sam Divine",
+    "billing": "headline"
+   },
+   {
+    "name": "Nick Curly",
+    "billing": "support"
+   },
+   {
+    "name": "Murphy's Law",
+    "billing": "support"
+   },
+   {
+    "name": "David Penn",
+    "billing": "support"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/defected-sydney-2026/198268",
+  "free": false,
+  "title": "Defected Sydney 2026"
  },
  {
   "source": "ticketmaster",
@@ -3805,6 +3917,26 @@
  },
  {
   "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17Fv_e",
+  "start": "2027-01-22T19:30:00+11:00",
+  "date": "2027-01-22",
+  "time": "19:30",
+  "venue": "Marrickville Bowling Club",
+  "venue_id": "KovZ917A-tw",
+  "address": "91 Sydenham Road, Marrickville",
+  "suburb": "Marrickville",
+  "acts": [
+   {
+    "name": "Real Young & Lazy Horse",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/real-young-lazy-horse-ny-usa-/201642",
+  "free": false,
+  "title": "Real Young & Lazy Horse (NY, USA)"
+ },
+ {
+  "source": "ticketmaster",
   "source_id": "ZFwVzcymWZ17FZee",
   "start": "2027-01-22T23:00:00+11:00",
   "date": "2027-01-22",
@@ -3846,26 +3978,6 @@
   "url": "https://www.moshtix.com.au/v2/event/tmrw-music-one-hit-pres-brighter-daze-sydney/201289",
   "free": false,
   "title": "TMRW Music & One Hit pres. BRIGHTER DAZE Sydney"
- },
- {
-  "source": "ticketmaster",
-  "source_id": "ZFwVzcymWZ17k_8E",
-  "start": "2027-01-23T19:00:00+11:00",
-  "date": "2027-01-23",
-  "time": "19:00",
-  "venue": "Waywards",
-  "venue_id": "KovZ917AmkG",
-  "address": "324 King St, Newtown",
-  "suburb": "Newtown",
-  "acts": [
-   {
-    "name": "Little Quirks",
-    "billing": "headline"
-   }
-  ],
-  "url": "https://www.moshtix.com.au/v2/event/little-quirks-she-s-wild-album-launch/199427",
-  "free": false,
-  "title": "Little Quirks 'She's Wild' Album Launch"
  },
  {
   "source": "ticketmaster",
@@ -5350,6 +5462,26 @@
   "url": "https://www.moshtix.com.au/v2/event/mono/194093",
   "free": false,
   "title": "MONO"
+ },
+ {
+  "source": "ticketmaster",
+  "source_id": "ZFwVzcymWZ17kb0J",
+  "start": "2027-04-30T19:00:00+10:00",
+  "date": "2027-04-30",
+  "time": "19:00",
+  "venue": "Oxford Art Factory",
+  "venue_id": "KovZpaovYe",
+  "address": "38-46 Oxford St, Sydney",
+  "suburb": "Sydney",
+  "acts": [
+   {
+    "name": "Talib Kweli",
+    "billing": "headline"
+   }
+  ],
+  "url": "https://www.moshtix.com.au/v2/event/talib-kweli-usa-/198926",
+  "free": false,
+  "title": "Talib Kweli (USA)"
  },
  {
   "source": "ticketmaster",

@@ -5,7 +5,7 @@
     "name": "Formative Years",
     "desc": "Seeded by spotify_data from formative.txt; add to it freely.",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAAWHZFQdj1RsRXeu0a37ysoUxkf+t"
+    "snapshot_id": "AAAAEkj3lzDIjB9PhloEy/gX0eJvmF7h"
   },
   "tracks": [
     {
@@ -201,6 +201,286 @@
       "duration": {
         "secs": 199,
         "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1FvDJ9KGxcqwv1utyPL3JZ",
+      "name": "This Charming Man - 2011 Remaster",
+      "artists": [
+        {
+          "id": "3yY2gUcIsjMr8hjo51PoJ8",
+          "name": "The Smiths"
+        }
+      ],
+      "album": {
+        "id": "6cI1XoZsOhkyrCwtuI70CN",
+        "release_date": "1984-02-20",
+        "name": "The Smiths",
+        "artists": [
+          {
+            "id": "3yY2gUcIsjMr8hjo51PoJ8",
+            "name": "The Smiths"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 162,
+        "nanos": 920000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2MuWTIM3b0YEAskbeeFE1i",
+      "name": "Master Of Puppets",
+      "artists": [
+        {
+          "id": "2ye2Wgw4gimLv2eAKyk1NB",
+          "name": "Metallica"
+        }
+      ],
+      "album": {
+        "id": "2Lq2qX3hYhiuPckC8Flj21",
+        "release_date": "1986-03-03",
+        "name": "Master Of Puppets (Remastered)",
+        "artists": [
+          {
+            "id": "2ye2Wgw4gimLv2eAKyk1NB",
+            "name": "Metallica"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 515,
+        "nanos": 386000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ElAcOj8tudMA6X6KZ7SMO",
+      "name": "Children of the Grave - 2009 Remaster",
+      "artists": [
+        {
+          "id": "5M52tdBnJaKSvOpJGz8mfZ",
+          "name": "Black Sabbath"
+        }
+      ],
+      "album": {
+        "id": "24fNwoIq4NLDf4ARJYAFN9",
+        "release_date": "1971-07-21",
+        "name": "Master of Reality",
+        "artists": [
+          {
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 315,
+        "nanos": 893000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "34iOH7LY3vme5rQxsVILZ4",
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "artists": [
+        {
+          "id": "432R46LaYsJZV2Gmc4jUV5",
+          "name": "Joy Division"
+        }
+      ],
+      "album": {
+        "id": "0u0CJa9zwFbGSU8JWQYS5G",
+        "release_date": "1980-06-01",
+        "name": "Love Will Tear Us Apart",
+        "artists": [
+          {
+            "id": "432R46LaYsJZV2Gmc4jUV5",
+            "name": "Joy Division"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 208,
+        "nanos": 453000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6uU0Hu8oVk9gBihokcrDMH",
+      "name": "One of These Days",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "468ZwCchVtzEbt9BHmXopb",
+        "release_date": "1971-11-11",
+        "name": "Meddle",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 355,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3qT4bUD1MaWpGrTwcvguhb",
+      "name": "Black Dog - Remaster",
+      "artists": [
+        {
+          "id": "36QJpDe2go2KgaRleHCDTp",
+          "name": "Led Zeppelin"
+        }
+      ],
+      "album": {
+        "id": "44Ig8dzqOkvkGDzaUof9lK",
+        "release_date": "1971-11-08",
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "artists": [
+          {
+            "id": "36QJpDe2go2KgaRleHCDTp",
+            "name": "Led Zeppelin"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 295,
+        "nanos": 386000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0NWPxcsf5vdjdiFUI8NgkP",
+      "name": "Hey Joe",
+      "artists": [
+        {
+          "id": "776Uo845nYHJpNaStv1Ds4",
+          "name": "Jimi Hendrix"
+        }
+      ],
+      "album": {
+        "id": "7rSZXXHHvIhF4yUFdaOCy9",
+        "release_date": "1967-05-12",
+        "name": "Are You Experienced",
+        "artists": [
+          {
+            "id": "776Uo845nYHJpNaStv1Ds4",
+            "name": "Jimi Hendrix"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 210,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6URa5VxZUbSUa6ArzuRQNH",
+      "name": "Sidewalking",
+      "artists": [
+        {
+          "id": "4rjlerN21ygkIhmUv55irs",
+          "name": "The Jesus and Mary Chain"
+        }
+      ],
+      "album": {
+        "id": "6F11AZa8NdLdKf9ofnZXDD",
+        "release_date": "1988",
+        "name": "Barbed Wire Kisses (B-Sides and More)",
+        "artists": [
+          {
+            "id": "4rjlerN21ygkIhmUv55irs",
+            "name": "The Jesus and Mary Chain"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 215,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "758wEKVqfYopJIHYWdLVd4",
+      "name": "I Wanna Be Adored - Remastered 2009",
+      "artists": [
+        {
+          "id": "1lYT0A0LV5DUfxr6doRP3d",
+          "name": "The Stone Roses"
+        }
+      ],
+      "album": {
+        "id": "0um9FI6BLBldL5POP4D4Cw",
+        "release_date": "1989-05-02",
+        "name": "The Stone Roses",
+        "artists": [
+          {
+            "id": "1lYT0A0LV5DUfxr6doRP3d",
+            "name": "The Stone Roses"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 292,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0WIbzDVEpmOyBnqqdtqIL9",
+      "name": "Teen Age Riot (Album Version)",
+      "artists": [
+        {
+          "id": "5UqTO8smerMvxHYA5xsXb6",
+          "name": "Sonic Youth"
+        }
+      ],
+      "album": {
+        "id": "23O4F21GDWiGd33tFN3ZgI",
+        "release_date": "1988-10-04",
+        "name": "Daydream Nation (Deluxe Edition)",
+        "artists": [
+          {
+            "id": "5UqTO8smerMvxHYA5xsXb6",
+            "name": "Sonic Youth"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 417,
+        "nanos": 800000000
       },
       "explicit": false
     }
