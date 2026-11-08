@@ -93,6 +93,7 @@ PHRASES = {
     "followed": "a follow",
     "dedicated": "a playlist that is mostly theirs",
     "activity": "a run of new releases",
+    "artists": "being among Spotify's top artists for you",
 }
 
 
