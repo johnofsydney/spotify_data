@@ -5,7 +5,7 @@
     "name": "In the style of Sabbath",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAEyJAvxfvLMzaazioGOMnYucwMxrU"
+    "snapshot_id": "AAAAFFOVAdC3n1LMoGTISXlHxdxJVWkN"
   },
   "tracks": [
     {
@@ -849,6 +849,230 @@
       "duration": {
         "secs": 260,
         "nanos": 729000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3li3tZ3v8VIzWFbn8WgPi0",
+      "name": "The Deluded",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "5MYkfve7HlfWkefcc4vkeO",
+        "release_date": "2018-04-02",
+        "name": "Vale",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 517,
+        "nanos": 235000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0hxZxWkrKVifkeccHXMDdy",
+      "name": "Break Off Your Shells",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "5MYkfve7HlfWkefcc4vkeO",
+        "release_date": "2018-04-02",
+        "name": "Vale",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 807000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "21Dktk4nxVa7LRSSvfZdib",
+      "name": "Wolves",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "5MYkfve7HlfWkefcc4vkeO",
+        "release_date": "2018-04-02",
+        "name": "Vale",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 417,
+        "nanos": 39000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6knIsG3HWn5XTAVTkzmcv9",
+      "name": "Control",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "5MYkfve7HlfWkefcc4vkeO",
+        "release_date": "2018-04-02",
+        "name": "Vale",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 550,
+        "nanos": 867000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6RXAhd1CSMdFYFrcvtOlkk",
+      "name": "Separation",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "5MYkfve7HlfWkefcc4vkeO",
+        "release_date": "2018-04-02",
+        "name": "Vale",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 401,
+        "nanos": 304000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "25hx1wB7yDljaILTw6Y8hl",
+      "name": "Vale",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "5MYkfve7HlfWkefcc4vkeO",
+        "release_date": "2018-04-02",
+        "name": "Vale",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 432,
+        "nanos": 341000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3okHJLTeQLiwwT7uo67xCG",
+      "name": "Slowman",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "5MYkfve7HlfWkefcc4vkeO",
+        "release_date": "2018-04-02",
+        "name": "Vale",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 516,
+        "nanos": 181000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0FxOmGfQdDGLPY6ZQOcDaP",
+      "name": "The Drudge",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "5MYkfve7HlfWkefcc4vkeO",
+        "release_date": "2018-04-02",
+        "name": "Vale",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 676,
+        "nanos": 273000000
       },
       "explicit": false
     }

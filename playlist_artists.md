@@ -1,7 +1,8 @@
 85x  Paul van Dyk
 77x  Dusty Springfield
 77x  God Is An Astronaut
-54x  The Brian Jonestown Massacre
+70x  The Brian Jonestown Massacre
+53x  Spiritualized
 52x  Booka Shade
 51x  White Lies
 49x  LCD Soundsystem
@@ -10,13 +11,12 @@
 48x  Maserati
 46x  Black Sabbath
 43x  Jon Hopkins
+43x  New Order
 43x  The Chemical Brothers
 42x  Kings of Leon
 38x  ATB
 38x  Night Beats
-37x  Spiritualized
 36x  Long Distance Calling
-35x  New Order
 34x  Noel Gallagher's High Flying Birds
 32x  Primal Scream
 31x  Causa Sui
@@ -27,8 +27,8 @@
 29x  Tides From Nebula
 27x  65daysofstatic
 27x  Gary Numan
+27x  Junip
 26x  If These Trees Could Talk
-26x  Junip
 26x  The National
 26x  The Pogues
 25x  Grandbrothers
@@ -69,6 +69,7 @@
 18x  King Buffalo
 18x  pg.lost
 18x  Phantogram
+18x  Pink Floyd
 18x  The Holy
 18x  The Limiñanas
 18x  trentemøller
@@ -158,6 +159,7 @@
 10x  Hannah Peel
 10x  Iggy Pop
 10x  Jon Gurd
+10x  Khan
 10x  Lunatic Soul
 10x  Orkidea
 10x  Protoculture
@@ -263,7 +265,6 @@
 7x  MONO
 7x  Motorpsycho
 7x  Phosphorescent
-7x  Pink Floyd
 7x  POLIÇA
 7x  Portico Quartet
 7x  Queens of the Stone Age

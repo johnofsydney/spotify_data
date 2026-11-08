@@ -1,5 +1,21 @@
 [
   {
+    "artist": "Spiritualized",
+    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
+    "album": "Ladies and gentlemen we are floating in space",
+    "id": "56YzQ0dhmRMDryZsrjdHun",
+    "year": "1997",
+    "key": "6DKmuXxXASTF6xaJwcTfjv|ladies and gentlemen we are floating in space",
+    "source": "known",
+    "artist_weight": 49.4,
+    "hits": 7,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 46.9,
+    "rank": 1
+  },
+  {
     "artist": "Les Big Byrd",
     "artist_id": "3g2slv6elrXxGnXqy7Q2ap",
     "album": "Ruin Everything",
@@ -13,7 +29,7 @@
     "known_tracks": 0,
     "from": [],
     "score": 44.7,
-    "rank": 1
+    "rank": 2
   },
   {
     "artist": "King Buffalo",
@@ -29,7 +45,7 @@
     "known_tracks": 5,
     "from": [],
     "score": 41.5,
-    "rank": 2
+    "rank": 3
   },
   {
     "artist": "Papa M",
@@ -45,7 +61,7 @@
     "known_tracks": 3,
     "from": [],
     "score": 38.6,
-    "rank": 3
+    "rank": 4
   },
   {
     "artist": "Taylor Swift",
@@ -61,7 +77,7 @@
     "known_tracks": 0,
     "from": [],
     "score": 38.2,
-    "rank": 4
+    "rank": 5
   },
   {
     "artist": "ZZ Top",
@@ -77,7 +93,7 @@
     "known_tracks": 5,
     "from": [],
     "score": 36.6,
-    "rank": 5
+    "rank": 6
   },
   {
     "artist": "Fuck Buttons",
@@ -93,7 +109,7 @@
     "known_tracks": 3,
     "from": [],
     "score": 36.4,
-    "rank": 6
+    "rank": 7
   },
   {
     "artist": "The Dharma Chain",
@@ -109,7 +125,7 @@
     "known_tracks": 3,
     "from": [],
     "score": 36.3,
-    "rank": 7
+    "rank": 8
   },
   {
     "artist": "sleepmakeswaves",
@@ -125,7 +141,7 @@
     "known_tracks": 2,
     "from": [],
     "score": 33.9,
-    "rank": 8
+    "rank": 9
   },
   {
     "artist": "Causa Sui",
@@ -141,22 +157,6 @@
     "known_tracks": 2,
     "from": [],
     "score": 33.5,
-    "rank": 9
-  },
-  {
-    "artist": "Spiritualized",
-    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
-    "album": "Ladies and gentlemen we are floating in space",
-    "id": "56YzQ0dhmRMDryZsrjdHun",
-    "year": "1997",
-    "key": "6DKmuXxXASTF6xaJwcTfjv|ladies and gentlemen we are floating in space",
-    "source": "known",
-    "artist_weight": 34.5,
-    "hits": 7,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 32.8,
     "rank": 10
   },
   {
@@ -288,22 +288,6 @@
     "rank": 18
   },
   {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Born In The Echoes",
-    "id": "36E5LAM5D3AKnVx8s5dyc6",
-    "year": "2015",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|born in the echoes",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 29.4,
-    "rank": 19
-  },
-  {
     "artist": "Chicane",
     "artist_id": "5GxyeQagayzZOg4UwffQlD",
     "album": "Behind The Sun",
@@ -317,6 +301,22 @@
     "known_tracks": 7,
     "from": [],
     "score": 28.9,
+    "rank": 19
+  },
+  {
+    "artist": "New Order",
+    "artist_id": "0yNLKJebCb8Aueb54LYya3",
+    "album": "Substance",
+    "id": "6iHuSGy6pq4tNGFV3ZVPtl",
+    "year": "1987",
+    "key": "0yNLKJebCb8Aueb54LYya3|substance",
+    "source": "known",
+    "artist_weight": 44.1,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 1,
+    "from": [],
+    "score": 28.7,
     "rank": 20
   }
 ]

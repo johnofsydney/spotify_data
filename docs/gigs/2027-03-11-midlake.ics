@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2027-03-11-midlake@spotify_data
+DTSTAMP:20261108T225559Z
+DTSTART:20270311T090000Z
+DTEND:20270311T120000Z
+SUMMARY:Midlake (USA)
+LOCATION:Manning Bar\, a18 Manning Rd\, Camperdown
+DESCRIPTION:Midlake (USA)\n\nMidlake (USA): favourite #165\n\nhttps://ticke
+ tmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fwww.moshtix.com.a
+ u%2Fv2%2Fevent%2Fmidlake-australian-tour%2F201815&partnerpropertyid=690003
+ 8&MediaPartnerPropertyId=6900038
+URL:https://ticketmaster.evyy.net/c/6123356/1958987/23905?u=https%3A%2F%2Fw
+ ww.moshtix.com.au%2Fv2%2Fevent%2Fmidlake-australian-tour%2F201815&partnerp
+ ropertyid=6900038&MediaPartnerPropertyId=6900038
+END:VEVENT
+END:VCALENDAR

@@ -36,7 +36,7 @@
       "dedicated": false,
       "favourite": true,
       "activity": 0.08333333333333333,
-      "top_artists": 0.528,
+      "top_artists": 0.512,
       "points": {
         "alltime": 0,
         "yearly": 33,
@@ -64,7 +64,7 @@
       "dedicated": true,
       "favourite": true,
       "activity": 0.5,
-      "top_artists": 0.628,
+      "top_artists": 0.58,
       "points": {
         "alltime": 0,
         "yearly": 8.22,
@@ -92,7 +92,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.48,
+      "top_artists": 0.468,
       "points": {
         "alltime": 0,
         "yearly": 11.24,
@@ -108,34 +108,6 @@
     },
     {
       "rank": 4,
-      "score": 53.5,
-      "name": "The Chemical Brothers",
-      "yearly": 0.79,
-      "yearly_years": 1,
-      "alltime": 0,
-      "top": 2,
-      "spread": 5,
-      "tracks": 24,
-      "followed": true,
-      "dedicated": false,
-      "favourite": true,
-      "activity": 1,
-      "top_artists": 0.458,
-      "points": {
-        "alltime": 0,
-        "yearly": 4.87,
-        "top": 8.94,
-        "spread": 15.21,
-        "tracks": 9.43,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 3,
-        "favourite": 12,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 5,
       "score": 51.4,
       "name": "Papa M",
       "yearly": 0.75,
@@ -148,7 +120,7 @@
       "dedicated": false,
       "favourite": true,
       "activity": 0.75,
-      "top_artists": 0.44,
+      "top_artists": 0.434,
       "points": {
         "alltime": 0,
         "yearly": 4.75,
@@ -158,6 +130,34 @@
         "followed": 0,
         "dedicated": 0,
         "activity": 2.6,
+        "favourite": 12,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 5,
+      "score": 50.8,
+      "name": "The Chemical Brothers",
+      "yearly": 0.79,
+      "yearly_years": 1,
+      "alltime": 0,
+      "top": 1,
+      "spread": 5,
+      "tracks": 24,
+      "followed": true,
+      "dedicated": false,
+      "favourite": true,
+      "activity": 1,
+      "top_artists": 0.458,
+      "points": {
+        "alltime": 0,
+        "yearly": 4.87,
+        "top": 6.32,
+        "spread": 15.21,
+        "tracks": 9.43,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 3,
         "favourite": 12,
         "artists": 0
       }
@@ -176,7 +176,7 @@
       "dedicated": true,
       "favourite": true,
       "activity": 0.25,
-      "top_artists": 0.01,
+      "top_artists": 0.02,
       "points": {
         "alltime": 0,
         "yearly": 9.96,
@@ -192,6 +192,34 @@
     },
     {
       "rank": 7,
+      "score": 49.4,
+      "name": "Spiritualized",
+      "yearly": 2.56,
+      "yearly_years": 3,
+      "alltime": 1,
+      "top": 0,
+      "spread": 6,
+      "tracks": 26,
+      "followed": true,
+      "dedicated": false,
+      "favourite": true,
+      "activity": 0.5,
+      "top_artists": 0.542,
+      "points": {
+        "alltime": 0,
+        "yearly": 8.77,
+        "top": 0,
+        "spread": 16.66,
+        "tracks": 9.81,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 2.12,
+        "favourite": 12,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 8,
       "score": 48.5,
       "name": "Fuck Buttons",
       "yearly": 4.64,
@@ -204,7 +232,7 @@
       "dedicated": false,
       "favourite": true,
       "activity": 0,
-      "top_artists": 0.12,
+      "top_artists": 0.31,
       "points": {
         "alltime": 0,
         "yearly": 11.8,
@@ -219,7 +247,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "score": 47,
       "name": "Taylor Swift",
       "yearly": 27.09,
@@ -247,7 +275,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "score": 45.2,
       "name": "sleepmakeswaves",
       "yearly": 0.2,
@@ -260,7 +288,7 @@
       "dedicated": false,
       "favourite": true,
       "activity": 0.75,
-      "top_artists": 0.678,
+      "top_artists": 0.662,
       "points": {
         "alltime": 0,
         "yearly": 2.45,
@@ -275,7 +303,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "score": 44.6,
       "name": "Paul van Dyk",
       "yearly": 10.25,
@@ -303,7 +331,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "score": 44.4,
       "name": "Chicane",
       "yearly": 10.55,
@@ -316,7 +344,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.084,
+      "top_artists": 0.08,
       "points": {
         "alltime": 0,
         "yearly": 17.8,
@@ -331,7 +359,35 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "score": 44.1,
+      "name": "New Order",
+      "yearly": 0.79,
+      "yearly_years": 1,
+      "alltime": 0,
+      "top": 1,
+      "spread": 3,
+      "tracks": 17,
+      "followed": true,
+      "dedicated": false,
+      "favourite": true,
+      "activity": 0.16666666666666666,
+      "top_artists": 0.816,
+      "points": {
+        "alltime": 0,
+        "yearly": 4.87,
+        "top": 6.32,
+        "spread": 11.78,
+        "tracks": 7.93,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 1.22,
+        "favourite": 12,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 14,
       "score": 43.2,
       "name": "Black Sabbath",
       "yearly": 0.6,
@@ -359,7 +415,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 15,
       "score": 43,
       "name": "God Is An Astronaut",
       "yearly": 4.01,
@@ -372,7 +428,7 @@
       "dedicated": true,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.24,
+      "top_artists": 0.26,
       "points": {
         "alltime": 0,
         "yearly": 10.97,
@@ -387,7 +443,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 16,
       "score": 42.1,
       "name": "Booka Shade",
       "yearly": 5.11,
@@ -400,7 +456,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.222,
+      "top_artists": 0.216,
       "points": {
         "alltime": 0,
         "yearly": 12.39,
@@ -415,7 +471,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 17,
       "score": 41.8,
       "name": "Jon Hopkins",
       "yearly": 0.79,
@@ -424,11 +480,11 @@
       "top": 1,
       "spread": 7,
       "tracks": 25,
-      "followed": false,
+      "followed": true,
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.208,
+      "top_artists": 0.194,
       "points": {
         "alltime": 0,
         "yearly": 4.87,
@@ -443,7 +499,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 18,
       "score": 41.8,
       "name": "Dusty Springfield",
       "yearly": 3.91,
@@ -456,7 +512,7 @@
       "dedicated": true,
       "favourite": false,
       "activity": 0.5,
-      "top_artists": 0.34,
+      "top_artists": 0.35,
       "points": {
         "alltime": 0,
         "yearly": 10.84,
@@ -471,7 +527,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 19,
       "score": 41.6,
       "name": "White Lies",
       "yearly": 2.25,
@@ -480,7 +536,7 @@
       "top": 0,
       "spread": 6,
       "tracks": 27,
-      "followed": false,
+      "followed": true,
       "dedicated": true,
       "favourite": false,
       "activity": 0.8333333333333333,
@@ -499,7 +555,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 20,
       "score": 41.4,
       "name": "Tides From Nebula",
       "yearly": 0.83,
@@ -508,11 +564,11 @@
       "top": 5,
       "spread": 3,
       "tracks": 15,
-      "followed": false,
+      "followed": true,
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.746,
+      "top_artists": 0.736,
       "points": {
         "alltime": 0,
         "yearly": 4.99,
@@ -527,7 +583,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 21,
       "score": 41.2,
       "name": "The Beach Boys",
       "yearly": 13,
@@ -540,7 +596,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.22,
+      "top_artists": 0.208,
       "points": {
         "alltime": 0,
         "yearly": 19.76,
@@ -555,7 +611,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 22,
       "score": 40.7,
       "name": "Eco",
       "yearly": 6.37,
@@ -568,7 +624,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.16666666666666666,
-      "top_artists": 0.218,
+      "top_artists": 0.202,
       "points": {
         "alltime": 0,
         "yearly": 13.83,
@@ -583,7 +639,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 23,
       "score": 39.4,
       "name": "Causa Sui",
       "yearly": 1.95,
@@ -596,7 +652,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.69,
+      "top_artists": 0.674,
       "points": {
         "alltime": 0,
         "yearly": 7.65,
@@ -611,7 +667,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 24,
       "score": 37.7,
       "name": "Night Beats",
       "yearly": 0.5,
@@ -624,7 +680,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.08333333333333333,
-      "top_artists": 0.842,
+      "top_artists": 0.572,
       "points": {
         "alltime": 0,
         "yearly": 3.88,
@@ -639,7 +695,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 25,
       "score": 37.3,
       "name": "Greenleaf",
       "yearly": 4.88,
@@ -652,7 +708,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.5833333333333334,
-      "top_artists": 0.43,
+      "top_artists": 0.116,
       "points": {
         "alltime": 0,
         "yearly": 12.11,
@@ -667,7 +723,35 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 26,
+      "score": 36.9,
+      "name": "Pink Floyd",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 1,
+      "spread": 2,
+      "tracks": 12,
+      "followed": true,
+      "dedicated": false,
+      "favourite": true,
+      "activity": 0.5833333333333334,
+      "top_artists": 0.706,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 6.32,
+        "spread": 9.62,
+        "tracks": 6.67,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 2.29,
+        "favourite": 12,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 27,
       "score": 35.9,
       "name": "Röyksopp",
       "yearly": 3.05,
@@ -680,7 +764,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.06,
+      "top_artists": 0.052,
       "points": {
         "alltime": 0,
         "yearly": 9.57,
@@ -695,7 +779,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 28,
       "score": 35.7,
       "name": "Maserati",
       "yearly": 3.42,
@@ -708,7 +792,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.042,
+      "top_artists": 0.036,
       "points": {
         "alltime": 0,
         "yearly": 10.13,
@@ -723,7 +807,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 29,
       "score": 35.4,
       "name": "Beyond The Wizards Sleeve",
       "yearly": 3.49,
@@ -736,7 +820,7 @@
       "dedicated": false,
       "favourite": true,
       "activity": 0.16666666666666666,
-      "top_artists": 0,
+      "top_artists": 0.25,
       "points": {
         "alltime": 0,
         "yearly": 10.24,
@@ -751,7 +835,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 30,
       "score": 35,
       "name": "The Flaming Lips",
       "yearly": 0,
@@ -779,7 +863,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 31,
       "score": 35,
       "name": "The National",
       "yearly": 2,
@@ -792,7 +876,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.6666666666666666,
-      "top_artists": 0.272,
+      "top_artists": 0.26,
       "points": {
         "alltime": 0,
         "yearly": 7.75,
@@ -807,7 +891,35 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 32,
+      "score": 34.8,
+      "name": "Khan",
+      "yearly": 7,
+      "yearly_years": 1,
+      "alltime": 0,
+      "top": 1,
+      "spread": 1.0,
+      "tracks": 7,
+      "followed": true,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 0.5,
+      "top_artists": 0.212,
+      "points": {
+        "alltime": 0,
+        "yearly": 14.5,
+        "top": 6.32,
+        "spread": 6.8,
+        "tracks": 5.09,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 2.12,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 33,
       "score": 34.6,
       "name": "Valley of the Sun",
       "yearly": 3.66,
@@ -835,63 +947,7 @@
       }
     },
     {
-      "rank": 30,
-      "score": 34.5,
-      "name": "Spiritualized",
-      "yearly": 2.56,
-      "yearly_years": 3,
-      "alltime": 1,
-      "top": 0,
-      "spread": 5,
-      "tracks": 19,
-      "followed": true,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0.5,
-      "top_artists": 0,
-      "points": {
-        "alltime": 0,
-        "yearly": 8.77,
-        "top": 0,
-        "spread": 15.21,
-        "tracks": 8.39,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 2.12,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 31,
-      "score": 34.4,
-      "name": "New Order",
-      "yearly": 0.79,
-      "yearly_years": 1,
-      "alltime": 0,
-      "top": 0,
-      "spread": 2,
-      "tracks": 12,
-      "followed": true,
-      "dedicated": false,
-      "favourite": true,
-      "activity": 0.16666666666666666,
-      "top_artists": 0.744,
-      "points": {
-        "alltime": 0,
-        "yearly": 4.87,
-        "top": 0,
-        "spread": 9.62,
-        "tracks": 6.67,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 1.22,
-        "favourite": 12,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 32,
+      "rank": 34,
       "score": 34.2,
       "name": "Maps",
       "yearly": 2.39,
@@ -919,7 +975,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 35,
       "score": 34.1,
       "name": "Steve Kilbey",
       "yearly": 0,
@@ -947,7 +1003,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 36,
       "score": 33.5,
       "name": "The Stone Roses",
       "yearly": 0.66,
@@ -956,7 +1012,7 @@
       "top": 0,
       "spread": 2,
       "tracks": 15,
-      "followed": false,
+      "followed": true,
       "dedicated": false,
       "favourite": true,
       "activity": 0,
@@ -975,7 +1031,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 37,
       "score": 33.5,
       "name": "Pixies",
       "yearly": 0.16,
@@ -1003,7 +1059,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 38,
       "score": 33.1,
       "name": "Noel Gallagher's High Flying Birds",
       "yearly": 1.69,
@@ -1031,7 +1087,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 39,
       "score": 32.6,
       "name": "Elder",
       "yearly": 2.26,
@@ -1059,7 +1115,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 40,
       "score": 31.7,
       "name": "The Raveonettes",
       "yearly": 0.79,
@@ -1087,7 +1143,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 41,
       "score": 31.6,
       "name": "The Dharma Chain",
       "yearly": 1,
@@ -1115,7 +1171,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 42,
       "score": 31.6,
       "name": "Arcade Fire",
       "yearly": 4.79,
@@ -1124,11 +1180,11 @@
       "top": 0,
       "spread": 2,
       "tracks": 13,
-      "followed": false,
+      "followed": true,
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.212,
+      "top_artists": 0.198,
       "points": {
         "alltime": 0,
         "yearly": 11.99,
@@ -1143,7 +1199,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 43,
       "score": 31.4,
       "name": "October Drift",
       "yearly": 4,
@@ -1156,7 +1212,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.75,
-      "top_artists": 0.056,
+      "top_artists": 0.048,
       "points": {
         "alltime": 0,
         "yearly": 10.96,
@@ -1171,7 +1227,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 44,
       "score": 31.2,
       "name": "GHOSTWOMAN",
       "yearly": 3.17,
@@ -1199,7 +1255,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 45,
       "score": 31.1,
       "name": "ATB",
       "yearly": 1.83,
@@ -1227,7 +1283,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 46,
       "score": 31.1,
       "name": "GB3 AU",
       "yearly": 0,
@@ -1240,7 +1296,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.406,
+      "top_artists": 0.396,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -1255,7 +1311,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 47,
       "score": 30.8,
       "name": "Kings of Leon",
       "yearly": 0.25,
@@ -1283,7 +1339,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 48,
       "score": 30.6,
       "name": "Caesars",
       "yearly": 2.37,
@@ -1311,7 +1367,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 49,
       "score": 30.1,
       "name": "Still Corners",
       "yearly": 4.57,
@@ -1339,7 +1395,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 50,
       "score": 30,
       "name": "HAAi",
       "yearly": 0.79,
@@ -1348,7 +1404,7 @@
       "top": 0,
       "spread": 5,
       "tracks": 13,
-      "followed": false,
+      "followed": true,
       "dedicated": false,
       "favourite": false,
       "activity": 1,
@@ -1367,7 +1423,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 51,
       "score": 29.5,
       "name": "Andy Bell",
       "yearly": 2.48,
@@ -1376,11 +1432,11 @@
       "top": 0,
       "spread": 3,
       "tracks": 10,
-      "followed": false,
+      "followed": true,
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0,
+      "top_artists": 0.11,
       "points": {
         "alltime": 0,
         "yearly": 8.63,
@@ -1395,7 +1451,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 52,
       "score": 29.4,
       "name": "65daysofstatic",
       "yearly": 1.72,
@@ -1423,7 +1479,7 @@
       }
     },
     {
-      "rank": 51,
+      "rank": 53,
       "score": 29.1,
       "name": "The Holy",
       "yearly": 2.25,
@@ -1451,7 +1507,7 @@
       }
     },
     {
-      "rank": 52,
+      "rank": 54,
       "score": 28.8,
       "name": "Dinosaur Jr.",
       "yearly": 0.13,
@@ -1479,7 +1535,7 @@
       }
     },
     {
-      "rank": 53,
+      "rank": 55,
       "score": 28.5,
       "name": "Long Distance Calling",
       "yearly": 1.55,
@@ -1507,7 +1563,7 @@
       }
     },
     {
-      "rank": 54,
+      "rank": 56,
       "score": 28.5,
       "name": "The Cure",
       "yearly": 0.13,
@@ -1535,7 +1591,7 @@
       }
     },
     {
-      "rank": 55,
+      "rank": 57,
       "score": 28.3,
       "name": "Holy Fuck",
       "yearly": 0.64,
@@ -1563,7 +1619,7 @@
       }
     },
     {
-      "rank": 56,
+      "rank": 58,
       "score": 28.2,
       "name": "Public Service Broadcasting",
       "yearly": 1.51,
@@ -1591,7 +1647,7 @@
       }
     },
     {
-      "rank": 57,
+      "rank": 59,
       "score": 28.1,
       "name": "U2",
       "yearly": 0.13,
@@ -1619,7 +1675,7 @@
       }
     },
     {
-      "rank": 58,
+      "rank": 60,
       "score": 28,
       "name": "Hannah Peel",
       "yearly": 2.3,
@@ -1647,7 +1703,7 @@
       }
     },
     {
-      "rank": 59,
+      "rank": 61,
       "score": 27.9,
       "name": "Mattiel",
       "yearly": 3.78,
@@ -1675,7 +1731,7 @@
       }
     },
     {
-      "rank": 60,
+      "rank": 62,
       "score": 27.8,
       "name": "Tuber",
       "yearly": 1.59,
@@ -1703,7 +1759,7 @@
       }
     },
     {
-      "rank": 61,
+      "rank": 63,
       "score": 27.7,
       "name": "Phantogram",
       "yearly": 0,
@@ -1716,7 +1772,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.302,
+      "top_artists": 0.288,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -1731,7 +1787,35 @@
       }
     },
     {
-      "rank": 62,
+      "rank": 64,
+      "score": 27.2,
+      "name": "The Brian Jonestown Massacre",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 3,
+      "spread": 2,
+      "tracks": 8,
+      "followed": true,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 0.16666666666666666,
+      "top_artists": 0.908,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 10.95,
+        "spread": 9.62,
+        "tracks": 5.44,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 1.22,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 65,
       "score": 27.1,
       "name": "Barry Can't Swim",
       "yearly": 6,
@@ -1744,7 +1828,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.128,
+      "top_artists": 0.124,
       "points": {
         "alltime": 0,
         "yearly": 13.42,
@@ -1759,7 +1843,7 @@
       }
     },
     {
-      "rank": 63,
+      "rank": 66,
       "score": 26.9,
       "name": "All Them Witches",
       "yearly": 5.48,
@@ -1772,7 +1856,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.75,
-      "top_artists": 0.192,
+      "top_artists": 0.18,
       "points": {
         "alltime": 0,
         "yearly": 12.83,
@@ -1787,7 +1871,7 @@
       }
     },
     {
-      "rank": 64,
+      "rank": 67,
       "score": 26.8,
       "name": "If These Trees Could Talk",
       "yearly": 0.6,
@@ -1800,7 +1884,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.75,
-      "top_artists": 0.22,
+      "top_artists": 0.23,
       "points": {
         "alltime": 0,
         "yearly": 4.24,
@@ -1815,7 +1899,7 @@
       }
     },
     {
-      "rank": 65,
+      "rank": 68,
       "score": 26.6,
       "name": "Doves",
       "yearly": 1,
@@ -1843,7 +1927,7 @@
       }
     },
     {
-      "rank": 66,
+      "rank": 69,
       "score": 26.6,
       "name": "The Jesus and Mary Chain",
       "yearly": 0,
@@ -1871,7 +1955,7 @@
       }
     },
     {
-      "rank": 67,
+      "rank": 70,
       "score": 26.6,
       "name": "The Limiñanas",
       "yearly": 0.79,
@@ -1899,7 +1983,7 @@
       }
     },
     {
-      "rank": 68,
+      "rank": 71,
       "score": 26.5,
       "name": "Psychlona",
       "yearly": 2.38,
@@ -1912,7 +1996,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.5833333333333334,
-      "top_artists": 0.096,
+      "top_artists": 0.092,
       "points": {
         "alltime": 0,
         "yearly": 8.45,
@@ -1927,7 +2011,7 @@
       }
     },
     {
-      "rank": 69,
+      "rank": 72,
       "score": 26.4,
       "name": "Bon Iver",
       "yearly": 0,
@@ -1940,7 +2024,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.75,
-      "top_artists": 0.57,
+      "top_artists": 0.194,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -1955,7 +2039,7 @@
       }
     },
     {
-      "rank": 70,
+      "rank": 73,
       "score": 26.3,
       "name": "Joy Division",
       "yearly": 0,
@@ -1983,35 +2067,7 @@
       }
     },
     {
-      "rank": 71,
-      "score": 26.2,
-      "name": "Pink Floyd",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 0,
-      "spread": 1.0,
-      "tracks": 7,
-      "followed": true,
-      "dedicated": false,
-      "favourite": true,
-      "activity": 0.5833333333333334,
-      "top_artists": 0.534,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 0,
-        "spread": 6.8,
-        "tracks": 5.09,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 2.29,
-        "favourite": 12,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 72,
+      "rank": 74,
       "score": 26.1,
       "name": "Monomyth",
       "yearly": 0.4,
@@ -2024,7 +2080,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.13,
+      "top_artists": 0.12,
       "points": {
         "alltime": 0,
         "yearly": 3.47,
@@ -2039,7 +2095,7 @@
       }
     },
     {
-      "rank": 73,
+      "rank": 75,
       "score": 26,
       "name": "Perry Farrell",
       "yearly": 2.38,
@@ -2052,7 +2108,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.25,
-      "top_artists": 0.088,
+      "top_artists": 0.084,
       "points": {
         "alltime": 0,
         "yearly": 8.45,
@@ -2067,7 +2123,7 @@
       }
     },
     {
-      "rank": 74,
+      "rank": 76,
       "score": 25.8,
       "name": "Orbital",
       "yearly": 1.69,
@@ -2095,7 +2151,7 @@
       }
     },
     {
-      "rank": 75,
+      "rank": 77,
       "score": 25.7,
       "name": "The Church",
       "yearly": 0,
@@ -2108,7 +2164,7 @@
       "dedicated": true,
       "favourite": false,
       "activity": 0.8333333333333333,
-      "top_artists": 0.472,
+      "top_artists": 0.466,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -2123,7 +2179,7 @@
       }
     },
     {
-      "rank": 76,
+      "rank": 78,
       "score": 25.7,
       "name": "The Clash",
       "yearly": 0.31,
@@ -2151,7 +2207,7 @@
       }
     },
     {
-      "rank": 77,
+      "rank": 79,
       "score": 25.6,
       "name": "Swervedriver",
       "yearly": 0,
@@ -2164,7 +2220,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.126,
+      "top_artists": 0.114,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -2179,7 +2235,7 @@
       }
     },
     {
-      "rank": 78,
+      "rank": 80,
       "score": 25.5,
       "name": "The War On Drugs",
       "yearly": 2.46,
@@ -2207,7 +2263,7 @@
       }
     },
     {
-      "rank": 79,
+      "rank": 81,
       "score": 25.5,
       "name": "Nils Frahm",
       "yearly": 0,
@@ -2220,7 +2276,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.722,
+      "top_artists": 0.718,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -2235,7 +2291,7 @@
       }
     },
     {
-      "rank": 80,
+      "rank": 82,
       "score": 25.5,
       "name": "Ride",
       "yearly": 0.5,
@@ -2263,7 +2319,7 @@
       }
     },
     {
-      "rank": 81,
+      "rank": 83,
       "score": 25.2,
       "name": "The Heavy Eyes",
       "yearly": 2.52,
@@ -2291,7 +2347,7 @@
       }
     },
     {
-      "rank": 82,
+      "rank": 84,
       "score": 25,
       "name": "Johnny Marr",
       "yearly": 0,
@@ -2319,7 +2375,7 @@
       }
     },
     {
-      "rank": 83,
+      "rank": 85,
       "score": 24.8,
       "name": "The Pogues",
       "yearly": 2.08,
@@ -2332,7 +2388,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.16666666666666666,
-      "top_artists": 0.048,
+      "top_artists": 0.042,
       "points": {
         "alltime": 0,
         "yearly": 7.9,
@@ -2347,7 +2403,7 @@
       }
     },
     {
-      "rank": 84,
+      "rank": 86,
       "score": 24.8,
       "name": "The Parks",
       "yearly": 7.17,
@@ -2375,7 +2431,7 @@
       }
     },
     {
-      "rank": 85,
+      "rank": 87,
       "score": 24.5,
       "name": "Columbia Mills",
       "yearly": 6,
@@ -2403,7 +2459,7 @@
       }
     },
     {
-      "rank": 86,
+      "rank": 88,
       "score": 24.2,
       "name": "Green Lung",
       "yearly": 3.15,
@@ -2416,7 +2472,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.75,
-      "top_artists": 0.388,
+      "top_artists": 0.376,
       "points": {
         "alltime": 0,
         "yearly": 9.73,
@@ -2431,7 +2487,7 @@
       }
     },
     {
-      "rank": 87,
+      "rank": 89,
       "score": 24.2,
       "name": "Dead Kennedys",
       "yearly": 0,
@@ -2459,7 +2515,7 @@
       }
     },
     {
-      "rank": 88,
+      "rank": 90,
       "score": 24,
       "name": "Explosions In The Sky",
       "yearly": 0,
@@ -2472,7 +2528,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.516,
+      "top_artists": 0.51,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -2487,7 +2543,7 @@
       }
     },
     {
-      "rank": 89,
+      "rank": 91,
       "score": 23.9,
       "name": "Neuman",
       "yearly": 0.63,
@@ -2515,7 +2571,7 @@
       }
     },
     {
-      "rank": 90,
+      "rank": 92,
       "score": 23.9,
       "name": "Primal Scream",
       "yearly": 0,
@@ -2543,7 +2599,7 @@
       }
     },
     {
-      "rank": 91,
+      "rank": 93,
       "score": 23.6,
       "name": "Grandbrothers",
       "yearly": 0.63,
@@ -2571,7 +2627,7 @@
       }
     },
     {
-      "rank": 92,
+      "rank": 94,
       "score": 23.4,
       "name": "Sea Power",
       "yearly": 0.81,
@@ -2599,7 +2655,7 @@
       }
     },
     {
-      "rank": 93,
+      "rank": 95,
       "score": 23.2,
       "name": "Binary Finary",
       "yearly": 0.75,
@@ -2627,7 +2683,7 @@
       }
     },
     {
-      "rank": 94,
+      "rank": 96,
       "score": 23.1,
       "name": "Cari Cari",
       "yearly": 1.26,
@@ -2655,7 +2711,7 @@
       }
     },
     {
-      "rank": 95,
+      "rank": 97,
       "score": 23,
       "name": "Orchid",
       "yearly": 1.93,
@@ -2683,35 +2739,7 @@
       }
     },
     {
-      "rank": 96,
-      "score": 22.9,
-      "name": "Khan",
-      "yearly": 7,
-      "yearly_years": 1,
-      "alltime": 0,
-      "top": 1,
-      "spread": 0,
-      "tracks": 0,
-      "followed": true,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0.5,
-      "top_artists": 0.218,
-      "points": {
-        "alltime": 0,
-        "yearly": 14.5,
-        "top": 6.32,
-        "spread": 0,
-        "tracks": 0,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 2.12,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 97,
+      "rank": 98,
       "score": 22.9,
       "name": "Goat",
       "yearly": 1.2,
@@ -2739,7 +2767,7 @@
       }
     },
     {
-      "rank": 98,
+      "rank": 99,
       "score": 22.9,
       "name": "Tycho",
       "yearly": 2.57,
@@ -2767,7 +2795,7 @@
       }
     },
     {
-      "rank": 99,
+      "rank": 100,
       "score": 22.8,
       "name": "Papir",
       "yearly": 1,
@@ -2780,7 +2808,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.5833333333333334,
-      "top_artists": 0.11,
+      "top_artists": 0.1,
       "points": {
         "alltime": 0,
         "yearly": 5.48,
@@ -2795,7 +2823,7 @@
       }
     },
     {
-      "rank": 100,
+      "rank": 101,
       "score": 22.8,
       "name": "Vessels",
       "yearly": 0.55,
@@ -2823,7 +2851,7 @@
       }
     },
     {
-      "rank": 101,
+      "rank": 102,
       "score": 22.8,
       "name": "Monkey3",
       "yearly": 0.31,
@@ -2836,7 +2864,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.8333333333333333,
-      "top_artists": 0.36,
+      "top_artists": 0.374,
       "points": {
         "alltime": 0,
         "yearly": 3.05,
@@ -2851,7 +2879,7 @@
       }
     },
     {
-      "rank": 102,
+      "rank": 103,
       "score": 22.6,
       "name": "Ladyhawke",
       "yearly": 0.5,
@@ -2879,7 +2907,7 @@
       }
     },
     {
-      "rank": 103,
+      "rank": 104,
       "score": 22.6,
       "name": "Billy F Gibbons",
       "yearly": 0,
@@ -2907,7 +2935,7 @@
       }
     },
     {
-      "rank": 104,
+      "rank": 105,
       "score": 22.5,
       "name": "Maha Sohona",
       "yearly": 2.5,
@@ -2935,7 +2963,7 @@
       }
     },
     {
-      "rank": 105,
+      "rank": 106,
       "score": 22.4,
       "name": "Kelly Lee Owens",
       "yearly": 0.4,
@@ -2963,7 +2991,7 @@
       }
     },
     {
-      "rank": 106,
+      "rank": 107,
       "score": 22.1,
       "name": "Daniel Avery",
       "yearly": 0.63,
@@ -2991,7 +3019,7 @@
       }
     },
     {
-      "rank": 107,
+      "rank": 108,
       "score": 22,
       "name": "The Budos Band",
       "yearly": 0.31,
@@ -3019,7 +3047,7 @@
       }
     },
     {
-      "rank": 108,
+      "rank": 109,
       "score": 22,
       "name": "Swan Valley Heights",
       "yearly": 3.63,
@@ -3047,7 +3075,7 @@
       }
     },
     {
-      "rank": 109,
+      "rank": 110,
       "score": 21.7,
       "name": "1000mods",
       "yearly": 0.2,
@@ -3075,7 +3103,7 @@
       }
     },
     {
-      "rank": 110,
+      "rank": 111,
       "score": 21.5,
       "name": "The Fabulous Thunderbirds",
       "yearly": 0,
@@ -3103,7 +3131,7 @@
       }
     },
     {
-      "rank": 111,
+      "rank": 112,
       "score": 21.4,
       "name": "GIFT",
       "yearly": 2,
@@ -3131,7 +3159,7 @@
       }
     },
     {
-      "rank": 112,
+      "rank": 113,
       "score": 21.1,
       "name": "Led Zeppelin",
       "yearly": 0,
@@ -3144,7 +3172,7 @@
       "dedicated": false,
       "favourite": true,
       "activity": 0.08333333333333333,
-      "top_artists": 0.012,
+      "top_artists": 0,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -3159,7 +3187,7 @@
       }
     },
     {
-      "rank": 113,
+      "rank": 114,
       "score": 21,
       "name": "Rival Consoles",
       "yearly": 1.26,
@@ -3187,7 +3215,7 @@
       }
     },
     {
-      "rank": 114,
+      "rank": 115,
       "score": 21,
       "name": "LITE",
       "yearly": 0.36,
@@ -3215,7 +3243,7 @@
       }
     },
     {
-      "rank": 115,
+      "rank": 116,
       "score": 21,
       "name": "New Candys",
       "yearly": 2,
@@ -3243,7 +3271,7 @@
       }
     },
     {
-      "rank": 116,
+      "rank": 117,
       "score": 21,
       "name": "Jean-Michel Jarre",
       "yearly": 0.4,
@@ -3256,7 +3284,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.6666666666666666,
-      "top_artists": 0.396,
+      "top_artists": 0.39,
       "points": {
         "alltime": 0,
         "yearly": 3.47,
@@ -3271,7 +3299,7 @@
       }
     },
     {
-      "rank": 117,
+      "rank": 118,
       "score": 21,
       "name": "Silversun Pickups",
       "yearly": 0,
@@ -3284,7 +3312,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.8333333333333333,
-      "top_artists": 0.268,
+      "top_artists": 0.248,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -3299,7 +3327,7 @@
       }
     },
     {
-      "rank": 118,
+      "rank": 119,
       "score": 20.9,
       "name": "My Sleeping Karma",
       "yearly": 0.2,
@@ -3327,7 +3355,7 @@
       }
     },
     {
-      "rank": 119,
+      "rank": 120,
       "score": 20.9,
       "name": "Earthless",
       "yearly": 1.13,
@@ -3355,7 +3383,7 @@
       }
     },
     {
-      "rank": 120,
+      "rank": 121,
       "score": 20.9,
       "name": "Mogwai",
       "yearly": 0,
@@ -3368,7 +3396,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.15,
+      "top_artists": 0.14,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -3383,7 +3411,7 @@
       }
     },
     {
-      "rank": 121,
+      "rank": 122,
       "score": 20.8,
       "name": "TV On The Radio",
       "yearly": 0.79,
@@ -3411,7 +3439,7 @@
       }
     },
     {
-      "rank": 122,
+      "rank": 123,
       "score": 20.8,
       "name": "Daniel Norgren",
       "yearly": 2.38,
@@ -3439,7 +3467,7 @@
       }
     },
     {
-      "rank": 123,
+      "rank": 124,
       "score": 20.5,
       "name": "José Junior",
       "yearly": 2,
@@ -3467,7 +3495,7 @@
       }
     },
     {
-      "rank": 124,
+      "rank": 125,
       "score": 20.4,
       "name": "Spiral Drive",
       "yearly": 0,
@@ -3495,7 +3523,7 @@
       }
     },
     {
-      "rank": 125,
+      "rank": 126,
       "score": 20.4,
       "name": "pg.lost",
       "yearly": 0.65,
@@ -3508,7 +3536,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.32,
+      "top_artists": 0.34,
       "points": {
         "alltime": 0,
         "yearly": 4.42,
@@ -3523,7 +3551,7 @@
       }
     },
     {
-      "rank": 126,
+      "rank": 127,
       "score": 20.4,
       "name": "Slomosa",
       "yearly": 1.76,
@@ -3536,7 +3564,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.6666666666666666,
-      "top_artists": 0.036,
+      "top_artists": 0.032,
       "points": {
         "alltime": 0,
         "yearly": 7.27,
@@ -3551,7 +3579,7 @@
       }
     },
     {
-      "rank": 127,
+      "rank": 128,
       "score": 20.3,
       "name": "CHVRCHES",
       "yearly": 0.41,
@@ -3579,7 +3607,7 @@
       }
     },
     {
-      "rank": 128,
+      "rank": 129,
       "score": 20.3,
       "name": "The Atomic Bitchwax",
       "yearly": 2.8,
@@ -3607,7 +3635,7 @@
       }
     },
     {
-      "rank": 129,
+      "rank": 130,
       "score": 20.2,
       "name": "The Cryin Shames",
       "yearly": 0.16,
@@ -3635,7 +3663,7 @@
       }
     },
     {
-      "rank": 130,
+      "rank": 131,
       "score": 20.1,
       "name": "Curtis Harding",
       "yearly": 0.5,
@@ -3663,7 +3691,35 @@
       }
     },
     {
-      "rank": 131,
+      "rank": 132,
+      "score": 20.1,
+      "name": "Junip",
+      "yearly": 0.63,
+      "yearly_years": 1,
+      "alltime": 0,
+      "top": 0,
+      "spread": 2,
+      "tracks": 10,
+      "followed": false,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 0,
+      "top_artists": 0,
+      "points": {
+        "alltime": 0,
+        "yearly": 4.35,
+        "top": 0,
+        "spread": 9.62,
+        "tracks": 6.09,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 0,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 133,
       "score": 20.1,
       "name": "Beasts Of Bourbon",
       "yearly": 0,
@@ -3676,7 +3732,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.864,
+      "top_artists": 0.854,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -3691,7 +3747,7 @@
       }
     },
     {
-      "rank": 132,
+      "rank": 134,
       "score": 20,
       "name": "UNKLE",
       "yearly": 0.79,
@@ -3719,7 +3775,7 @@
       }
     },
     {
-      "rank": 133,
+      "rank": 135,
       "score": 20,
       "name": "INXS",
       "yearly": 0,
@@ -3732,7 +3788,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.5,
-      "top_artists": 0.108,
+      "top_artists": 0.096,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -3747,7 +3803,7 @@
       }
     },
     {
-      "rank": 134,
+      "rank": 136,
       "score": 19.9,
       "name": "HALEY",
       "yearly": 0.79,
@@ -3775,35 +3831,7 @@
       }
     },
     {
-      "rank": 135,
-      "score": 19.7,
-      "name": "Junip",
-      "yearly": 0.63,
-      "yearly_years": 1,
-      "alltime": 0,
-      "top": 0,
-      "spread": 2,
-      "tracks": 9,
-      "followed": false,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0,
-      "top_artists": 0,
-      "points": {
-        "alltime": 0,
-        "yearly": 4.35,
-        "top": 0,
-        "spread": 9.62,
-        "tracks": 5.77,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 0,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 136,
+      "rank": 137,
       "score": 19.5,
       "name": "Lord Fascinator",
       "yearly": 0,
@@ -3831,7 +3859,7 @@
       }
     },
     {
-      "rank": 137,
+      "rank": 138,
       "score": 19.3,
       "name": "Underworld",
       "yearly": 0,
@@ -3859,7 +3887,7 @@
       }
     },
     {
-      "rank": 138,
+      "rank": 139,
       "score": 19.3,
       "name": "Ulrich Schnauss",
       "yearly": 0.5,
@@ -3887,7 +3915,7 @@
       }
     },
     {
-      "rank": 139,
+      "rank": 140,
       "score": 19.2,
       "name": "Red Snapper",
       "yearly": 0.2,
@@ -3915,7 +3943,7 @@
       }
     },
     {
-      "rank": 140,
+      "rank": 141,
       "score": 19.2,
       "name": "R.L. Burnside",
       "yearly": 0.79,
@@ -3943,7 +3971,7 @@
       }
     },
     {
-      "rank": 141,
+      "rank": 142,
       "score": 19.2,
       "name": "Editors",
       "yearly": 0,
@@ -3971,7 +3999,7 @@
       }
     },
     {
-      "rank": 142,
+      "rank": 143,
       "score": 19.1,
       "name": "North Mississippi Allstars",
       "yearly": 0,
@@ -3984,7 +4012,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.75,
-      "top_artists": 0.18,
+      "top_artists": 0.17,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -3999,7 +4027,7 @@
       }
     },
     {
-      "rank": 143,
+      "rank": 144,
       "score": 18.7,
       "name": "Ladytron",
       "yearly": 0.71,
@@ -4027,7 +4055,7 @@
       }
     },
     {
-      "rank": 144,
+      "rank": 145,
       "score": 18.6,
       "name": "The Smile",
       "yearly": 1,
@@ -4055,7 +4083,7 @@
       }
     },
     {
-      "rank": 145,
+      "rank": 146,
       "score": 18.6,
       "name": "Matthew E. White",
       "yearly": 0.5,
@@ -4083,7 +4111,7 @@
       }
     },
     {
-      "rank": 146,
+      "rank": 147,
       "score": 18.5,
       "name": "Holy Holy",
       "yearly": 0.69,
@@ -4096,7 +4124,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.6666666666666666,
-      "top_artists": 0.14,
+      "top_artists": 0.13,
       "points": {
         "alltime": 0,
         "yearly": 4.55,
@@ -4111,7 +4139,7 @@
       }
     },
     {
-      "rank": 147,
+      "rank": 148,
       "score": 18.5,
       "name": "Old Solar",
       "yearly": 2.04,
@@ -4139,7 +4167,7 @@
       }
     },
     {
-      "rank": 148,
+      "rank": 149,
       "score": 18.5,
       "name": "Hound Dog Taylor",
       "yearly": 0,
@@ -4167,7 +4195,7 @@
       }
     },
     {
-      "rank": 149,
+      "rank": 150,
       "score": 18.5,
       "name": "Estiva",
       "yearly": 0.63,
@@ -4180,7 +4208,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.124,
+      "top_artists": 0.12,
       "points": {
         "alltime": 0,
         "yearly": 4.35,
@@ -4195,7 +4223,7 @@
       }
     },
     {
-      "rank": 150,
+      "rank": 151,
       "score": 18.4,
       "name": "The Strokes",
       "yearly": 0.79,
@@ -4223,7 +4251,7 @@
       }
     },
     {
-      "rank": 151,
+      "rank": 152,
       "score": 18.4,
       "name": "Ströme",
       "yearly": 1.26,
@@ -4251,7 +4279,7 @@
       }
     },
     {
-      "rank": 152,
+      "rank": 153,
       "score": 18.4,
       "name": "The Dandy Warhols",
       "yearly": 0,
@@ -4264,7 +4292,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0,
+      "top_artists": 0.03,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -4279,7 +4307,7 @@
       }
     },
     {
-      "rank": 153,
+      "rank": 154,
       "score": 18.4,
       "name": "YOTTO",
       "yearly": 0.4,
@@ -4307,7 +4335,7 @@
       }
     },
     {
-      "rank": 154,
+      "rank": 155,
       "score": 18.2,
       "name": "The House of Love",
       "yearly": 0,
@@ -4320,7 +4348,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.03,
+      "top_artists": 0.018,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -4335,7 +4363,7 @@
       }
     },
     {
-      "rank": 155,
+      "rank": 156,
       "score": 18.2,
       "name": "Itch-E & Scratch-E",
       "yearly": 0.4,
@@ -4363,7 +4391,7 @@
       }
     },
     {
-      "rank": 156,
+      "rank": 157,
       "score": 18.2,
       "name": "Triangle Singular",
       "yearly": 0,
@@ -4391,7 +4419,7 @@
       }
     },
     {
-      "rank": 157,
+      "rank": 158,
       "score": 18.1,
       "name": "Tame Impala",
       "yearly": 0,
@@ -4404,7 +4432,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.494,
+      "top_artists": 0.078,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -4419,7 +4447,7 @@
       }
     },
     {
-      "rank": 158,
+      "rank": 159,
       "score": 18,
       "name": "Sensible Soccers",
       "yearly": 0.72,
@@ -4447,7 +4475,7 @@
       }
     },
     {
-      "rank": 159,
+      "rank": 160,
       "score": 18,
       "name": "Sasha",
       "yearly": 0.79,
@@ -4475,7 +4503,7 @@
       }
     },
     {
-      "rank": 160,
+      "rank": 161,
       "score": 18,
       "name": "Durante",
       "yearly": 0.63,
@@ -4503,7 +4531,7 @@
       }
     },
     {
-      "rank": 161,
+      "rank": 162,
       "score": 18,
       "name": "Faithless",
       "yearly": 0.63,
@@ -4531,7 +4559,7 @@
       }
     },
     {
-      "rank": 162,
+      "rank": 163,
       "score": 18,
       "name": "Fred again..",
       "yearly": 0.63,
@@ -4559,7 +4587,7 @@
       }
     },
     {
-      "rank": 163,
+      "rank": 164,
       "score": 18,
       "name": "Exxasens",
       "yearly": 0.4,
@@ -4587,7 +4615,7 @@
       }
     },
     {
-      "rank": 164,
+      "rank": 165,
       "score": 17.7,
       "name": "Midlake",
       "yearly": 0.79,
@@ -4615,7 +4643,35 @@
       }
     },
     {
-      "rank": 165,
+      "rank": 166,
+      "score": 17.7,
+      "name": "Jimi Hendrix",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 0,
+      "spread": 0,
+      "tracks": 2,
+      "followed": true,
+      "dedicated": false,
+      "favourite": true,
+      "activity": 1,
+      "top_artists": 0.024,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 0,
+        "spread": 0,
+        "tracks": 2.72,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 3,
+        "favourite": 12,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 167,
       "score": 17.7,
       "name": "Golden Bug",
       "yearly": 0,
@@ -4643,7 +4699,7 @@
       }
     },
     {
-      "rank": 166,
+      "rank": 168,
       "score": 17.7,
       "name": "Jon Gurd",
       "yearly": 0,
@@ -4671,7 +4727,7 @@
       }
     },
     {
-      "rank": 167,
+      "rank": 169,
       "score": 17.6,
       "name": "Soulwax",
       "yearly": 0.25,
@@ -4699,7 +4755,7 @@
       }
     },
     {
-      "rank": 168,
+      "rank": 170,
       "score": 17.6,
       "name": "Erki Pärnoja",
       "yearly": 0.31,
@@ -4727,7 +4783,7 @@
       }
     },
     {
-      "rank": 169,
+      "rank": 171,
       "score": 17.6,
       "name": "Hollow Ship",
       "yearly": 1,
@@ -4755,7 +4811,7 @@
       }
     },
     {
-      "rank": 170,
+      "rank": 172,
       "score": 17.5,
       "name": "Kidnap",
       "yearly": 0.63,
@@ -4783,7 +4839,7 @@
       }
     },
     {
-      "rank": 171,
+      "rank": 173,
       "score": 17.4,
       "name": "Death From Above 1979",
       "yearly": 0,
@@ -4811,7 +4867,7 @@
       }
     },
     {
-      "rank": 172,
+      "rank": 174,
       "score": 17.4,
       "name": "Clementine Douglas",
       "yearly": 0.79,
@@ -4839,7 +4895,7 @@
       }
     },
     {
-      "rank": 173,
+      "rank": 175,
       "score": 17.4,
       "name": "Rafael Osmo",
       "yearly": 0.79,
@@ -4852,7 +4908,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.072,
+      "top_artists": 0.064,
       "points": {
         "alltime": 0,
         "yearly": 4.87,
@@ -4867,7 +4923,7 @@
       }
     },
     {
-      "rank": 174,
+      "rank": 176,
       "score": 17.4,
       "name": "Shpongle",
       "yearly": 0,
@@ -4895,7 +4951,7 @@
       }
     },
     {
-      "rank": 175,
+      "rank": 177,
       "score": 17.3,
       "name": "BT",
       "yearly": 0,
@@ -4923,7 +4979,7 @@
       }
     },
     {
-      "rank": 176,
+      "rank": 178,
       "score": 17.3,
       "name": "Ty Segall",
       "yearly": 0.25,
@@ -4951,7 +5007,7 @@
       }
     },
     {
-      "rank": 177,
+      "rank": 179,
       "score": 17.2,
       "name": "Self Esteem",
       "yearly": 0.56,
@@ -4979,7 +5035,7 @@
       }
     },
     {
-      "rank": 178,
+      "rank": 180,
       "score": 17.2,
       "name": "POLIÇA",
       "yearly": 0.31,
@@ -5007,7 +5063,7 @@
       }
     },
     {
-      "rank": 179,
+      "rank": 181,
       "score": 17,
       "name": "hubris.",
       "yearly": 0.4,
@@ -5020,7 +5076,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.6666666666666666,
-      "top_artists": 0.16,
+      "top_artists": 0.15,
       "points": {
         "alltime": 0,
         "yearly": 3.47,
@@ -5035,7 +5091,7 @@
       }
     },
     {
-      "rank": 180,
+      "rank": 182,
       "score": 17,
       "name": "Kanaan",
       "yearly": 0.5,
@@ -5063,7 +5119,7 @@
       }
     },
     {
-      "rank": 181,
+      "rank": 183,
       "score": 16.9,
       "name": "Lindstrøm",
       "yearly": 0,
@@ -5091,7 +5147,35 @@
       }
     },
     {
-      "rank": 182,
+      "rank": 184,
+      "score": 16.9,
+      "name": "Sonic Youth",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 0,
+      "spread": 0,
+      "tracks": 1,
+      "followed": false,
+      "dedicated": false,
+      "favourite": true,
+      "activity": 1,
+      "top_artists": 0,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 0,
+        "spread": 0,
+        "tracks": 1.92,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 3,
+        "favourite": 12,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 185,
       "score": 16.9,
       "name": "The Go-Betweens",
       "yearly": 0.16,
@@ -5119,7 +5203,7 @@
       }
     },
     {
-      "rank": 183,
+      "rank": 186,
       "score": 16.8,
       "name": "The Marvelettes",
       "yearly": 1.5,
@@ -5147,7 +5231,7 @@
       }
     },
     {
-      "rank": 184,
+      "rank": 187,
       "score": 16.8,
       "name": "The Crystals",
       "yearly": 1.25,
@@ -5175,7 +5259,7 @@
       }
     },
     {
-      "rank": 185,
+      "rank": 188,
       "score": 16.7,
       "name": "Jimmie Vaughan",
       "yearly": 0,
@@ -5203,7 +5287,7 @@
       }
     },
     {
-      "rank": 186,
+      "rank": 189,
       "score": 16.7,
       "name": "Elephant Tree",
       "yearly": 0.31,
@@ -5231,7 +5315,7 @@
       }
     },
     {
-      "rank": 187,
+      "rank": 190,
       "score": 16.7,
       "name": "RÜFÜS DU SOL",
       "yearly": 0,
@@ -5259,7 +5343,7 @@
       }
     },
     {
-      "rank": 188,
+      "rank": 191,
       "score": 16.6,
       "name": "Polynation",
       "yearly": 0.31,
@@ -5287,7 +5371,7 @@
       }
     },
     {
-      "rank": 189,
+      "rank": 192,
       "score": 16.6,
       "name": "Jerome Isma-Ae",
       "yearly": 0.4,
@@ -5315,7 +5399,7 @@
       }
     },
     {
-      "rank": 190,
+      "rank": 193,
       "score": 16.6,
       "name": "Yppah",
       "yearly": 0,
@@ -5343,7 +5427,7 @@
       }
     },
     {
-      "rank": 191,
+      "rank": 194,
       "score": 16.5,
       "name": "Cinnamon Chasers",
       "yearly": 0,
@@ -5371,7 +5455,7 @@
       }
     },
     {
-      "rank": 192,
+      "rank": 195,
       "score": 16.4,
       "name": "Caspian",
       "yearly": 0,
@@ -5399,7 +5483,7 @@
       }
     },
     {
-      "rank": 193,
+      "rank": 196,
       "score": 16.3,
       "name": "Black Rebel Motorcycle Club",
       "yearly": 0,
@@ -5427,35 +5511,7 @@
       }
     },
     {
-      "rank": 194,
-      "score": 16.3,
-      "name": "The Brian Jonestown Massacre",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 0,
-      "spread": 2,
-      "tracks": 8,
-      "followed": true,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0.16666666666666666,
-      "top_artists": 0,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 0,
-        "spread": 9.62,
-        "tracks": 5.44,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 1.22,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 195,
+      "rank": 197,
       "score": 16.3,
       "name": "Moderat",
       "yearly": 1.26,
@@ -5483,7 +5539,7 @@
       }
     },
     {
-      "rank": 196,
+      "rank": 198,
       "score": 16.3,
       "name": "Lorelle Meets The Obsolete",
       "yearly": 0.5,
@@ -5511,7 +5567,7 @@
       }
     },
     {
-      "rank": 197,
+      "rank": 199,
       "score": 16.2,
       "name": "Tapes",
       "yearly": 0.4,
@@ -5539,7 +5595,7 @@
       }
     },
     {
-      "rank": 198,
+      "rank": 200,
       "score": 16.1,
       "name": "Endorphin",
       "yearly": 0.2,
@@ -5567,7 +5623,7 @@
       }
     },
     {
-      "rank": 199,
+      "rank": 201,
       "score": 16.1,
       "name": "Leech",
       "yearly": 0.2,
@@ -5595,7 +5651,7 @@
       }
     },
     {
-      "rank": 200,
+      "rank": 202,
       "score": 16,
       "name": "The xx",
       "yearly": 0.67,
@@ -5623,7 +5679,7 @@
       }
     },
     {
-      "rank": 201,
+      "rank": 203,
       "score": 15.9,
       "name": "Grails",
       "yearly": 0,
@@ -5651,7 +5707,7 @@
       }
     },
     {
-      "rank": 202,
+      "rank": 204,
       "score": 15.9,
       "name": "The Supremes",
       "yearly": 0.25,
@@ -5679,7 +5735,7 @@
       }
     },
     {
-      "rank": 203,
+      "rank": 205,
       "score": 15.8,
       "name": "Philippa Nihill",
       "yearly": 0,
@@ -5707,7 +5763,7 @@
       }
     },
     {
-      "rank": 204,
+      "rank": 206,
       "score": 15.7,
       "name": "Tor",
       "yearly": 0.4,
@@ -5735,7 +5791,7 @@
       }
     },
     {
-      "rank": 205,
+      "rank": 207,
       "score": 15.7,
       "name": "Leftfield",
       "yearly": 0,
@@ -5763,7 +5819,7 @@
       }
     },
     {
-      "rank": 206,
+      "rank": 208,
       "score": 15.7,
       "name": "Brant Bjork",
       "yearly": 0.5,
@@ -5791,7 +5847,7 @@
       }
     },
     {
-      "rank": 207,
+      "rank": 209,
       "score": 15.6,
       "name": "Gang of Youths",
       "yearly": 0,
@@ -5819,7 +5875,7 @@
       }
     },
     {
-      "rank": 208,
+      "rank": 210,
       "score": 15.4,
       "name": "Pale Honey",
       "yearly": 0,
@@ -5847,7 +5903,7 @@
       }
     },
     {
-      "rank": 209,
+      "rank": 211,
       "score": 15.4,
       "name": "Underground Lovers",
       "yearly": 0.6,
@@ -5875,7 +5931,7 @@
       }
     },
     {
-      "rank": 210,
+      "rank": 212,
       "score": 15.2,
       "name": "Mark Peters",
       "yearly": 0.5,
@@ -5903,7 +5959,7 @@
       }
     },
     {
-      "rank": 211,
+      "rank": 213,
       "score": 15.1,
       "name": "The Smashing Pumpkins",
       "yearly": 0.13,
@@ -5931,7 +5987,7 @@
       }
     },
     {
-      "rank": 212,
+      "rank": 214,
       "score": 15.1,
       "name": "Haley Bonar",
       "yearly": 0,
@@ -5959,7 +6015,7 @@
       }
     },
     {
-      "rank": 213,
+      "rank": 215,
       "score": 15.1,
       "name": "Meniscus",
       "yearly": 0,
@@ -5987,7 +6043,7 @@
       }
     },
     {
-      "rank": 214,
+      "rank": 216,
       "score": 15,
       "name": "Kadavar",
       "yearly": 3.4,
@@ -6015,7 +6071,7 @@
       }
     },
     {
-      "rank": 215,
+      "rank": 217,
       "score": 15,
       "name": "pHader",
       "yearly": 1,
@@ -6043,7 +6099,7 @@
       }
     },
     {
-      "rank": 216,
+      "rank": 218,
       "score": 14.9,
       "name": "trentemøller",
       "yearly": 0,
@@ -6071,35 +6127,7 @@
       }
     },
     {
-      "rank": 217,
-      "score": 14.7,
-      "name": "Jimi Hendrix",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 0,
-      "spread": 0,
-      "tracks": 2,
-      "followed": true,
-      "dedicated": false,
-      "favourite": true,
-      "activity": 0,
-      "top_artists": 0.028,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 0,
-        "spread": 0,
-        "tracks": 2.72,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 0,
-        "favourite": 12,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 218,
+      "rank": 219,
       "score": 14.7,
       "name": "The Smiths",
       "yearly": 0,
@@ -6127,7 +6155,7 @@
       }
     },
     {
-      "rank": 219,
+      "rank": 220,
       "score": 14.7,
       "name": "Deerhunter",
       "yearly": 0,
@@ -6155,7 +6183,7 @@
       }
     },
     {
-      "rank": 220,
+      "rank": 221,
       "score": 14.7,
       "name": "Katoff",
       "yearly": 3.17,
@@ -6183,7 +6211,7 @@
       }
     },
     {
-      "rank": 221,
+      "rank": 222,
       "score": 14.7,
       "name": "delving",
       "yearly": 3,
@@ -6211,7 +6239,7 @@
       }
     },
     {
-      "rank": 222,
+      "rank": 223,
       "score": 14.6,
       "name": "Dropkick Murphys",
       "yearly": 0.25,
@@ -6239,7 +6267,7 @@
       }
     },
     {
-      "rank": 223,
+      "rank": 224,
       "score": 14.5,
       "name": "Martha Reeves & The Vandellas",
       "yearly": 0.5,
@@ -6267,7 +6295,7 @@
       }
     },
     {
-      "rank": 224,
+      "rank": 225,
       "score": 14.5,
       "name": "Elbow",
       "yearly": 0,
@@ -6295,7 +6323,7 @@
       }
     },
     {
-      "rank": 225,
+      "rank": 226,
       "score": 14.5,
       "name": "Steve Martin",
       "yearly": 0,
@@ -6323,7 +6351,7 @@
       }
     },
     {
-      "rank": 226,
+      "rank": 227,
       "score": 14.5,
       "name": "Thee Oh Sees",
       "yearly": 0,
@@ -6351,7 +6379,7 @@
       }
     },
     {
-      "rank": 227,
+      "rank": 228,
       "score": 14.5,
       "name": "Faces on TV",
       "yearly": 0.63,
@@ -6379,7 +6407,7 @@
       }
     },
     {
-      "rank": 228,
+      "rank": 229,
       "score": 14.4,
       "name": "Wings of Desire",
       "yearly": 3,
@@ -6407,7 +6435,7 @@
       }
     },
     {
-      "rank": 229,
+      "rank": 230,
       "score": 14.3,
       "name": "The Kills",
       "yearly": 0,
@@ -6435,7 +6463,7 @@
       }
     },
     {
-      "rank": 230,
+      "rank": 231,
       "score": 14.3,
       "name": "The Go! Team",
       "yearly": 0,
@@ -6463,7 +6491,7 @@
       }
     },
     {
-      "rank": 231,
+      "rank": 232,
       "score": 14.3,
       "name": "Placebo",
       "yearly": 0,
@@ -6491,7 +6519,7 @@
       }
     },
     {
-      "rank": 232,
+      "rank": 233,
       "score": 14.2,
       "name": "Uncle Acid & The Deadbeats",
       "yearly": 0.31,
@@ -6519,7 +6547,7 @@
       }
     },
     {
-      "rank": 233,
+      "rank": 234,
       "score": 14.2,
       "name": "Torche",
       "yearly": 0.31,
@@ -6547,7 +6575,7 @@
       }
     },
     {
-      "rank": 234,
+      "rank": 235,
       "score": 14.1,
       "name": "Snarky Puppy",
       "yearly": 0,
@@ -6575,7 +6603,7 @@
       }
     },
     {
-      "rank": 235,
+      "rank": 236,
       "score": 14.1,
       "name": "Digitalism",
       "yearly": 0,
@@ -6603,7 +6631,7 @@
       }
     },
     {
-      "rank": 236,
+      "rank": 237,
       "score": 14.1,
       "name": "Floating Points",
       "yearly": 0,
@@ -6631,7 +6659,7 @@
       }
     },
     {
-      "rank": 237,
+      "rank": 238,
       "score": 14.1,
       "name": "Jules Buckley",
       "yearly": 0,
@@ -6659,7 +6687,7 @@
       }
     },
     {
-      "rank": 238,
+      "rank": 239,
       "score": 14.1,
       "name": "King Tubby",
       "yearly": 0,
@@ -6687,7 +6715,7 @@
       }
     },
     {
-      "rank": 239,
+      "rank": 240,
       "score": 14.1,
       "name": "Mary Ann Hawkins",
       "yearly": 0,
@@ -6715,7 +6743,7 @@
       }
     },
     {
-      "rank": 240,
+      "rank": 241,
       "score": 14.1,
       "name": "Metropole Orkest",
       "yearly": 0,
@@ -6743,7 +6771,7 @@
       }
     },
     {
-      "rank": 241,
+      "rank": 242,
       "score": 14.1,
       "name": "Miles Davis",
       "yearly": 0,
@@ -6771,7 +6799,7 @@
       }
     },
     {
-      "rank": 242,
+      "rank": 243,
       "score": 14.1,
       "name": "Muddy Waters",
       "yearly": 0,
@@ -6799,7 +6827,7 @@
       }
     },
     {
-      "rank": 243,
+      "rank": 244,
       "score": 14.1,
       "name": "Quantum Fantay",
       "yearly": 0,
@@ -6827,7 +6855,7 @@
       }
     },
     {
-      "rank": 244,
+      "rank": 245,
       "score": 14.1,
       "name": "Talking Heads",
       "yearly": 0,
@@ -6855,7 +6883,7 @@
       }
     },
     {
-      "rank": 245,
+      "rank": 246,
       "score": 14.1,
       "name": "The Haunted Youth",
       "yearly": 0,
@@ -6883,7 +6911,7 @@
       }
     },
     {
-      "rank": 246,
+      "rank": 247,
       "score": 14.1,
       "name": "Wolf Alice",
       "yearly": 0,
@@ -6911,7 +6939,7 @@
       }
     },
     {
-      "rank": 247,
+      "rank": 248,
       "score": 14.1,
       "name": "Yo La Tengo",
       "yearly": 0,
@@ -6939,7 +6967,7 @@
       }
     },
     {
-      "rank": 248,
+      "rank": 249,
       "score": 14,
       "name": "Yuri Gagarin (SWE)",
       "yearly": 0.2,
@@ -6967,7 +6995,7 @@
       }
     },
     {
-      "rank": 249,
+      "rank": 250,
       "score": 14,
       "name": "Interpol",
       "yearly": 0,
@@ -6995,7 +7023,7 @@
       }
     },
     {
-      "rank": 250,
+      "rank": 251,
       "score": 14,
       "name": "Mara Balls",
       "yearly": 0,
@@ -7023,7 +7051,7 @@
       }
     },
     {
-      "rank": 251,
+      "rank": 252,
       "score": 13.9,
       "name": "Gaz Coombes",
       "yearly": 0,
@@ -7051,7 +7079,7 @@
       }
     },
     {
-      "rank": 252,
+      "rank": 253,
       "score": 13.9,
       "name": "Dire Straits",
       "yearly": 0,
@@ -7079,7 +7107,7 @@
       }
     },
     {
-      "rank": 253,
+      "rank": 254,
       "score": 13.9,
       "name": "Metallica",
       "yearly": 0,
@@ -7092,35 +7120,7 @@
       "dedicated": false,
       "favourite": true,
       "activity": 0,
-      "top_artists": 0.008,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 0,
-        "spread": 0,
-        "tracks": 1.92,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 0,
-        "favourite": 12,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 254,
-      "score": 13.9,
-      "name": "Sonic Youth",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 0,
-      "spread": 0,
-      "tracks": 1,
-      "followed": false,
-      "dedicated": false,
-      "favourite": true,
-      "activity": 0,
-      "top_artists": 0,
+      "top_artists": 0.004,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -7288,7 +7288,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.75,
-      "top_artists": 0.25,
+      "top_artists": 0.27,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -7344,7 +7344,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.29,
+      "top_artists": 0.31,
       "points": {
         "alltime": 0,
         "yearly": 3.05,
@@ -7596,7 +7596,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.5,
-      "top_artists": 0.078,
+      "top_artists": 0.072,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -7652,7 +7652,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.6666666666666666,
-      "top_artists": 0.35,
+      "top_artists": 0.36,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -7932,7 +7932,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.03,
+      "top_artists": 0,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -8940,7 +8940,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.066,
+      "top_artists": 0.06,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -8968,7 +8968,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.092,
+      "top_artists": 0.088,
       "points": {
         "alltime": 0,
         "yearly": 6.27,
@@ -9125,6 +9125,62 @@
     {
       "rank": 326,
       "score": 12.5,
+      "name": "Megadeth",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 0,
+      "spread": 1.0,
+      "tracks": 2,
+      "followed": false,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 1,
+      "top_artists": 0.04,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 0,
+        "spread": 6.8,
+        "tracks": 2.72,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 3,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 327,
+      "score": 12.5,
+      "name": "Slayer",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 0,
+      "spread": 1.0,
+      "tracks": 2,
+      "followed": false,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 1,
+      "top_artists": 0.012,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 0,
+        "spread": 6.8,
+        "tracks": 2.72,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 3,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 328,
+      "score": 12.5,
       "name": "World News",
       "yearly": 0,
       "yearly_years": 0,
@@ -9151,7 +9207,7 @@
       }
     },
     {
-      "rank": 327,
+      "rank": 329,
       "score": 12.5,
       "name": "Black Rainbows",
       "yearly": 1.29,
@@ -9179,35 +9235,7 @@
       }
     },
     {
-      "rank": 328,
-      "score": 12.5,
-      "name": "Angine de Poitrine",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 3,
-      "spread": 0,
-      "tracks": 0,
-      "followed": true,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0.25,
-      "top_artists": 0.102,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 10.95,
-        "spread": 0,
-        "tracks": 0,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 1.5,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 329,
+      "rank": 330,
       "score": 12.4,
       "name": "Mark Lanegan",
       "yearly": 0,
@@ -9235,7 +9263,7 @@
       }
     },
     {
-      "rank": 330,
+      "rank": 331,
       "score": 12.4,
       "name": "Night Verses",
       "yearly": 0,
@@ -9263,7 +9291,7 @@
       }
     },
     {
-      "rank": 331,
+      "rank": 332,
       "score": 12.4,
       "name": "Prince Jammy",
       "yearly": 0,
@@ -9291,7 +9319,7 @@
       }
     },
     {
-      "rank": 332,
+      "rank": 333,
       "score": 12.4,
       "name": "Erol Alkan",
       "yearly": 0,
@@ -9319,7 +9347,7 @@
       }
     },
     {
-      "rank": 333,
+      "rank": 334,
       "score": 12.4,
       "name": "Gotye",
       "yearly": 0,
@@ -9347,7 +9375,7 @@
       }
     },
     {
-      "rank": 334,
+      "rank": 335,
       "score": 12.3,
       "name": "Shirley Ellis",
       "yearly": 0.25,
@@ -9375,7 +9403,7 @@
       }
     },
     {
-      "rank": 335,
+      "rank": 336,
       "score": 12.3,
       "name": "The Everly Brothers",
       "yearly": 0.25,
@@ -9403,7 +9431,7 @@
       }
     },
     {
-      "rank": 336,
+      "rank": 337,
       "score": 12.3,
       "name": "Orange Goblin",
       "yearly": 0,
@@ -9431,7 +9459,7 @@
       }
     },
     {
-      "rank": 337,
+      "rank": 338,
       "score": 12.3,
       "name": "The Soft Moon",
       "yearly": 0,
@@ -9459,7 +9487,7 @@
       }
     },
     {
-      "rank": 338,
+      "rank": 339,
       "score": 12.3,
       "name": "PARAFRAME",
       "yearly": 1.42,
@@ -9487,7 +9515,7 @@
       }
     },
     {
-      "rank": 339,
+      "rank": 340,
       "score": 12.1,
       "name": "The Mysterines",
       "yearly": 0,
@@ -9515,7 +9543,7 @@
       }
     },
     {
-      "rank": 340,
+      "rank": 341,
       "score": 12.1,
       "name": "Collapse Under The Empire",
       "yearly": 0.13,
@@ -9543,7 +9571,7 @@
       }
     },
     {
-      "rank": 341,
+      "rank": 342,
       "score": 12.1,
       "name": "Stevie Wonder",
       "yearly": 0,
@@ -9571,7 +9599,7 @@
       }
     },
     {
-      "rank": 342,
+      "rank": 343,
       "score": 12,
       "name": "Hybrid",
       "yearly": 0,
@@ -9599,7 +9627,7 @@
       }
     },
     {
-      "rank": 343,
+      "rank": 344,
       "score": 12,
       "name": "The Stranglers",
       "yearly": 0,
@@ -9627,7 +9655,7 @@
       }
     },
     {
-      "rank": 344,
+      "rank": 345,
       "score": 11.9,
       "name": "Rromarin",
       "yearly": 0,
@@ -9655,7 +9683,7 @@
       }
     },
     {
-      "rank": 345,
+      "rank": 346,
       "score": 11.9,
       "name": "Gary Numan",
       "yearly": 0,
@@ -9683,7 +9711,7 @@
       }
     },
     {
-      "rank": 346,
+      "rank": 347,
       "score": 11.9,
       "name": "Technicolor Skies",
       "yearly": 0,
@@ -9711,7 +9739,7 @@
       }
     },
     {
-      "rank": 347,
+      "rank": 348,
       "score": 11.5,
       "name": "Elmore James",
       "yearly": 0,
@@ -9739,7 +9767,7 @@
       }
     },
     {
-      "rank": 348,
+      "rank": 349,
       "score": 11.5,
       "name": "Portishead",
       "yearly": 0,
@@ -9767,7 +9795,7 @@
       }
     },
     {
-      "rank": 349,
+      "rank": 350,
       "score": 11.5,
       "name": "The Prodigy",
       "yearly": 0,
@@ -9795,7 +9823,7 @@
       }
     },
     {
-      "rank": 350,
+      "rank": 351,
       "score": 11.4,
       "name": "Mikko Joensuu",
       "yearly": 1.04,
@@ -9823,7 +9851,7 @@
       }
     },
     {
-      "rank": 351,
+      "rank": 352,
       "score": 11.4,
       "name": "Maa ilmasta",
       "yearly": 0,
@@ -9851,7 +9879,7 @@
       }
     },
     {
-      "rank": 352,
+      "rank": 353,
       "score": 11.4,
       "name": "The Echelon Effect",
       "yearly": 0,
@@ -9879,7 +9907,7 @@
       }
     },
     {
-      "rank": 353,
+      "rank": 354,
       "score": 11.2,
       "name": "The Beatles",
       "yearly": 0,
@@ -9892,35 +9920,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.33,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 6.32,
-        "spread": 0,
-        "tracks": 1.92,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 3,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 354,
-      "score": 11.2,
-      "name": "The Clockworks",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 1,
-      "spread": 0,
-      "tracks": 1,
-      "followed": true,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 1,
-      "top_artists": 0.024,
+      "top_artists": 0.32,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -9937,18 +9937,18 @@
     {
       "rank": 355,
       "score": 11.2,
-      "name": "The Rolling Stones",
+      "name": "The Clockworks",
       "yearly": 0,
       "yearly_years": 0,
       "alltime": 0,
       "top": 1,
       "spread": 0,
       "tracks": 1,
-      "followed": false,
+      "followed": true,
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.3,
+      "top_artists": 0.012,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -9964,6 +9964,34 @@
     },
     {
       "rank": 356,
+      "score": 11.2,
+      "name": "The Rolling Stones",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 1,
+      "spread": 0,
+      "tracks": 1,
+      "followed": false,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 1,
+      "top_artists": 0.288,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 6.32,
+        "spread": 0,
+        "tracks": 1.92,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 3,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 357,
       "score": 11.2,
       "name": "Beck",
       "yearly": 0.79,
@@ -9991,7 +10019,7 @@
       }
     },
     {
-      "rank": 357,
+      "rank": 358,
       "score": 11.2,
       "name": "David Holmes",
       "yearly": 0.79,
@@ -10019,7 +10047,7 @@
       }
     },
     {
-      "rank": 358,
+      "rank": 359,
       "score": 11.2,
       "name": "Trilucid",
       "yearly": 1,
@@ -10047,7 +10075,7 @@
       }
     },
     {
-      "rank": 359,
+      "rank": 360,
       "score": 11.1,
       "name": "Ian Brown",
       "yearly": 0,
@@ -10075,7 +10103,7 @@
       }
     },
     {
-      "rank": 360,
+      "rank": 361,
       "score": 11.1,
       "name": "Iron Maiden",
       "yearly": 0,
@@ -10103,7 +10131,7 @@
       }
     },
     {
-      "rank": 361,
+      "rank": 362,
       "score": 11.1,
       "name": "Mary Z. Cox",
       "yearly": 0,
@@ -10131,7 +10159,7 @@
       }
     },
     {
-      "rank": 362,
+      "rank": 363,
       "score": 11.1,
       "name": "Parquet Courts",
       "yearly": 0,
@@ -10159,7 +10187,7 @@
       }
     },
     {
-      "rank": 363,
+      "rank": 364,
       "score": 11.1,
       "name": "Syd Barrett",
       "yearly": 0,
@@ -10172,35 +10200,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.27,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 0,
-        "spread": 6.8,
-        "tracks": 4.3,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 0,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 364,
-      "score": 11.1,
-      "name": "You Am I",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 0,
-      "spread": 1.0,
-      "tracks": 5,
-      "followed": false,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0,
-      "top_artists": 0.398,
+      "top_artists": 0.29,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -10216,6 +10216,34 @@
     },
     {
       "rank": 365,
+      "score": 11.1,
+      "name": "You Am I",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 0,
+      "spread": 1.0,
+      "tracks": 5,
+      "followed": false,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 0,
+      "top_artists": 0.386,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 0,
+        "spread": 6.8,
+        "tracks": 4.3,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 0,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 366,
       "score": 11,
       "name": "Black Mountain",
       "yearly": 0,
@@ -10243,7 +10271,7 @@
       }
     },
     {
-      "rank": 366,
+      "rank": 367,
       "score": 11,
       "name": "Cloudkicker",
       "yearly": 0,
@@ -10271,7 +10299,7 @@
       }
     },
     {
-      "rank": 367,
+      "rank": 368,
       "score": 11,
       "name": "Cubicolor",
       "yearly": 0,
@@ -10299,7 +10327,7 @@
       }
     },
     {
-      "rank": 368,
+      "rank": 369,
       "score": 11,
       "name": "The Comet Is Coming",
       "yearly": 0,
@@ -10322,34 +10350,6 @@
         "followed": 0,
         "dedicated": 0,
         "activity": 0.87,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 369,
-      "score": 11,
-      "name": "Carcass",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 3,
-      "spread": 0,
-      "tracks": 0,
-      "followed": false,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0,
-      "top_artists": 0.38,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 10.95,
-        "spread": 0,
-        "tracks": 0,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 0,
         "favourite": 0,
         "artists": 0
       }
@@ -11208,7 +11208,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.08333333333333333,
-      "top_artists": 0.18,
+      "top_artists": 0.168,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -11320,7 +11320,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.052,
+      "top_artists": 0.044,
       "points": {
         "alltime": 0,
         "yearly": 4.87,
@@ -11449,62 +11449,6 @@
     {
       "rank": 409,
       "score": 9.5,
-      "name": "Megadeth",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 0,
-      "spread": 1.0,
-      "tracks": 2,
-      "followed": false,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0,
-      "top_artists": 0.048,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 0,
-        "spread": 6.8,
-        "tracks": 2.72,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 0,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 410,
-      "score": 9.5,
-      "name": "Slayer",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 0,
-      "spread": 1.0,
-      "tracks": 2,
-      "followed": false,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0,
-      "top_artists": 0.016,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 0,
-        "spread": 6.8,
-        "tracks": 2.72,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 0,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 411,
-      "score": 9.5,
       "name": "Kolonie",
       "yearly": 3.01,
       "yearly_years": 2,
@@ -11531,7 +11475,7 @@
       }
     },
     {
-      "rank": 412,
+      "rank": 410,
       "score": 9.4,
       "name": "Klangkarussell",
       "yearly": 0.31,
@@ -11559,7 +11503,7 @@
       }
     },
     {
-      "rank": 413,
+      "rank": 411,
       "score": 9.4,
       "name": "Lost Frequencies",
       "yearly": 0.31,
@@ -11587,7 +11531,7 @@
       }
     },
     {
-      "rank": 414,
+      "rank": 412,
       "score": 9.3,
       "name": "ANUQRAM",
       "yearly": 0,
@@ -11615,7 +11559,7 @@
       }
     },
     {
-      "rank": 415,
+      "rank": 413,
       "score": 9.3,
       "name": "Diljit Dosanjh",
       "yearly": 0,
@@ -11643,7 +11587,7 @@
       }
     },
     {
-      "rank": 416,
+      "rank": 414,
       "score": 9.3,
       "name": "Fragma",
       "yearly": 0,
@@ -11671,7 +11615,7 @@
       }
     },
     {
-      "rank": 417,
+      "rank": 415,
       "score": 9.3,
       "name": "HIZZY HUNDAL",
       "yearly": 0,
@@ -11699,7 +11643,7 @@
       }
     },
     {
-      "rank": 418,
+      "rank": 416,
       "score": 9.3,
       "name": "Intense",
       "yearly": 0,
@@ -11727,7 +11671,7 @@
       }
     },
     {
-      "rank": 419,
+      "rank": 417,
       "score": 9.3,
       "name": "Louisahhh",
       "yearly": 0,
@@ -11755,7 +11699,7 @@
       }
     },
     {
-      "rank": 420,
+      "rank": 418,
       "score": 9.3,
       "name": "PROFF",
       "yearly": 0,
@@ -11783,7 +11727,7 @@
       }
     },
     {
-      "rank": 421,
+      "rank": 419,
       "score": 9.3,
       "name": "Second Sine",
       "yearly": 0,
@@ -11811,7 +11755,7 @@
       }
     },
     {
-      "rank": 422,
+      "rank": 420,
       "score": 9.3,
       "name": "Fenech-Soler",
       "yearly": 1.19,
@@ -11839,7 +11783,7 @@
       }
     },
     {
-      "rank": 423,
+      "rank": 421,
       "score": 9.3,
       "name": "DANCCER",
       "yearly": 0.63,
@@ -11867,7 +11811,7 @@
       }
     },
     {
-      "rank": 424,
+      "rank": 422,
       "score": 9.3,
       "name": "Martin Roth",
       "yearly": 0.63,
@@ -11895,7 +11839,7 @@
       }
     },
     {
-      "rank": 425,
+      "rank": 423,
       "score": 9.2,
       "name": "The Coral",
       "yearly": 0.79,
@@ -11923,7 +11867,7 @@
       }
     },
     {
-      "rank": 426,
+      "rank": 424,
       "score": 9.2,
       "name": "Sacri Monti",
       "yearly": 0.36,
@@ -11951,7 +11895,7 @@
       }
     },
     {
-      "rank": 427,
+      "rank": 425,
       "score": 9.2,
       "name": "Jan Blomqvist",
       "yearly": 0.4,
@@ -11979,7 +11923,7 @@
       }
     },
     {
-      "rank": 428,
+      "rank": 426,
       "score": 9.2,
       "name": "Pato Watson",
       "yearly": 0.71,
@@ -12007,7 +11951,7 @@
       }
     },
     {
-      "rank": 429,
+      "rank": 427,
       "score": 9.2,
       "name": "NOFX",
       "yearly": 0.6,
@@ -12035,7 +11979,7 @@
       }
     },
     {
-      "rank": 430,
+      "rank": 428,
       "score": 9.1,
       "name": "Cassian",
       "yearly": 0.4,
@@ -12063,7 +12007,7 @@
       }
     },
     {
-      "rank": 431,
+      "rank": 429,
       "score": 9,
       "name": "Holographic Field",
       "yearly": 0.31,
@@ -12091,7 +12035,35 @@
       }
     },
     {
-      "rank": 432,
+      "rank": 430,
+      "score": 8.9,
+      "name": "Carcass",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 2,
+      "spread": 0,
+      "tracks": 0,
+      "followed": false,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 0,
+      "top_artists": 0.37,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 8.94,
+        "spread": 0,
+        "tracks": 0,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 0,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 431,
       "score": 8.9,
       "name": "The Chiffons",
       "yearly": 1.25,
@@ -12119,7 +12091,7 @@
       }
     },
     {
-      "rank": 433,
+      "rank": 432,
       "score": 8.9,
       "name": "EverLight",
       "yearly": 1,
@@ -12147,7 +12119,7 @@
       }
     },
     {
-      "rank": 434,
+      "rank": 433,
       "score": 8.8,
       "name": "Kim Gordon",
       "yearly": 0.5,
@@ -12175,7 +12147,7 @@
       }
     },
     {
-      "rank": 435,
+      "rank": 434,
       "score": 8.8,
       "name": "Simon Farintosh",
       "yearly": 0.5,
@@ -12203,7 +12175,7 @@
       }
     },
     {
-      "rank": 436,
+      "rank": 435,
       "score": 8.7,
       "name": "The Tallest Man On Earth",
       "yearly": 0.63,
@@ -12231,7 +12203,7 @@
       }
     },
     {
-      "rank": 437,
+      "rank": 436,
       "score": 8.7,
       "name": "James Blunt",
       "yearly": 0.31,
@@ -12259,7 +12231,7 @@
       }
     },
     {
-      "rank": 438,
+      "rank": 437,
       "score": 8.7,
       "name": "C.Y.M.",
       "yearly": 0.5,
@@ -12287,7 +12259,7 @@
       }
     },
     {
-      "rank": 439,
+      "rank": 438,
       "score": 8.7,
       "name": "Tristen",
       "yearly": 0.5,
@@ -12315,7 +12287,7 @@
       }
     },
     {
-      "rank": 440,
+      "rank": 439,
       "score": 8.5,
       "name": "Jenny Hval",
       "yearly": 0.5,
@@ -12343,7 +12315,7 @@
       }
     },
     {
-      "rank": 441,
+      "rank": 440,
       "score": 8.5,
       "name": "A Place To Bury Strangers",
       "yearly": 0.16,
@@ -12371,7 +12343,7 @@
       }
     },
     {
-      "rank": 442,
+      "rank": 441,
       "score": 8.5,
       "name": "Cautious Clay",
       "yearly": 1,
@@ -12399,7 +12371,7 @@
       }
     },
     {
-      "rank": 443,
+      "rank": 442,
       "score": 8.5,
       "name": "Dave Steward",
       "yearly": 1,
@@ -12427,7 +12399,7 @@
       }
     },
     {
-      "rank": 444,
+      "rank": 443,
       "score": 8.5,
       "name": "Dj T.H.",
       "yearly": 1,
@@ -12455,7 +12427,7 @@
       }
     },
     {
-      "rank": 445,
+      "rank": 444,
       "score": 8.5,
       "name": "Eugenio Tokarev",
       "yearly": 1,
@@ -12483,7 +12455,7 @@
       }
     },
     {
-      "rank": 446,
+      "rank": 445,
       "score": 8.5,
       "name": "HALIENE",
       "yearly": 1,
@@ -12511,7 +12483,7 @@
       }
     },
     {
-      "rank": 447,
+      "rank": 446,
       "score": 8.5,
       "name": "Joren Heelsing",
       "yearly": 1,
@@ -12539,7 +12511,7 @@
       }
     },
     {
-      "rank": 448,
+      "rank": 447,
       "score": 8.5,
       "name": "Kyau & Albert",
       "yearly": 1,
@@ -12567,7 +12539,7 @@
       }
     },
     {
-      "rank": 449,
+      "rank": 448,
       "score": 8.5,
       "name": "M.I.K.E. Push",
       "yearly": 1,
@@ -12595,7 +12567,7 @@
       }
     },
     {
-      "rank": 450,
+      "rank": 449,
       "score": 8.5,
       "name": "Nick Mulvey",
       "yearly": 1,
@@ -12623,7 +12595,7 @@
       }
     },
     {
-      "rank": 451,
+      "rank": 450,
       "score": 8.5,
       "name": "O'Flynn",
       "yearly": 1,
@@ -12651,7 +12623,7 @@
       }
     },
     {
-      "rank": 452,
+      "rank": 451,
       "score": 8.5,
       "name": "SMR LVE",
       "yearly": 1,
@@ -12679,7 +12651,7 @@
       }
     },
     {
-      "rank": 453,
+      "rank": 452,
       "score": 8.5,
       "name": "The Bamboos",
       "yearly": 1,
@@ -12707,7 +12679,7 @@
       }
     },
     {
-      "rank": 454,
+      "rank": 453,
       "score": 8.5,
       "name": "Zaa",
       "yearly": 1,
@@ -12735,7 +12707,7 @@
       }
     },
     {
-      "rank": 455,
+      "rank": 454,
       "score": 8.4,
       "name": "Driftmoon",
       "yearly": 0.4,
@@ -12763,7 +12735,7 @@
       }
     },
     {
-      "rank": 456,
+      "rank": 455,
       "score": 8.4,
       "name": "Leonard A",
       "yearly": 1,
@@ -12791,7 +12763,7 @@
       }
     },
     {
-      "rank": 457,
+      "rank": 456,
       "score": 8.4,
       "name": "Tritonal",
       "yearly": 1,
@@ -12819,7 +12791,7 @@
       }
     },
     {
-      "rank": 458,
+      "rank": 457,
       "score": 8.3,
       "name": "The Thrillseekers",
       "yearly": 0.31,
@@ -12847,7 +12819,7 @@
       }
     },
     {
-      "rank": 459,
+      "rank": 458,
       "score": 8.3,
       "name": "Olivia Sebastianelli",
       "yearly": 0.79,
@@ -12875,7 +12847,7 @@
       }
     },
     {
-      "rank": 460,
+      "rank": 459,
       "score": 8.2,
       "name": "Sparklehorse",
       "yearly": 0,
@@ -12903,7 +12875,7 @@
       }
     },
     {
-      "rank": 461,
+      "rank": 460,
       "score": 8.2,
       "name": "Graveyard",
       "yearly": 1,
@@ -12931,7 +12903,7 @@
       }
     },
     {
-      "rank": 462,
+      "rank": 461,
       "score": 8.2,
       "name": "Klute",
       "yearly": 0.79,
@@ -12959,7 +12931,7 @@
       }
     },
     {
-      "rank": 463,
+      "rank": 462,
       "score": 8.2,
       "name": "Tiësto",
       "yearly": 0.25,
@@ -12987,7 +12959,7 @@
       }
     },
     {
-      "rank": 464,
+      "rank": 463,
       "score": 8.1,
       "name": "Orkidea",
       "yearly": 0.4,
@@ -13015,7 +12987,7 @@
       }
     },
     {
-      "rank": 465,
+      "rank": 464,
       "score": 8.1,
       "name": "Above & Beyond",
       "yearly": 0,
@@ -13028,7 +13000,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.31,
+      "top_artists": 0.298,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -13043,7 +13015,7 @@
       }
     },
     {
-      "rank": 466,
+      "rank": 465,
       "score": 8.1,
       "name": "Amin Salmee",
       "yearly": 1,
@@ -13071,7 +13043,7 @@
       }
     },
     {
-      "rank": 467,
+      "rank": 466,
       "score": 8.1,
       "name": "Cari",
       "yearly": 1,
@@ -13099,7 +13071,7 @@
       }
     },
     {
-      "rank": 468,
+      "rank": 467,
       "score": 8.1,
       "name": "Weedpecker",
       "yearly": 1,
@@ -13112,7 +13084,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0.75,
-      "top_artists": 0.114,
+      "top_artists": 0.102,
       "points": {
         "alltime": 0,
         "yearly": 5.48,
@@ -13127,7 +13099,7 @@
       }
     },
     {
-      "rank": 469,
+      "rank": 468,
       "score": 8,
       "name": "Francois K",
       "yearly": 0.79,
@@ -13155,7 +13127,7 @@
       }
     },
     {
-      "rank": 470,
+      "rank": 469,
       "score": 8,
       "name": "Enfant Sauvage",
       "yearly": 0.63,
@@ -13183,7 +13155,7 @@
       }
     },
     {
-      "rank": 471,
+      "rank": 470,
       "score": 8,
       "name": "Ah! Kosmos",
       "yearly": 0.31,
@@ -13211,7 +13183,7 @@
       }
     },
     {
-      "rank": 472,
+      "rank": 471,
       "score": 8,
       "name": "Lostly",
       "yearly": 0.31,
@@ -13239,7 +13211,7 @@
       }
     },
     {
-      "rank": 473,
+      "rank": 472,
       "score": 7.9,
       "name": "Sleep",
       "yearly": 0.25,
@@ -13267,7 +13239,7 @@
       }
     },
     {
-      "rank": 474,
+      "rank": 473,
       "score": 7.9,
       "name": "Chase & Status",
       "yearly": 0.79,
@@ -13295,7 +13267,7 @@
       }
     },
     {
-      "rank": 475,
+      "rank": 474,
       "score": 7.9,
       "name": "Christian Burns",
       "yearly": 0.79,
@@ -13323,7 +13295,7 @@
       }
     },
     {
-      "rank": 476,
+      "rank": 475,
       "score": 7.9,
       "name": "Dua Lipa",
       "yearly": 0.79,
@@ -13351,7 +13323,7 @@
       }
     },
     {
-      "rank": 477,
+      "rank": 476,
       "score": 7.9,
       "name": "Elephant Stone",
       "yearly": 0.79,
@@ -13379,7 +13351,7 @@
       }
     },
     {
-      "rank": 478,
+      "rank": 477,
       "score": 7.9,
       "name": "Ferry Corsten",
       "yearly": 0.79,
@@ -13407,7 +13379,7 @@
       }
     },
     {
-      "rank": 479,
+      "rank": 478,
       "score": 7.9,
       "name": "Florence + The Machine",
       "yearly": 0.79,
@@ -13435,7 +13407,7 @@
       }
     },
     {
-      "rank": 480,
+      "rank": 479,
       "score": 7.9,
       "name": "Gerd Janson",
       "yearly": 0.79,
@@ -13463,7 +13435,7 @@
       }
     },
     {
-      "rank": 481,
+      "rank": 480,
       "score": 7.9,
       "name": "James De Torres",
       "yearly": 0.79,
@@ -13491,7 +13463,7 @@
       }
     },
     {
-      "rank": 482,
+      "rank": 481,
       "score": 7.9,
       "name": "Larsun Hesh",
       "yearly": 0.79,
@@ -13519,7 +13491,7 @@
       }
     },
     {
-      "rank": 483,
+      "rank": 482,
       "score": 7.9,
       "name": "Luigi Gori",
       "yearly": 0.79,
@@ -13547,7 +13519,7 @@
       }
     },
     {
-      "rank": 484,
+      "rank": 483,
       "score": 7.9,
       "name": "Morgan Page",
       "yearly": 0.79,
@@ -13575,7 +13547,7 @@
       }
     },
     {
-      "rank": 485,
+      "rank": 484,
       "score": 7.9,
       "name": "My Friend",
       "yearly": 0.79,
@@ -13603,7 +13575,7 @@
       }
     },
     {
-      "rank": 486,
+      "rank": 485,
       "score": 7.9,
       "name": "Saad Ayub",
       "yearly": 0.79,
@@ -13631,7 +13603,7 @@
       }
     },
     {
-      "rank": 487,
+      "rank": 486,
       "score": 7.9,
       "name": "Santiago Luna",
       "yearly": 0.79,
@@ -13659,7 +13631,7 @@
       }
     },
     {
-      "rank": 488,
+      "rank": 487,
       "score": 7.9,
       "name": "Spada",
       "yearly": 0.79,
@@ -13687,7 +13659,7 @@
       }
     },
     {
-      "rank": 489,
+      "rank": 488,
       "score": 7.9,
       "name": "Stereo Underground",
       "yearly": 0.79,
@@ -13715,7 +13687,7 @@
       }
     },
     {
-      "rank": 490,
+      "rank": 489,
       "score": 7.9,
       "name": "YORK",
       "yearly": 0.79,
@@ -13743,7 +13715,7 @@
       }
     },
     {
-      "rank": 491,
+      "rank": 490,
       "score": 7.8,
       "name": "Dozer",
       "yearly": 0.63,
@@ -13771,7 +13743,7 @@
       }
     },
     {
-      "rank": 492,
+      "rank": 491,
       "score": 7.8,
       "name": "Casey Rasch",
       "yearly": 1,
@@ -13799,7 +13771,7 @@
       }
     },
     {
-      "rank": 493,
+      "rank": 492,
       "score": 7.7,
       "name": "Jane Weaver",
       "yearly": 0.79,
@@ -13827,7 +13799,7 @@
       }
     },
     {
-      "rank": 494,
+      "rank": 493,
       "score": 7.7,
       "name": "Moya Brennan",
       "yearly": 0.13,
@@ -13855,7 +13827,7 @@
       }
     },
     {
-      "rank": 495,
+      "rank": 494,
       "score": 7.7,
       "name": "Mumford & Sons",
       "yearly": 0.13,
@@ -13883,7 +13855,7 @@
       }
     },
     {
-      "rank": 496,
+      "rank": 495,
       "score": 7.7,
       "name": "Dion",
       "yearly": 0.25,
@@ -13911,7 +13883,7 @@
       }
     },
     {
-      "rank": 497,
+      "rank": 496,
       "score": 7.7,
       "name": "Firebeatz",
       "yearly": 0.25,
@@ -13939,7 +13911,7 @@
       }
     },
     {
-      "rank": 498,
+      "rank": 497,
       "score": 7.7,
       "name": "Marvin Gaye",
       "yearly": 0.25,
@@ -13967,7 +13939,7 @@
       }
     },
     {
-      "rank": 499,
+      "rank": 498,
       "score": 7.6,
       "name": "Exouler",
       "yearly": 1,
@@ -13995,7 +13967,7 @@
       }
     },
     {
-      "rank": 500,
+      "rank": 499,
       "score": 7.6,
       "name": "Porcelain Raft",
       "yearly": 1,
@@ -14023,7 +13995,7 @@
       }
     },
     {
-      "rank": 501,
+      "rank": 500,
       "score": 7.6,
       "name": "Blackbelt Andersen",
       "yearly": 0.79,
@@ -14051,7 +14023,7 @@
       }
     },
     {
-      "rank": 502,
+      "rank": 501,
       "score": 7.6,
       "name": "Dølle Jølle",
       "yearly": 0.79,
@@ -14079,7 +14051,7 @@
       }
     },
     {
-      "rank": 503,
+      "rank": 502,
       "score": 7.6,
       "name": "Satellite Party",
       "yearly": 0.79,
@@ -14107,7 +14079,7 @@
       }
     },
     {
-      "rank": 504,
+      "rank": 503,
       "score": 7.6,
       "name": "The Boo Radleys",
       "yearly": 0.28,
@@ -14135,7 +14107,7 @@
       }
     },
     {
-      "rank": 505,
+      "rank": 504,
       "score": 7.5,
       "name": "MGMT",
       "yearly": 0.79,
@@ -14163,7 +14135,7 @@
       }
     },
     {
-      "rank": 506,
+      "rank": 505,
       "score": 7.4,
       "name": "Fred Baker",
       "yearly": 1,
@@ -14191,7 +14163,7 @@
       }
     },
     {
-      "rank": 507,
+      "rank": 506,
       "score": 7.4,
       "name": "Doombird",
       "yearly": 1,
@@ -14219,7 +14191,7 @@
       }
     },
     {
-      "rank": 508,
+      "rank": 507,
       "score": 7.4,
       "name": "The Ronettes",
       "yearly": 1,
@@ -14247,7 +14219,7 @@
       }
     },
     {
-      "rank": 509,
+      "rank": 508,
       "score": 7.3,
       "name": "Aly & Fila",
       "yearly": 0.63,
@@ -14275,7 +14247,7 @@
       }
     },
     {
-      "rank": 510,
+      "rank": 509,
       "score": 7.3,
       "name": "Amelia Fox",
       "yearly": 0.63,
@@ -14303,7 +14275,7 @@
       }
     },
     {
-      "rank": 511,
+      "rank": 510,
       "score": 7.3,
       "name": "Blufeld",
       "yearly": 0.63,
@@ -14331,7 +14303,7 @@
       }
     },
     {
-      "rank": 512,
+      "rank": 511,
       "score": 7.3,
       "name": "Bound to Divide",
       "yearly": 0.63,
@@ -14359,7 +14331,7 @@
       }
     },
     {
-      "rank": 513,
+      "rank": 512,
       "score": 7.3,
       "name": "Eli Spiral",
       "yearly": 0.63,
@@ -14387,7 +14359,7 @@
       }
     },
     {
-      "rank": 514,
+      "rank": 513,
       "score": 7.3,
       "name": "F4T4L3RR0R",
       "yearly": 0.63,
@@ -14415,7 +14387,7 @@
       }
     },
     {
-      "rank": 515,
+      "rank": 514,
       "score": 7.3,
       "name": "GRAZZE",
       "yearly": 0.63,
@@ -14443,7 +14415,7 @@
       }
     },
     {
-      "rank": 516,
+      "rank": 515,
       "score": 7.3,
       "name": "R Plus",
       "yearly": 0.63,
@@ -14471,7 +14443,7 @@
       }
     },
     {
-      "rank": 517,
+      "rank": 516,
       "score": 7.3,
       "name": "Rauschhaus",
       "yearly": 0.63,
@@ -14499,7 +14471,7 @@
       }
     },
     {
-      "rank": 518,
+      "rank": 517,
       "score": 7.3,
       "name": "Rinaly",
       "yearly": 0.63,
@@ -14527,7 +14499,7 @@
       }
     },
     {
-      "rank": 519,
+      "rank": 518,
       "score": 7.3,
       "name": "Talla 2XLC",
       "yearly": 0.63,
@@ -14555,7 +14527,7 @@
       }
     },
     {
-      "rank": 520,
+      "rank": 519,
       "score": 7.3,
       "name": "Tatana",
       "yearly": 0.63,
@@ -14583,7 +14555,7 @@
       }
     },
     {
-      "rank": 521,
+      "rank": 520,
       "score": 7.3,
       "name": "Whoriskey",
       "yearly": 0.63,
@@ -14611,7 +14583,7 @@
       }
     },
     {
-      "rank": 522,
+      "rank": 521,
       "score": 7.3,
       "name": "Da Fresh",
       "yearly": 0.79,
@@ -14639,7 +14611,7 @@
       }
     },
     {
-      "rank": 523,
+      "rank": 522,
       "score": 7.3,
       "name": "Aiming for Enrike",
       "yearly": 0.2,
@@ -14667,7 +14639,7 @@
       }
     },
     {
-      "rank": 524,
+      "rank": 523,
       "score": 7.3,
       "name": "The Flirtations",
       "yearly": 0.25,
@@ -14695,7 +14667,7 @@
       }
     },
     {
-      "rank": 525,
+      "rank": 524,
       "score": 7.2,
       "name": "Casino Versus Japan",
       "yearly": 0.63,
@@ -14723,7 +14695,7 @@
       }
     },
     {
-      "rank": 526,
+      "rank": 525,
       "score": 7.2,
       "name": "Bjorn Akesson",
       "yearly": 1,
@@ -14751,7 +14723,7 @@
       }
     },
     {
-      "rank": 527,
+      "rank": 526,
       "score": 7.1,
       "name": "Pierre Pienaar",
       "yearly": 0.2,
@@ -14779,7 +14751,7 @@
       }
     },
     {
-      "rank": 528,
+      "rank": 527,
       "score": 7.1,
       "name": "The Ivory Elephant",
       "yearly": 0.63,
@@ -14807,7 +14779,7 @@
       }
     },
     {
-      "rank": 529,
+      "rank": 528,
       "score": 7,
       "name": "Myon",
       "yearly": 0.79,
@@ -14835,7 +14807,7 @@
       }
     },
     {
-      "rank": 530,
+      "rank": 529,
       "score": 7,
       "name": "Adam Sobiech",
       "yearly": 1,
@@ -14863,7 +14835,7 @@
       }
     },
     {
-      "rank": 531,
+      "rank": 530,
       "score": 6.9,
       "name": "Jordan Gill",
       "yearly": 0.63,
@@ -14891,7 +14863,7 @@
       }
     },
     {
-      "rank": 532,
+      "rank": 531,
       "score": 6.9,
       "name": "Mars Red Sky",
       "yearly": 0.63,
@@ -14919,7 +14891,7 @@
       }
     },
     {
-      "rank": 533,
+      "rank": 532,
       "score": 6.9,
       "name": "Natalie Gioia",
       "yearly": 0.63,
@@ -14947,7 +14919,7 @@
       }
     },
     {
-      "rank": 534,
+      "rank": 533,
       "score": 6.9,
       "name": "Pico Boulevard",
       "yearly": 0.63,
@@ -14975,7 +14947,7 @@
       }
     },
     {
-      "rank": 535,
+      "rank": 534,
       "score": 6.9,
       "name": "Jake Bugg",
       "yearly": 0.13,
@@ -15003,7 +14975,7 @@
       }
     },
     {
-      "rank": 536,
+      "rank": 535,
       "score": 6.9,
       "name": "ZOYA",
       "yearly": 0.5,
@@ -15031,7 +15003,7 @@
       }
     },
     {
-      "rank": 537,
+      "rank": 536,
       "score": 6.8,
       "name": "Einmusik",
       "yearly": 0,
@@ -15059,7 +15031,7 @@
       }
     },
     {
-      "rank": 538,
+      "rank": 537,
       "score": 6.8,
       "name": "kaeto",
       "yearly": 0,
@@ -15087,7 +15059,7 @@
       }
     },
     {
-      "rank": 539,
+      "rank": 538,
       "score": 6.8,
       "name": "Khruangbin",
       "yearly": 0,
@@ -15115,7 +15087,7 @@
       }
     },
     {
-      "rank": 540,
+      "rank": 539,
       "score": 6.8,
       "name": "Mowree",
       "yearly": 0,
@@ -15143,7 +15115,7 @@
       }
     },
     {
-      "rank": 541,
+      "rank": 540,
       "score": 6.8,
       "name": "The Temper Trap",
       "yearly": 0,
@@ -15171,7 +15143,7 @@
       }
     },
     {
-      "rank": 542,
+      "rank": 541,
       "score": 6.8,
       "name": "Cara Melín",
       "yearly": 0.79,
@@ -15199,7 +15171,7 @@
       }
     },
     {
-      "rank": 543,
+      "rank": 542,
       "score": 6.8,
       "name": "VOTEKICK",
       "yearly": 0.79,
@@ -15227,7 +15199,7 @@
       }
     },
     {
-      "rank": 544,
+      "rank": 543,
       "score": 6.8,
       "name": "Lana Del Rey",
       "yearly": 0.63,
@@ -15255,7 +15227,7 @@
       }
     },
     {
-      "rank": 545,
+      "rank": 544,
       "score": 6.8,
       "name": "Jan Dzialek",
       "yearly": 0.79,
@@ -15283,7 +15255,7 @@
       }
     },
     {
-      "rank": 546,
+      "rank": 545,
       "score": 6.8,
       "name": "Joseph Aquilina",
       "yearly": 0.79,
@@ -15311,7 +15283,7 @@
       }
     },
     {
-      "rank": 547,
+      "rank": 546,
       "score": 6.7,
       "name": "Yaruba",
       "yearly": 1,
@@ -15339,7 +15311,7 @@
       }
     },
     {
-      "rank": 548,
+      "rank": 547,
       "score": 6.7,
       "name": "Pia Fraus",
       "yearly": 0.25,
@@ -15367,7 +15339,7 @@
       }
     },
     {
-      "rank": 549,
+      "rank": 548,
       "score": 6.7,
       "name": "Bent",
       "yearly": 0.2,
@@ -15395,7 +15367,7 @@
       }
     },
     {
-      "rank": 550,
+      "rank": 549,
       "score": 6.7,
       "name": "Brontide",
       "yearly": 0.2,
@@ -15423,7 +15395,7 @@
       }
     },
     {
-      "rank": 551,
+      "rank": 550,
       "score": 6.6,
       "name": "James Bay",
       "yearly": 0.13,
@@ -15451,7 +15423,7 @@
       }
     },
     {
-      "rank": 552,
+      "rank": 551,
       "score": 6.6,
       "name": "Of Monsters and Men",
       "yearly": 0.13,
@@ -15479,7 +15451,7 @@
       }
     },
     {
-      "rank": 553,
+      "rank": 552,
       "score": 6.6,
       "name": "Constant Smiles",
       "yearly": 0.5,
@@ -15507,7 +15479,7 @@
       }
     },
     {
-      "rank": 554,
+      "rank": 553,
       "score": 6.6,
       "name": "German Ortiz",
       "yearly": 0.79,
@@ -15535,7 +15507,7 @@
       }
     },
     {
-      "rank": 555,
+      "rank": 554,
       "score": 6.6,
       "name": "Munz (AR)",
       "yearly": 0.79,
@@ -15563,7 +15535,7 @@
       }
     },
     {
-      "rank": 556,
+      "rank": 555,
       "score": 6.6,
       "name": "Selim Ozkaya",
       "yearly": 0.79,
@@ -15591,7 +15563,7 @@
       }
     },
     {
-      "rank": 557,
+      "rank": 556,
       "score": 6.6,
       "name": "Aphex Twin",
       "yearly": 0,
@@ -15619,7 +15591,7 @@
       }
     },
     {
-      "rank": 558,
+      "rank": 557,
       "score": 6.4,
       "name": "Anderson",
       "yearly": 0.79,
@@ -15647,7 +15619,7 @@
       }
     },
     {
-      "rank": 559,
+      "rank": 558,
       "score": 6.4,
       "name": "Oscar Guez",
       "yearly": 0.79,
@@ -15675,7 +15647,7 @@
       }
     },
     {
-      "rank": 560,
+      "rank": 559,
       "score": 6.4,
       "name": "Sons of Arrakis",
       "yearly": 0.79,
@@ -15703,7 +15675,7 @@
       }
     },
     {
-      "rank": 561,
+      "rank": 560,
       "score": 6.4,
       "name": "Stiff Little Fingers",
       "yearly": 0.6,
@@ -15731,7 +15703,7 @@
       }
     },
     {
-      "rank": 562,
+      "rank": 561,
       "score": 6.3,
       "name": "Medusa's Wake",
       "yearly": 1,
@@ -15759,7 +15731,7 @@
       }
     },
     {
-      "rank": 563,
+      "rank": 562,
       "score": 6.3,
       "name": "Mino Safy",
       "yearly": 1,
@@ -15787,7 +15759,7 @@
       }
     },
     {
-      "rank": 564,
+      "rank": 563,
       "score": 6.3,
       "name": "All India Radio",
       "yearly": 0,
@@ -15815,7 +15787,7 @@
       }
     },
     {
-      "rank": 565,
+      "rank": 564,
       "score": 6.3,
       "name": "Eli & Fur",
       "yearly": 0,
@@ -15843,7 +15815,7 @@
       }
     },
     {
-      "rank": 566,
+      "rank": 565,
       "score": 6.3,
       "name": "Giorgia Angiuli",
       "yearly": 0,
@@ -15871,7 +15843,7 @@
       }
     },
     {
-      "rank": 567,
+      "rank": 566,
       "score": 6.3,
       "name": "Henry Saiz",
       "yearly": 0,
@@ -15899,7 +15871,7 @@
       }
     },
     {
-      "rank": 568,
+      "rank": 567,
       "score": 6.3,
       "name": "Jon Kennedy",
       "yearly": 0,
@@ -15927,7 +15899,7 @@
       }
     },
     {
-      "rank": 569,
+      "rank": 568,
       "score": 6.3,
       "name": "Kite",
       "yearly": 0,
@@ -15955,7 +15927,7 @@
       }
     },
     {
-      "rank": 570,
+      "rank": 569,
       "score": 6.3,
       "name": "MEZERG",
       "yearly": 0,
@@ -15983,7 +15955,7 @@
       }
     },
     {
-      "rank": 571,
+      "rank": 570,
       "score": 6.3,
       "name": "Miracle Of Sound",
       "yearly": 0,
@@ -16011,7 +15983,7 @@
       }
     },
     {
-      "rank": 572,
+      "rank": 571,
       "score": 6.3,
       "name": "Nathan Micay",
       "yearly": 0,
@@ -16039,7 +16011,7 @@
       }
     },
     {
-      "rank": 573,
+      "rank": 572,
       "score": 6.3,
       "name": "of Montreal",
       "yearly": 0,
@@ -16067,7 +16039,7 @@
       }
     },
     {
-      "rank": 574,
+      "rank": 573,
       "score": 6.3,
       "name": "Spencer Brown",
       "yearly": 0,
@@ -16095,7 +16067,7 @@
       }
     },
     {
-      "rank": 575,
+      "rank": 574,
       "score": 6.3,
       "name": "The Orb",
       "yearly": 0,
@@ -16123,7 +16095,7 @@
       }
     },
     {
-      "rank": 576,
+      "rank": 575,
       "score": 6.3,
       "name": "Aerium",
       "yearly": 0.5,
@@ -16151,7 +16123,7 @@
       }
     },
     {
-      "rank": 577,
+      "rank": 576,
       "score": 6.3,
       "name": "Daft Punk",
       "yearly": 0,
@@ -16164,7 +16136,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.15,
+      "top_artists": 0.12,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -16179,7 +16151,7 @@
       }
     },
     {
-      "rank": 578,
+      "rank": 577,
       "score": 6.3,
       "name": "Grant McLennan",
       "yearly": 0,
@@ -16207,7 +16179,7 @@
       }
     },
     {
-      "rank": 579,
+      "rank": 578,
       "score": 6.3,
       "name": "Jack Frost",
       "yearly": 0,
@@ -16235,7 +16207,7 @@
       }
     },
     {
-      "rank": 580,
+      "rank": 579,
       "score": 6.3,
       "name": "Alex Sonata",
       "yearly": 0.63,
@@ -16263,7 +16235,7 @@
       }
     },
     {
-      "rank": 581,
+      "rank": 580,
       "score": 6.3,
       "name": "Nick McCarthy",
       "yearly": 0.63,
@@ -16291,7 +16263,7 @@
       }
     },
     {
-      "rank": 582,
+      "rank": 581,
       "score": 6.3,
       "name": "TheRio",
       "yearly": 0.63,
@@ -16319,7 +16291,7 @@
       }
     },
     {
-      "rank": 583,
+      "rank": 582,
       "score": 6.3,
       "name": "VAITOR",
       "yearly": 0.63,
@@ -16347,7 +16319,7 @@
       }
     },
     {
-      "rank": 584,
+      "rank": 583,
       "score": 6.2,
       "name": "Life Leone",
       "yearly": 0.4,
@@ -16375,7 +16347,7 @@
       }
     },
     {
-      "rank": 585,
+      "rank": 584,
       "score": 6.1,
       "name": "Eddie Murray",
       "yearly": 0.79,
@@ -16403,7 +16375,7 @@
       }
     },
     {
-      "rank": 586,
+      "rank": 585,
       "score": 6.1,
       "name": "Elevation",
       "yearly": 0.79,
@@ -16431,7 +16403,7 @@
       }
     },
     {
-      "rank": 587,
+      "rank": 586,
       "score": 6.1,
       "name": "A.L.F",
       "yearly": 0.63,
@@ -16459,7 +16431,7 @@
       }
     },
     {
-      "rank": 588,
+      "rank": 587,
       "score": 6.1,
       "name": "Fatum",
       "yearly": 0.63,
@@ -16487,7 +16459,7 @@
       }
     },
     {
-      "rank": 589,
+      "rank": 588,
       "score": 6.1,
       "name": "Kri Samadhi",
       "yearly": 0.63,
@@ -16515,7 +16487,7 @@
       }
     },
     {
-      "rank": 590,
+      "rank": 589,
       "score": 6.1,
       "name": "Andreya Casablanca",
       "yearly": 0,
@@ -16543,7 +16515,7 @@
       }
     },
     {
-      "rank": 591,
+      "rank": 590,
       "score": 6.1,
       "name": "Cut Copy",
       "yearly": 0,
@@ -16571,7 +16543,7 @@
       }
     },
     {
-      "rank": 592,
+      "rank": 591,
       "score": 6.1,
       "name": "Gareth Emery",
       "yearly": 0.31,
@@ -16599,7 +16571,7 @@
       }
     },
     {
-      "rank": 593,
+      "rank": 592,
       "score": 6.1,
       "name": "Matt Lange",
       "yearly": 0.31,
@@ -16627,7 +16599,7 @@
       }
     },
     {
-      "rank": 594,
+      "rank": 593,
       "score": 6.1,
       "name": "PHILDEL",
       "yearly": 0.31,
@@ -16655,7 +16627,7 @@
       }
     },
     {
-      "rank": 595,
+      "rank": 594,
       "score": 6,
       "name": "Kid Canaveral",
       "yearly": 0.16,
@@ -16683,7 +16655,7 @@
       }
     },
     {
-      "rank": 596,
+      "rank": 595,
       "score": 6,
       "name": "Hoopoe",
       "yearly": 0.5,
@@ -16711,7 +16683,7 @@
       }
     },
     {
-      "rank": 597,
+      "rank": 596,
       "score": 5.9,
       "name": "Gilligan Moss",
       "yearly": 0,
@@ -16739,7 +16711,7 @@
       }
     },
     {
-      "rank": 598,
+      "rank": 597,
       "score": 5.9,
       "name": "Imogen Heap",
       "yearly": 0,
@@ -16767,7 +16739,7 @@
       }
     },
     {
-      "rank": 599,
+      "rank": 598,
       "score": 5.9,
       "name": "Japanese Television",
       "yearly": 0,
@@ -16795,7 +16767,7 @@
       }
     },
     {
-      "rank": 600,
+      "rank": 599,
       "score": 5.9,
       "name": "The Field",
       "yearly": 0.4,
@@ -16823,7 +16795,7 @@
       }
     },
     {
-      "rank": 601,
+      "rank": 600,
       "score": 5.8,
       "name": "Siskin",
       "yearly": 0.63,
@@ -16851,7 +16823,7 @@
       }
     },
     {
-      "rank": 602,
+      "rank": 601,
       "score": 5.8,
       "name": "Foals",
       "yearly": 0.31,
@@ -16879,7 +16851,7 @@
       }
     },
     {
-      "rank": 603,
+      "rank": 602,
       "score": 5.8,
       "name": "Guilty Ghosts",
       "yearly": 0.31,
@@ -16907,7 +16879,7 @@
       }
     },
     {
-      "rank": 604,
+      "rank": 603,
       "score": 5.8,
       "name": "Jan Philipp Janzen",
       "yearly": 0.5,
@@ -16935,7 +16907,7 @@
       }
     },
     {
-      "rank": 605,
+      "rank": 604,
       "score": 5.8,
       "name": "Limousine",
       "yearly": 0.5,
@@ -16963,7 +16935,7 @@
       }
     },
     {
-      "rank": 606,
+      "rank": 605,
       "score": 5.8,
       "name": "Vivian Wang",
       "yearly": 0.5,
@@ -16991,7 +16963,7 @@
       }
     },
     {
-      "rank": 607,
+      "rank": 606,
       "score": 5.8,
       "name": "Caribou",
       "yearly": 0,
@@ -17019,7 +16991,7 @@
       }
     },
     {
-      "rank": 608,
+      "rank": 607,
       "score": 5.8,
       "name": "Gordana Markovic",
       "yearly": 0.4,
@@ -17047,7 +17019,7 @@
       }
     },
     {
-      "rank": 609,
+      "rank": 608,
       "score": 5.7,
       "name": "Darksoft",
       "yearly": 0,
@@ -17075,7 +17047,7 @@
       }
     },
     {
-      "rank": 610,
+      "rank": 609,
       "score": 5.6,
       "name": "Christian Gabel",
       "yearly": 0,
@@ -17103,7 +17075,7 @@
       }
     },
     {
-      "rank": 611,
+      "rank": 610,
       "score": 5.6,
       "name": "GoGo Penguin",
       "yearly": 0,
@@ -17131,7 +17103,7 @@
       }
     },
     {
-      "rank": 612,
+      "rank": 611,
       "score": 5.6,
       "name": "Lycii",
       "yearly": 0,
@@ -17159,7 +17131,7 @@
       }
     },
     {
-      "rank": 613,
+      "rank": 612,
       "score": 5.6,
       "name": "The Blackwater Fever",
       "yearly": 0,
@@ -17187,7 +17159,7 @@
       }
     },
     {
-      "rank": 614,
+      "rank": 613,
       "score": 5.6,
       "name": "Dan Kashtan",
       "yearly": 0.63,
@@ -17215,7 +17187,7 @@
       }
     },
     {
-      "rank": 615,
+      "rank": 614,
       "score": 5.5,
       "name": "Four Tops",
       "yearly": 0.25,
@@ -17243,7 +17215,7 @@
       }
     },
     {
-      "rank": 616,
+      "rank": 615,
       "score": 5.5,
       "name": "Tammi Terrell",
       "yearly": 0.25,
@@ -17271,7 +17243,7 @@
       }
     },
     {
-      "rank": 617,
+      "rank": 616,
       "score": 5.5,
       "name": "DJ Tatana",
       "yearly": 1,
@@ -17299,7 +17271,7 @@
       }
     },
     {
-      "rank": 618,
+      "rank": 617,
       "score": 5.5,
       "name": "Duderstadt",
       "yearly": 1,
@@ -17327,7 +17299,7 @@
       }
     },
     {
-      "rank": 619,
+      "rank": 618,
       "score": 5.5,
       "name": "Nishikushi",
       "yearly": 1,
@@ -17355,7 +17327,7 @@
       }
     },
     {
-      "rank": 620,
+      "rank": 619,
       "score": 5.5,
       "name": "Stephan Maria",
       "yearly": 1,
@@ -17383,7 +17355,7 @@
       }
     },
     {
-      "rank": 621,
+      "rank": 620,
       "score": 5.5,
       "name": "Synergy",
       "yearly": 1,
@@ -17411,7 +17383,7 @@
       }
     },
     {
-      "rank": 622,
+      "rank": 621,
       "score": 5.5,
       "name": "Decapitated",
       "yearly": 0.25,
@@ -17439,7 +17411,7 @@
       }
     },
     {
-      "rank": 623,
+      "rank": 622,
       "score": 5.5,
       "name": "International Teachers Of Pop",
       "yearly": 0.25,
@@ -17467,7 +17439,7 @@
       }
     },
     {
-      "rank": 624,
+      "rank": 623,
       "score": 5.5,
       "name": "The Observers",
       "yearly": 0.25,
@@ -17495,7 +17467,7 @@
       }
     },
     {
-      "rank": 625,
+      "rank": 624,
       "score": 5.5,
       "name": "Lowrider",
       "yearly": 0,
@@ -17523,7 +17495,7 @@
       }
     },
     {
-      "rank": 626,
+      "rank": 625,
       "score": 5.4,
       "name": "The Dubliners",
       "yearly": 0.41,
@@ -17551,7 +17523,7 @@
       }
     },
     {
-      "rank": 627,
+      "rank": 626,
       "score": 5.3,
       "name": "Asa 808",
       "yearly": 0,
@@ -17579,7 +17551,7 @@
       }
     },
     {
-      "rank": 628,
+      "rank": 627,
       "score": 5.2,
       "name": "Jakub Zytecki",
       "yearly": 0.2,
@@ -17607,7 +17579,7 @@
       }
     },
     {
-      "rank": 629,
+      "rank": 628,
       "score": 5.2,
       "name": "Noise Zoo",
       "yearly": 0.63,
@@ -17635,7 +17607,7 @@
       }
     },
     {
-      "rank": 630,
+      "rank": 629,
       "score": 5.2,
       "name": "Tom Klay",
       "yearly": 0.63,
@@ -17663,7 +17635,7 @@
       }
     },
     {
-      "rank": 631,
+      "rank": 630,
       "score": 5.2,
       "name": "Jordi Ruiz",
       "yearly": 0.2,
@@ -17691,7 +17663,7 @@
       }
     },
     {
-      "rank": 632,
+      "rank": 631,
       "score": 5.1,
       "name": "Hidden Orchestra",
       "yearly": 0,
@@ -17719,7 +17691,7 @@
       }
     },
     {
-      "rank": 633,
+      "rank": 632,
       "score": 5.1,
       "name": "Ida Engberg",
       "yearly": 0,
@@ -17747,7 +17719,7 @@
       }
     },
     {
-      "rank": 634,
+      "rank": 633,
       "score": 5.1,
       "name": "Tom Sharkett",
       "yearly": 0,
@@ -17775,7 +17747,7 @@
       }
     },
     {
-      "rank": 635,
+      "rank": 634,
       "score": 5.1,
       "name": "Vega Voga",
       "yearly": 0,
@@ -17803,7 +17775,7 @@
       }
     },
     {
-      "rank": 636,
+      "rank": 635,
       "score": 5,
       "name": "Johnny Cash",
       "yearly": 0.13,
@@ -17831,7 +17803,7 @@
       }
     },
     {
-      "rank": 637,
+      "rank": 636,
       "score": 5,
       "name": "Keaton Henson",
       "yearly": 0.13,
@@ -17859,7 +17831,7 @@
       }
     },
     {
-      "rank": 638,
+      "rank": 637,
       "score": 5,
       "name": "Mr. Irish Bastard",
       "yearly": 0.13,
@@ -17887,7 +17859,7 @@
       }
     },
     {
-      "rank": 639,
+      "rank": 638,
       "score": 5,
       "name": "Steve Earle",
       "yearly": 0.13,
@@ -17915,7 +17887,7 @@
       }
     },
     {
-      "rank": 640,
+      "rank": 639,
       "score": 5,
       "name": "Twenty One Pilots",
       "yearly": 0.13,
@@ -17943,7 +17915,7 @@
       }
     },
     {
-      "rank": 641,
+      "rank": 640,
       "score": 5,
       "name": "Boy Azooga",
       "yearly": 0.31,
@@ -17971,7 +17943,7 @@
       }
     },
     {
-      "rank": 642,
+      "rank": 641,
       "score": 5,
       "name": "Kairon; IRSE!",
       "yearly": 0.31,
@@ -17999,7 +17971,7 @@
       }
     },
     {
-      "rank": 643,
+      "rank": 642,
       "score": 5,
       "name": "KUU",
       "yearly": 0.31,
@@ -18027,7 +17999,7 @@
       }
     },
     {
-      "rank": 644,
+      "rank": 643,
       "score": 5,
       "name": "Sea Oleena",
       "yearly": 0.31,
@@ -18055,7 +18027,7 @@
       }
     },
     {
-      "rank": 645,
+      "rank": 644,
       "score": 5,
       "name": "Özgür Yılmaz",
       "yearly": 0.31,
@@ -18083,7 +18055,7 @@
       }
     },
     {
-      "rank": 646,
+      "rank": 645,
       "score": 5,
       "name": "Andy Moor",
       "yearly": 0.4,
@@ -18111,7 +18083,7 @@
       }
     },
     {
-      "rank": 647,
+      "rank": 646,
       "score": 4.9,
       "name": "MEMORIALS",
       "yearly": 0,
@@ -18124,7 +18096,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 1,
-      "top_artists": 0.37,
+      "top_artists": 0,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -18139,7 +18111,7 @@
       }
     },
     {
-      "rank": 648,
+      "rank": 647,
       "score": 4.9,
       "name": "MY BABY",
       "yearly": 0,
@@ -18167,7 +18139,7 @@
       }
     },
     {
-      "rank": 649,
+      "rank": 648,
       "score": 4.9,
       "name": "Nilüfer Yanya",
       "yearly": 0,
@@ -18195,7 +18167,7 @@
       }
     },
     {
-      "rank": 650,
+      "rank": 649,
       "score": 4.9,
       "name": "Andain",
       "yearly": 0.79,
@@ -18223,7 +18195,7 @@
       }
     },
     {
-      "rank": 651,
+      "rank": 650,
       "score": 4.9,
       "name": "En-Motion",
       "yearly": 0.79,
@@ -18251,7 +18223,7 @@
       }
     },
     {
-      "rank": 652,
+      "rank": 651,
       "score": 4.9,
       "name": "Inviolable",
       "yearly": 0.79,
@@ -18279,7 +18251,7 @@
       }
     },
     {
-      "rank": 653,
+      "rank": 652,
       "score": 4.9,
       "name": "Sealine",
       "yearly": 0.79,
@@ -18307,7 +18279,7 @@
       }
     },
     {
-      "rank": 654,
+      "rank": 653,
       "score": 4.9,
       "name": "Sound Of Aaron",
       "yearly": 0.79,
@@ -18335,7 +18307,7 @@
       }
     },
     {
-      "rank": 655,
+      "rank": 654,
       "score": 4.8,
       "name": "Kudus",
       "yearly": 0,
@@ -18363,7 +18335,7 @@
       }
     },
     {
-      "rank": 656,
+      "rank": 655,
       "score": 4.8,
       "name": "Rodrigo y Gabriela",
       "yearly": 0,
@@ -18391,7 +18363,7 @@
       }
     },
     {
-      "rank": 657,
+      "rank": 656,
       "score": 4.7,
       "name": "Incredible Bongo Band",
       "yearly": 0,
@@ -18419,7 +18391,7 @@
       }
     },
     {
-      "rank": 658,
+      "rank": 657,
       "score": 4.7,
       "name": "Chuck Wood",
       "yearly": 0.25,
@@ -18447,7 +18419,7 @@
       }
     },
     {
-      "rank": 659,
+      "rank": 658,
       "score": 4.7,
       "name": "Herbie Goins & The Night-Timers",
       "yearly": 0.25,
@@ -18475,7 +18447,7 @@
       }
     },
     {
-      "rank": 660,
+      "rank": 659,
       "score": 4.7,
       "name": "Rose Batiste",
       "yearly": 0.25,
@@ -18503,7 +18475,7 @@
       }
     },
     {
-      "rank": 661,
+      "rank": 660,
       "score": 4.7,
       "name": "The Capitols",
       "yearly": 0.25,
@@ -18531,7 +18503,7 @@
       }
     },
     {
-      "rank": 662,
+      "rank": 661,
       "score": 4.7,
       "name": "English Teacher",
       "yearly": 0,
@@ -18559,7 +18531,7 @@
       }
     },
     {
-      "rank": 663,
+      "rank": 662,
       "score": 4.6,
       "name": "Christy Moore",
       "yearly": 0.13,
@@ -18579,6 +18551,34 @@
         "top": 0,
         "spread": 0,
         "tracks": 0,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 2.6,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 663,
+      "score": 4.5,
+      "name": "Daphni",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 0,
+      "spread": 0,
+      "tracks": 1,
+      "followed": false,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 0.75,
+      "top_artists": 0.16,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 0,
+        "spread": 0,
+        "tracks": 1.92,
         "followed": 0,
         "dedicated": 0,
         "activity": 2.6,
@@ -20213,34 +20213,6 @@
     {
       "rank": 722,
       "score": 1.9,
-      "name": "Daphni",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 0,
-      "spread": 0,
-      "tracks": 1,
-      "followed": false,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0,
-      "top_artists": 0.17,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 0,
-        "spread": 0,
-        "tracks": 1.92,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 0,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 723,
-      "score": 1.9,
       "name": "Full Fathom 5",
       "yearly": 0,
       "yearly_years": 0,
@@ -20267,7 +20239,7 @@
       }
     },
     {
-      "rank": 724,
+      "rank": 723,
       "score": 1.9,
       "name": "Monster Magnet",
       "yearly": 0,
@@ -20295,7 +20267,7 @@
       }
     },
     {
-      "rank": 725,
+      "rank": 724,
       "score": 1.9,
       "name": "Mothership",
       "yearly": 0,
@@ -20323,35 +20295,7 @@
       }
     },
     {
-      "rank": 726,
-      "score": 1.9,
-      "name": "ROLLA",
-      "yearly": 0,
-      "yearly_years": 0,
-      "alltime": 0,
-      "top": 0,
-      "spread": 0,
-      "tracks": 1,
-      "followed": false,
-      "dedicated": false,
-      "favourite": false,
-      "activity": 0,
-      "top_artists": 0.06,
-      "points": {
-        "alltime": 0,
-        "yearly": 0,
-        "top": 0,
-        "spread": 0,
-        "tracks": 1.92,
-        "followed": 0,
-        "dedicated": 0,
-        "activity": 0,
-        "favourite": 0,
-        "artists": 0
-      }
-    },
-    {
-      "rank": 727,
+      "rank": 725,
       "score": 1.9,
       "name": "Spacemen 3",
       "yearly": 0,
@@ -20379,7 +20323,35 @@
       }
     },
     {
-      "rank": 728,
+      "rank": 726,
+      "score": 1.5,
+      "name": "Angine de Poitrine",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 0,
+      "spread": 0,
+      "tracks": 0,
+      "followed": true,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 0.25,
+      "top_artists": 0,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 0,
+        "spread": 0,
+        "tracks": 0,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 1.5,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 727,
       "score": 0.9,
       "name": "Doctor Smoke",
       "yearly": 0,
@@ -20407,7 +20379,7 @@
       }
     },
     {
-      "rank": 729,
+      "rank": 728,
       "score": 0,
       "name": "Brown Sabbath",
       "yearly": 0,
@@ -20435,7 +20407,7 @@
       }
     },
     {
-      "rank": 730,
+      "rank": 729,
       "score": 0,
       "name": "Endless Boogie",
       "yearly": 0,
@@ -20449,6 +20421,34 @@
       "favourite": false,
       "activity": 0,
       "top_artists": 0,
+      "points": {
+        "alltime": 0,
+        "yearly": 0,
+        "top": 0,
+        "spread": 0,
+        "tracks": 0,
+        "followed": 0,
+        "dedicated": 0,
+        "activity": 0,
+        "favourite": 0,
+        "artists": 0
+      }
+    },
+    {
+      "rank": 730,
+      "score": 0,
+      "name": "Father John Misty",
+      "yearly": 0,
+      "yearly_years": 0,
+      "alltime": 0,
+      "top": 0,
+      "spread": 0,
+      "tracks": 0,
+      "followed": false,
+      "dedicated": false,
+      "favourite": false,
+      "activity": 0,
+      "top_artists": 0.01,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -20700,7 +20700,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.28,
+      "top_artists": 0.3,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -20745,7 +20745,7 @@
     {
       "rank": 741,
       "score": 0,
-      "name": "Status Quo",
+      "name": "Spectrum",
       "yearly": 0,
       "yearly_years": 0,
       "alltime": 0,
@@ -20756,7 +20756,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.07,
+      "top_artists": 0.18,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -20773,7 +20773,7 @@
     {
       "rank": 742,
       "score": 0,
-      "name": "The Crooks",
+      "name": "Status Quo",
       "yearly": 0,
       "yearly_years": 0,
       "alltime": 0,
@@ -20784,7 +20784,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.02,
+      "top_artists": 0.06,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -20812,7 +20812,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.602,
+      "top_artists": 0.59,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -20840,7 +20840,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.23,
+      "top_artists": 0.24,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -20868,7 +20868,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.08,
+      "top_artists": 0.07,
       "points": {
         "alltime": 0,
         "yearly": 0,
@@ -20896,7 +20896,7 @@
       "dedicated": false,
       "favourite": false,
       "activity": 0,
-      "top_artists": 0.09,
+      "top_artists": 0.08,
       "points": {
         "alltime": 0,
         "yearly": 0,

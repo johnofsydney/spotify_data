@@ -4,8 +4,10 @@ Above & Beyond
 Adebisi Shank
 Ahkmed
 All Them Witches
+Andy Bell
 Angine de Poitrine
 Antenna
+Arcade Fire
 Arrowhead
 ATB
 Barry Can't Swim
@@ -46,6 +48,7 @@ God Is An Astronaut
 Grandbrothers
 Green Lung
 Greenleaf
+HAAi
 Here Lies Man
 High On Fire
 Hollow Ship
@@ -57,6 +60,7 @@ James Norbert Ivanyi
 Jimi Hendrix
 Johnny Cash
 Johnny Marr
+Jon Hopkins
 José Junior
 Kadavar
 Kal-El
@@ -158,7 +162,9 @@ The Parks
 The Pogues
 The Raveonettes
 The Shadows
+The Stone Roses
 The Tallest Man On Earth
+Tides From Nebula
 Tom Harrington
 Torche
 Triangle Singular
@@ -169,6 +175,7 @@ Uncle Acid & The Deadbeats
 Underground Lovers
 Valley of the Sun
 Weedpecker
+White Lies
 Wooden Shjips
 World News
 Younger Brother

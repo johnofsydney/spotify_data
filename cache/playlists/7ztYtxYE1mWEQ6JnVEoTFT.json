@@ -5,7 +5,7 @@
     "name": "Formative Years",
     "desc": "Seeded by spotify_data from formative.txt; add to it freely.",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAEkj3lzDIjB9PhloEy/gX0eJvmF7h"
+    "snapshot_id": "AAAAE5JTKpKngp4eNRZdS9rASnr6L4es"
   },
   "tracks": [
     {
@@ -481,6 +481,34 @@
       "duration": {
         "secs": 417,
         "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7MhCZaLXU5jrrRBkmkNyWA",
+      "name": "Lay Back in the Sun",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 309,
+        "nanos": 106000000
       },
       "explicit": false
     }

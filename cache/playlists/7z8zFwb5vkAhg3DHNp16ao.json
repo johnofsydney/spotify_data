@@ -5,7 +5,7 @@
     "name": "Elderly Gents Album Club",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAeq5pQtNSH+Eoku41dUaA9R2q43FE"
+    "snapshot_id": "AAAAgDfxStmQ4zU90ki93/9Lic8Sb973"
   },
   "tracks": [
     {
@@ -3979,8 +3979,8 @@
         "added_at": 0
       },
       "duration": {
-        "secs": 184,
-        "nanos": 0
+        "secs": 187,
+        "nanos": 66000000
       },
       "explicit": false
     },
@@ -4120,7 +4120,7 @@
       },
       "duration": {
         "secs": 80,
-        "nanos": 666000000
+        "nanos": 400000000
       },
       "explicit": false
     },
@@ -17953,6 +17953,1378 @@
       "duration": {
         "secs": 536,
         "nanos": 383000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1e7iQepZBeg7QJzPVAp8PK",
+      "name": "Medication",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 496,
+        "nanos": 293000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "3V4rZhVqZ4EcaagkxUaqn0",
+      "name": "The Slide Song",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 232,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5e0jW0GP5h57A5s0Zung78",
+      "name": "Electric Phase",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 93,
+        "nanos": 760000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0Jsv4Dw0oPKiJTU1sPH8V0",
+      "name": "All of My Tears",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 190,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1zIKIH0228ysoxDN4uGzcf",
+      "name": "These Blues",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 184,
+        "nanos": 626000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1c8p5UwsBxVbyCBPdZIndL",
+      "name": "Let It Flow",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 330,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "1C5g9XnEWhWFl2e95iYtor",
+      "name": "Take Good Care of It",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 276,
+        "nanos": 706000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5hSNZaBmjpOmKhtIqgBeKQ",
+      "name": "Born Never Asked",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 125,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3CjkkxqPPrsAhAd9fMuovb",
+      "name": "Electric Mainline",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 459,
+        "nanos": 960000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7MhCZaLXU5jrrRBkmkNyWA",
+      "name": "Lay Back in the Sun",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 309,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6knTCfY9N4HlsKBgZrbsBe",
+      "name": "Good Times",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 293,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3AAorMUvd8dwnQ7rZ77g0x",
+      "name": "Pure Phase",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 379,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Jo5VOyBbPOcuzLaU9xuyz",
+      "name": "Spread Your Wings",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 390,
+        "nanos": 826000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6FPbbAwfuPCvCJpHub25ZX",
+      "name": "Feel Like Goin' Home",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 334,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5IuSQa3vuy5ZGw0ZxJ9z3a",
+      "name": "Signs of Life",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 261,
+        "nanos": 858000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3ieDOGcOqVxScs2VZBzidt",
+      "name": "Learning to Fly",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 292,
+        "nanos": 80000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4ggDbvTME5EAso1xfGX2M0",
+      "name": "The Dogs of War",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 363,
+        "nanos": 720000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3h31xJfV4OpCYKlzSpazLy",
+      "name": "One Slip",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 308,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7KA6U0WOHdGxWWLGPYN2Sb",
+      "name": "On the Turning Away",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 341,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7ymn3tJva1XgJOhB9Kj5q0",
+      "name": "Yet Another Movie",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 372,
+        "nanos": 907000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4GIq6ZUGqM8qRTJF1BOery",
+      "name": "Round and Around",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 73,
+        "nanos": 305000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6efrVSc5Dltp0PyFybNacG",
+      "name": "A New Machine, Pt. 1",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 105,
+        "nanos": 933000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4hO2y5DRbeMppklIroS1O8",
+      "name": "Terminal Frost",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 375,
+        "nanos": 440000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1gqS8bomGckIqmfDbavdHD",
+      "name": "A New Machine, Pt. 2",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 39,
+        "nanos": 8000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0u90NnJ2p3Q2MIP9IaAsg5",
+      "name": "Sorrow",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd"
+        }
+      ],
+      "album": {
+        "id": "4xODvcpjOOgu4oKWL0sCte",
+        "release_date": "1987-09-08",
+        "name": "A Momentary Lapse of Reason",
+        "artists": [
+          {
+            "id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "name": "Pink Floyd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 524,
+        "nanos": 753000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "42dGd1vhQQ09G5yg5FHmHP",
+      "name": "Love Vigilantes - 2022 Digital Master",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "0fn2SPJjYECJG3BNvNOd9f",
+        "release_date": "1985-05-13",
+        "name": "Low-Life",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 259,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "265mb9od3km5tI78X3WrUn",
+      "name": "The Perfect Kiss - 2022 Digital Master",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "0fn2SPJjYECJG3BNvNOd9f",
+        "release_date": "1985-05-13",
+        "name": "Low-Life",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 289,
+        "nanos": 426000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3IwISSOvWXtsLrxus7Evjr",
+      "name": "This Time of Night - 2022 Digital Master",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "0fn2SPJjYECJG3BNvNOd9f",
+        "release_date": "1985-05-13",
+        "name": "Low-Life",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 284,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6G7VdH8lLQAGI6HOO5sR7x",
+      "name": "Sunrise - 2022 Digital Master",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "0fn2SPJjYECJG3BNvNOd9f",
+        "release_date": "1985-05-13",
+        "name": "Low-Life",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 360,
+        "nanos": 853000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3cCADm6tkppHoPpitoes6o",
+      "name": "Elegia - 2022 Digital Master",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "0fn2SPJjYECJG3BNvNOd9f",
+        "release_date": "1985-05-13",
+        "name": "Low-Life",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 296,
+        "nanos": 40000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0FXWgGykJZZ1ocPlywQcHR",
+      "name": "Sooner Than You Think - 2022 Digital Master",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "0fn2SPJjYECJG3BNvNOd9f",
+        "release_date": "1985-05-13",
+        "name": "Low-Life",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 311,
+        "nanos": 906000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1xLJz5IiV4rN5UgHIrlaoA",
+      "name": "Sub-culture - 2022 Digital Master",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "0fn2SPJjYECJG3BNvNOd9f",
+        "release_date": "1985-05-13",
+        "name": "Low-Life",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 298,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "27onV0rdiub0KBY1MSWAoa",
+      "name": "Face Up - 2022 Digital Master",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "0fn2SPJjYECJG3BNvNOd9f",
+        "release_date": "1985-05-13",
+        "name": "Low-Life",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 306,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4WLoYOoTdOxFWrnK8Dd6gg",
+      "name": "Evergreen",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0H2pImDhr6uM6zB2WI3yVt",
+      "name": "Wisdom",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 320,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6udgP1YqA8IKHchRHAD4Tf",
+      "name": "Crushed",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 368,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0KTV73kGkvjLDpb7a3lYyZ",
+      "name": "That Girl Suicide",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 221,
+        "nanos": 426000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2QSK4wxsxsLi5ZioyQGdwv",
+      "name": "Wasted",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 261,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5kHjsAzZ7XabPWr68wJQEe",
+      "name": "Everyone Says",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 255,
+        "nanos": 626000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "21ewl8xakXChZEnF61n3xb",
+      "name": "Short Wave",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 167,
+        "nanos": 800000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2ZY670rEe0yNN0QWqZRQTS",
+      "name": "She Made Me",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 282,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "58xFPdZgpmYhgmaTNZh5Nu",
+      "name": "Hyperventilation",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 592,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7t0rAxYBpygIFFCalJ04qL",
+      "name": "Records",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 110,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ZF7e4FP6sR4E1zj8qD3HL",
+      "name": "I Love You",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 251,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1k6hISbooiLB6jZpBnlN3Q",
+      "name": "End Of The Day",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 309,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0SDKGy3ZHvMvJ389VS46KC",
+      "name": "Outback",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 247,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4auBN330Puu7xHSlojedEC",
+      "name": "She's Gone",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 438,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Jhr7slCAlUy0BkJHxtQFc",
+      "name": "Untitled (Methodrone)",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 292,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3rhbphfdRF2UnsFlhdbNxG",
+      "name": "In India You - Bonus Track",
+      "artists": [
+        {
+          "id": "30uiS1n3uIGXJEYFR1GVDy",
+          "name": "The Brian Jonestown Massacre"
+        }
+      ],
+      "album": {
+        "id": "5rTxZevI7kSynSeSlqELv4",
+        "release_date": "2008-06-09",
+        "name": "Methodrone",
+        "artists": [
+          {
+            "id": "30uiS1n3uIGXJEYFR1GVDy",
+            "name": "The Brian Jonestown Massacre"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 600000000
       },
       "explicit": false
     }

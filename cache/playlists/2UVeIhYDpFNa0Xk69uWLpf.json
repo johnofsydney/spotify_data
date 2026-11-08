@@ -5,7 +5,7 @@
     "name": "Modern Psychedelia",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAADC37jJ+Pgvzo4fpPVogcfCVtNJam"
+    "snapshot_id": "AAAADXWjMp8pjZwTr0vymSGSFagvF4pN"
   },
   "tracks": [
     {
@@ -301,6 +301,34 @@
       "duration": {
         "secs": 274,
         "nanos": 387000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0hxZxWkrKVifkeccHXMDdy",
+      "name": "Break Off Your Shells",
+      "artists": [
+        {
+          "id": "58HjcrZgkKUaldPPK7BuDX",
+          "name": "Khan"
+        }
+      ],
+      "album": {
+        "id": "5MYkfve7HlfWkefcc4vkeO",
+        "release_date": "2018-04-02",
+        "name": "Vale",
+        "artists": [
+          {
+            "id": "58HjcrZgkKUaldPPK7BuDX",
+            "name": "Khan"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 807000000
       },
       "explicit": false
     }

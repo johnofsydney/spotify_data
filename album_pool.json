@@ -1,5 +1,20 @@
 [
   {
+    "artist": "Spiritualized",
+    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
+    "album": "Ladies and gentlemen we are floating in space",
+    "id": "56YzQ0dhmRMDryZsrjdHun",
+    "year": "1997",
+    "key": "6DKmuXxXASTF6xaJwcTfjv|ladies and gentlemen we are floating in space",
+    "source": "known",
+    "artist_weight": 49.4,
+    "hits": 7,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 46.9
+  },
+  {
     "artist": "Les Big Byrd",
     "artist_id": "3g2slv6elrXxGnXqy7Q2ap",
     "album": "Ruin Everything",
@@ -150,21 +165,6 @@
     "score": 33.5
   },
   {
-    "artist": "Spiritualized",
-    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
-    "album": "Ladies and gentlemen we are floating in space",
-    "id": "56YzQ0dhmRMDryZsrjdHun",
-    "year": "1997",
-    "key": "6DKmuXxXASTF6xaJwcTfjv|ladies and gentlemen we are floating in space",
-    "source": "known",
-    "artist_weight": 34.5,
-    "hits": 7,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 32.8
-  },
-  {
     "artist": "Valley of the Sun",
     "artist_id": "3OX4skiU9o7fxdi5Li7k5l",
     "album": "The Blacklight Sessions",
@@ -300,21 +300,6 @@
     "score": 29.8
   },
   {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Born In The Echoes",
-    "id": "36E5LAM5D3AKnVx8s5dyc6",
-    "year": "2015",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|born in the echoes",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 29.4
-  },
-  {
     "artist": "Chicane",
     "artist_id": "5GxyeQagayzZOg4UwffQlD",
     "album": "Behind The Sun",
@@ -328,6 +313,21 @@
     "known_tracks": 7,
     "from": [],
     "score": 28.9
+  },
+  {
+    "artist": "New Order",
+    "artist_id": "0yNLKJebCb8Aueb54LYya3",
+    "album": "Substance",
+    "id": "6iHuSGy6pq4tNGFV3ZVPtl",
+    "year": "1987",
+    "key": "0yNLKJebCb8Aueb54LYya3|substance",
+    "source": "known",
+    "artist_weight": 44.1,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 1,
+    "from": [],
+    "score": 28.7
   },
   {
     "artist": "Pixies",
@@ -371,6 +371,21 @@
     "hits": 7,
     "new": false,
     "known_tracks": 0,
+    "from": [],
+    "score": 27.9
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "Born In The Echoes",
+    "id": "36E5LAM5D3AKnVx8s5dyc6",
+    "year": "2015",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|born in the echoes",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 1,
     "from": [],
     "score": 27.9
   },
@@ -495,25 +510,6 @@
     "score": 26.4
   },
   {
-    "artist": "The Postal Service",
-    "artist_id": "5yV1qdnmxyIYiSFB02wpDj",
-    "album": "Give Up (Deluxe 10th Anniversary Edition)",
-    "id": "5MoaDbFw4nrm2P7Om1on3b",
-    "year": "2003",
-    "key": "5yV1qdnmxyIYiSFB02wpDj|give up",
-    "source": "new",
-    "artist_weight": 20.5,
-    "hits": 10,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "LCD Soundsystem",
-      "The Flaming Lips",
-      "Silversun Pickups"
-    ],
-    "score": 25.6
-  },
-  {
     "artist": "ZZ Top",
     "artist_id": "2AM4ilv6UzW0uMRuqKtDgN",
     "album": "Fandango! (Expanded 2006 Remaster)",
@@ -559,19 +555,38 @@
     "score": 24.4
   },
   {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Surrender",
-    "id": "1QJP73UumgERuzp3yJSXw3",
-    "year": "1999",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|surrender",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 2,
+    "artist": "The Postal Service",
+    "artist_id": "5yV1qdnmxyIYiSFB02wpDj",
+    "album": "Give Up (Deluxe 10th Anniversary Edition)",
+    "id": "5MoaDbFw4nrm2P7Om1on3b",
+    "year": "2003",
+    "key": "5yV1qdnmxyIYiSFB02wpDj|give up",
+    "source": "new",
+    "artist_weight": 19.4,
+    "hits": 10,
     "new": false,
-    "known_tracks": 3,
+    "known_tracks": 0,
+    "from": [
+      "LCD Soundsystem",
+      "The Flaming Lips",
+      "Silversun Pickups"
+    ],
+    "score": 24.2
+  },
+  {
+    "artist": "Pink Floyd",
+    "artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+    "album": "The Dark Side of the Moon",
+    "id": "4LH4d3cOWNNsVw41Gqt2kv",
+    "year": "1973",
+    "key": "0k17h0D3J5VfsdmQ1iZtE9|the dark side of the moon",
+    "source": "known",
+    "artist_weight": 36.9,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
     "from": [],
-    "score": 24.1
+    "score": 24
   },
   {
     "artist": "José Junior",
@@ -598,21 +613,6 @@
     "source": "known",
     "artist_weight": 25,
     "hits": 5,
-    "new": true,
-    "known_tracks": 0,
-    "from": [],
-    "score": 23.4
-  },
-  {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Go: Apex And Beyond",
-    "id": "6zB4xGirvaWlm32pZV0qTl",
-    "year": "2026",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|go: apex and beyond",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 1,
     "new": true,
     "known_tracks": 0,
     "from": [],
@@ -679,6 +679,21 @@
     "score": 23
   },
   {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "Surrender",
+    "id": "1QJP73UumgERuzp3yJSXw3",
+    "year": "1999",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|surrender",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 2,
+    "new": false,
+    "known_tracks": 3,
+    "from": [],
+    "score": 22.9
+  },
+  {
     "artist": "White Lies",
     "artist_id": "6ssXMmc5EOUrauZxirM910",
     "album": "Friends (Deluxe Edition)",
@@ -707,6 +722,21 @@
     "known_tracks": 9,
     "from": [],
     "score": 22.8
+  },
+  {
+    "artist": "Khan",
+    "artist_id": "58HjcrZgkKUaldPPK7BuDX",
+    "album": "Creatures",
+    "id": "28qugPX0f8bKESOgEscAPt",
+    "year": "2023",
+    "key": "58HjcrZgkKUaldPPK7BuDX|creatures",
+    "source": "known",
+    "artist_weight": 34.8,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 4,
+    "from": [],
+    "score": 22.6
   },
   {
     "artist": "The Jesus and Mary Chain",
@@ -754,38 +784,19 @@
     "score": 22.4
   },
   {
-    "artist": "New Order",
-    "artist_id": "0yNLKJebCb8Aueb54LYya3",
-    "album": "Substance",
-    "id": "6iHuSGy6pq4tNGFV3ZVPtl",
-    "year": "1987",
-    "key": "0yNLKJebCb8Aueb54LYya3|substance",
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "Go: Apex And Beyond",
+    "id": "6zB4xGirvaWlm32pZV0qTl",
+    "year": "2026",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|go: apex and beyond",
     "source": "known",
-    "artist_weight": 34.4,
-    "hits": 4,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 22.4
-  },
-  {
-    "artist": "The Confederate Dead",
-    "artist_id": "5Nu7E1g3TYTdB4LuX7qvtu",
-    "album": "It Was Meant To Happen",
-    "id": "1DCQEUR5Auri0wwtCuuRKv",
-    "year": "2012",
-    "key": "5Nu7E1g3TYTdB4LuX7qvtu|it was meant to happen",
-    "source": "new",
-    "artist_weight": 34.4,
-    "hits": 4,
-    "new": false,
+    "artist_weight": 50.8,
+    "hits": 1,
+    "new": true,
     "known_tracks": 0,
-    "from": [
-      "The Dharma Chain",
-      "GHOSTWOMAN",
-      "New Candys"
-    ],
-    "score": 22.4
+    "from": [],
+    "score": 22.2
   },
   {
     "artist": "Mount Hush",
@@ -801,8 +812,8 @@
     "known_tracks": 0,
     "from": [
       "King Buffalo",
-      "Tuber",
-      "All Them Witches"
+      "Khan",
+      "Tuber"
     ],
     "score": 22
   },
@@ -822,25 +833,6 @@
     "score": 21.8
   },
   {
-    "artist": "Room Service",
-    "artist_id": "2uUXIzIj1xEIyauiajWeyo",
-    "album": "Things Left to Do",
-    "id": "5kR8QkF6vQ2M8eFsiRiWSg",
-    "year": "2023",
-    "key": "2uUXIzIj1xEIyauiajWeyo|things left to do",
-    "source": "new",
-    "artist_weight": 22.6,
-    "hits": 7,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "GHOSTWOMAN",
-      "New Candys",
-      "José Junior"
-    ],
-    "score": 21.5
-  },
-  {
     "artist": "Sensible Soccers",
     "artist_id": "34MPa7vYWHpXiVrT1Nm0al",
     "album": "Camminando di Notte",
@@ -853,25 +845,6 @@
     "new": true,
     "known_tracks": 0,
     "from": [],
-    "score": 21.4
-  },
-  {
-    "artist": "The Spyrals",
-    "artist_id": "1jCVSnyE6YOGqiKJXVRj6q",
-    "album": "The Spyrals",
-    "id": "03fO4womIgJcznyFq0Qba0",
-    "year": "2012",
-    "key": "1jCVSnyE6YOGqiKJXVRj6q|the spyrals",
-    "source": "new",
-    "artist_weight": 28.6,
-    "hits": 5,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Night Beats",
-      "GHOSTWOMAN",
-      "New Candys"
-    ],
     "score": 21.4
   },
   {
@@ -935,6 +908,25 @@
     "score": 21.1
   },
   {
+    "artist": "The Confederate Dead",
+    "artist_id": "5Nu7E1g3TYTdB4LuX7qvtu",
+    "album": "It Was Meant To Happen",
+    "id": "1DCQEUR5Auri0wwtCuuRKv",
+    "year": "2012",
+    "key": "5Nu7E1g3TYTdB4LuX7qvtu|it was meant to happen",
+    "source": "new",
+    "artist_weight": 32.5,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "The Dharma Chain",
+      "GHOSTWOMAN",
+      "New Candys"
+    ],
+    "score": 21.1
+  },
+  {
     "artist": "Mattiel",
     "artist_id": "69ZtLNs4CNIFnf3Vq7wN5q",
     "album": "Mattiel",
@@ -995,63 +987,6 @@
     "score": 20.5
   },
   {
-    "artist": "Mantra Machine",
-    "artist_id": "1G7ekxJSIyTQdbw5TBtB3H",
-    "album": "Echoes Forest",
-    "id": "2KBYsL4bNQVKRlbec1eeLi",
-    "year": "2026",
-    "key": "1G7ekxJSIyTQdbw5TBtB3H|echoes forest",
-    "source": "new",
-    "artist_weight": 29.8,
-    "hits": 3,
-    "new": true,
-    "known_tracks": 0,
-    "from": [
-      "Causa Sui",
-      "Tuber",
-      "Monkey3"
-    ],
-    "score": 20.5
-  },
-  {
-    "artist": "Sasquatch",
-    "artist_id": "5w4idkfqBv56aZsoXgKjQg",
-    "album": "Maneuvers",
-    "id": "6sTgaFY1UhfQfbkmn3SaSB",
-    "year": "2017",
-    "key": "5w4idkfqBv56aZsoXgKjQg|maneuvers",
-    "source": "new",
-    "artist_weight": 31.5,
-    "hits": 4,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Greenleaf",
-      "Valley of the Sun",
-      "The Heavy Eyes"
-    ],
-    "score": 20.5
-  },
-  {
-    "artist": "Sasquatch",
-    "artist_id": "5w4idkfqBv56aZsoXgKjQg",
-    "album": "Sasquatch",
-    "id": "6jy7P9Inqi9v3jym4IEVxa",
-    "year": "2004",
-    "key": "5w4idkfqBv56aZsoXgKjQg|sasquatch",
-    "source": "new",
-    "artist_weight": 31.5,
-    "hits": 4,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Greenleaf",
-      "Valley of the Sun",
-      "The Heavy Eyes"
-    ],
-    "score": 20.5
-  },
-  {
     "artist": "October Drift",
     "artist_id": "3uP1cpcy1q0stG3utL7tZS",
     "album": "I Don't Belong Anywhere",
@@ -1065,6 +1000,74 @@
     "known_tracks": 1,
     "from": [],
     "score": 20.4
+  },
+  {
+    "artist": "Pink Floyd",
+    "artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+    "album": "The Wall",
+    "id": "5Dbax7G8SWrP9xyzkOvy2F",
+    "year": "1979",
+    "key": "0k17h0D3J5VfsdmQ1iZtE9|the wall",
+    "source": "known",
+    "artist_weight": 36.9,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 2,
+    "from": [],
+    "score": 20.3
+  },
+  {
+    "artist": "Pink Floyd",
+    "artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+    "album": "Wish You Were Here",
+    "id": "0bCAjiUamIFqKJsekOYuRw",
+    "year": "1975",
+    "key": "0k17h0D3J5VfsdmQ1iZtE9|wish you were here",
+    "source": "known",
+    "artist_weight": 36.9,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 20.3
+  },
+  {
+    "artist": "Room Service",
+    "artist_id": "2uUXIzIj1xEIyauiajWeyo",
+    "album": "Things Left to Do",
+    "id": "5kR8QkF6vQ2M8eFsiRiWSg",
+    "year": "2023",
+    "key": "2uUXIzIj1xEIyauiajWeyo|things left to do",
+    "source": "new",
+    "artist_weight": 21.4,
+    "hits": 7,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "GHOSTWOMAN",
+      "New Candys",
+      "José Junior"
+    ],
+    "score": 20.3
+  },
+  {
+    "artist": "The Spyrals",
+    "artist_id": "1jCVSnyE6YOGqiKJXVRj6q",
+    "album": "The Spyrals",
+    "id": "03fO4womIgJcznyFq0Qba0",
+    "year": "2012",
+    "key": "1jCVSnyE6YOGqiKJXVRj6q|the spyrals",
+    "source": "new",
+    "artist_weight": 27,
+    "hits": 5,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Night Beats",
+      "GHOSTWOMAN",
+      "New Candys"
+    ],
+    "score": 20.3
   },
   {
     "artist": "sleepmakeswaves",
@@ -1292,6 +1295,44 @@
     "score": 19.4
   },
   {
+    "artist": "Sasquatch",
+    "artist_id": "5w4idkfqBv56aZsoXgKjQg",
+    "album": "Maneuvers",
+    "id": "6sTgaFY1UhfQfbkmn3SaSB",
+    "year": "2017",
+    "key": "5w4idkfqBv56aZsoXgKjQg|maneuvers",
+    "source": "new",
+    "artist_weight": 29.8,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Greenleaf",
+      "Valley of the Sun",
+      "The Heavy Eyes"
+    ],
+    "score": 19.4
+  },
+  {
+    "artist": "Sasquatch",
+    "artist_id": "5w4idkfqBv56aZsoXgKjQg",
+    "album": "Sasquatch",
+    "id": "6jy7P9Inqi9v3jym4IEVxa",
+    "year": "2004",
+    "key": "5w4idkfqBv56aZsoXgKjQg|sasquatch",
+    "source": "new",
+    "artist_weight": 29.8,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Greenleaf",
+      "Valley of the Sun",
+      "The Heavy Eyes"
+    ],
+    "score": 19.4
+  },
+  {
     "artist": "Les Big Byrd",
     "artist_id": "3g2slv6elrXxGnXqy7Q2ap",
     "album": "Diamonds, Rhinestones and Hard Rain",
@@ -1339,14 +1380,14 @@
   {
     "artist": "Mantra Machine",
     "artist_id": "1G7ekxJSIyTQdbw5TBtB3H",
-    "album": "Heliosphere",
-    "id": "3fsawmRDnopoUm5tYbdzMr",
-    "year": "2019",
-    "key": "1G7ekxJSIyTQdbw5TBtB3H|heliosphere",
+    "album": "Echoes Forest",
+    "id": "2KBYsL4bNQVKRlbec1eeLi",
+    "year": "2026",
+    "key": "1G7ekxJSIyTQdbw5TBtB3H|echoes forest",
     "source": "new",
-    "artist_weight": 29.8,
-    "hits": 4,
-    "new": false,
+    "artist_weight": 28.1,
+    "hits": 3,
+    "new": true,
     "known_tracks": 0,
     "from": [
       "Causa Sui",
@@ -1536,21 +1577,6 @@
     "score": 18.8
   },
   {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Push The Button",
-    "id": "715rku55lldqdw9WiEuPgi",
-    "year": "2005",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|push the button",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 4,
-    "from": [],
-    "score": 18.7
-  },
-  {
     "artist": "White Lies",
     "artist_id": "6ssXMmc5EOUrauZxirM910",
     "album": "BIG TV",
@@ -1563,24 +1589,6 @@
     "new": false,
     "known_tracks": 1,
     "from": [],
-    "score": 18.7
-  },
-  {
-    "artist": "White Town",
-    "artist_id": "1MPcILKoMCJym9KscdYxuM",
-    "album": "Women in Technology",
-    "id": "6z6qZbY7mDuyzstPSCy5Xq",
-    "year": "1997",
-    "key": "1MPcILKoMCJym9KscdYxuM|women in technology",
-    "source": "new",
-    "artist_weight": 16.2,
-    "hits": 9,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Chemical Brothers",
-      "Caesars"
-    ],
     "score": 18.7
   },
   {
@@ -1629,6 +1637,25 @@
     "score": 18.3
   },
   {
+    "artist": "Mantra Machine",
+    "artist_id": "1G7ekxJSIyTQdbw5TBtB3H",
+    "album": "Heliosphere",
+    "id": "3fsawmRDnopoUm5tYbdzMr",
+    "year": "2019",
+    "key": "1G7ekxJSIyTQdbw5TBtB3H|heliosphere",
+    "source": "new",
+    "artist_weight": 28.1,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Causa Sui",
+      "Tuber",
+      "Monkey3"
+    ],
+    "score": 18.3
+  },
+  {
     "artist": "Noel Gallagher's High Flying Birds",
     "artist_id": "7sjttK1WcZeyLPn3IsQ62L",
     "album": "Chasing Yesterday (Deluxe)",
@@ -1672,6 +1699,21 @@
     "known_tracks": 0,
     "from": [],
     "score": 18
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "Push The Button",
+    "id": "715rku55lldqdw9WiEuPgi",
+    "year": "2005",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|push the button",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 4,
+    "from": [],
+    "score": 17.8
   },
   {
     "artist": "The Smile",
@@ -1854,6 +1896,36 @@
     "score": 17.3
   },
   {
+    "artist": "Spiritualized",
+    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
+    "album": "Amazing Grace",
+    "id": "2yljoYu9ES4nVXdPqp2ROc",
+    "year": "2003",
+    "key": "6DKmuXxXASTF6xaJwcTfjv|amazing grace",
+    "source": "known",
+    "artist_weight": 49.4,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 5,
+    "from": [],
+    "score": 17.3
+  },
+  {
+    "artist": "Spiritualized",
+    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
+    "album": "Lazer Guided Melodies",
+    "id": "0kfT6lwFmXyepSvoItP4sa",
+    "year": "1992",
+    "key": "6DKmuXxXASTF6xaJwcTfjv|lazer guided melodies",
+    "source": "known",
+    "artist_weight": 49.4,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 17.3
+  },
+  {
     "artist": "GHOSTWOMAN",
     "artist_id": "4IEpQR24sUgq6BQw2MdZIy",
     "album": "Anne, If",
@@ -1929,18 +2001,21 @@
     "score": 17
   },
   {
-    "artist": "Pink Floyd",
-    "artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
-    "album": "The Dark Side of the Moon",
-    "id": "4LH4d3cOWNNsVw41Gqt2kv",
-    "year": "1973",
-    "key": "0k17h0D3J5VfsdmQ1iZtE9|the dark side of the moon",
-    "source": "known",
-    "artist_weight": 26.2,
-    "hits": 4,
+    "artist": "White Town",
+    "artist_id": "1MPcILKoMCJym9KscdYxuM",
+    "album": "Women in Technology",
+    "id": "6z6qZbY7mDuyzstPSCy5Xq",
+    "year": "1997",
+    "key": "1MPcILKoMCJym9KscdYxuM|women in technology",
+    "source": "new",
+    "artist_weight": 14.8,
+    "hits": 9,
     "new": false,
     "known_tracks": 0,
-    "from": [],
+    "from": [
+      "The Chemical Brothers",
+      "Caesars"
+    ],
     "score": 17
   },
   {
@@ -2109,6 +2184,25 @@
     "score": 16
   },
   {
+    "artist": "Red Desert",
+    "artist_id": "0giNJusra3rJ7fNjvjbjQ9",
+    "album": "Damned by Fate",
+    "id": "1b4MF64Y2qGMC7sWGzBdnC",
+    "year": "2012",
+    "key": "0giNJusra3rJ7fNjvjbjQ9|damned by fate",
+    "source": "new",
+    "artist_weight": 13.9,
+    "hits": 9,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "The Heavy Eyes",
+      "Swan Valley Heights",
+      "The Atomic Bitchwax"
+    ],
+    "score": 16
+  },
+  {
     "artist": "The Holy",
     "artist_id": "3UzCWOTeYccowgWOPqpItb",
     "album": "Daughter",
@@ -2214,6 +2308,21 @@
     "score": 15.7
   },
   {
+    "artist": "Khan",
+    "artist_id": "58HjcrZgkKUaldPPK7BuDX",
+    "album": "Monsoons",
+    "id": "3k3Eyxf3NQ4A26q77EWO62",
+    "year": "2020",
+    "key": "58HjcrZgkKUaldPPK7BuDX|monsoons",
+    "source": "known",
+    "artist_weight": 34.8,
+    "hits": 2,
+    "new": false,
+    "known_tracks": 1,
+    "from": [],
+    "score": 15.7
+  },
+  {
     "artist": "Long Distance Calling",
     "artist_id": "3SiCxhceGZgzusCLHd4Zz6",
     "album": "Avoid the Light",
@@ -2256,25 +2365,6 @@
     "new": false,
     "known_tracks": 0,
     "from": [],
-    "score": 15.7
-  },
-  {
-    "artist": "The Spyrals",
-    "artist_id": "1jCVSnyE6YOGqiKJXVRj6q",
-    "album": "The Curse",
-    "id": "5ky77iNxXhtBCRavkUzRGq",
-    "year": "2019",
-    "key": "1jCVSnyE6YOGqiKJXVRj6q|the curse",
-    "source": "new",
-    "artist_weight": 28.6,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Night Beats",
-      "GHOSTWOMAN",
-      "New Candys"
-    ],
     "score": 15.7
   },
   {
@@ -2398,25 +2488,6 @@
     "score": 15.5
   },
   {
-    "artist": "The Confederate Dead",
-    "artist_id": "5Nu7E1g3TYTdB4LuX7qvtu",
-    "album": "Everything In Moderation?",
-    "id": "6wz8BwzxCNvSoE5KOo9t9X",
-    "year": "2016",
-    "key": "5Nu7E1g3TYTdB4LuX7qvtu|everything in moderation?",
-    "source": "new",
-    "artist_weight": 34.4,
-    "hits": 2,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Dharma Chain",
-      "GHOSTWOMAN",
-      "New Candys"
-    ],
-    "score": 15.5
-  },
-  {
     "artist": "U2",
     "artist_id": "51Blml2LZPmy7TTiAg47vQ",
     "album": "The Joshua Tree",
@@ -2432,25 +2503,6 @@
     "score": 15.5
   },
   {
-    "artist": "Jack White",
-    "artist_id": "4FZ3j1oH43e7cukCALsCwf",
-    "album": "Frozen Charlotte",
-    "id": "0VV4lddlDaShTgEzohQ7Jj",
-    "year": "2026",
-    "key": "4FZ3j1oH43e7cukCALsCwf|frozen charlotte",
-    "source": "new",
-    "artist_weight": 18.9,
-    "hits": 4,
-    "new": true,
-    "known_tracks": 0,
-    "from": [
-      "Death From Above 1979",
-      "Black Rebel Motorcycle Club",
-      "The Kills"
-    ],
-    "score": 15.4
-  },
-  {
     "artist": "Maps",
     "artist_id": "3hImYGOkGn8Rsh9Vygcds2",
     "album": "We Can Create (Deluxe Edition)",
@@ -2462,6 +2514,66 @@
     "hits": 2,
     "new": false,
     "known_tracks": 3,
+    "from": [],
+    "score": 15.4
+  },
+  {
+    "artist": "New Order",
+    "artist_id": "0yNLKJebCb8Aueb54LYya3",
+    "album": "Brotherhood",
+    "id": "2HU7w9cB9NzKgSTLXUYCKe",
+    "year": "1986",
+    "key": "0yNLKJebCb8Aueb54LYya3|brotherhood",
+    "source": "known",
+    "artist_weight": 44.1,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 1,
+    "from": [],
+    "score": 15.4
+  },
+  {
+    "artist": "New Order",
+    "artist_id": "0yNLKJebCb8Aueb54LYya3",
+    "album": "Get Ready",
+    "id": "4HFohweHxrMPrLjW2wkBdn",
+    "year": "2001",
+    "key": "0yNLKJebCb8Aueb54LYya3|get ready",
+    "source": "known",
+    "artist_weight": 44.1,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 2,
+    "from": [],
+    "score": 15.4
+  },
+  {
+    "artist": "New Order",
+    "artist_id": "0yNLKJebCb8Aueb54LYya3",
+    "album": "Power Corruption and Lies",
+    "id": "6NTrwu1XJ56jBPx7HMksbZ",
+    "year": "1983",
+    "key": "0yNLKJebCb8Aueb54LYya3|power corruption and lies",
+    "source": "known",
+    "artist_weight": 44.1,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 4,
+    "from": [],
+    "score": 15.4
+  },
+  {
+    "artist": "New Order",
+    "artist_id": "0yNLKJebCb8Aueb54LYya3",
+    "album": "Republic",
+    "id": "7mIOgbore2HTzdh2ZyS4rH",
+    "year": "1993",
+    "key": "0yNLKJebCb8Aueb54LYya3|republic",
+    "source": "known",
+    "artist_weight": 44.1,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 0,
     "from": [],
     "score": 15.4
   },
@@ -2496,23 +2608,23 @@
     "score": 15.3
   },
   {
-    "artist": "Alex Ebert",
-    "artist_id": "1me05HW5s7TShHra5nN7uE",
-    "album": "Alexander",
-    "id": "6Fx5NxsmPZ0Jnx8udOMk78",
-    "year": "2011",
-    "key": "1me05HW5s7TShHra5nN7uE|alexander",
+    "artist": "The Police",
+    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
+    "album": "Outlandos D'Amour (Remastered 2003)",
+    "id": "1H9g6j4Wwj6wh6p8YHVtkf",
+    "year": "1978",
+    "key": "5NGO30tJxFlKixkPSgXcFE|outlandos d'amour",
     "source": "new",
-    "artist_weight": 15.8,
-    "hits": 7,
+    "artist_weight": 27.8,
+    "hits": 3,
     "new": false,
     "known_tracks": 0,
     "from": [
-      "Mattiel",
-      "Daniel Norgren",
-      "Junip"
+      "Pink Floyd",
+      "The Cure",
+      "U2"
     ],
-    "score": 15.1
+    "score": 15.3
   },
   {
     "artist": "All Them Witches",
@@ -2635,6 +2747,21 @@
     "score": 15.1
   },
   {
+    "artist": "Junip",
+    "artist_id": "7HcipAIJatVGT4U6HQrnFW",
+    "album": "Fields",
+    "id": "21YP4vMDAUxDx5nTbDogX8",
+    "year": "2010",
+    "key": "7HcipAIJatVGT4U6HQrnFW|fields",
+    "source": "known",
+    "artist_weight": 20.1,
+    "hits": 5,
+    "new": false,
+    "known_tracks": 21,
+    "from": [],
+    "score": 15.1
+  },
+  {
     "artist": "Pixies",
     "artist_id": "6zvul52xwTWzilBZl6BUbT",
     "album": "Surfer Rosa (2007 Remaster)",
@@ -2695,25 +2822,6 @@
     "score": 15
   },
   {
-    "artist": "The Police",
-    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
-    "album": "Outlandos D'Amour (Remastered 2003)",
-    "id": "1H9g6j4Wwj6wh6p8YHVtkf",
-    "year": "1978",
-    "key": "5NGO30tJxFlKixkPSgXcFE|outlandos d'amour",
-    "source": "new",
-    "artist_weight": 27.2,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Cure",
-      "U2",
-      "Pink Floyd"
-    ],
-    "score": 15
-  },
-  {
     "artist": "UNKLE",
     "artist_id": "2nszamLjZFgu3Yx77mKxuC",
     "album": "Psyence Fiction",
@@ -2744,18 +2852,22 @@
     "score": 14.9
   },
   {
-    "artist": "Khan",
-    "artist_id": "58HjcrZgkKUaldPPK7BuDX",
-    "album": "Creatures",
-    "id": "28qugPX0f8bKESOgEscAPt",
-    "year": "2023",
-    "key": "58HjcrZgkKUaldPPK7BuDX|creatures",
-    "source": "known",
-    "artist_weight": 22.9,
-    "hits": 4,
+    "artist": "The Spyrals",
+    "artist_id": "1jCVSnyE6YOGqiKJXVRj6q",
+    "album": "The Curse",
+    "id": "5ky77iNxXhtBCRavkUzRGq",
+    "year": "2019",
+    "key": "1jCVSnyE6YOGqiKJXVRj6q|the curse",
+    "source": "new",
+    "artist_weight": 27,
+    "hits": 3,
     "new": false,
-    "known_tracks": 4,
-    "from": [],
+    "known_tracks": 0,
+    "from": [
+      "Night Beats",
+      "GHOSTWOMAN",
+      "New Candys"
+    ],
     "score": 14.9
   },
   {
@@ -2789,37 +2901,22 @@
     "score": 14.8
   },
   {
-    "artist": "Jamie xx",
-    "artist_id": "7A0awCXkE1FtSU8B0qwOJQ",
-    "album": "In Waves",
-    "id": "57MSBg5pBQZH5bfLVDmeuP",
-    "year": "2024",
-    "key": "7A0awCXkE1FtSU8B0qwOJQ|in waves",
+    "artist": "Trailer Trash Tracys",
+    "artist_id": "4ZKIf1mbtchoPebHfyt3Wf",
+    "album": "Ester",
+    "id": "6U9WvtT77K1NTslDqLsA9r",
+    "year": "2012",
+    "key": "4ZKIf1mbtchoPebHfyt3Wf|ester",
     "source": "new",
-    "artist_weight": 22.8,
-    "hits": 4,
+    "artist_weight": 14.1,
+    "hits": 8,
     "new": false,
     "known_tracks": 0,
     "from": [
-      "Barry Can't Swim",
-      "Kelly Lee Owens",
-      "Underworld"
+      "Maps",
+      "The Raveonettes",
+      "Porcelain Raft"
     ],
-    "score": 14.8
-  },
-  {
-    "artist": "Junip",
-    "artist_id": "7HcipAIJatVGT4U6HQrnFW",
-    "album": "Fields",
-    "id": "21YP4vMDAUxDx5nTbDogX8",
-    "year": "2010",
-    "key": "7HcipAIJatVGT4U6HQrnFW|fields",
-    "source": "known",
-    "artist_weight": 19.7,
-    "hits": 5,
-    "new": false,
-    "known_tracks": 21,
-    "from": [],
     "score": 14.8
   },
   {
@@ -2943,6 +3040,25 @@
     "score": 14.6
   },
   {
+    "artist": "The Confederate Dead",
+    "artist_id": "5Nu7E1g3TYTdB4LuX7qvtu",
+    "album": "Everything In Moderation?",
+    "id": "6wz8BwzxCNvSoE5KOo9t9X",
+    "year": "2016",
+    "key": "5Nu7E1g3TYTdB4LuX7qvtu|everything in moderation?",
+    "source": "new",
+    "artist_weight": 32.5,
+    "hits": 2,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "The Dharma Chain",
+      "GHOSTWOMAN",
+      "New Candys"
+    ],
+    "score": 14.6
+  },
+  {
     "artist": "White Lies",
     "artist_id": "6ssXMmc5EOUrauZxirM910",
     "album": "FIVE V2",
@@ -3003,6 +3119,63 @@
     "score": 14.5
   },
   {
+    "artist": "Steppenwolf",
+    "artist_id": "1WRM9i067hd2ujxxi8FI3m",
+    "album": "Steppenwolf",
+    "id": "64q58AfjSrrX9Egp7Zryw8",
+    "year": "1968",
+    "key": "1WRM9i067hd2ujxxi8FI3m|steppenwolf",
+    "source": "new",
+    "artist_weight": 19.4,
+    "hits": 5,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "ZZ Top",
+      "Led Zeppelin",
+      "Jimi Hendrix"
+    ],
+    "score": 14.5
+  },
+  {
+    "artist": "Alex Ebert",
+    "artist_id": "1me05HW5s7TShHra5nN7uE",
+    "album": "Alexander",
+    "id": "6Fx5NxsmPZ0Jnx8udOMk78",
+    "year": "2011",
+    "key": "1me05HW5s7TShHra5nN7uE|alexander",
+    "source": "new",
+    "artist_weight": 15.2,
+    "hits": 7,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Mattiel",
+      "Daniel Norgren",
+      "Junip"
+    ],
+    "score": 14.4
+  },
+  {
+    "artist": "Bad Liquor Pond",
+    "artist_id": "7imW1gilHVtMtkH6WfLGhQ",
+    "album": "Blue Smoke Orange Sky",
+    "id": "6TuJE95NTFKMulqp4rPhdi",
+    "year": "2012",
+    "key": "7imW1gilHVtMtkH6WfLGhQ|blue smoke orange sky",
+    "source": "new",
+    "artist_weight": 13.7,
+    "hits": 8,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Night Beats",
+      "Magic Shoppe",
+      "Black Market Karma"
+    ],
+    "score": 14.4
+  },
+  {
     "artist": "Golden Bug",
     "artist_id": "2i3LPFJ85TQROM0zjHYaQq",
     "album": "Happiness, Delays & Drum Machines",
@@ -3059,36 +3232,6 @@
     "hits": 3,
     "new": false,
     "known_tracks": 1,
-    "from": [],
-    "score": 14.4
-  },
-  {
-    "artist": "Pink Floyd",
-    "artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
-    "album": "The Wall",
-    "id": "5Dbax7G8SWrP9xyzkOvy2F",
-    "year": "1979",
-    "key": "0k17h0D3J5VfsdmQ1iZtE9|the wall",
-    "source": "known",
-    "artist_weight": 26.2,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 2,
-    "from": [],
-    "score": 14.4
-  },
-  {
-    "artist": "Pink Floyd",
-    "artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
-    "album": "Wish You Were Here",
-    "id": "0bCAjiUamIFqKJsekOYuRw",
-    "year": "1975",
-    "key": "0k17h0D3J5VfsdmQ1iZtE9|wish you were here",
-    "source": "known",
-    "artist_weight": 26.2,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 0,
     "from": [],
     "score": 14.4
   },
@@ -3195,25 +3338,6 @@
     "new": false,
     "known_tracks": 1,
     "from": [],
-    "score": 14.3
-  },
-  {
-    "artist": "YENISEI",
-    "artist_id": "52yQP5wDWyq7o8D7fSVObg",
-    "album": "Reflections",
-    "id": "3KaD5LFRts8cIErxsycV5k",
-    "year": "2021",
-    "key": "52yQP5wDWyq7o8D7fSVObg|reflections",
-    "source": "new",
-    "artist_weight": 16.8,
-    "hits": 6,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Tides From Nebula",
-      "Exxasens",
-      "hubris."
-    ],
     "score": 14.3
   },
   {
@@ -3547,6 +3671,25 @@
     "score": 14
   },
   {
+    "artist": "Jamie xx",
+    "artist_id": "7A0awCXkE1FtSU8B0qwOJQ",
+    "album": "In Waves",
+    "id": "57MSBg5pBQZH5bfLVDmeuP",
+    "year": "2024",
+    "key": "7A0awCXkE1FtSU8B0qwOJQ|in waves",
+    "source": "new",
+    "artist_weight": 21.6,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Barry Can't Swim",
+      "Kelly Lee Owens",
+      "Underworld"
+    ],
+    "score": 14
+  },
+  {
     "artist": "Ride",
     "artist_id": "0WPY9nnBy01s5QOt4o4oQX",
     "album": "Going Blank Again (Expanded)",
@@ -3697,6 +3840,44 @@
     "score": 13.8
   },
   {
+    "artist": "Red Hot Chili Peppers",
+    "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+    "album": "By the Way (Deluxe Edition)",
+    "id": "6deiaArbeoqp1xPEGdEKp1",
+    "year": "2002",
+    "key": "0L8ExT028jH3ddEcZwqJJ5|by the way",
+    "source": "new",
+    "artist_weight": 25,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Pink Floyd",
+      "Pixies",
+      "Kings of Leon"
+    ],
+    "score": 13.8
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+    "album": "Californication (Deluxe Edition)",
+    "id": "2Y9IRtehByVkegoD7TcLfi",
+    "year": "1999",
+    "key": "0L8ExT028jH3ddEcZwqJJ5|californication",
+    "source": "new",
+    "artist_weight": 25,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Pink Floyd",
+      "Pixies",
+      "Kings of Leon"
+    ],
+    "score": 13.8
+  },
+  {
     "artist": "Led Zeppelin",
     "artist_id": "36QJpDe2go2KgaRleHCDTp",
     "album": "Led Zeppelin IV (Deluxe Edition)",
@@ -3772,44 +3953,6 @@
     "score": 13.5
   },
   {
-    "artist": "Red Hot Chili Peppers",
-    "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
-    "album": "By the Way (Deluxe Edition)",
-    "id": "6deiaArbeoqp1xPEGdEKp1",
-    "year": "2002",
-    "key": "0L8ExT028jH3ddEcZwqJJ5|by the way",
-    "source": "new",
-    "artist_weight": 24.5,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Pixies",
-      "Kings of Leon",
-      "Pink Floyd"
-    ],
-    "score": 13.5
-  },
-  {
-    "artist": "Red Hot Chili Peppers",
-    "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
-    "album": "Californication (Deluxe Edition)",
-    "id": "2Y9IRtehByVkegoD7TcLfi",
-    "year": "1999",
-    "key": "0L8ExT028jH3ddEcZwqJJ5|californication",
-    "source": "new",
-    "artist_weight": 24.5,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Pixies",
-      "Kings of Leon",
-      "Pink Floyd"
-    ],
-    "score": 13.5
-  },
-  {
     "artist": "Still Corners",
     "artist_id": "4zKYrXs8iN4AeHmO8ZxNqp",
     "album": "Strange Pleasures: 10th Anniversary Edition (2023 Remaster)",
@@ -3840,6 +3983,25 @@
     "score": 13.5
   },
   {
+    "artist": "YENISEI",
+    "artist_id": "52yQP5wDWyq7o8D7fSVObg",
+    "album": "Reflections",
+    "id": "3KaD5LFRts8cIErxsycV5k",
+    "year": "2021",
+    "key": "52yQP5wDWyq7o8D7fSVObg|reflections",
+    "source": "new",
+    "artist_weight": 15.9,
+    "hits": 6,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Tides From Nebula",
+      "Exxasens",
+      "hubris."
+    ],
+    "score": 13.5
+  },
+  {
     "artist": "Mutiny On The Bounty",
     "artist_id": "02k39cTG2ZzfOpBT51o2sV",
     "album": "Digital Tropics",
@@ -3855,126 +4017,6 @@
     "score": 13.4
   },
   {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Come With Us",
-    "id": "56nVadPbdCs1yGB0AtXSGp",
-    "year": "2002",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|come with us",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 2,
-    "from": [],
-    "score": 13.4
-  },
-  {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Exit Planet Dust",
-    "id": "1Bmuyq89rXZJNK1w8pauEg",
-    "year": "1995",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|exit planet dust",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 13.4
-  },
-  {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "For That Beautiful Feeling",
-    "id": "5cLkbqs0qo552lJvXH1JTH",
-    "year": "2023",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|for that beautiful feeling",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 13.4
-  },
-  {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Further",
-    "id": "5AWouw8qYspux6tH4epnMm",
-    "year": "2010",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|further",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 13.4
-  },
-  {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Hanna",
-    "id": "6c9QsrjjmWTjOgS6OqrQDY",
-    "year": "2011",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|hanna",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 13.4
-  },
-  {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "Hanna (Original Motion Picture Soundtrack)",
-    "id": "4F95vjAL6EEVfVVgb3tFMn",
-    "year": "2011",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|hanna (original motion picture soundtrack)",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 13.4
-  },
-  {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "No Geography",
-    "id": "7d1KwAPdMEBqCERVsKRUox",
-    "year": "2019",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|no geography",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 13.4
-  },
-  {
-    "artist": "The Chemical Brothers",
-    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
-    "album": "We Are The Night",
-    "id": "59BUTEyxgum2KPZMwrJjVr",
-    "year": "2007",
-    "key": "1GhPHrq36VKCY3ucVaZCfo|we are the night",
-    "source": "known",
-    "artist_weight": 53.5,
-    "hits": 0,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 13.4
-  },
-  {
     "artist": "Andy Bell",
     "artist_id": "0DCLBHSfbqLoGK3ikLGPxc",
     "album": "The View from Halfway Down",
@@ -3986,21 +4028,6 @@
     "hits": 2,
     "new": false,
     "known_tracks": 8,
-    "from": [],
-    "score": 13.3
-  },
-  {
-    "artist": "Angine de Poitrine",
-    "artist_id": "13NmOYYfvONNZ9mn2qn8P2",
-    "album": "Vol.II",
-    "id": "3FqqIeynZXFBcyLS9FlWMo",
-    "year": "2026",
-    "key": "13NmOYYfvONNZ9mn2qn8P2|vol.ii",
-    "source": "known",
-    "artist_weight": 12.5,
-    "hits": 6,
-    "new": true,
-    "known_tracks": 0,
     "from": [],
     "score": 13.3
   },
@@ -4035,6 +4062,21 @@
     "score": 13.3
   },
   {
+    "artist": "Jimi Hendrix",
+    "artist_id": "776Uo845nYHJpNaStv1Ds4",
+    "album": "Are You Experienced",
+    "id": "719ELjvRzp0lHiLyAuAGj3",
+    "year": "1967",
+    "key": "776Uo845nYHJpNaStv1Ds4|are you experienced",
+    "source": "known",
+    "artist_weight": 17.7,
+    "hits": 5,
+    "new": false,
+    "known_tracks": 1,
+    "from": [],
+    "score": 13.3
+  },
+  {
     "artist": "Midlake",
     "artist_id": "4YsP5zmteLQ7etNjHAOu30",
     "album": "The Trials of Van Occupanther",
@@ -4047,6 +4089,25 @@
     "new": false,
     "known_tracks": 0,
     "from": [],
+    "score": 13.3
+  },
+  {
+    "artist": "Soundgarden",
+    "artist_id": "5xUf6j4upBrXZPg6AI4MRK",
+    "album": "Superunknown (20th Anniversary)",
+    "id": "4K8bxkPDa5HENw0TK7WxJh",
+    "year": "1994",
+    "key": "5xUf6j4upBrXZPg6AI4MRK|superunknown",
+    "source": "new",
+    "artist_weight": 17.7,
+    "hits": 5,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Black Sabbath",
+      "The Smashing Pumpkins",
+      "Metallica"
+    ],
     "score": 13.3
   },
   {
@@ -4140,6 +4201,25 @@
     "score": 13.2
   },
   {
+    "artist": "The Groovy Nobody",
+    "artist_id": "2gkBkj24zSphLjROyFG4v5",
+    "album": "Solarium",
+    "id": "42CaMS3W86VWQuECxg4hN5",
+    "year": "2023",
+    "key": "2gkBkj24zSphLjROyFG4v5|solarium",
+    "source": "new",
+    "artist_weight": 12.6,
+    "hits": 8,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "GHOSTWOMAN",
+      "Spiral Drive",
+      "Hollow Ship"
+    ],
+    "score": 13.2
+  },
+  {
     "artist": "Greenleaf",
     "artist_id": "2Mjr7nb7vY7AQwxGskDlM7",
     "album": "Hear the Rivers",
@@ -4166,6 +4246,21 @@
     "hits": 0,
     "new": true,
     "known_tracks": 0,
+    "from": [],
+    "score": 13.1
+  },
+  {
+    "artist": "Junip",
+    "artist_id": "7HcipAIJatVGT4U6HQrnFW",
+    "album": "Junip",
+    "id": "7Dsl6rKEDPnH53MqCnPfjs",
+    "year": "2013",
+    "key": "7HcipAIJatVGT4U6HQrnFW|junip",
+    "source": "known",
+    "artist_weight": 20.1,
+    "hits": 4,
+    "new": false,
+    "known_tracks": 1,
     "from": [],
     "score": 13.1
   },
@@ -4275,19 +4370,23 @@
     "score": 13
   },
   {
-    "artist": "White Lies",
-    "artist_id": "6ssXMmc5EOUrauZxirM910",
-    "album": "Night Light",
-    "id": "28XX98fScUpE4dZN0hIvAR",
-    "year": "2025",
-    "key": "6ssXMmc5EOUrauZxirM910|night light",
-    "source": "known",
-    "artist_weight": 41.6,
-    "hits": 0,
+    "artist": "Jack White",
+    "artist_id": "4FZ3j1oH43e7cukCALsCwf",
+    "album": "Frozen Charlotte",
+    "id": "0VV4lddlDaShTgEzohQ7Jj",
+    "year": "2026",
+    "key": "4FZ3j1oH43e7cukCALsCwf|frozen charlotte",
+    "source": "new",
+    "artist_weight": 15.9,
+    "hits": 4,
     "new": true,
     "known_tracks": 0,
-    "from": [],
-    "score": 13
+    "from": [
+      "Death From Above 1979",
+      "Black Rebel Motorcycle Club",
+      "The Kills"
+    ],
+    "score": 12.9
   },
   {
     "artist": "Papa M",
@@ -4350,25 +4449,6 @@
     "score": 12.9
   },
   {
-    "artist": "Steppenwolf",
-    "artist_id": "1WRM9i067hd2ujxxi8FI3m",
-    "album": "Steppenwolf",
-    "id": "64q58AfjSrrX9Egp7Zryw8",
-    "year": "1968",
-    "key": "1WRM9i067hd2ujxxi8FI3m|steppenwolf",
-    "source": "new",
-    "artist_weight": 17.2,
-    "hits": 5,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "ZZ Top",
-      "Led Zeppelin",
-      "The Rolling Stones"
-    ],
-    "score": 12.9
-  },
-  {
     "artist": "The Beach Boys",
     "artist_id": "3oDbviiivRWhXwIE8hxkVV",
     "album": "Christmas By The Beach",
@@ -4412,21 +4492,6 @@
     "known_tracks": 0,
     "from": [],
     "score": 12.9
-  },
-  {
-    "artist": "Junip",
-    "artist_id": "7HcipAIJatVGT4U6HQrnFW",
-    "album": "Junip",
-    "id": "7Dsl6rKEDPnH53MqCnPfjs",
-    "year": "2013",
-    "key": "7HcipAIJatVGT4U6HQrnFW|junip",
-    "source": "known",
-    "artist_weight": 19.7,
-    "hits": 4,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 12.8
   },
   {
     "artist": "Kanaan",
@@ -4564,6 +4629,126 @@
     "score": 12.7
   },
   {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "Come With Us",
+    "id": "56nVadPbdCs1yGB0AtXSGp",
+    "year": "2002",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|come with us",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 2,
+    "from": [],
+    "score": 12.7
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "Exit Planet Dust",
+    "id": "1Bmuyq89rXZJNK1w8pauEg",
+    "year": "1995",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|exit planet dust",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.7
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "For That Beautiful Feeling",
+    "id": "5cLkbqs0qo552lJvXH1JTH",
+    "year": "2023",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|for that beautiful feeling",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.7
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "Further",
+    "id": "5AWouw8qYspux6tH4epnMm",
+    "year": "2010",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|further",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.7
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "Hanna",
+    "id": "6c9QsrjjmWTjOgS6OqrQDY",
+    "year": "2011",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|hanna",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.7
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "Hanna (Original Motion Picture Soundtrack)",
+    "id": "4F95vjAL6EEVfVVgb3tFMn",
+    "year": "2011",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|hanna (original motion picture soundtrack)",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.7
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "No Geography",
+    "id": "7d1KwAPdMEBqCERVsKRUox",
+    "year": "2019",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|no geography",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.7
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "artist_id": "1GhPHrq36VKCY3ucVaZCfo",
+    "album": "We Are The Night",
+    "id": "59BUTEyxgum2KPZMwrJjVr",
+    "year": "2007",
+    "key": "1GhPHrq36VKCY3ucVaZCfo|we are the night",
+    "source": "known",
+    "artist_weight": 50.8,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 1,
+    "from": [],
+    "score": 12.7
+  },
+  {
     "artist": "Goat",
     "artist_id": "6jP9Z7o6WlbYvKUOeO5SbP",
     "album": "World Music",
@@ -4654,25 +4839,6 @@
     "score": 12.5
   },
   {
-    "artist": "Jamie xx",
-    "artist_id": "7A0awCXkE1FtSU8B0qwOJQ",
-    "album": "In Colour",
-    "id": "4gaNWHu5Caj3ItkYZ5i6uh",
-    "year": "2015",
-    "key": "7A0awCXkE1FtSU8B0qwOJQ|in colour",
-    "source": "new",
-    "artist_weight": 22.8,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Barry Can't Swim",
-      "Kelly Lee Owens",
-      "Underworld"
-    ],
-    "score": 12.5
-  },
-  {
     "artist": "Maserati",
     "artist_id": "4qQyS8N0BHNkGQRi8xsha8",
     "album": "Enter The Mirror",
@@ -4748,21 +4914,59 @@
     "score": 12.5
   },
   {
-    "artist": "The Lumineers",
-    "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
-    "album": "Cleopatra",
-    "id": "26HAAGfOhnc0CqqcHoaQGD",
-    "year": "2016",
-    "key": "16oZKvXb6WkQlVAjwo2Wbg|cleopatra",
+    "artist": "The Police",
+    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
+    "album": "Reggatta De Blanc (Remastered 2003)",
+    "id": "2EpuND32cO7CX0gXZl2NB6",
+    "year": "1979",
+    "key": "5NGO30tJxFlKixkPSgXcFE|reggatta de blanc",
     "source": "new",
-    "artist_weight": 16.6,
-    "hits": 5,
+    "artist_weight": 27.8,
+    "hits": 2,
     "new": false,
     "known_tracks": 0,
     "from": [
-      "Kings of Leon",
-      "Bon Iver",
-      "Florence + The Machine"
+      "Pink Floyd",
+      "The Cure",
+      "U2"
+    ],
+    "score": 12.5
+  },
+  {
+    "artist": "The Police",
+    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
+    "album": "Synchronicity (Remastered 2003)",
+    "id": "5W9OT0a5iZlBr83a9WMKFY",
+    "year": "1983",
+    "key": "5NGO30tJxFlKixkPSgXcFE|synchronicity",
+    "source": "new",
+    "artist_weight": 27.8,
+    "hits": 2,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Pink Floyd",
+      "The Cure",
+      "U2"
+    ],
+    "score": 12.5
+  },
+  {
+    "artist": "The Police",
+    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
+    "album": "Zenyatta Mondatta (Remastered 2003)",
+    "id": "23enz9nXJhH1BR1Rm5CzDJ",
+    "year": "1980",
+    "key": "5NGO30tJxFlKixkPSgXcFE|zenyatta mondatta",
+    "source": "new",
+    "artist_weight": 27.8,
+    "hits": 2,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Pink Floyd",
+      "The Cure",
+      "U2"
     ],
     "score": 12.5
   },
@@ -4902,6 +5106,81 @@
     "score": 12.4
   },
   {
+    "artist": "Spiritualized",
+    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
+    "album": "And Nothing Hurt",
+    "id": "3gkkhs3QUPxuklY5a2KEft",
+    "year": "2018",
+    "key": "6DKmuXxXASTF6xaJwcTfjv|and nothing hurt",
+    "source": "known",
+    "artist_weight": 49.4,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.4
+  },
+  {
+    "artist": "Spiritualized",
+    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
+    "album": "Everything Was Beautiful",
+    "id": "4s7idL3BJEZIpsytOCEPZK",
+    "year": "2022",
+    "key": "6DKmuXxXASTF6xaJwcTfjv|everything was beautiful",
+    "source": "known",
+    "artist_weight": 49.4,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.4
+  },
+  {
+    "artist": "Spiritualized",
+    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
+    "album": "Let It Come Down",
+    "id": "4P3KaftJ2WwL89iKIEkWai",
+    "year": "2001",
+    "key": "6DKmuXxXASTF6xaJwcTfjv|let it come down",
+    "source": "known",
+    "artist_weight": 49.4,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 5,
+    "from": [],
+    "score": 12.4
+  },
+  {
+    "artist": "Spiritualized",
+    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
+    "album": "Songs in A&E",
+    "id": "21J1IAgqu0d7y288HYpF6O",
+    "year": "2008",
+    "key": "6DKmuXxXASTF6xaJwcTfjv|songs in a&e",
+    "source": "known",
+    "artist_weight": 49.4,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.4
+  },
+  {
+    "artist": "Spiritualized",
+    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
+    "album": "Sweet Heart Sweet Light",
+    "id": "6MQRQ17HwDLjNFLBQ4PCYa",
+    "year": "2012",
+    "key": "6DKmuXxXASTF6xaJwcTfjv|sweet heart sweet light",
+    "source": "known",
+    "artist_weight": 49.4,
+    "hits": 0,
+    "new": false,
+    "known_tracks": 0,
+    "from": [],
+    "score": 12.4
+  },
+  {
     "artist": "Kelly Lee Owens",
     "artist_id": "5eitAUlYmlha3LLWg7aBn5",
     "album": "Dreamstate",
@@ -4914,25 +5193,6 @@
     "new": false,
     "known_tracks": 0,
     "from": [],
-    "score": 12.3
-  },
-  {
-    "artist": "The Drifters",
-    "artist_id": "1FqqOl9itIUpXr4jZPIVoT",
-    "album": "Under The Boardwalk Lights",
-    "id": "0WAk0vTSelmI3sBDg7Gs3h",
-    "year": "1960",
-    "key": "1FqqOl9itIUpXr4jZPIVoT|under the boardwalk lights",
-    "source": "new",
-    "artist_weight": 18.9,
-    "hits": 4,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Marvelettes",
-      "The Crystals",
-      "The Supremes"
-    ],
     "score": 12.3
   },
   {
@@ -5011,61 +5271,23 @@
     "score": 12.3
   },
   {
-    "artist": "The Police",
-    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
-    "album": "Reggatta De Blanc (Remastered 2003)",
-    "id": "2EpuND32cO7CX0gXZl2NB6",
-    "year": "1979",
-    "key": "5NGO30tJxFlKixkPSgXcFE|reggatta de blanc",
+    "artist": "Alice In Chains",
+    "artist_id": "64tNsm6TnZe2zpcMVMOoHL",
+    "album": "Dirt (2022 Remaster)",
+    "id": "58NXIEYqmq5dQHg9nV9duM",
+    "year": "1992",
+    "key": "64tNsm6TnZe2zpcMVMOoHL|dirt",
     "source": "new",
-    "artist_weight": 27.2,
-    "hits": 2,
+    "artist_weight": 18.8,
+    "hits": 4,
     "new": false,
     "known_tracks": 0,
     "from": [
-      "The Cure",
-      "U2",
-      "Pink Floyd"
+      "Black Sabbath",
+      "The Smashing Pumpkins",
+      "Metallica"
     ],
-    "score": 12.3
-  },
-  {
-    "artist": "The Police",
-    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
-    "album": "Synchronicity (Remastered 2003)",
-    "id": "5W9OT0a5iZlBr83a9WMKFY",
-    "year": "1983",
-    "key": "5NGO30tJxFlKixkPSgXcFE|synchronicity",
-    "source": "new",
-    "artist_weight": 27.2,
-    "hits": 2,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Cure",
-      "U2",
-      "Pink Floyd"
-    ],
-    "score": 12.3
-  },
-  {
-    "artist": "The Police",
-    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
-    "album": "Zenyatta Mondatta (Remastered 2003)",
-    "id": "23enz9nXJhH1BR1Rm5CzDJ",
-    "year": "1980",
-    "key": "5NGO30tJxFlKixkPSgXcFE|zenyatta mondatta",
-    "source": "new",
-    "artist_weight": 27.2,
-    "hits": 2,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Cure",
-      "U2",
-      "Pink Floyd"
-    ],
-    "score": 12.3
+    "score": 12.2
   },
   {
     "artist": "Daniel Avery",
@@ -5083,25 +5305,6 @@
     "score": 12.2
   },
   {
-    "artist": "Empire Of The Sun",
-    "artist_id": "67hb7towEyKvt5Z8Bx306c",
-    "album": "Walking On A Dream (10th Anniversary Edition)",
-    "id": "5B6XfyHHYawyLkEvNvhSPh",
-    "year": "2008",
-    "key": "67hb7towEyKvt5Z8Bx306c|walking on a dream",
-    "source": "new",
-    "artist_weight": 22.2,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Kings of Leon",
-      "Phantogram",
-      "Tame Impala"
-    ],
-    "score": 12.2
-  },
-  {
     "artist": "Hannah Peel",
     "artist_id": "3LRldYGJpCAQT5cZKQyi7o",
     "album": "Midwinter Break (Original Motion Picture Soundtrack)",
@@ -5113,6 +5316,51 @@
     "hits": 1,
     "new": true,
     "known_tracks": 0,
+    "from": [],
+    "score": 12.2
+  },
+  {
+    "artist": "Khan",
+    "artist_id": "58HjcrZgkKUaldPPK7BuDX",
+    "album": "That Fair and Warlike Form // Return to Dust",
+    "id": "76RzNXl2eOR5rWGafszjlp",
+    "year": "2025",
+    "key": "58HjcrZgkKUaldPPK7BuDX|that fair and warlike form // return to dust",
+    "source": "known",
+    "artist_weight": 34.8,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 2,
+    "from": [],
+    "score": 12.2
+  },
+  {
+    "artist": "Khan",
+    "artist_id": "58HjcrZgkKUaldPPK7BuDX",
+    "album": "Vale",
+    "id": "5MYkfve7HlfWkefcc4vkeO",
+    "year": "2018",
+    "key": "58HjcrZgkKUaldPPK7BuDX|vale",
+    "source": "known",
+    "artist_weight": 34.8,
+    "hits": 1,
+    "new": false,
+    "known_tracks": 8,
+    "from": [],
+    "score": 12.2
+  },
+  {
+    "artist": "The Brian Jonestown Massacre",
+    "artist_id": "30uiS1n3uIGXJEYFR1GVDy",
+    "album": "Revelation",
+    "id": "0kbjBNZg5JZiKfq2jHeXe1",
+    "year": "2014",
+    "key": "30uiS1n3uIGXJEYFR1GVDy|revelation",
+    "source": "known",
+    "artist_weight": 27.2,
+    "hits": 2,
+    "new": false,
+    "known_tracks": 1,
     "from": [],
     "score": 12.2
   },
@@ -5143,36 +5391,6 @@
     "hits": 2,
     "new": false,
     "known_tracks": 6,
-    "from": [],
-    "score": 12.1
-  },
-  {
-    "artist": "Spiritualized",
-    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
-    "album": "Amazing Grace",
-    "id": "2yljoYu9ES4nVXdPqp2ROc",
-    "year": "2003",
-    "key": "6DKmuXxXASTF6xaJwcTfjv|amazing grace",
-    "source": "known",
-    "artist_weight": 34.5,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 5,
-    "from": [],
-    "score": 12.1
-  },
-  {
-    "artist": "Spiritualized",
-    "artist_id": "6DKmuXxXASTF6xaJwcTfjv",
-    "album": "Lazer Guided Melodies",
-    "id": "0kfT6lwFmXyepSvoItP4sa",
-    "year": "1992",
-    "key": "6DKmuXxXASTF6xaJwcTfjv|lazer guided melodies",
-    "source": "known",
-    "artist_weight": 34.5,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 0,
     "from": [],
     "score": 12.1
   },
@@ -5357,142 +5575,6 @@
     "score": 12
   },
   {
-    "artist": "New Order",
-    "artist_id": "0yNLKJebCb8Aueb54LYya3",
-    "album": "Brotherhood",
-    "id": "2HU7w9cB9NzKgSTLXUYCKe",
-    "year": "1986",
-    "key": "0yNLKJebCb8Aueb54LYya3|brotherhood",
-    "source": "known",
-    "artist_weight": 34.4,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "New Order",
-    "artist_id": "0yNLKJebCb8Aueb54LYya3",
-    "album": "Get Ready",
-    "id": "4HFohweHxrMPrLjW2wkBdn",
-    "year": "2001",
-    "key": "0yNLKJebCb8Aueb54LYya3|get ready",
-    "source": "known",
-    "artist_weight": 34.4,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 2,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "New Order",
-    "artist_id": "0yNLKJebCb8Aueb54LYya3",
-    "album": "Power Corruption and Lies",
-    "id": "6NTrwu1XJ56jBPx7HMksbZ",
-    "year": "1983",
-    "key": "0yNLKJebCb8Aueb54LYya3|power corruption and lies",
-    "source": "known",
-    "artist_weight": 34.4,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 4,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "New Order",
-    "artist_id": "0yNLKJebCb8Aueb54LYya3",
-    "album": "Republic",
-    "id": "7mIOgbore2HTzdh2ZyS4rH",
-    "year": "1993",
-    "key": "0yNLKJebCb8Aueb54LYya3|republic",
-    "source": "known",
-    "artist_weight": 34.4,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 12
-  },
-  {
-    "artist": "Soundgarden",
-    "artist_id": "5xUf6j4upBrXZPg6AI4MRK",
-    "album": "Superunknown (20th Anniversary)",
-    "id": "4K8bxkPDa5HENw0TK7WxJh",
-    "year": "1994",
-    "key": "5xUf6j4upBrXZPg6AI4MRK|superunknown",
-    "source": "new",
-    "artist_weight": 16,
-    "hits": 5,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "Black Sabbath",
-      "The Smashing Pumpkins",
-      "Queens of the Stone Age"
-    ],
-    "score": 12
-  },
-  {
-    "artist": "The Confederate Dead",
-    "artist_id": "5Nu7E1g3TYTdB4LuX7qvtu",
-    "album": "ACETATE",
-    "id": "3zzqqy7JPQtjK9jv48dnbp",
-    "year": "2013",
-    "key": "5Nu7E1g3TYTdB4LuX7qvtu|acetate",
-    "source": "new",
-    "artist_weight": 34.4,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Dharma Chain",
-      "GHOSTWOMAN",
-      "New Candys"
-    ],
-    "score": 12
-  },
-  {
-    "artist": "The Confederate Dead",
-    "artist_id": "5Nu7E1g3TYTdB4LuX7qvtu",
-    "album": "Other Songs",
-    "id": "0ytuFHVzEND9byvOz9Mpm1",
-    "year": "2020",
-    "key": "5Nu7E1g3TYTdB4LuX7qvtu|other songs",
-    "source": "new",
-    "artist_weight": 34.4,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Dharma Chain",
-      "GHOSTWOMAN",
-      "New Candys"
-    ],
-    "score": 12
-  },
-  {
-    "artist": "The Confederate Dead",
-    "artist_id": "5Nu7E1g3TYTdB4LuX7qvtu",
-    "album": "Outside the Void",
-    "id": "2gKUAHK3ZoNE8WJFnuOW4S",
-    "year": "2023",
-    "key": "5Nu7E1g3TYTdB4LuX7qvtu|outside the void",
-    "source": "new",
-    "artist_weight": 34.4,
-    "hits": 1,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Dharma Chain",
-      "GHOSTWOMAN",
-      "New Candys"
-    ],
-    "score": 12
-  },
-  {
     "artist": "The Dandy Warhols",
     "artist_id": "7siPLyFwRFYQkKgWKJ5Sod",
     "album": "Thirteen Tales From Urban Bohemia (Deluxe Edition)",
@@ -5565,6 +5647,25 @@
     "new": false,
     "known_tracks": 1,
     "from": [],
+    "score": 11.9
+  },
+  {
+    "artist": "Jamie xx",
+    "artist_id": "7A0awCXkE1FtSU8B0qwOJQ",
+    "album": "In Colour",
+    "id": "4gaNWHu5Caj3ItkYZ5i6uh",
+    "year": "2015",
+    "key": "7A0awCXkE1FtSU8B0qwOJQ|in colour",
+    "source": "new",
+    "artist_weight": 21.6,
+    "hits": 3,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Barry Can't Swim",
+      "Kelly Lee Owens",
+      "Underworld"
+    ],
     "score": 11.9
   },
   {
@@ -5823,6 +5924,25 @@
     "score": 11.8
   },
   {
+    "artist": "The Lumineers",
+    "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+    "album": "Cleopatra",
+    "id": "26HAAGfOhnc0CqqcHoaQGD",
+    "year": "2016",
+    "key": "16oZKvXb6WkQlVAjwo2Wbg|cleopatra",
+    "source": "new",
+    "artist_weight": 15.7,
+    "hits": 5,
+    "new": false,
+    "known_tracks": 0,
+    "from": [
+      "Kings of Leon",
+      "Bon Iver",
+      "Florence + The Machine"
+    ],
+    "score": 11.8
+  },
+  {
     "artist": "Exxasens",
     "artist_id": "7935eVYpj7jQM3mRJ3kGeX",
     "album": "Le-Voyage",
@@ -5853,21 +5973,21 @@
     "score": 11.7
   },
   {
-    "artist": "Harry Styles",
-    "artist_id": "6KImCVD70vtIoJWnq6nGn3",
-    "album": "Kiss All The Time. Disco, Occasionally.",
-    "id": "69BqE1V8Bzb9GCyeP1fFeR",
-    "year": "2026",
-    "key": "6KImCVD70vtIoJWnq6nGn3|kiss all the time. disco occasionally.",
+    "artist": "Empire Of The Sun",
+    "artist_id": "67hb7towEyKvt5Z8Bx306c",
+    "album": "Walking On A Dream (10th Anniversary Edition)",
+    "id": "5B6XfyHHYawyLkEvNvhSPh",
+    "year": "2008",
+    "key": "67hb7towEyKvt5Z8Bx306c|walking on a dream",
     "source": "new",
-    "artist_weight": 16.8,
+    "artist_weight": 21,
     "hits": 3,
-    "new": true,
+    "new": false,
     "known_tracks": 0,
     "from": [
-      "Taylor Swift",
-      "Tame Impala",
-      "Robyn"
+      "Kings of Leon",
+      "Phantogram",
+      "Tame Impala"
     ],
     "score": 11.6
   },
@@ -5947,44 +6067,6 @@
     "score": 11.6
   },
   {
-    "artist": "Ocean Colour Scene",
-    "artist_id": "5vIOGcdmx1eIkq3ZtuS12U",
-    "album": "Marchin' Already",
-    "id": "18zfF3ZSd8BmiUBBkxtAVW",
-    "year": "1997",
-    "key": "5vIOGcdmx1eIkq3ZtuS12U|marchin' already",
-    "source": "new",
-    "artist_weight": 17.8,
-    "hits": 4,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Stone Roses",
-      "Primal Scream",
-      "The Jam"
-    ],
-    "score": 11.6
-  },
-  {
-    "artist": "Ocean Colour Scene",
-    "artist_id": "5vIOGcdmx1eIkq3ZtuS12U",
-    "album": "Moseley Shoals",
-    "id": "2z6VxH2NdkmxYpTygmlI0W",
-    "year": "1996",
-    "key": "5vIOGcdmx1eIkq3ZtuS12U|moseley shoals",
-    "source": "new",
-    "artist_weight": 17.8,
-    "hits": 4,
-    "new": false,
-    "known_tracks": 0,
-    "from": [
-      "The Stone Roses",
-      "Primal Scream",
-      "The Jam"
-    ],
-    "score": 11.6
-  },
-  {
     "artist": "Rival Consoles",
     "artist_id": "05lIUgmmsmTX2N9dCKc8rC",
     "album": "Odyssey / Sonne",
@@ -6030,108 +6112,22 @@
     "score": 11.6
   },
   {
-    "artist": "Earthless",
-    "artist_id": "0nsphA9KDqbJ64duYRoEBi",
-    "album": "From the Ages",
-    "id": "3H0DAHNLi9Jp6fs5YnVPv9",
-    "year": "2018",
-    "key": "0nsphA9KDqbJ64duYRoEBi|from the ages",
-    "source": "known",
-    "artist_weight": 20.9,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 0,
-    "from": [],
-    "score": 11.5
-  },
-  {
-    "artist": "Golden Bug",
-    "artist_id": "2i3LPFJ85TQROM0zjHYaQq",
-    "album": "Piscolabis II",
-    "id": "2oSolXLlRXUTvOASAHg4VD",
-    "year": "2024",
-    "key": "2i3LPFJ85TQROM0zjHYaQq|piscolabis ii",
-    "source": "known",
-    "artist_weight": 17.7,
+    "artist": "The Drifters",
+    "artist_id": "1FqqOl9itIUpXr4jZPIVoT",
+    "album": "Under The Boardwalk Lights",
+    "id": "0WAk0vTSelmI3sBDg7Gs3h",
+    "year": "1960",
+    "key": "1FqqOl9itIUpXr4jZPIVoT|under the boardwalk lights",
+    "source": "new",
+    "artist_weight": 17.9,
     "hits": 4,
     "new": false,
-    "known_tracks": 2,
-    "from": [],
-    "score": 11.5
-  },
-  {
-    "artist": "Mogwai",
-    "artist_id": "34UhPkLbtFKRq3nmfFgejG",
-    "album": "Happy Songs for Happy People",
-    "id": "1k2uLH7mwB72zbepvM8rR4",
-    "year": "2003",
-    "key": "34UhPkLbtFKRq3nmfFgejG|happy songs for happy people",
-    "source": "known",
-    "artist_weight": 20.9,
-    "hits": 3,
-    "new": false,
     "known_tracks": 0,
-    "from": [],
-    "score": 11.5
-  },
-  {
-    "artist": "My Sleeping Karma",
-    "artist_id": "4idYdwYKM9exGep2RkwHcE",
-    "album": "Moksha",
-    "id": "6LjSLauP6x6gSn5cvKuS9p",
-    "year": "2015",
-    "key": "4idYdwYKM9exGep2RkwHcE|moksha",
-    "source": "known",
-    "artist_weight": 20.9,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 1,
-    "from": [],
-    "score": 11.5
-  },
-  {
-    "artist": "My Sleeping Karma",
-    "artist_id": "4idYdwYKM9exGep2RkwHcE",
-    "album": "Soma",
-    "id": "4RjMnlYcjCxJoIDzVEZq8I",
-    "year": "2013",
-    "key": "4idYdwYKM9exGep2RkwHcE|soma",
-    "source": "known",
-    "artist_weight": 20.9,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 3,
-    "from": [],
-    "score": 11.5
-  },
-  {
-    "artist": "The War On Drugs",
-    "artist_id": "6g0mn3tzAds6aVeUYRsryU",
-    "album": "Lost In The Dream",
-    "id": "51VxHZphGLsI7aUPqIkJaz",
-    "year": "2014",
-    "key": "6g0mn3tzAds6aVeUYRsryU|lost in the dream",
-    "source": "known",
-    "artist_weight": 25.5,
-    "hits": 2,
-    "new": false,
-    "known_tracks": 3,
-    "from": [],
-    "score": 11.5
-  },
-  {
-    "artist": "Daniel Norgren",
-    "artist_id": "6swk8GFDoEZ1cFDX70xyuO",
-    "album": "Alabursy",
-    "id": "0hkMK6ReaSNmmMvFhxIiR9",
-    "year": "2015",
-    "key": "6swk8GFDoEZ1cFDX70xyuO|alabursy",
-    "source": "known",
-    "artist_weight": 20.8,
-    "hits": 3,
-    "new": false,
-    "known_tracks": 3,
-    "from": [],
-    "score": 11.4
+    "from": [
+      "The Marvelettes",
+      "The Crystals",
+      "The Supremes"
+    ],
+    "score": 11.6
   }
 ]

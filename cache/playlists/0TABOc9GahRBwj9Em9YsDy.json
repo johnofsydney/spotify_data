@@ -5,7 +5,7 @@
     "name": "BO All Music",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAE00t/46AdL14TvLzNdBIW77elmSG"
+    "snapshot_id": "AAAAFL0pvnplqFTjVgtjsEnrapH7RFRc"
   },
   "tracks": [
     {
@@ -525,6 +525,34 @@
       "duration": {
         "secs": 654,
         "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7MhCZaLXU5jrrRBkmkNyWA",
+      "name": "Lay Back in the Sun",
+      "artists": [
+        {
+          "id": "6DKmuXxXASTF6xaJwcTfjv",
+          "name": "Spiritualized"
+        }
+      ],
+      "album": {
+        "id": "1J5p5XuDMtA49FRmp7UK1a",
+        "release_date": "1995-03-28",
+        "name": "Pure Phase",
+        "artists": [
+          {
+            "id": "6DKmuXxXASTF6xaJwcTfjv",
+            "name": "Spiritualized"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 309,
+        "nanos": 106000000
       },
       "explicit": false
     }
