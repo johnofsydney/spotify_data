@@ -6,7 +6,22 @@ cd "$root"
 
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 
+notify() {
+  osascript -e "display notification \"$1\" with title \"Spotify refresh\"" >/dev/null 2>&1 || true
+}
+
+report_result() {
+  local status=$?
+  if [ "$status" -eq 0 ]; then
+    notify "Finished OK"
+  else
+    notify "Failed (exit $status) - see .refresh.log"
+  fi
+}
+trap report_result EXIT
+
 echo "=== refresh $(date '+%F %T') ==="
+notify "Starting..."
 
 ./bin/followed_artists.sh
 ./bin/liked_tracks_artists.sh
