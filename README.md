@@ -82,10 +82,14 @@ except `.env`.
    ```
 
 7. **Turn off the old laptop's schedule**, or both machines will push on
-   Mondays and the second push will fail on the first one's commit:
+   Mondays and the second push will fail on the first one's commit. Delete the
+   plist rather than unloading it — launchd bootstraps everything in
+   `~/Library/LaunchAgents` at login, so an unloaded agent comes back on the
+   next restart:
 
    ```sh
-   launchctl unload ~/Library/LaunchAgents/com.*.spotify-refresh.plist
+   launchctl bootout gui/$(id -u)/com.$(id -un | tr -cd '[:alnum:]').spotify-refresh
+   rm ~/Library/LaunchAgents/com.*.spotify-refresh.plist
    ```
 
 Whether this should run on a server instead is weighed up in
@@ -138,7 +142,7 @@ a run of readings can.
 That writes a launchd agent to `~/Library/LaunchAgents/`, pointing at wherever
 this repository is checked out, and loads it. Mondays at 11:00, logging to
 `.refresh.log`. Check it with `launchctl list | grep spotify-refresh`, force a
-run with `launchctl start <label>`, and remove it with `launchctl unload`.
+run with `launchctl start <label>`, and remove it by deleting the plist.
 
 **launchd rather than cron, because this is a laptop.** If the machine is
 asleep at the scheduled time, launchd runs the job when it wakes. If it is shut
