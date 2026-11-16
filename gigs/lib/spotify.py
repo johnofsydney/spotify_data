@@ -3,6 +3,9 @@
 The CLI's client id is shared by everyone who uses it, so bursts get 429s.
 Calls are spaced by SPOTIFY_PACE seconds and a 429 is retried after 5, 10, 20…
 seconds, up to SPOTIFY_RETRIES times. Any other failure raises.
+
+A call is capped at 60s: a TCP connection left open across system sleep gets
+no response and otherwise hangs forever, blocking the next scheduled run.
 """
 
 import json
@@ -22,7 +25,10 @@ def call(*args):
     wait = 5
     for attempt in range(retries + 1):
         time.sleep(pace)
-        p = subprocess.run(["spotify_player", *args], capture_output=True, text=True)
+        try:
+            p = subprocess.run(["spotify_player", *args], capture_output=True, text=True, timeout=60)
+        except subprocess.TimeoutExpired:
+            raise SpotifyError(f"spotify_player {' '.join(args)}: timed out after 60s")
         if p.returncode == 0:
             return json.loads(p.stdout) if p.stdout.strip() else None
         if "429" in p.stderr and attempt < retries:

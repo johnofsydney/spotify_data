@@ -9,6 +9,9 @@
 #   SPOTIFY_PACE     seconds between calls (default 0.5)
 #   SPOTIFY_RETRIES  attempts after a 429 before giving up (default 6: waits of
 #                    5, 10, 20, 40, 80 and 160 seconds, about five minutes)
+#
+# A call is capped at 60s: a TCP connection left open across system sleep gets
+# no response and otherwise hangs forever, blocking the next scheduled run.
 
 sp() {
   local attempt=0 wait=5 err out status
@@ -17,7 +20,7 @@ sp() {
   while :; do
     sleep "${SPOTIFY_PACE:-0.5}"
     status=0
-    out=$(spotify_player "$@" 2> "$err") || status=$?
+    out=$(timeout 60 spotify_player "$@" 2> "$err") || status=$?
     if [ "$status" -eq 0 ]; then
       rm -f "$err"
       printf '%s' "$out"

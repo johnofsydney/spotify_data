@@ -21,7 +21,7 @@ mkdir -p "$cache"
 
 # Spotify mints one of these per account per year, so they are found by name rather
 # than by stored id: a year saved later appears on its own, and no personal id is kept.
-wraps=$(spotify_player get key user-playlists |
+wraps=$(timeout 60 spotify_player get key user-playlists |
   jq '[.[] | select(.owner[1] == "spotify")
            | (.name | capture("^Your Top Songs (?<y>[0-9]{4})$") | .y) as $y
            | {year: $y, id, snapshot_id}]
@@ -39,7 +39,7 @@ while IFS=$'\t' read -r year id snapshot; do
     continue
   fi
   # Stage then move: an interrupted fetch must not leave a file that later passes the snapshot check.
-  spotify_player get item -i "$id" playlist |
+  timeout 60 spotify_player get item -i "$id" playlist |
     jq --argjson y "$year" '. + {year: $y} | del(.playlist.owner, .playlist.owner_id)' > "$file.tmp"
   mv "$file.tmp" "$file"
   fetched=$((fetched + 1))

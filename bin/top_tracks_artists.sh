@@ -3,7 +3,7 @@ set -euo pipefail
 
 out="$(dirname "$0")/../top_tracks_artists_$(date +%F).md"
 
-spotify_player get key user-top-tracks | jq -r '
+timeout 60 spotify_player get key user-top-tracks | jq -r '
   to_entries
   | map(.key as $i | .value.artists[] | {name, i:$i})
   | group_by(.name)

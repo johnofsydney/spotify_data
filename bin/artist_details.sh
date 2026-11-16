@@ -14,8 +14,8 @@ mkdir -p "$cache"
 # artist. Playlists are the bulk of them; followed artists and top tracks cover the
 # ones I follow or play but have never filed in a playlist.
 # spotify_player allows one instance at a time, so these run in sequence.
-followed_ids=$(spotify_player get key user-followed-artists | jq '[.[] | {name, id}]')
-top_ids=$(spotify_player get key user-top-tracks | jq '[.[].artists[] | {name, id}]')
+followed_ids=$(timeout 60 spotify_player get key user-followed-artists | jq '[.[] | {name, id}]')
+top_ids=$(timeout 60 spotify_player get key user-top-tracks | jq '[.[].artists[] | {name, id}]')
 
 alltime_ids=$([ -f "$root/cache/special/alltime.json" ] &&
   jq '[.tracks[].artists[] | {name, id}]' "$root/cache/special/alltime.json" || echo '[]')
@@ -40,7 +40,7 @@ while read -r name; do
     reused=$((reused + 1))
     continue
   fi
-  spotify_player get item -i "$id" artist > "$file.tmp"
+  timeout 60 spotify_player get item -i "$id" artist > "$file.tmp"
   mv "$file.tmp" "$file"
   fetched=$((fetched + 1))
 done < <(tail -n +3 "$ranked" | head -n "$limit" | sed 's/^ *[0-9]* *[0-9.]*  //; s/ \{2,\}[0-9].*$//')

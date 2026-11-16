@@ -19,7 +19,7 @@ file="$cache/alltime.json"
 # Spotify owns and regenerates this playlist, so it is fetched every run rather
 # than cached against a snapshot: the snapshot changing is the thing we watch.
 previous=$(jq -r '.playlist.snapshot_id // ""' "$file" 2>/dev/null || echo "")
-spotify_player get item -i "$ALLTIME_PLAYLIST_ID" playlist |
+timeout 60 spotify_player get item -i "$ALLTIME_PLAYLIST_ID" playlist |
   jq 'del(.playlist.owner, .playlist.owner_id)' > "$file.tmp"
 mv "$file.tmp" "$file"
 current=$(jq -r '.playlist.snapshot_id' "$file")

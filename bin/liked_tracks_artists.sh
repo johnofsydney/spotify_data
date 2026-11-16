@@ -3,7 +3,7 @@ set -euo pipefail
 
 out="$(dirname "$0")/../liked_tracks_artists.md"
 
-spotify_player get key user-liked-tracks | jq -r '
+timeout 60 spotify_player get key user-liked-tracks | jq -r '
   to_entries
   | map(.key as $i | .value.artists[] | {name, i:$i})
   | group_by(.name)

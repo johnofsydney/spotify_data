@@ -23,7 +23,7 @@ fi
 
 mkdir -p "$cache"
 
-mine=$(spotify_player get key user-playlists |
+mine=$(timeout 60 spotify_player get key user-playlists |
   jq --arg me "$SPOTIFY_USER_ID" --argjson gen "$generated" \
     '[.[] | select(.owner[1] == $me and (.name as $n | $gen | index($n) | not)) | {id, snapshot_id}]')
 ids=$(jq -r '.[].id' <<< "$mine" | sort)
@@ -38,7 +38,7 @@ while IFS=$'\t' read -r id snapshot; do
     continue
   fi
   # Stage then move: an interrupted fetch must not leave a file that later passes the snapshot check.
-  spotify_player get item -i "$id" playlist |
+  timeout 60 spotify_player get item -i "$id" playlist |
     jq 'del(.playlist.owner, .playlist.owner_id)' > "$file.tmp"
   mv "$file.tmp" "$file"
   fetched=$((fetched + 1))
