@@ -42,15 +42,14 @@ sp() {
 
 # sync_playlist NAME DESCRIPTION PUBLIC(0|1) < track ids, one per line, in order
 #
-# Makes my playlist called NAME hold exactly those tracks, creating it if
-# missing. Found by name among my own playlists, so no id is stored. Needs
-# SPOTIFY_USER_ID.
+# Makes my playlist called NAME hold exactly those tracks in that order,
+# creating it if missing. Found by name among my own playlists, so no id is
+# stored. Needs SPOTIFY_USER_ID.
 #
-# The CLI adds or removes one track per call, and an add always appends, so
-# the playlist is updated rather than rebuilt: tracks no longer wanted are
-# removed, new ones are added at the end, and the rest stay put. A weekly
-# change is a few dozen calls instead of a few hundred. The cost is order: a
-# fresh playlist is in ranked order, and after that newcomers join at the end.
+# Every existing track is removed and the desired list added back in order,
+# so the playlist always matches this week's ranking exactly rather than
+# drifting (the CLI's add always appends, so a kept-but-reordered track must
+# still be dropped and re-added to land in its new spot).
 # SPOTIFY_PROGRESS_EVERY (default 25) sets how often progress is printed.
 sync_playlist() {
   local name="$1" description="$2" public="${3:-0}"
@@ -80,17 +79,9 @@ sync_playlist() {
     echo "playlist: created '$name' ($pid)"
   fi
 
-  current=$(sp get item -i "$pid" playlist | jq -r '.tracks[].id')
-  # Set differences, keeping the desired order for what is added.
-  # (An empty pattern list would match everything, so an empty playlist is
-  # handled on its own.)
-  if [ -z "$current" ]; then
-    drop=""
-    add="$desired"
-  else
-    drop=$(grep -vxF -f <(printf '%s\n' "$desired") <<< "$current" | sort -u || true)
-    add=$(grep -vxF -f <(printf '%s\n' "$current") <<< "$desired" || true)
-  fi
+  current=$(sp get item -i "$pid" playlist | jq -r '.tracks[].id' | sort -u)
+  drop="$current"
+  add="$desired"
   n_drop=$(grep -c . <<< "$drop" || true)
   n_add=$(grep -c . <<< "$add" || true)
   if [ "$n_drop" -eq 0 ] && [ "$n_add" -eq 0 ]; then
