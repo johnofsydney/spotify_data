@@ -1,0 +1,852 @@
+{
+  "playlist": {
+    "id": "471zTp8Su47lcjJCuIiVvv",
+    "collaborative": false,
+    "name": "90s & 00s Rock Anthems",
+    "desc": "",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAA1A5iMu7E1rY9XpAgHG+yh8+AWXV"
+  },
+  "tracks": [
+    {
+      "id": "2pxxVkNhrRST8fpgA12ru8",
+      "name": "My Happiness",
+      "artists": [
+        {
+          "id": "6LBCQo20ri3tsvbsWWLmr6",
+          "name": "Powderfinger"
+        }
+      ],
+      "album": {
+        "id": "1fgfp2op6DHKCrtWiMFiws",
+        "release_date": "2000-01-01",
+        "name": "Odyssey Number Five",
+        "artists": [
+          {
+            "id": "6LBCQo20ri3tsvbsWWLmr6",
+            "name": "Powderfinger"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 276,
+        "nanos": 626000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1B7tV3WzEnDUS7wXSKDXk3",
+      "name": "Gravity",
+      "artists": [
+        {
+          "id": "7o9kdTx6RmO12iAVVsNehd",
+          "name": "The Superjesus"
+        }
+      ],
+      "album": {
+        "id": "6nspDUDiUWuGGL4M5g62Xp",
+        "release_date": "2000",
+        "name": "Jet Age",
+        "artists": [
+          {
+            "id": "7o9kdTx6RmO12iAVVsNehd",
+            "name": "The Superjesus"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 239,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6F0aZM4vU2b0uTm4Ry5Cp5",
+      "name": "Monsters",
+      "artists": [
+        {
+          "id": "47yawJswuSfSvizYhItoOP",
+          "name": "Something For Kate"
+        }
+      ],
+      "album": {
+        "id": "28GvCEmdROOhpgVYwODp3y",
+        "release_date": "2001-06-22",
+        "name": "Echolalia",
+        "artists": [
+          {
+            "id": "47yawJswuSfSvizYhItoOP",
+            "name": "Something For Kate"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 219,
+        "nanos": 184000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0nnFZZmNfXb6g8aqwDtUs1",
+      "name": "Stupid Girl",
+      "artists": [
+        {
+          "id": "6S0GHTqz5sxK5f9HtLXn9q",
+          "name": "Garbage"
+        }
+      ],
+      "album": {
+        "id": "10jRn8PglkSsgeOpbE3B0r",
+        "release_date": "1995",
+        "name": "Garbage 20th Anniversary Standard Edition (Remastered)",
+        "artists": [
+          {
+            "id": "6S0GHTqz5sxK5f9HtLXn9q",
+            "name": "Garbage"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 258,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "54umumCARJSNgDsenO1GGq",
+      "name": "Prisoner of Society",
+      "artists": [
+        {
+          "id": "3ExT45ORJ8pT516HRZbr7G",
+          "name": "The Living End"
+        }
+      ],
+      "album": {
+        "id": "0byNNuWgGflLu5rObgxfXO",
+        "release_date": "1998-10-12",
+        "name": "The Living End",
+        "artists": [
+          {
+            "id": "3ExT45ORJ8pT516HRZbr7G",
+            "name": "The Living End"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 231,
+        "nanos": 546000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5ScGaVnhdNugKAe12sgBbE",
+      "name": "Chemical Heart",
+      "artists": [
+        {
+          "id": "04qi4CymYf3E50Mt2na4QS",
+          "name": "Grinspoon"
+        }
+      ],
+      "album": {
+        "id": "4yWWn7gZzmPzxhoeCT0UUS",
+        "release_date": "2002-01-01",
+        "name": "Chemical Heart",
+        "artists": [
+          {
+            "id": "04qi4CymYf3E50Mt2na4QS",
+            "name": "Grinspoon"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 280,
+        "nanos": 106000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "75POD9WZXaGavNVyR0LHt4",
+      "name": "These Days",
+      "artists": [
+        {
+          "id": "6LBCQo20ri3tsvbsWWLmr6",
+          "name": "Powderfinger"
+        }
+      ],
+      "album": {
+        "id": "1fgfp2op6DHKCrtWiMFiws",
+        "release_date": "2000-01-01",
+        "name": "Odyssey Number Five",
+        "artists": [
+          {
+            "id": "6LBCQo20ri3tsvbsWWLmr6",
+            "name": "Powderfinger"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 298,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3rnU9CkxjXJ1uCCnb3t56l",
+      "name": "Ana's Song (Open Fire)",
+      "artists": [
+        {
+          "id": "4iudEcmuPlYNdbP3e1bdn1",
+          "name": "Silverchair"
+        }
+      ],
+      "album": {
+        "id": "28yAJqJJ0iz1oRqwOD0F20",
+        "release_date": "1999",
+        "name": "Neon Ballroom",
+        "artists": [
+          {
+            "id": "4iudEcmuPlYNdbP3e1bdn1",
+            "name": "Silverchair"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3OtIgLTHpPYez3WmDN2iYZ",
+      "name": "Leaving Home",
+      "artists": [
+        {
+          "id": "6L9bfTvOEA9BOJEIBhU4ln",
+          "name": "Jebediah"
+        }
+      ],
+      "album": {
+        "id": "7LZLRjjAvM2xXdYbVHoPh3",
+        "release_date": "1997-11-15",
+        "name": "Slightly Odway",
+        "artists": [
+          {
+            "id": "6L9bfTvOEA9BOJEIBhU4ln",
+            "name": "Jebediah"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 181,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5BTdUnDGqtP71jvZrcQJEH",
+      "name": "Polyester Girl",
+      "artists": [
+        {
+          "id": "6n3YUZcayLRuAunJUUelvz",
+          "name": "Regurgitator"
+        }
+      ],
+      "album": {
+        "id": "1M9n4vCmOH4lbcHrpt21Qy",
+        "release_date": "1997",
+        "name": "Unit",
+        "artists": [
+          {
+            "id": "6n3YUZcayLRuAunJUUelvz",
+            "name": "Regurgitator"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 210,
+        "nanos": 840000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "6Lsj7lUt1kcKtVWE02BxBK",
+      "name": "No Aphrodisiac",
+      "artists": [
+        {
+          "id": "2fczAptz6g62e12F9LxYI6",
+          "name": "The Whitlams"
+        }
+      ],
+      "album": {
+        "id": "6AbtsiGDynixrlztUH2bpk",
+        "release_date": "1997-09-10",
+        "name": "Eternal Nightcap",
+        "artists": [
+          {
+            "id": "2fczAptz6g62e12F9LxYI6",
+            "name": "The Whitlams"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 259,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5OQsiBsky2k2kDKy2bX2eT",
+      "name": "Learn to Fly",
+      "artists": [
+        {
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters"
+        }
+      ],
+      "album": {
+        "id": "28q2N44ocJECgf8sbHEDfY",
+        "release_date": "1999-11-02",
+        "name": "There Is Nothing Left To Lose",
+        "artists": [
+          {
+            "id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "name": "Foo Fighters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 235,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3ZKPEcdTWerkPNsCB3oi5z",
+      "name": "Passenger",
+      "artists": [
+        {
+          "id": "6LBCQo20ri3tsvbsWWLmr6",
+          "name": "Powderfinger"
+        }
+      ],
+      "album": {
+        "id": "27QqOCHuqkVqGPqxFU1Bhj",
+        "release_date": "1998",
+        "name": "Internationalist (Deluxe)",
+        "artists": [
+          {
+            "id": "6LBCQo20ri3tsvbsWWLmr6",
+            "name": "Powderfinger"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 261,
+        "nanos": 149000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4U5pHHkjDW6smXnnEt7Umx",
+      "name": "Mascara",
+      "artists": [
+        {
+          "id": "6eQ3AHw7yEVoX87xDS1ZiP",
+          "name": "Killing Heidi"
+        }
+      ],
+      "album": {
+        "id": "7kHaKkhOcpb7gB90BLJNip",
+        "release_date": "2000-03-12",
+        "name": "Reflector",
+        "artists": [
+          {
+            "id": "6eQ3AHw7yEVoX87xDS1ZiP",
+            "name": "Killing Heidi"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 290,
+        "nanos": 960000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "6qWG7dpOSs5dfgJ7d35am5",
+      "name": "Calypso",
+      "artists": [
+        {
+          "id": "6P7kkhED6EPrfoZuxz20Fo",
+          "name": "Spiderbait"
+        }
+      ],
+      "album": {
+        "id": "39vgclyyab7l2WMMUTmdmC",
+        "release_date": "1996",
+        "name": "Ivy & The Big Apples",
+        "artists": [
+          {
+            "id": "6P7kkhED6EPrfoZuxz20Fo",
+            "name": "Spiderbait"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 111,
+        "nanos": 293000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "48iWbsOaBUAGzMdoSmqyg1",
+      "name": "Lightning Crashes",
+      "artists": [
+        {
+          "id": "6eoJpTIlcuxJNjV5fDzDJH",
+          "name": "Live"
+        }
+      ],
+      "album": {
+        "id": "4ZsG3ifn9sIcrFT1ecw0gF",
+        "release_date": "1994-01-01",
+        "name": "Throwing Copper",
+        "artists": [
+          {
+            "id": "6eoJpTIlcuxJNjV5fDzDJH",
+            "name": "Live"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 325,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4cKGldbhGJniI8BrB3K6tb",
+      "name": "Everything You Want",
+      "artists": [
+        {
+          "id": "6Hizgjo92FnMp8wGaRUNTn",
+          "name": "Vertical Horizon"
+        }
+      ],
+      "album": {
+        "id": "2gJ6axVHAsQmmO6nslQRN1",
+        "release_date": "1999-06-14",
+        "name": "Everything You Want",
+        "artists": [
+          {
+            "id": "6Hizgjo92FnMp8wGaRUNTn",
+            "name": "Vertical Horizon"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 257,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "67vYdAAM3oGsEImCRfbtsF",
+      "name": "Times Like These",
+      "artists": [
+        {
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters"
+        }
+      ],
+      "album": {
+        "id": "1zQ6F8gMagKcPL4SoA80cx",
+        "release_date": "2002-10-22",
+        "name": "One By One (Expanded Edition)",
+        "artists": [
+          {
+            "id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "name": "Foo Fighters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 265,
+        "nanos": 560000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1dXFZeIjgDJ8sAc1csFNY2",
+      "name": "Sunsets",
+      "artists": [
+        {
+          "id": "6LBCQo20ri3tsvbsWWLmr6",
+          "name": "Powderfinger"
+        }
+      ],
+      "album": {
+        "id": "11lnp34TFhwc0274mF7YaZ",
+        "release_date": "2003-01-01",
+        "name": "Vulture Street",
+        "artists": [
+          {
+            "id": "6LBCQo20ri3tsvbsWWLmr6",
+            "name": "Powderfinger"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 229,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "37EJtTS7jT5WUyXGZzrwnI",
+      "name": "Santa Monica",
+      "artists": [
+        {
+          "id": "694QW15WkebjcrWgQHzRYF",
+          "name": "Everclear"
+        }
+      ],
+      "album": {
+        "id": "27qNa5ef0TpYV17dBY01U0",
+        "release_date": "1995-05-11",
+        "name": "Sparkle And Fade",
+        "artists": [
+          {
+            "id": "694QW15WkebjcrWgQHzRYF",
+            "name": "Everclear"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 506000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Qyc6fS4DsZjB2mRW9DsQs",
+      "name": "Iris",
+      "artists": [
+        {
+          "id": "2sil8z5kiy4r76CRTXxBCA",
+          "name": "The Goo Goo Dolls"
+        }
+      ],
+      "album": {
+        "id": "4UMjBXcRqIgMZ1XumU2x5T",
+        "release_date": "1998",
+        "name": "Dizzy up the Girl",
+        "artists": [
+          {
+            "id": "2sil8z5kiy4r76CRTXxBCA",
+            "name": "The Goo Goo Dolls"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 289,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5vYA1mW9g2Coh1HUFUSmlb",
+      "name": "3AM",
+      "artists": [
+        {
+          "id": "3Ngh2zDBRPEriyxQDAMKd1",
+          "name": "Matchbox Twenty"
+        }
+      ],
+      "album": {
+        "id": "4vUXTcKz7tXxrNl84meN6i",
+        "release_date": "1996-10-01",
+        "name": "Yourself or Someone Like You",
+        "artists": [
+          {
+            "id": "3Ngh2zDBRPEriyxQDAMKd1",
+            "name": "Matchbox Twenty"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 225,
+        "nanos": 946000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1A5V1sxyCLpKJezp75tUXn",
+      "name": "Closing Time",
+      "artists": [
+        {
+          "id": "1TqQi97nqeiuOJrIFv5Sw0",
+          "name": "Semisonic"
+        }
+      ],
+      "album": {
+        "id": "4JDBx5wQ82jb8PjLYPBP8L",
+        "release_date": "2003-01-01",
+        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+        "artists": [
+          {
+            "id": "1TqQi97nqeiuOJrIFv5Sw0",
+            "name": "Semisonic"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 274,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5UWwZ5lm5PKu6eKsHAGxOk",
+      "name": "Everlong",
+      "artists": [
+        {
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters"
+        }
+      ],
+      "album": {
+        "id": "30ly6F6Xl0TKmyBCU50Khv",
+        "release_date": "1997-05-20",
+        "name": "The Colour And The Shape",
+        "artists": [
+          {
+            "id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "name": "Foo Fighters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 250,
+        "nanos": 546000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4n9XCuxqrk8l0pu2N9KxwA",
+      "name": "Odyssey # 5",
+      "artists": [
+        {
+          "id": "6LBCQo20ri3tsvbsWWLmr6",
+          "name": "Powderfinger"
+        }
+      ],
+      "album": {
+        "id": "1fgfp2op6DHKCrtWiMFiws",
+        "release_date": "2000-01-01",
+        "name": "Odyssey Number Five",
+        "artists": [
+          {
+            "id": "6LBCQo20ri3tsvbsWWLmr6",
+            "name": "Powderfinger"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 104,
+        "nanos": 493000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "57iDDD9N9tTWe75x6qhStw",
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "artists": [
+        {
+          "id": "2cGwlqi3k18jFpUyTrsR84",
+          "name": "The Verve"
+        }
+      ],
+      "album": {
+        "id": "52AeC4gwbxDfFlLHgK1ByD",
+        "release_date": "1997-09-29",
+        "name": "Urban Hymns (Remastered 2016)",
+        "artists": [
+          {
+            "id": "2cGwlqi3k18jFpUyTrsR84",
+            "name": "The Verve"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 357,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "42et6fnHCw1HIPSrdPprMl",
+      "name": "Semi-Charmed Life",
+      "artists": [
+        {
+          "id": "6TcnmlCSxihzWOQJ8k0rNS",
+          "name": "Third Eye Blind"
+        }
+      ],
+      "album": {
+        "id": "2gToC0XAblE9h3UZD6aAaQ",
+        "release_date": "1997-04-08",
+        "name": "Third Eye Blind",
+        "artists": [
+          {
+            "id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "name": "Third Eye Blind"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 268,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6JWddKPdqvDc2WkPEi9grC",
+      "name": "Have A Nice Day",
+      "artists": [
+        {
+          "id": "21UJ7PRWb3Etgsu99f8yo8",
+          "name": "Stereophonics"
+        }
+      ],
+      "album": {
+        "id": "51I2N3YcrmqOJfzywty3l4",
+        "release_date": "2001-01-01",
+        "name": "Just Enough Education To Perform",
+        "artists": [
+          {
+            "id": "21UJ7PRWb3Etgsu99f8yo8",
+            "name": "Stereophonics"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 205,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5FZxsHWIvUsmSK1IAvm2pp",
+      "name": "Best of You",
+      "artists": [
+        {
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters"
+        }
+      ],
+      "album": {
+        "id": "2eprpJCYbCbPZRKVGIEJxZ",
+        "release_date": "2005-06-14",
+        "name": "In Your Honor",
+        "artists": [
+          {
+            "id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "name": "Foo Fighters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 255,
+        "nanos": 261000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4dVbhS6OiYvFikshyaQaCN",
+      "name": "My Hero",
+      "artists": [
+        {
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters"
+        }
+      ],
+      "album": {
+        "id": "30ly6F6Xl0TKmyBCU50Khv",
+        "release_date": "1997-05-20",
+        "name": "The Colour And The Shape",
+        "artists": [
+          {
+            "id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "name": "Foo Fighters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 260,
+        "nanos": 26000000
+      },
+      "explicit": false
+    }
+  ]
+}

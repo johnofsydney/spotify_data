@@ -112,6 +112,7 @@ Papa M
 Papir
 Paul van Dyk
 Paul van Dyk’s VONYC Sessions
+Perry Farrell
 pHader
 Pink Floyd
 Pixies

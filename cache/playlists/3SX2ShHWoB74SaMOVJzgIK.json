@@ -1,0 +1,2756 @@
+{
+  "playlist": {
+    "id": "3SX2ShHWoB74SaMOVJzgIK",
+    "collaborative": false,
+    "name": "Wedding Sampler",
+    "desc": "Seeded by spotify_data from wedding_sampler.txt; add to it freely.",
+    "current_folder_id": 0,
+    "snapshot_id": "AAAAcvphOvpRSCAeqgU5Vkb9pamuVK6w"
+  },
+  "tracks": [
+    {
+      "id": "35KiiILklye1JRRctaLUb4",
+      "name": "Holocene",
+      "artists": [
+        {
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver"
+        }
+      ],
+      "album": {
+        "id": "2LpfNj3vB5rOXfaawLcOBg",
+        "release_date": "2011-06-21",
+        "name": "Bon Iver, Bon Iver",
+        "artists": [
+          {
+            "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+            "name": "Bon Iver"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 336,
+        "nanos": 613000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "6dGnYIeXmHdcikdzNNDMm2",
+      "name": "Here Comes The Sun - Remastered 2009",
+      "artists": [
+        {
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles"
+        }
+      ],
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "release_date": "1969-09-26",
+        "name": "Abbey Road (Remastered 2009)",
+        "artists": [
+          {
+            "id": "3WrFJ7ztbogyGnTHbHJFl2",
+            "name": "The Beatles"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 185,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "29U7stRjqHU6rMiS8BfaI9",
+      "name": "What A Wonderful World",
+      "artists": [
+        {
+          "id": "19eLuQmk9aCobbVDHc6eek",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "album": {
+        "id": "6mmv0gwumlFGWDGJXF4yEv",
+        "release_date": "1968-01-01",
+        "name": "What A Wonderful World",
+        "artists": [
+          {
+            "id": "19eLuQmk9aCobbVDHc6eek",
+            "name": "Louis Armstrong"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 139,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4QxDOjgpYtQDxxbWPuEJOy",
+      "name": "L-O-V-E",
+      "artists": [
+        {
+          "id": "7v4imS0moSyGdXyLgVTIV7",
+          "name": "Nat King Cole"
+        }
+      ],
+      "album": {
+        "id": "3mGmn1JDde3XyKQqZTJUAL",
+        "release_date": "1965-01-11",
+        "name": "L-O-V-E",
+        "artists": [
+          {
+            "id": "7v4imS0moSyGdXyLgVTIV7",
+            "name": "Nat King Cole"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 155,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "33jt3kYWjQzqn3xyYQ5ZEh",
+      "name": "Cheek To Cheek",
+      "artists": [
+        {
+          "id": "5V0MlUE1Bft0mbLlND7FJz",
+          "name": "Ella Fitzgerald"
+        },
+        {
+          "id": "19eLuQmk9aCobbVDHc6eek",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "album": {
+        "id": "2uqlkJu6vckJahCsp6Hfcn",
+        "release_date": "1997-05-20",
+        "name": "The Complete Ella And Louis On Verve",
+        "artists": [
+          {
+            "id": "5V0MlUE1Bft0mbLlND7FJz",
+            "name": "Ella Fitzgerald"
+          },
+          {
+            "id": "19eLuQmk9aCobbVDHc6eek",
+            "name": "Louis Armstrong"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 354,
+        "nanos": 533000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0elmUoU7eMPwZX1Mw1MnQo",
+      "name": "The Way You Look Tonight",
+      "artists": [
+        {
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name": "Frank Sinatra"
+        }
+      ],
+      "album": {
+        "id": "7FAo3wmrJNNzz2W5Z5ZG80",
+        "release_date": "1964",
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "artists": [
+          {
+            "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "name": "Frank Sinatra"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 202,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Hhv2vrOTy89HFRcjU3QOx",
+      "name": "At Last",
+      "artists": [
+        {
+          "id": "0iOVhN3tnSvgDbcg25JoJb",
+          "name": "Etta James"
+        }
+      ],
+      "album": {
+        "id": "7rd4PorIOPjPTy7qdUeeCt",
+        "release_date": "1960",
+        "name": "At Last!",
+        "artists": [
+          {
+            "id": "0iOVhN3tnSvgDbcg25JoJb",
+            "name": "Etta James"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 179,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4EyzhvYqC5uDA8iYTZNKiw",
+      "name": "Wonderful World",
+      "artists": [
+        {
+          "id": "6hnWRPzGGKiapVX1UCdEAC",
+          "name": "Sam Cooke"
+        }
+      ],
+      "album": {
+        "id": "5gThgG5LPRzL8Egdm2Izpm",
+        "release_date": "2017-02-03",
+        "name": "Dinner with My Darling",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 125,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3SdTKo2uVsxFblQjpScoHy",
+      "name": "Stand By Me",
+      "artists": [
+        {
+          "id": "3plJVWt88EqjvtuB4ZDRV3",
+          "name": "Ben E. King"
+        }
+      ],
+      "album": {
+        "id": "18Fj7coTfyMi7mEPXIweN7",
+        "release_date": "1962-08-20",
+        "name": "Don't Play That Song (Mono)",
+        "artists": [
+          {
+            "id": "3plJVWt88EqjvtuB4ZDRV3",
+            "name": "Ben E. King"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 180,
+        "nanos": 55000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Y4Gd3ty8uut6Qw43c7yJc",
+      "name": "(Sittin' On) the Dock of the Bay",
+      "artists": [
+        {
+          "id": "60df5JBRRPcnSpsIMxxwQm",
+          "name": "Otis Redding"
+        }
+      ],
+      "album": {
+        "id": "0kSkzG0sfuG4lRuFF5jWVr",
+        "release_date": "1968-02-23",
+        "name": "The Dock of the Bay",
+        "artists": [
+          {
+            "id": "60df5JBRRPcnSpsIMxxwQm",
+            "name": "Otis Redding"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 826000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7Ju7qPVxsEzlV5EAKiC5AV",
+      "name": "Let's Stay Together",
+      "artists": [
+        {
+          "id": "3dkbV4qihUeMsqN4vBGg93",
+          "name": "Al Green"
+        }
+      ],
+      "album": {
+        "id": "0oJxbDPKegNIKxzcScM8vy",
+        "release_date": "1972-01-31",
+        "name": "Let's Stay Together",
+        "artists": [
+          {
+            "id": "3dkbV4qihUeMsqN4vBGg93",
+            "name": "Al Green"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 199,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0bRXwKfigvpKZUurwqAlEh",
+      "name": "Lovely Day",
+      "artists": [
+        {
+          "id": "1ThoqLcyIYvZn7iWbj8fsj",
+          "name": "Bill Withers"
+        }
+      ],
+      "album": {
+        "id": "3QjPTUI6UcPr5m9RujkO3c",
+        "release_date": "1977-10-29",
+        "name": "Menagerie",
+        "artists": [
+          {
+            "id": "1ThoqLcyIYvZn7iWbj8fsj",
+            "name": "Bill Withers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 257,
+        "nanos": 157000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6IAuH3hgTRpUUdmOGubXGS",
+      "name": "Can I Call You Rose?",
+      "artists": [
+        {
+          "id": "0oK5D6uPhGu4Jk2dbZfodU",
+          "name": "Thee Sacred Souls"
+        }
+      ],
+      "album": {
+        "id": "6ofJrAZaaX0iWTXYXObUxE",
+        "release_date": "2022-08-26",
+        "name": "Thee Sacred Souls",
+        "artists": [
+          {
+            "id": "0oK5D6uPhGu4Jk2dbZfodU",
+            "name": "Thee Sacred Souls"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 190,
+        "nanos": 546000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0CkAwyBtCfJUiCawKxNWjt",
+      "name": "Keep On Shining",
+      "artists": [
+        {
+          "id": "0CUpzKPDfIVzYqMn47jiV3",
+          "name": "Curtis Harding"
+        }
+      ],
+      "album": {
+        "id": "7BlqkOOBcVqUwLEhC0Rxq6",
+        "release_date": "2015-01-19",
+        "name": "Soul Power",
+        "artists": [
+          {
+            "id": "0CUpzKPDfIVzYqMn47jiV3",
+            "name": "Curtis Harding"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 203,
+        "nanos": 480000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1Kx5LdJPpqRXKUUHBu9CTe",
+      "name": "The Look Of Love",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "3clrlTlu2wENPvdXz88YPh",
+        "release_date": "1967-12",
+        "name": "The Look Of Love (Expanded Edition)",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 216,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7dblNGnRXEBrVJunazs2U5",
+      "name": "All I Have to Do Is Dream",
+      "artists": [
+        {
+          "id": "4ACplpEqD6JIVgKrafauzs",
+          "name": "The Everly Brothers"
+        }
+      ],
+      "album": {
+        "id": "4lmdDGcU5u1xk3GCcVJSYT",
+        "release_date": "1964-08-01",
+        "name": "The Very Best of The Everly Brothers",
+        "artists": [
+          {
+            "id": "4ACplpEqD6JIVgKrafauzs",
+            "name": "The Everly Brothers"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 143,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0ObrXLrfrqJUNc8RfmIBHP",
+      "name": "God Only Knows",
+      "artists": [
+        {
+          "id": "3oDbviiivRWhXwIE8hxkVV",
+          "name": "The Beach Boys"
+        }
+      ],
+      "album": {
+        "id": "6GphKx2QAPRoVGWE9D7ou8",
+        "release_date": "1966-06-16",
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "artists": [
+          {
+            "id": "3oDbviiivRWhXwIE8hxkVV",
+            "name": "The Beach Boys"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 174,
+        "nanos": 906000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3lh3iiiJeiBXHSZw6u0kh6",
+      "name": "Into the Mystic - 2013 Remaster",
+      "artists": [
+        {
+          "id": "44NX2ffIYHr6D4n7RaZF7A",
+          "name": "Van Morrison"
+        }
+      ],
+      "album": {
+        "id": "5PfnCqRbdfIDMb1x3MPQam",
+        "release_date": "1970-02",
+        "name": "Moondance",
+        "artists": [
+          {
+            "id": "44NX2ffIYHr6D4n7RaZF7A",
+            "name": "Van Morrison"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 205,
+        "nanos": 613000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Rqn2GFlmvmV4w9Ala0I1e",
+      "name": "Feeling Good",
+      "artists": [
+        {
+          "id": "7G1GBhoKtEPnP86X2PvEYO",
+          "name": "Nina Simone"
+        }
+      ],
+      "album": {
+        "id": "3ofZeSWPHZOE5WC2tNZDez",
+        "release_date": "1965-06-01",
+        "name": "I Put A Spell On You",
+        "artists": [
+          {
+            "id": "7G1GBhoKtEPnP86X2PvEYO",
+            "name": "Nina Simone"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 174,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "3NfxSdJnVdon1axzloJgba",
+      "name": "I Say a Little Prayer",
+      "artists": [
+        {
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok",
+          "name": "Aretha Franklin"
+        }
+      ],
+      "album": {
+        "id": "55HZ2ectg1mMTEKDqIq3kC",
+        "release_date": "1968-06-14",
+        "name": "Aretha Now",
+        "artists": [
+          {
+            "id": "7nwUJBm0HE4ZxD3f5cy5ok",
+            "name": "Aretha Franklin"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 216,
+        "nanos": 773000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3NlLmKBJozwoi0k03Feb1N",
+      "name": "Isn't She Lovely",
+      "artists": [
+        {
+          "id": "7guDJrEfX3qb6FEbdPA5qi",
+          "name": "Stevie Wonder"
+        }
+      ],
+      "album": {
+        "id": "1vQrNEAdt2eHCXAvdIs1M2",
+        "release_date": "2002-10-29",
+        "name": "The Definitive Collection (Deluxe Edition)",
+        "artists": [
+          {
+            "id": "7guDJrEfX3qb6FEbdPA5qi",
+            "name": "Stevie Wonder"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 199,
+        "nanos": 386000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "38zsOOcu31XbbYj9BIPUF1",
+      "name": "Your Song",
+      "artists": [
+        {
+          "id": "3PhoLpVuITZKcymswpck5b",
+          "name": "Elton John"
+        }
+      ],
+      "album": {
+        "id": "69P9Ro0W286yLFgYwrGVN0",
+        "release_date": "1970-04-10",
+        "name": "Elton John",
+        "artists": [
+          {
+            "id": "3PhoLpVuITZKcymswpck5b",
+            "name": "Elton John"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 241,
+        "nanos": 786000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1prZ0pr6XoRCxcrC3MCL0M",
+      "name": "Everywhere",
+      "artists": [
+        {
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac"
+        }
+      ],
+      "album": {
+        "id": "0LfM3PGkXE6KvJEE1HkOnz",
+        "release_date": "1988-11-22",
+        "name": "Greatest Hits",
+        "artists": [
+          {
+            "id": "08GQAI4eElDnROBrJRGE0X",
+            "name": "Fleetwood Mac"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "56GbZVwxMdf1DENCluYS8A",
+      "name": "Don't Dream It's Over",
+      "artists": [
+        {
+          "id": "7ohlPA8dRBtCf92zaZCaaB",
+          "name": "Crowded House"
+        }
+      ],
+      "album": {
+        "id": "6W8rZvQ97nvTyOj26TRHJJ",
+        "release_date": "1986-08-01",
+        "name": "Crowded House (Deluxe)",
+        "artists": [
+          {
+            "id": "7ohlPA8dRBtCf92zaZCaaB",
+            "name": "Crowded House"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 238,
+        "nanos": 173000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "745H5CctFr12Mo7cqa1BMH",
+      "name": "My Girl",
+      "artists": [
+        {
+          "id": "3RwQ26hR2tJtA8F9p2n7jG",
+          "name": "The Temptations"
+        }
+      ],
+      "album": {
+        "id": "45tweuKI0zdh8zgKo05cTw",
+        "release_date": "1965-03-22",
+        "name": "The Temptations Sing Smokey",
+        "artists": [
+          {
+            "id": "3RwQ26hR2tJtA8F9p2n7jG",
+            "name": "The Temptations"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 165,
+        "nanos": 0
+      },
+      "explicit": false
+    },
+    {
+      "id": "5fNDP3NTdE69szQHUl4fFr",
+      "name": "Please Mr. Postman",
+      "artists": [
+        {
+          "id": "0MponVSpW81oLvJZ53vYZH",
+          "name": "The Marvelettes"
+        }
+      ],
+      "album": {
+        "id": "1Jn2ZCQiEgVNt3arbJBewA",
+        "release_date": "2009-06-23",
+        "name": "Forever: The Complete Motown Albums, Volume 1",
+        "artists": [
+          {
+            "id": "0MponVSpW81oLvJZ53vYZH",
+            "name": "The Marvelettes"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 149,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6rLqjzGV5VMLDWEnuUqi8q",
+      "name": "Dancing In The Street",
+      "artists": [
+        {
+          "id": "1Pe5hlKMCTULjosqZ6KanP",
+          "name": "Martha Reeves & The Vandellas"
+        }
+      ],
+      "album": {
+        "id": "3lFGAL3WruNTdBXfct7ZbZ",
+        "release_date": "1965-01-01",
+        "name": "Dance Party",
+        "artists": [
+          {
+            "id": "1Pe5hlKMCTULjosqZ6KanP",
+            "name": "Martha Reeves & The Vandellas"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 165,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5LxvwujISqiB8vpRYv887S",
+      "name": "I Want You Back",
+      "artists": [
+        {
+          "id": "2iE18Oxc8YSumAU232n4rW",
+          "name": "The Jackson 5"
+        }
+      ],
+      "album": {
+        "id": "51uoKRa8vT5SULrlF8s2t1",
+        "release_date": "1969-12-18",
+        "name": "Diana Ross Presents The Jackson 5",
+        "artists": [
+          {
+            "id": "2iE18Oxc8YSumAU232n4rW",
+            "name": "The Jackson 5"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 176,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6b6IMqP565TbtFFZg9iFf3",
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "artists": [
+        {
+          "id": "7fIvjotigTGWqjIz6EP1i4",
+          "name": "Four Tops"
+        }
+      ],
+      "album": {
+        "id": "2jvkMPydCpLWwRothqJU1O",
+        "release_date": "1965-11-13",
+        "name": "Four Tops - Second Album",
+        "artists": [
+          {
+            "id": "7fIvjotigTGWqjIz6EP1i4",
+            "name": "Four Tops"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 160,
+        "nanos": 280000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7tqhbajSfrz2F7E1Z75ASX",
+      "name": "Ain't No Mountain High Enough",
+      "artists": [
+        {
+          "id": "3koiLjNrgRTNbOwViDipeA",
+          "name": "Marvin Gaye"
+        },
+        {
+          "id": "75jNCko3SnEMI5gwGqrbb8",
+          "name": "Tammi Terrell"
+        }
+      ],
+      "album": {
+        "id": "5LqviduT0g0J0ypFrFSwCE",
+        "release_date": "1967-08-29",
+        "name": "United",
+        "artists": [
+          {
+            "id": "3koiLjNrgRTNbOwViDipeA",
+            "name": "Marvin Gaye"
+          },
+          {
+            "id": "75jNCko3SnEMI5gwGqrbb8",
+            "name": "Tammi Terrell"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 151,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5c33j1xFVOL4G24zxYhssB",
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "artists": [
+        {
+          "id": "53QzNeFpzAaXYnrDBbDrIp",
+          "name": "The Isley Brothers"
+        }
+      ],
+      "album": {
+        "id": "6iIk47TPgtfIxzL2ALdBSN",
+        "release_date": "1966",
+        "name": "This Old Heart Of Mine",
+        "artists": [
+          {
+            "id": "53QzNeFpzAaXYnrDBbDrIp",
+            "name": "The Isley Brothers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 172,
+        "nanos": 733000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1WfHZKUkTwKQ57ukwd21PA",
+      "name": "Seven Days Too Long - Mono",
+      "artists": [
+        {
+          "id": "7ot74oYptdmYydjyDmcLzg",
+          "name": "Chuck Wood"
+        }
+      ],
+      "album": {
+        "id": "6KRBqK0UvfDCATk8ORdC73",
+        "release_date": "2009-01-30",
+        "name": "The Roulette Story",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 141,
+        "nanos": 360000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7kxMwCdLI8SOXjLA9tWVyF",
+      "name": "The Clapping Song (Clap Pat Clap Slap) - Single Version",
+      "artists": [
+        {
+          "id": "4GO3ufZJ7YsEnQ3PiML2Dg",
+          "name": "Shirley Ellis"
+        }
+      ],
+      "album": {
+        "id": "3RpNupdzvzs9oiHTLMVsQK",
+        "release_date": "2016-07-08",
+        "name": "The Clapping Song... And More",
+        "artists": [
+          {
+            "id": "4GO3ufZJ7YsEnQ3PiML2Dg",
+            "name": "Shirley Ellis"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 170,
+        "nanos": 66000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "31A3oqQxDLdG9HRx45z62d",
+      "name": "I Only Want To Be With You",
+      "artists": [
+        {
+          "id": "5zaXYwewAXedKNCff45U5l",
+          "name": "Dusty Springfield"
+        }
+      ],
+      "album": {
+        "id": "2coXvs2zYk60U9Dd2hm6St",
+        "release_date": "1964-06-26",
+        "name": "Stay Awhile / I Only Want To Be With You (Expanded Edition)",
+        "artists": [
+          {
+            "id": "5zaXYwewAXedKNCff45U5l",
+            "name": "Dusty Springfield"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 158,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1tfZtA15BfJHQTUy3dqTKC",
+      "name": "Build Me Up Buttercup - Mono",
+      "artists": [
+        {
+          "id": "4GITZM5LCR2KcdlgEOrNLD",
+          "name": "The Foundations"
+        }
+      ],
+      "album": {
+        "id": "7LFpclH3t4SnxqZpbjvSwE",
+        "release_date": "1967-01-01",
+        "name": "Baby Now That I've Found You",
+        "artists": [
+          {
+            "id": "4GITZM5LCR2KcdlgEOrNLD",
+            "name": "The Foundations"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 180,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7FS541dJh3iQAEXEZoDhE6",
+      "name": "Twistin' the Night Away",
+      "artists": [
+        {
+          "id": "6hnWRPzGGKiapVX1UCdEAC",
+          "name": "Sam Cooke"
+        }
+      ],
+      "album": {
+        "id": "406RCIvK6uh49XviqAI6kY",
+        "release_date": "1962-04",
+        "name": "Twistin' the Night Away",
+        "artists": [
+          {
+            "id": "6hnWRPzGGKiapVX1UCdEAC",
+            "name": "Sam Cooke"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 161,
+        "nanos": 853000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "76ICmoJ4PcoMWoooaTxnQs",
+      "name": "Land of 1000 Dances",
+      "artists": [
+        {
+          "id": "0N5PyKJzS3M1XNlaCL7bbE",
+          "name": "Wilson Pickett"
+        }
+      ],
+      "album": {
+        "id": "3fxWzXNMhTz01uShzMARnm",
+        "release_date": "1966",
+        "name": "The Exciting Wilson Pickett",
+        "artists": [
+          {
+            "id": "0N5PyKJzS3M1XNlaCL7bbE",
+            "name": "Wilson Pickett"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 146,
+        "nanos": 973000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5ZBeML7Lf3FMEVviTyvi8l",
+      "name": "Twist And Shout - Remastered 2009",
+      "artists": [
+        {
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles"
+        }
+      ],
+      "album": {
+        "id": "3KzAvEXcqJKBF97HrXwlgf",
+        "release_date": "1963-03-22",
+        "name": "Please Please Me (Remastered 2009)",
+        "artists": [
+          {
+            "id": "3WrFJ7ztbogyGnTHbHJFl2",
+            "name": "The Beatles"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 155,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Gy7qnDwt8Z3MNxqat4CsK",
+      "name": "Wouldn't It Be Nice",
+      "artists": [
+        {
+          "id": "3oDbviiivRWhXwIE8hxkVV",
+          "name": "The Beach Boys"
+        }
+      ],
+      "album": {
+        "id": "6GphKx2QAPRoVGWE9D7ou8",
+        "release_date": "1966-06-16",
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "artists": [
+          {
+            "id": "3oDbviiivRWhXwIE8hxkVV",
+            "name": "The Beach Boys"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 153,
+        "nanos": 205000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4CNL4GBNTdVIU5Nk6hB4LC",
+      "name": "Brown Eyed Girl",
+      "artists": [
+        {
+          "id": "44NX2ffIYHr6D4n7RaZF7A",
+          "name": "Van Morrison"
+        }
+      ],
+      "album": {
+        "id": "76y5pJydyE27yrXoFiQa8P",
+        "release_date": "1967-09-01",
+        "name": "Blowin' Your Mind!",
+        "artists": [
+          {
+            "id": "44NX2ffIYHr6D4n7RaZF7A",
+            "name": "Van Morrison"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 186,
+        "nanos": 558000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6ug9F5NRw1yHFf1spU8l4n",
+      "name": "Under The Milky Way",
+      "artists": [
+        {
+          "id": "2ZfogSsOWP4mVfEqfpLXCt",
+          "name": "The Church"
+        }
+      ],
+      "album": {
+        "id": "3wbfqXwS4roxzXSpy8Q8jI",
+        "release_date": "1988-02-16",
+        "name": "Starfish",
+        "artists": [
+          {
+            "id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "name": "The Church"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 298,
+        "nanos": 426000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1AAYbsAIgEJMbxgLgpjE9y",
+      "name": "Since I Left You",
+      "artists": [
+        {
+          "id": "3C8RpaI3Go0yFF9whvKoED",
+          "name": "The Avalanches"
+        }
+      ],
+      "album": {
+        "id": "0YtYaaO0aipyeQl0xhAWTO",
+        "release_date": "2000-11-27",
+        "name": "Since I Left You (20th Anniversary Deluxe Edition)",
+        "artists": [
+          {
+            "id": "3C8RpaI3Go0yFF9whvKoED",
+            "name": "The Avalanches"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 262,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1zW2csx1vVJrKfvDrFQNVt",
+      "name": "Jump in the Line",
+      "artists": [
+        {
+          "id": "6Tw1ktF4xMmzaLLbe98I2z",
+          "name": "Harry Belafonte"
+        }
+      ],
+      "album": {
+        "id": "1o6SO1ywnIQgb3MFMF1siI",
+        "release_date": "1961-07-21",
+        "name": "Jump Up Calypso",
+        "artists": [
+          {
+            "id": "6Tw1ktF4xMmzaLLbe98I2z",
+            "name": "Harry Belafonte"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 221,
+        "nanos": 704000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2grjqo0Frpf2okIBiifQKs",
+      "name": "September",
+      "artists": [
+        {
+          "id": "4QQgXkCYTt3BlENzhyNETg",
+          "name": "Earth, Wind & Fire"
+        }
+      ],
+      "album": {
+        "id": "2FW0uQ4WL25umm5p2VrZO7",
+        "release_date": "1978-11-23",
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "artists": [
+          {
+            "id": "4QQgXkCYTt3BlENzhyNETg",
+            "name": "Earth, Wind & Fire"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 215,
+        "nanos": 5000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3K7Q9PHUWPTaknlbFPThn2",
+      "name": "Celebration",
+      "artists": [
+        {
+          "id": "3VNITwohbvU5Wuy5PC6dsI",
+          "name": "Kool & The Gang"
+        }
+      ],
+      "album": {
+        "id": "2kc4mhFRsoIRVD0XEYnwhI",
+        "release_date": "1980-09-29",
+        "name": "Celebrate!",
+        "artists": [
+          {
+            "id": "3VNITwohbvU5Wuy5PC6dsI",
+            "name": "Kool & The Gang"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 298,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3IQFZgYuTXP1ukus0z77ol",
+      "name": "We Are Family",
+      "artists": [
+        {
+          "id": "6gkWznnJkdkwRPVcmnrays",
+          "name": "Sister Sledge"
+        }
+      ],
+      "album": {
+        "id": "5GLHWGn9b91eDHnqN8pUjN",
+        "release_date": "2017-08-16",
+        "name": "Oldies 70's",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 199,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4UDmDIqJIbrW0hMBQMFOsM",
+      "name": "Stayin' Alive",
+      "artists": [
+        {
+          "id": "1LZEQNv7sE11VDY3SdxQeN",
+          "name": "Bee Gees"
+        }
+      ],
+      "album": {
+        "id": "6iqFb4EhmlHHjJGFcRgJmQ",
+        "release_date": "1977-12-13",
+        "name": "Staying Alive (Original Motion Picture Soundtrack)",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 92,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0GjEhVFGZW8afUYGChu3Rr",
+      "name": "Dancing Queen",
+      "artists": [
+        {
+          "id": "0LcJLqbBmaGUft1e9Mm8HV",
+          "name": "ABBA"
+        }
+      ],
+      "album": {
+        "id": "1V6a99EbTTIegOhWoPxYI9",
+        "release_date": "1976",
+        "name": "Arrival",
+        "artists": [
+          {
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 230,
+        "nanos": 400000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4N0TP4Rmj6QQezWV88ARNJ",
+      "name": "Superstition",
+      "artists": [
+        {
+          "id": "7guDJrEfX3qb6FEbdPA5qi",
+          "name": "Stevie Wonder"
+        }
+      ],
+      "album": {
+        "id": "3PResMqFgQYBfzTnqTKwQw",
+        "release_date": "1972-10-28",
+        "name": "Talking Book",
+        "artists": [
+          {
+            "id": "7guDJrEfX3qb6FEbdPA5qi",
+            "name": "Stevie Wonder"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 266,
+        "nanos": 133000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2C5SI38AMmqckQGnD1H2FO",
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "artists": [
+        {
+          "id": "7guDJrEfX3qb6FEbdPA5qi",
+          "name": "Stevie Wonder"
+        }
+      ],
+      "album": {
+        "id": "1vQrNEAdt2eHCXAvdIs1M2",
+        "release_date": "2002-10-29",
+        "name": "The Definitive Collection (Deluxe Edition)",
+        "artists": [
+          {
+            "id": "7guDJrEfX3qb6FEbdPA5qi",
+            "name": "Stevie Wonder"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 158,
+        "nanos": 560000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4ppxp8rJB8eOhM9TFm6dK2",
+      "name": "Proud Mary",
+      "artists": [
+        {
+          "id": "1ZikppG9dPedbIgMfnfx8k",
+          "name": "Ike & Tina Turner"
+        }
+      ],
+      "album": {
+        "id": "5BFTZqoJ1aCn80FKB0GkXL",
+        "release_date": "1970-04-19",
+        "name": "Workin' Together",
+        "artists": [
+          {
+            "id": "1ZikppG9dPedbIgMfnfx8k",
+            "name": "Ike & Tina Turner"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 297,
+        "nanos": 613000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7J1uxwnxfQLu4APicE5Rnj",
+      "name": "Billie Jean",
+      "artists": [
+        {
+          "id": "3fMbdgg4jU18AjLCKBhRSm",
+          "name": "Michael Jackson"
+        }
+      ],
+      "album": {
+        "id": "2ANVost0y2y52ema1E9xAZ",
+        "release_date": "1982-11-30",
+        "name": "Thriller",
+        "artists": [
+          {
+            "id": "3fMbdgg4jU18AjLCKBhRSm",
+            "name": "Michael Jackson"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 293,
+        "nanos": 802000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2H7PHVdQ3mXqEHXcvclTB0",
+      "name": "1999",
+      "artists": [
+        {
+          "id": "5a2EaR3hamoenG9rDuVn8j",
+          "name": "Prince"
+        }
+      ],
+      "album": {
+        "id": "3U1ht9EdWEI9nMvaqdQI67",
+        "release_date": "1982-10-27",
+        "name": "1999",
+        "artists": [
+          {
+            "id": "5a2EaR3hamoenG9rDuVn8j",
+            "name": "Prince"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 379,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1NHWG8zxSEypSRF3UufrnO",
+      "name": "Don't Stop Me Now",
+      "artists": [
+        {
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen"
+        }
+      ],
+      "album": {
+        "id": "1yzF0wUwJFgtkkXmKNe5BE",
+        "release_date": "1978-11-10",
+        "name": "Jazz",
+        "artists": [
+          {
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 209,
+        "nanos": 391000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2tUBqZG2AbRi7Q0BIrVrEj",
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artists": [
+        {
+          "id": "6XpaIBNiVzIetEPCWDvAFP",
+          "name": "Whitney Houston"
+        }
+      ],
+      "album": {
+        "id": "5Vdzprr5cOqXQo44eHeV7t",
+        "release_date": "1987-06-02",
+        "name": "Whitney",
+        "artists": [
+          {
+            "id": "6XpaIBNiVzIetEPCWDvAFP",
+            "name": "Whitney Houston"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 292,
+        "nanos": 875000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4y1LsJpmMti1PfRQV9AWWe",
+      "name": "Girls Just Want to Have Fun",
+      "artists": [
+        {
+          "id": "2BTZIqw0ntH9MvilQ3ewNY",
+          "name": "Cyndi Lauper"
+        }
+      ],
+      "album": {
+        "id": "1FvdZ1oizXwF9bxogujoF0",
+        "release_date": "1983-10-14",
+        "name": "She's So Unusual",
+        "artists": [
+          {
+            "id": "2BTZIqw0ntH9MvilQ3ewNY",
+            "name": "Cyndi Lauper"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 238,
+        "nanos": 120000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1jDJFeK9x3OZboIAHsY9k2",
+      "name": "I'm Still Standing",
+      "artists": [
+        {
+          "id": "3PhoLpVuITZKcymswpck5b",
+          "name": "Elton John"
+        }
+      ],
+      "album": {
+        "id": "0OmYuz9hwn1XoqmDaU0yJ7",
+        "release_date": "1983-05-30",
+        "name": "Too Low For Zero",
+        "artists": [
+          {
+            "id": "3PhoLpVuITZKcymswpck5b",
+            "name": "Elton John"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 183,
+        "nanos": 440000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4czNORk5MjW5WOn98bki32",
+      "name": "All Night Long (All Night) - Single Version",
+      "artists": [
+        {
+          "id": "3gMaNLQm7D9MornNILzdSl",
+          "name": "Lionel Richie"
+        }
+      ],
+      "album": {
+        "id": "1ET5QG3pd6NGqEFuZh0Qiz",
+        "release_date": "1992-01-01",
+        "name": "Back To Front",
+        "artists": [
+          {
+            "id": "3gMaNLQm7D9MornNILzdSl",
+            "name": "Lionel Richie"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 258,
+        "nanos": 665000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3yDhZq8f17SmumVmEyCaRN",
+      "name": "Give It Up",
+      "artists": [
+        {
+          "id": "3mQBpAOMWYqAZyxtyeo4Lo",
+          "name": "KC & The Sunshine Band"
+        }
+      ],
+      "album": {
+        "id": "52BJ1S5NOv7eFD6ZFDZga2",
+        "release_date": "2016-03-11",
+        "name": "All In a Night's Work (Expanded Version)",
+        "artists": [
+          {
+            "id": "3mQBpAOMWYqAZyxtyeo4Lo",
+            "name": "KC & The Sunshine Band"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 253,
+        "nanos": 673000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3ZZq9396zv8pcn5GYVhxUi",
+      "name": "Down Under",
+      "artists": [
+        {
+          "id": "0f3EsoviYnRKTkmayI3cux",
+          "name": "Men At Work"
+        }
+      ],
+      "album": {
+        "id": "4HDJMKkwAMVFewqfZcmf84",
+        "release_date": "1981-11-09",
+        "name": "Business As Usual",
+        "artists": [
+          {
+            "id": "0f3EsoviYnRKTkmayI3cux",
+            "name": "Men At Work"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 222,
+        "nanos": 320000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2xcrseImDFEf8Urommws03",
+      "name": "New Sensation",
+      "artists": [
+        {
+          "id": "1eClJfHLoDI4rZe5HxzBFv",
+          "name": "INXS"
+        }
+      ],
+      "album": {
+        "id": "6p6RTnoHCJMnMx2jcK4oGu",
+        "release_date": "1987",
+        "name": "Kick (Remastered 2011)",
+        "artists": [
+          {
+            "id": "1eClJfHLoDI4rZe5HxzBFv",
+            "name": "INXS"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 220,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "67f8z1qeIKaVawWsYQkSHv",
+      "name": "What's My Scene - 2005 Remaster",
+      "artists": [
+        {
+          "id": "7HZQqtnOYmjJl8XAB3Vg8y",
+          "name": "Hoodoo Gurus"
+        }
+      ],
+      "album": {
+        "id": "53vbbwIDLn7Sh50yd9aEjq",
+        "release_date": "1987-07-17",
+        "name": "Blow Your Cool",
+        "artists": [
+          {
+            "id": "7HZQqtnOYmjJl8XAB3Vg8y",
+            "name": "Hoodoo Gurus"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 229,
+        "nanos": 373000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6wVViUl2xSRoDK2T7dMZbR",
+      "name": "Bizarre Love Triangle",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "0PSWY4XyjTWppfBb0tBtqu",
+        "release_date": "1986-09-29",
+        "name": "Brotherhood (Collector's Edition)",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 263,
+        "nanos": 213000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7j5Q3zhjvpQvMeoPSZwdsa",
+      "name": "Temptation",
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order"
+        }
+      ],
+      "album": {
+        "id": "6iHuSGy6pq4tNGFV3ZVPtl",
+        "release_date": "1987-08-17",
+        "name": "Substance",
+        "artists": [
+          {
+            "id": "0yNLKJebCb8Aueb54LYya3",
+            "name": "New Order"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 419,
+        "nanos": 240000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4QlzkaRHtU8gAdwqjWmO8n",
+      "name": "Friday I'm In Love",
+      "artists": [
+        {
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure"
+        }
+      ],
+      "album": {
+        "id": "0aEL0zQ4XLuxQP0j7sLlS1",
+        "release_date": "1992-04-20",
+        "name": "Wish",
+        "artists": [
+          {
+            "id": "7bu3H8JO7d0UbMoVzbo70s",
+            "name": "The Cure"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 215,
+        "nanos": 160000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3clIHVzJ9J2rvvrFUKLICo",
+      "name": "She Bangs the Drums - Remastered 2009",
+      "artists": [
+        {
+          "id": "1lYT0A0LV5DUfxr6doRP3d",
+          "name": "The Stone Roses"
+        }
+      ],
+      "album": {
+        "id": "0um9FI6BLBldL5POP4D4Cw",
+        "release_date": "1989-05-02",
+        "name": "The Stone Roses",
+        "artists": [
+          {
+            "id": "1lYT0A0LV5DUfxr6doRP3d",
+            "name": "The Stone Roses"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 232,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4IvZLDtwBHmBmwgDIUbuwa",
+      "name": "Here Comes Your Man",
+      "artists": [
+        {
+          "id": "6zvul52xwTWzilBZl6BUbT",
+          "name": "Pixies"
+        }
+      ],
+      "album": {
+        "id": "0DQyTVcDhK9wm0f6RaErWO",
+        "release_date": "1989-04-17",
+        "name": "Doolittle",
+        "artists": [
+          {
+            "id": "6zvul52xwTWzilBZl6BUbT",
+            "name": "Pixies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 201,
+        "nanos": 186000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6aBUnkXuCEQQHAlTokv9or",
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "artists": [
+        {
+          "id": "2x9SpqnPi8rlE9pjHBwmSC",
+          "name": "Talking Heads"
+        }
+      ],
+      "album": {
+        "id": "4sLCQxMRfn3gAHrBNZtbTH",
+        "release_date": "1983-05-31",
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "artists": [
+          {
+            "id": "2x9SpqnPi8rlE9pjHBwmSC",
+            "name": "Talking Heads"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 296,
+        "nanos": 146000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "69kOkLUCkxIZYexIgSG8rq",
+      "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "artists": [
+        {
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk"
+        },
+        {
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams"
+        },
+        {
+          "id": "3yDIp0kaq9EFKe07X1X2rz",
+          "name": "Nile Rodgers"
+        }
+      ],
+      "album": {
+        "id": "4m2880jivSbbyEGAKfITCa",
+        "release_date": "2013-05-20",
+        "name": "Random Access Memories",
+        "artists": [
+          {
+            "id": "4tZwfgrHOc3mvqYlEYSvVi",
+            "name": "Daft Punk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 369,
+        "nanos": 626000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0DiWol3AO6WpXZgp0goxAV",
+      "name": "One More Time",
+      "artists": [
+        {
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk"
+        }
+      ],
+      "album": {
+        "id": "2noRn2Aes5aoNVsU6iWThc",
+        "release_date": "2001-03-12",
+        "name": "Discovery",
+        "artists": [
+          {
+            "id": "4tZwfgrHOc3mvqYlEYSvVi",
+            "name": "Daft Punk"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 320,
+        "nanos": 357000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0UJxSPjxXVbgd0jqBomKvI",
+      "name": "Dancing On My Own",
+      "artists": [
+        {
+          "id": "6UE7nl9mha6s8z0wFQFIZ2",
+          "name": "Robyn"
+        }
+      ],
+      "album": {
+        "id": "6oSYeM95ziLQSqiE8qujaC",
+        "release_date": "2010-06-14",
+        "name": "Body Talk pt. 1",
+        "artists": [
+          {
+            "id": "6UE7nl9mha6s8z0wFQFIZ2",
+            "name": "Robyn"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 288,
+        "nanos": 670000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7rSn37L6jGaPnOOLBbEwXX",
+      "name": "Happy Up Here",
+      "artists": [
+        {
+          "id": "5nPOO9iTcrs9k6yFffPxjH",
+          "name": "Röyksopp"
+        }
+      ],
+      "album": {
+        "id": "6vQMbwthchxuSioACn2hcE",
+        "release_date": "2009-03-18",
+        "name": "Junior",
+        "artists": [
+          {
+            "id": "5nPOO9iTcrs9k6yFffPxjH",
+            "name": "Röyksopp"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 163,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1YhzlKAGZCgFmu3maqDQtl",
+      "name": "My Delirium",
+      "artists": [
+        {
+          "id": "5TfnQ0Ai1cEbKY5katFK14",
+          "name": "Ladyhawke"
+        }
+      ],
+      "album": {
+        "id": "31AFNVRlzhlhqX9LCwPfHF",
+        "release_date": "2009-04-10",
+        "name": "Ladyhawke (Deluxe Edition)",
+        "artists": [
+          {
+            "id": "5TfnQ0Ai1cEbKY5katFK14",
+            "name": "Ladyhawke"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 254,
+        "nanos": 480000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "08HsB73Vtxery7GmDHJjM8",
+      "name": "The Mother We Share",
+      "artists": [
+        {
+          "id": "3CjlHNtplJyTf9npxaPl5w",
+          "name": "CHVRCHES"
+        }
+      ],
+      "album": {
+        "id": "7pJ9ALnHQ84XVx39UBt028",
+        "release_date": "2013-09-20",
+        "name": "The Bones Of What You Believe",
+        "artists": [
+          {
+            "id": "3CjlHNtplJyTf9npxaPl5w",
+            "name": "CHVRCHES"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 191,
+        "nanos": 293000000
+      },
+      "explicit": true
+    },
+    {
+      "id": "2ixswrurtpfZHrx406eGgw",
+      "name": "Want You Back",
+      "artists": [
+        {
+          "id": "4Ui2kfOqGujY81UcPrb5KE",
+          "name": "HAIM"
+        }
+      ],
+      "album": {
+        "id": "3EFSOzgqaOQqJCMAMMn4Cl",
+        "release_date": "2017-07-07",
+        "name": "Something To Tell You",
+        "artists": [
+          {
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 232,
+        "nanos": 120000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0cqRj7pUJDkTCEsJkx8snD",
+      "name": "Shake It Off",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": "1yGbNOtRIgdIiGHOEBaZWf",
+        "release_date": "2014-01-01",
+        "name": "1989 (Deluxe)",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 219,
+        "nanos": 200000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "32OlwWuMpZ6b0aN2RZOeMS",
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "artists": [
+        {
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson"
+        },
+        {
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars"
+        }
+      ],
+      "album": {
+        "id": "3vLaOYCNCzngDf8QdBg2V1",
+        "release_date": "2015-01-12",
+        "name": "Uptown Special",
+        "artists": [
+          {
+            "id": "3hv9jJF3adDNsBSIQDqcjp",
+            "name": "Mark Ronson"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 269,
+        "nanos": 658000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "60nZcImufyMA1MKQY3dcCH",
+      "name": "Happy - From \"Despicable Me 2\"",
+      "artists": [
+        {
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams"
+        }
+      ],
+      "album": {
+        "id": "0lrmy4pJINsFzycJvttX2W",
+        "release_date": "2014-03-03",
+        "name": "G I R L",
+        "artists": [
+          {
+            "id": "2RdwBSPQiwcmiDo9kixcl8",
+            "name": "Pharrell Williams"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 233,
+        "nanos": 306000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1z6WtY7X4HQJvzxC4UgkSf",
+      "name": "Love On Top",
+      "artists": [
+        {
+          "id": "6vWDO969PvNqNYHIOW5v0m",
+          "name": "Beyoncé"
+        }
+      ],
+      "album": {
+        "id": "1gIC63gC3B7o7FfpPACZQJ",
+        "release_date": "2011-06-24",
+        "name": "4",
+        "artists": [
+          {
+            "id": "6vWDO969PvNqNYHIOW5v0m",
+            "name": "Beyoncé"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 267,
+        "nanos": 413000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3PfIrDoz19wz7qK7tYeu62",
+      "name": "Don't Start Now",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa"
+        }
+      ],
+      "album": {
+        "id": "7fJJK56U9fHixgO0HQkhtI",
+        "release_date": "2020-03-27",
+        "name": "Future Nostalgia",
+        "artists": [
+          {
+            "id": "6M2wZ9GZgrQXHCFfjv46we",
+            "name": "Dua Lipa"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 183,
+        "nanos": 290000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0VjIjW4GlUZAMYd2vXMi3b",
+      "name": "Blinding Lights",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd"
+        }
+      ],
+      "album": {
+        "id": "4yP0hdKOZPNshxUOjY0cZj",
+        "release_date": "2020-03-20",
+        "name": "After Hours",
+        "artists": [
+          {
+            "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "name": "The Weeknd"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 200,
+        "nanos": 40000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6JV2JOEocMgcZxYSZelKcc",
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "artists": [
+        {
+          "id": "31TPClRtHm23RisEBtV3X7",
+          "name": "Justin Timberlake"
+        }
+      ],
+      "album": {
+        "id": "40LbnfieVTWtHrK24WQeEB",
+        "release_date": "2016-05-06",
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "artists": [
+          {
+            "id": "31TPClRtHm23RisEBtV3X7",
+            "name": "Justin Timberlake"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 236,
+        "nanos": 1000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5VGlqQANWDKJFl0MBG3sg2",
+      "name": "Use Somebody",
+      "artists": [
+        {
+          "id": "2qk9voo8llSGYcZ6xrBzKx",
+          "name": "Kings of Leon"
+        }
+      ],
+      "album": {
+        "id": "5CZR6ljD0x9fTiS4mh9wMp",
+        "release_date": "2008-09-23",
+        "name": "Only By The Night",
+        "artists": [
+          {
+            "id": "2qk9voo8llSGYcZ6xrBzKx",
+            "name": "Kings of Leon"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 230,
+        "nanos": 760000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6Hmj7SrLRbreLVfVS7mV1S",
+      "name": "Wake Up",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire"
+        }
+      ],
+      "album": {
+        "id": "6ZB8qaR9JNuS0Q0bG1nbcH",
+        "release_date": "2004-06-16",
+        "name": "Funeral",
+        "artists": [
+          {
+            "id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "name": "Arcade Fire"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 335,
+        "nanos": 333000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2Ud3deeqLAG988pfW0Kwcl",
+      "name": "All My Friends",
+      "artists": [
+        {
+          "id": "066X20Nz7iquqkkCW6Jxy6",
+          "name": "LCD Soundsystem"
+        }
+      ],
+      "album": {
+        "id": "1R8kkopLT4IAxzMMkjic6X",
+        "release_date": "2007-03-12",
+        "name": "Sound of Silver",
+        "artists": [
+          {
+            "id": "066X20Nz7iquqkkCW6Jxy6",
+            "name": "LCD Soundsystem"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 462,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "7ppPZa3TRUSGKaks9wH7VT",
+      "name": "Don't Look Back In Anger",
+      "artists": [
+        {
+          "id": "2DaxqgrOhkeH0fpeiQq2f4",
+          "name": "Oasis"
+        }
+      ],
+      "album": {
+        "id": "2u30gztZTylY4RG7IvfXs8",
+        "release_date": "1995-10-02",
+        "name": "(What's The Story) Morning Glory?",
+        "artists": [
+          {
+            "id": "2DaxqgrOhkeH0fpeiQq2f4",
+            "name": "Oasis"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 287,
+        "nanos": 826000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4NnWuGQujzWUEg0uZokO5M",
+      "name": "Just Like Heaven - Remastered 2006",
+      "artists": [
+        {
+          "id": "7bu3H8JO7d0UbMoVzbo70s",
+          "name": "The Cure"
+        }
+      ],
+      "album": {
+        "id": "6qRV8jXFV1fZG0TizFOuTE",
+        "release_date": "1987-05-26",
+        "name": "Kiss Me Kiss Me Kiss Me (Remastered 2006)",
+        "artists": [
+          {
+            "id": "7bu3H8JO7d0UbMoVzbo70s",
+            "name": "The Cure"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 212,
+        "nanos": 13000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1GjbTNFImFrjFsNdleDe78",
+      "name": "Never Tear Us Apart",
+      "artists": [
+        {
+          "id": "1eClJfHLoDI4rZe5HxzBFv",
+          "name": "INXS"
+        }
+      ],
+      "album": {
+        "id": "6p6RTnoHCJMnMx2jcK4oGu",
+        "release_date": "1987",
+        "name": "Kick (Remastered 2011)",
+        "artists": [
+          {
+            "id": "1eClJfHLoDI4rZe5HxzBFv",
+            "name": "INXS"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 184,
+        "nanos": 586000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "34gCuhDGsG4bRPIf9bb02f",
+      "name": "Thinking out Loud",
+      "artists": [
+        {
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": "1xn54DMo2qIqBuMqHtUsFd",
+        "release_date": "2014-06-21",
+        "name": "x (Deluxe Edition)",
+        "artists": [
+          {
+            "id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "name": "Ed Sheeran"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 281,
+        "nanos": 560000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4bEb3KE4mSKlTFjtWJQBqO",
+      "name": "Don't Stop - 2004 Remaster",
+      "artists": [
+        {
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac"
+        }
+      ],
+      "album": {
+        "id": "1bt6q2SruMsBtcerNVtpZB",
+        "release_date": "1977-02-04",
+        "name": "Rumours",
+        "artists": [
+          {
+            "id": "08GQAI4eElDnROBrJRGE0X",
+            "name": "Fleetwood Mac"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 193,
+        "nanos": 346000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5zqJlEJcn0EfnvAScH8swK",
+      "name": "All You Need Is Love",
+      "artists": [
+        {
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles"
+        }
+      ],
+      "album": {
+        "id": "0XRZpF083HqgygM0v1hQyE",
+        "release_date": "1999-09-13",
+        "name": "Yellow Submarine Songtrack",
+        "artists": [
+          {
+            "id": "3WrFJ7ztbogyGnTHbHJFl2",
+            "name": "The Beatles"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 226,
+        "nanos": 666000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1PVTvvxpSkyJWemW1CwVVk",
+      "name": "Fly Me To The Moon",
+      "artists": [
+        {
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name": "Frank Sinatra"
+        }
+      ],
+      "album": {
+        "id": "6lmuhQkwg4qkjytuho7Oxz",
+        "release_date": "1965-12",
+        "name": "A Man And His Music",
+        "artists": [
+          {
+            "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "name": "Frank Sinatra"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 148,
+        "nanos": 866000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "0Yj7WP1MbAqQVQA5Na4I7E",
+      "name": "La vie en rose",
+      "artists": [
+        {
+          "id": "19eLuQmk9aCobbVDHc6eek",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "album": {
+        "id": "4s62VcqCCYckLiPnBU1ZkC",
+        "release_date": "1998-01-01",
+        "name": "The Very Best Of Louis Armstrong",
+        "artists": [
+          {
+            "id": "19eLuQmk9aCobbVDHc6eek",
+            "name": "Louis Armstrong"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 204,
+        "nanos": 266000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "391TUcoPonqYykPkSZ5Z9U",
+      "name": "Save the Last Dance for Me",
+      "artists": [
+        {
+          "id": "1FqqOl9itIUpXr4jZPIVoT",
+          "name": "The Drifters"
+        }
+      ],
+      "album": {
+        "id": "6sWL3HHXGkqlST0rfWXvBU",
+        "release_date": "1962",
+        "name": "Save the Last Dance for Me",
+        "artists": [
+          {
+            "id": "1FqqOl9itIUpXr4jZPIVoT",
+            "name": "The Drifters"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 154,
+        "nanos": 960000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5qyq1H5OPMlfuvZQ1wQNo7",
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "artists": [
+        {
+          "id": "4VnomLtKTm9Ahe1tZfmZju",
+          "name": "Jackie Wilson"
+        }
+      ],
+      "album": {
+        "id": "4OgYmImCWz3VK7At9GTWHN",
+        "release_date": "1967",
+        "name": "Higher And Higher",
+        "artists": [
+          {
+            "id": "4VnomLtKTm9Ahe1tZfmZju",
+            "name": "Jackie Wilson"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 179,
+        "nanos": 120000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4qL9VYPB4XwJKAOq4xn2Mh",
+      "name": "Le Freak",
+      "artists": [
+        {
+          "id": "0Xf8oDAJYd2D0k3NLI19OV",
+          "name": "CHIC"
+        }
+      ],
+      "album": {
+        "id": "0XRRSLnVrtXMI6cyVCacjd",
+        "release_date": "1991",
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "artists": [
+          {
+            "id": "0Xf8oDAJYd2D0k3NLI19OV",
+            "name": "CHIC"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 327,
+        "nanos": 573000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "2PpruBYCo4H7WOBJ7Q2EwM",
+      "name": "Hey Ya!",
+      "artists": [
+        {
+          "id": "1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast"
+        }
+      ],
+      "album": {
+        "id": "1UsmQ3bpJTyK6ygoOOjG1r",
+        "release_date": "2003",
+        "name": "Speakerboxxx/The Love Below",
+        "artists": [
+          {
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 235,
+        "nanos": 213000000
+      },
+      "explicit": true
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     "name": "Modern Indie",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAGLcj9m1qpOUfn+Xe51qM67YWtWOp"
+    "snapshot_id": "AAAAGXp68aP91fhCo6tQSJjniEQO7WuO"
   },
   "tracks": [
     {
@@ -645,6 +645,34 @@
       "duration": {
         "secs": 190,
         "nanos": 190000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3YKsGgeW4c2nJdTxH3f1R7",
+      "name": "Far Away",
+      "artists": [
+        {
+          "id": "7HcipAIJatVGT4U6HQrnFW",
+          "name": "Junip"
+        }
+      ],
+      "album": {
+        "id": "7MYKXe1vkpjntVeRECZ9vy",
+        "release_date": "2010-06-04",
+        "name": "Rope and Summit - EP",
+        "artists": [
+          {
+            "id": "7HcipAIJatVGT4U6HQrnFW",
+            "name": "Junip"
+          }
+        ],
+        "typ": "single",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 166,
+        "nanos": 200000000
       },
       "explicit": false
     }

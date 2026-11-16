@@ -1,22 +1,23 @@
 85x  Paul van Dyk
-77x  Dusty Springfield
+79x  Dusty Springfield
 77x  God Is An Astronaut
-54x  The Brian Jonestown Massacre
-52x  Booka Shade
+70x  The Brian Jonestown Massacre
+54x  Booka Shade
+53x  Spiritualized
 51x  White Lies
-49x  LCD Soundsystem
+50x  LCD Soundsystem
 49x  ZZ Top
 48x  Maps
 48x  Maserati
 46x  Black Sabbath
+45x  New Order
 43x  Jon Hopkins
+43x  Kings of Leon
 43x  The Chemical Brothers
-42x  Kings of Leon
 38x  ATB
 38x  Night Beats
-37x  Spiritualized
 36x  Long Distance Calling
-35x  New Order
+36x  Perry Farrell
 34x  Noel Gallagher's High Flying Birds
 32x  Primal Scream
 31x  Causa Sui
@@ -27,8 +28,9 @@
 29x  Tides From Nebula
 27x  65daysofstatic
 27x  Gary Numan
+27x  Junip
 26x  If These Trees Could Talk
-26x  Junip
+26x  The Church
 26x  The National
 26x  The Pogues
 25x  Grandbrothers
@@ -36,23 +38,23 @@
 25x  Kelly Lee Owens
 25x  Mogwai
 25x  Shpongle
-25x  The Church
+25x  The Beach Boys
 24x  Doves
 24x  Les Big Byrd
 23x  GHOSTWOMAN
-23x  The Beach Boys
+23x  Röyksopp
 23x  The Go-Betweens
 23x  Tuber
+22x  Arcade Fire
 22x  Ride
-22x  Röyksopp
 22x  Swervedriver
 22x  Underworld
 22x  Valley of the Sun
-21x  Arcade Fire
 21x  Caesars
 21x  Greenleaf
 21x  Mattiel
 21x  Public Service Broadcasting
+21x  UNKLE
 20x  Chicane
 20x  Dead Kennedys
 20x  Editors
@@ -61,31 +63,32 @@
 20x  The Dandy Warhols
 20x  Yppah
 19x  Neuman
+19x  Pixies
 19x  Rival Consoles
 19x  Still Corners
 19x  Syd Barrett
-19x  UNKLE
 19x  Vessels
 18x  King Buffalo
 18x  pg.lost
 18x  Phantogram
+18x  Pink Floyd
+18x  Talking Heads
 18x  The Holy
 18x  The Limiñanas
 18x  trentemøller
 17x  Johnny Marr
 17x  Matthew E. White
 17x  Orbital
-17x  Pixies
 17x  Soulwax
-17x  Talking Heads
 17x  The Prodigy
+16x  Billy F Gibbons
 16x  Elbow
 16x  HAAi
 16x  My Sleeping Karma
 16x  October Drift
 16x  Pale Honey
-16x  Perry Farrell
 16x  Solarstone
+16x  The Stone Roses
 16x  Thee Oh Sees
 16x  Ulrich Schnauss
 15x  Amon Tobin
@@ -96,12 +99,14 @@
 15x  Nils Frahm
 15x  Orchid
 15x  The Jesus and Mary Chain
-15x  The Stone Roses
+15x  Them Crooked Vultures
 15x  Tor
 15x  Triangle Singular
 15x  You Am I
 14x  Death From Above 1979
 14x  Fuck Buttons
+14x  Regurgitator
+14x  Taylor Swift
 14x  The House of Love
 14x  Underground Lovers
 14x  YOTTO
@@ -110,24 +115,25 @@
 13x  Gotye
 13x  HALEY
 13x  Haley Bonar
+13x  INXS
 13x  Mara Balls
 13x  Mark Lanegan
 13x  Monomyth
 13x  Moon Duo
 13x  Papa M
 13x  Portishead
-13x  Regurgitator
 13x  Sea Power
-13x  Taylor Swift
 12x  Beyond The Wizards Sleeve
 12x  Black Rebel Motorcycle Club
 12x  BT
+12x  CHVRCHES
 12x  Gaz Coombes
 12x  Interpol
 12x  Jean-Michel Jarre
+12x  The Cure
 12x  Ty Segall
 11x  Björk
-11x  CHVRCHES
+11x  Bon Iver
 11x  Dappled Cities
 11x  Deerhunter
 11x  Devin Townsend
@@ -135,7 +141,6 @@
 11x  Earthless
 11x  Estiva
 11x  Green Lung
-11x  INXS
 11x  Placebo
 11x  Psychlona
 11x  The Orb
@@ -146,7 +151,6 @@
 10x  All Them Witches
 10x  Beasts Of Bourbon
 10x  Black Mountain
-10x  Bon Iver
 10x  Brant Bjork
 10x  Daniel Norgren
 10x  Dans Dans
@@ -158,13 +162,13 @@
 10x  Hannah Peel
 10x  Iggy Pop
 10x  Jon Gurd
+10x  Khan
 10x  Lunatic Soul
 10x  Orkidea
 10x  Protoculture
 10x  Pumarosa
 10x  Quantum Fantay
 10x  The Black Angels
-10x  The Cure
 9x  A Place To Bury Strangers
 9x  All India Radio
 9x  Binary Finary
@@ -177,6 +181,7 @@
 9x  Iron Maiden
 9x  Joy Division
 9x  Jules Buckley
+9x  Ladyhawke
 9x  Ladytron
 9x  Lindstrøm
 9x  LITE
@@ -215,13 +220,13 @@
 8x  Kadavar
 8x  Killing Joke
 8x  Kurt Vile
-8x  Ladyhawke
 8x  Mary Z. Cox
 8x  Metropole Orkest
 8x  Moby
 8x  Ozric Tentacles
 8x  Parquet Courts
 8x  Polynation
+8x  Roger Waters
 8x  Slowdive
 8x  Spidergawd
 8x  Steve Kilbey
@@ -252,18 +257,20 @@
 7x  Gang Of Four
 7x  GoGo Penguin
 7x  Golden Bug
+7x  Groove Armada
 7x  Hybrid
 7x  HÆLOS
 7x  Jarvis Cocker
 7x  Le Matos
 7x  Leech
+7x  Maceo Plex
 7x  Maha Sohona
+7x  Martha Reeves & The Vandellas
 7x  Matt Berry
 7x  Matt Lange
 7x  MONO
 7x  Motorpsycho
 7x  Phosphorescent
-7x  Pink Floyd
 7x  POLIÇA
 7x  Portico Quartet
 7x  Queens of the Stone Age
@@ -300,6 +307,7 @@
 6x  Brutus
 6x  Cinnamon Chasers
 6x  Clinic
+6x  Curtis Harding
 6x  Django Django
 6x  Dungen
 6x  Durante
@@ -308,7 +316,6 @@
 6x  Fluke
 6x  Föllakzoid
 6x  Ghostpoet
-6x  Groove Armada
 6x  GusGus
 6x  Holy Holy
 6x  Jah Wobble
@@ -343,8 +350,10 @@
 6x  Snapped Ankles
 6x  Sonic Youth
 6x  Steve Martin
+6x  Stevie Wonder
 6x  Swans
 6x  The Atomic Bitchwax
+6x  The Beatles
 6x  The Crystal Method
 6x  The Go! Team
 6x  The Haunted Youth
@@ -385,7 +394,6 @@
 5x  Collapse Under The Empire
 5x  Columbia Mills
 5x  Cubicolor
-5x  Curtis Harding
 5x  Cut Copy
 5x  Desert Sessions
 5x  Deserta
@@ -400,6 +408,7 @@
 5x  Floex
 5x  Foals
 5x  Fontaines D.C.
+5x  Foo Fighters
 5x  Freddie King
 5x  Gazpacho
 5x  Giorgia Angiuli
@@ -429,11 +438,9 @@
 5x  Lowrider
 5x  Lush
 5x  M83
-5x  Maceo Plex
 5x  Madrugada
 5x  Makeup And Vanity Set
 5x  Manic Street Preachers
-5x  Martha Reeves & The Vandellas
 5x  Martina Topley-Bird
 5x  Mary Ann Hawkins
 5x  Matt Fax
@@ -455,6 +462,7 @@
 5x  Pelican
 5x  Plaid
 5x  Porcupine Tree
+5x  Powderfinger
 5x  Protomartyr
 5x  Radiohead
 5x  Rolling Blackouts Coastal Fever
@@ -482,11 +490,13 @@
 5x  The Field
 5x  The Future Sound Of London
 5x  The Jam
+5x  The Marvelettes
 5x  The Psychedelic Furs
 5x  The Soft Moon
 5x  The Stranglers
 5x  The Temper Trap
 5x  The Veils
+5x  The Verve
 5x  The Warlocks
 5x  Tinlicker
 5x  Toundra
@@ -519,7 +529,6 @@
 4x  Beki Mari
 4x  Big Black Delta
 4x  Bill Evans
-4x  Billy F Gibbons
 4x  Bjørn Riis
 4x  Blackfield
 4x  Blanck Mass
@@ -536,6 +545,7 @@
 4x  Christian Gabel
 4x  Cold Cave
 4x  Converge
+4x  Daft Punk
 4x  Danger Mouse
 4x  Dave Gahan
 4x  Dead Can Dance
@@ -559,6 +569,7 @@
 4x  Field Music
 4x  Fink
 4x  Firefriend
+4x  Fleetwood Mac
 4x  Flunk
 4x  Flyying Colours
 4x  Four Tet
@@ -611,6 +622,7 @@
 4x  Kyuss
 4x  Laibach
 4x  Lloyd Cole
+4x  Louis Armstrong
 4x  Luna
 4x  Lycii
 4x  Magic Shoppe
@@ -690,16 +702,15 @@
 4x  The Crystals
 4x  The Durutti Column
 4x  The Electric Peanut Butter Company
+4x  The Everly Brothers
 4x  The Exorcist GBG
 4x  The Holydrug Couple
 4x  The Joy Formidable
-4x  The Marvelettes
 4x  The New Pornographers
 4x  The Slow Readers Club
 4x  The Smile
 4x  The Supremes
 4x  The Underground Youth
-4x  The Verve
 4x  The Vryll Society
 4x  The Wants
 4x  Those Who Ride With Giants
@@ -712,6 +723,7 @@
 4x  Turbowolf
 4x  Télépopmusik
 4x  Ulrika Spacek
+4x  Van Morrison
 4x  Vast
 4x  Warmduscher
 4x  We Lost The Sea
@@ -823,6 +835,7 @@
 3x  Enoch Rawk
 3x  Eric Luttrell
 3x  Ernesto Schnack
+3x  Etta James
 3x  Eve Maret
 3x  Extrawelt
 3x  Fat Sushi
@@ -830,6 +843,7 @@
 3x  Fenech-Soler
 3x  Film School
 3x  Fomies
+3x  Francois K
 3x  Frankie and the Witch Fingers
 3x  Friendly Fires
 3x  Fu Manchu
@@ -872,6 +886,7 @@
 3x  Jane's Addiction
 3x  jennylee
 3x  Jesu
+3x  Jim Morrison
 3x  Joe Turner
 3x  John Digweed
 3x  John Lee Hooker
@@ -926,6 +941,7 @@
 3x  Mammút
 3x  Manu Delago
 3x  Martin Roth
+3x  Marvin Gaye
 3x  Massive Attack
 3x  Maximo Park
 3x  Maximum Love
@@ -952,6 +968,7 @@
 3x  Moonlit Sailor
 3x  Morcheeba
 3x  Morgan Delt
+3x  Moscoman
 3x  Moskva-Kassiopeya
 3x  Motrik
 3x  Moya Brennan
@@ -965,6 +982,7 @@
 3x  Nordmann
 3x  North Mississippi Allstars
 3x  NYOS
+3x  Oasis
 3x  Oceansize
 3x  OCS
 3x  of Montreal
@@ -1002,6 +1020,7 @@
 3x  Richard Swift
 3x  Rising Appalachia
 3x  Robert Smith
+3x  Robyn
 3x  Rosetta
 3x  Royal Blood
 3x  Ryley Walker
@@ -1009,12 +1028,14 @@
 3x  Saad Ayub
 3x  Sacri Monti
 3x  Saint Saviour
+3x  Sam Cooke
 3x  Samsara Blues Experiment
 3x  Satellite Party
 3x  Satin Jackets
 3x  Savages
 3x  Scuba
 3x  Seewolf
+3x  Shirley Ellis
 3x  Shobaleader One
 3x  Sigur Rós
 3x  Sinoia Caves
@@ -1024,6 +1045,7 @@
 3x  Smog
 3x  Sofa Surfers
 3x  Soft Kill
+3x  Solomun
 3x  sombr
 3x  Songs: Ohia
 3x  Soulsavers
@@ -1035,19 +1057,18 @@
 3x  Stereo Express
 3x  Stereo MC's
 3x  Steve Dekay
-3x  Stevie Wonder
 3x  Stoned Jesus
 3x  Sufjan Stevens
 3x  Sumac
 3x  Sébastien Tellier
 3x  Takeshi's Cashew
+3x  Tammi Terrell
 3x  Tears For Fears
 3x  Technicolor Skies
 3x  TEED
 3x  Tempers
 3x  Tess Parks
 3x  The Asphodells
-3x  The Beatles
 3x  The Besnard Lakes
 3x  The Beta Band
 3x  The Big Moon
@@ -1060,7 +1081,6 @@
 3x  The Dream Syndicate
 3x  The Drones
 3x  The Echelon Effect
-3x  The Everly Brothers
 3x  The Grid
 3x  The Hives
 3x  The Juan Maclean
@@ -1144,6 +1164,7 @@
 2x  Aili & Orson
 2x  Airiel
 2x  AK/DK
+2x  Al Green
 2x  Al Lover
 2x  Alain Johannes
 2x  Alan Fitzpatrick
@@ -1202,12 +1223,14 @@
 2x  Belbury Poly
 2x  Bell Witch
 2x  Ben Chatwin
+2x  Ben E. King
 2x  Benge
 2x  Bent Knee
 2x  Bersærk
 2x  Betty Harris
 2x  Big Thief
 2x  BIG|BRAVE
+2x  Bill Withers
 2x  Black Belt Eagle Scout
 2x  Black Black Black
 2x  Black Cab
@@ -1265,6 +1288,7 @@
 2x  Christian Löffler
 2x  Christine and the Queens
 2x  Christopher O'Riley
+2x  Chuck Wood
 2x  Cid Inc.
 2x  Circuit des Yeux
 2x  CJ Bolland
@@ -1292,10 +1316,10 @@
 2x  Cream
 2x  Creedence Clearwater Revival
 2x  Crocodiles
+2x  Crowded House
 2x  Cuffed Up
 2x  Curses
 2x  Curve
-2x  Daft Punk
 2x  Daikaiju
 2x  Damien Jurado
 2x  Dan Deacon
@@ -1346,6 +1370,7 @@
 2x  Dropkick Murphys
 2x  Dräger
 2x  DT8 Project
+2x  Dua Lipa
 2x  Dub Trio
 2x  Duke Dumont
 2x  Duke Garwood
@@ -1371,6 +1396,7 @@
 2x  Elephant Stone
 2x  Eli Brown
 2x  Elliott Smith
+2x  Elton John
 2x  Elvis Costello
 2x  Emancipator
 2x  Emma Hewitt
@@ -1382,6 +1408,7 @@
 2x  Equador
 2x  ERA C
 2x  Etienne de Crécy 
+2x  Etty Lau Farrell
 2x  EverLight
 2x  Falle Nioke
 2x  Farflung
@@ -1395,12 +1422,13 @@
 2x  Flamingods
 2x  Flat Worms
 2x  Flea
-2x  Fleetwood Mac
 2x  FM Attack
 2x  FNP
 2x  Fontän
 2x  Fountaindale
 2x  Four Stroke Baron
+2x  Four Tops
+2x  Frank Sinatra
 2x  Frank Wiedemann
 2x  Frankie Rose
 2x  Franska Trion
@@ -1415,6 +1443,7 @@
 2x  Future Funk Squad
 2x  Gabriel & Dresden
 2x  Gai Barone
+2x  Garbage
 2x  Gaspard Augé
 2x  Gaudi
 2x  Gene Clark
@@ -1441,6 +1470,7 @@
 2x  Grum
 2x  Gunship
 2x  Hafdís Huld
+2x  HAIM
 2x  Haken
 2x  Half Man Half Biscuit
 2x  Halina Rice
@@ -1472,9 +1502,11 @@
 2x  Human Bell
 2x  Husky Loops
 2x  HVMP
+2x  Hyper
 2x  Hüsker Dü
 2x  Ian Urbina
 2x  Ihsahn
+2x  Ike & Tina Turner
 2x  Immanu El
 2x  Indian Askin
 2x  Indian Wells
@@ -1483,6 +1515,7 @@
 2x  International Music
 2x  IST IST
 2x  J-Walk
+2x  Jackie Wilson
 2x  Jagwar Ma
 2x  Jake Chudnow
 2x  JAMBINAI
@@ -1620,7 +1653,6 @@
 2x  Martin Gore
 2x  Martin Kohlstedt
 2x  Martyn Heyne
-2x  Marvin Gaye
 2x  Masters Of Reality
 2x  Mastersystem
 2x  Matt Berninger
@@ -1650,7 +1682,6 @@
 2x  Mondo Generator
 2x  Morphine
 2x  Morrissey
-2x  Moscoman
 2x  Mother's Cake
 2x  Mothership
 2x  Motta
@@ -1676,13 +1707,14 @@
 2x  Nicolas Godin
 2x  Night Moves
 2x  Nightbus
+2x  Nile Rodgers
 2x  Nilüfer Yanya
+2x  Nina Simone
 2x  Noel Gallagher
 2x  Nomeansno
 2x  Notize
 2x  Nourey
 2x  Oak Pantheon
-2x  Oasis
 2x  OceanLab
 2x  Odonis Odonis
 2x  OGRE Sound
@@ -1703,6 +1735,7 @@
 2x  Ozzy Osbourne
 2x  Pale Saints
 2x  Panda Bear
+2x  PaperMacheTiger
 2x  Paris Angels
 2x  Passengers
 2x  Pat Metheny Group
@@ -1717,6 +1750,7 @@
 2x  Peter Broderick
 2x  Peter Doherty
 2x  pHader
+2x  Pharrell Williams
 2x  Phil France
 2x  Philip Selway
 2x  Philippa Nihill
@@ -1757,6 +1791,7 @@
 2x  REZN
 2x  Rich Ruth
 2x  Richard Dawson
+2x  Richard Norris
 2x  Ritual Howls
 2x  Rival Sons
 2x  Riverside
@@ -1765,7 +1800,6 @@
 2x  Robert Miles
 2x  Robert Nickson
 2x  Robin Guthrie
-2x  Robyn
 2x  Rodrigo y Gabriela
 2x  Rolo Tomassi
 2x  Ron Flatter
@@ -1789,6 +1823,7 @@
 2x  Saint Jude
 2x  Sakura
 2x  Salem's Pot
+2x  Sama’ Abdulhadi
 2x  Sarah Longfield
 2x  Saybia
 2x  SCALER
@@ -1814,7 +1849,6 @@
 2x  Shellac
 2x  shel·ly
 2x  Shirley Bassey
-2x  Shirley Ellis
 2x  Shuggie Otis
 2x  SiebZehn
 2x  Silent Island
@@ -1826,6 +1860,7 @@
 2x  Sinead O Brien
 2x  Singapore Sling
 2x  Sinéad O'Connor
+2x  Sister Sledge
 2x  Sivert Høyem
 2x  Slayer
 2x  Sleater-Kinney
@@ -1836,7 +1871,6 @@
 2x  Snowy Dunes
 2x  Sol Oosel
 2x  Sol Seppy
-2x  Solomun
 2x  Songhoy Blues
 2x  Sonnee
 2x  SONOIO
@@ -1855,6 +1889,7 @@
 2x  Steep Canyon Rangers
 2x  Stendeck
 2x  Stephen Malkmus
+2x  Stereophonics
 2x  Steve Hackett
 2x  Steve Mason
 2x  Stevie Ray Vaughan
@@ -1883,7 +1918,6 @@
 2x  Talk Show
 2x  Tall Ships
 2x  Tamar Aphek
-2x  Tammi Terrell
 2x  Tapan
 2x  TAUK
 2x  Taut
@@ -1901,6 +1935,7 @@
 2x  The Amazing
 2x  The American Dollar
 2x  The Anchoress
+2x  The Avalanches
 2x  The Bad Plus
 2x  The Bambi Molesters
 2x  The Beloved
@@ -1940,6 +1975,7 @@
 2x  The Hirsch Effekt
 2x  The Homesick
 2x  The Irrepressibles
+2x  The Isley Brothers
 2x  The Ivory Elephant
 2x  The Jesus Lizard
 2x  The Jezabels
@@ -1969,6 +2005,7 @@
 2x  The Sound
 2x  The Specials
 2x  The Stooges
+2x  The Temptations
 2x  The Toxic Avenger
 2x  The Twilight Singers
 2x  The Umlauts
@@ -1977,7 +2014,6 @@
 2x  The Wave Pictures
 2x  The Wedding Present
 2x  The Well
-2x  Them Crooked Vultures
 2x  Then Comes Silence
 2x  These New Puritans
 2x  Third Son
@@ -2009,7 +2045,6 @@
 2x  Ursus Factory
 2x  Vactrol Park
 2x  Valerian Swing
-2x  Van Morrison
 2x  Vanbur
 2x  Villagers of Ioannina City
 2x  Violet Cold
@@ -2089,6 +2124,7 @@
 1x  A Winged Victory for the Sullen
 1x  A. Savage
 1x  Aarhus Jazz Orchestra
+1x  ABBA
 1x  Abigail's Ghost
 1x  Abramov
 1x  Absoluuttinen nollapiste
@@ -2128,7 +2164,6 @@
 1x  Aisha Vaughan
 1x  Aix Em Klemm
 1x  Akord
-1x  Al Green
 1x  Al Wilson
 1x  Alabaster DePlume
 1x  Alan Braxe
@@ -2252,6 +2287,7 @@
 1x  Arcis
 1x  Arcturus
 1x  Arenna
+1x  Aretha Franklin
 1x  Argatu'
 1x  Ariel Pink
 1x  Armin van Buuren
@@ -2333,12 +2369,12 @@
 1x  Beastmilk
 1x  Beastwars
 1x  Bed Rugs
+1x  Bee Gees
 1x  Behind the Shadow Drops
 1x  Belief
 1x  Bellman
 1x  Belzebong
 1x  Ben Böhmer
-1x  Ben E. King
 1x  Ben Folds
 1x  Ben Frost
 1x  Ben LaMar Gay
@@ -2364,6 +2400,7 @@
 1x  Between The Buried And Me
 1x  BetweenUs
 1x  Beverly Kills
+1x  Beyoncé
 1x  Bicurious
 1x  Biesmans
 1x  Big Audio Dynamite
@@ -2380,7 +2417,6 @@
 1x  Bill Frisell
 1x  Bill Laurance
 1x  Bill Wells
-1x  Bill Withers
 1x  Bill Wyman
 1x  Billy Bragg
 1x  Billy Fury
@@ -2476,6 +2512,7 @@
 1x  Bruce Cockburn
 1x  Bruce Lamont
 1x  Bruce O'Neil
+1x  Bruno Mars
 1x  Brygada Kryzys
 1x  Buck Official
 1x  Buckethead
@@ -2563,6 +2600,7 @@
 1x  Cherry Ghost
 1x  Cherry Glazerr
 1x  Chet Faker
+1x  CHIC
 1x  Chilly Gonzales
 1x  Chino Moreno
 1x  Chinza Dopeness
@@ -2586,7 +2624,6 @@
 1x  Chrome Sparks
 1x  Chuck Berry
 1x  Chuck Jackson
-1x  Chuck Wood
 1x  Chut On Vous Écoute
 1x  Cibelle
 1x  Cid Rim
@@ -2651,7 +2688,6 @@
 1x  CRi
 1x  Cristobal Tapia De Veer
 1x  Crooked Colours
-1x  Crowded House
 1x  Crows
 1x  Crush
 1x  Cryo
@@ -2669,6 +2705,7 @@
 1x  Cuushe
 1x  Cyanotic
 1x  Cymande
+1x  Cyndi Lauper
 1x  D.J. Pierre
 1x  D.O.D
 1x  Dad
@@ -2846,7 +2883,6 @@
 1x  DSARDY
 1x  DTSQ
 1x  Du Blonde
-1x  Dua Lipa
 1x  Duane Eddy
 1x  Duffy Power
 1x  Dugo
@@ -2868,6 +2904,7 @@
 1x  Eagles
 1x  Earl Greyhound
 1x  Earth Tongue
+1x  Earth, Wind & Fire
 1x  Easy Star All-Stars
 1x  Eat Static
 1x  Eat The Day
@@ -2875,6 +2912,7 @@
 1x  Echonomist
 1x  Ed Carlsen
 1x  Ed Dowie
+1x  Ed Sheeran
 1x  Eddie Floyd
 1x  Edgar Mondragón
 1x  Edison Jr.
@@ -2901,6 +2939,7 @@
 1x  Eliza & The Delusionals
 1x  Eliza Shaddad
 1x  Ell Murphy
+1x  Ella Fitzgerald
 1x  Elliot Power
 1x  Ellis May
 1x  Ellroy
@@ -2942,11 +2981,11 @@
 1x  Espers
 1x  Ester Nannmark
 1x  Estrons
-1x  Etta James
 1x  Eva Geist
 1x  Evan Brewer
 1x  Evendorff
 1x  Ever Age
+1x  Everclear
 1x  Evil Nine
 1x  Ex Hex
 1x  Ex:Re
@@ -3025,7 +3064,6 @@
 1x  Fort Romeau
 1x  Forty Cats
 1x  Forty Feet Tall
-1x  Four Tops
 1x  fox capture plan
 1x  Foxygen
 1x  Fragrance
@@ -3033,7 +3071,6 @@
 1x  Franc Moody
 1x  Francis of Delirium
 1x  Franco Battiato
-1x  Francois K
 1x  Frank Black & The Catholics
 1x  Frank Zappa
 1x  Franky Perez
@@ -3069,7 +3106,6 @@
 1x  GAIA
 1x  Galactic
 1x  Galaxie 500
-1x  Garbage
 1x  Garcia Peoples
 1x  Gard Nilssen
 1x  Gardens of God
@@ -3161,11 +3197,13 @@
 1x  Grey Reverend
 1x  Gridlayer
 1x  Grimes
+1x  Grinspoon
 1x  Grizzly Bear
 1x  Group Listening
 1x  Guerilla Toss
 1x  Gunn - Truscinski Duo
 1x  Guster
+1x  Guy Gerber
 1x  Guy J
 1x  Guz
 1x  GVN
@@ -3180,7 +3218,6 @@
 1x  HAERTS
 1x  HAH
 1x  Haiku Salut
-1x  HAIM
 1x  Hainbach
 1x  Hal Stucker
 1x  HALIENE
@@ -3201,6 +3238,7 @@
 1x  Harmath Szabolcs
 1x  Harriet Brown
 1x  Harrison Brome
+1x  Harry Belafonte
 1x  Harry Collier
 1x  Harry Nilsson
 1x  Harvester
@@ -3257,6 +3295,7 @@
 1x  Holy Magick
 1x  Holy Wave
 1x  Home Video
+1x  Hoodoo Gurus
 1x  Hope Sandoval & The Warm Inventions
 1x  Horsey
 1x  Hosini
@@ -3300,7 +3339,6 @@
 1x  Idlewild
 1x  Iggor Cavalera
 1x  Iguana Moonlight
-1x  Ike & Tina Turner
 1x  Il Quadro di Troisi
 1x  Ill Considered
 1x  Ilseviolin
@@ -3348,7 +3386,6 @@
 1x  Jack Nitzsche
 1x  Jackie DeShannon
 1x  Jackie Shane
-1x  Jackie Wilson
 1x  Jackson And His Computer Band
 1x  Jacques Dutronc
 1x  Jacques Greene
@@ -3396,6 +3433,7 @@
 1x  Jaytech
 1x  JB Dunckel
 1x  Jealous of the Birds
+1x  Jebediah
 1x  Jeff Beck
 1x  Jeff Tweedy
 1x  Jefferson Airplane
@@ -3415,7 +3453,6 @@
 1x  Jim Ford
 1x  Jim Guthrie
 1x  Jim James
-1x  Jim Morrison
 1x  Jim Noir
 1x  Jimi
 1x  Jimi Tenor
@@ -3497,6 +3534,7 @@
 1x  Junket
 1x  juns
 1x  Just Her
+1x  Justin Timberlake
 1x  Jörkk Mechenbier
 1x  Júníus Meyvant
 1x  K.D.A.P.
@@ -3540,6 +3578,7 @@
 1x  Kavi Kwai
 1x  Kaz James
 1x  Kazam
+1x  KC & The Sunshine Band
 1x  Keaton Henson
 1x  Keeley Forsyth
 1x  Kelley Stoltz
@@ -3557,6 +3596,7 @@
 1x  Khôrada
 1x  Kid Creole And The Coconuts
 1x  Kieran Brunt
+1x  Killing Heidi
 1x  Kiln
 1x  Kind Heaven Orchestra
 1x  Kinder
@@ -3587,6 +3627,7 @@
 1x  Kohib
 1x  Kombynat Robotron
 1x  Konx-Om-Pax
+1x  Kool & The Gang
 1x  Kopium
 1x  Kormac
 1x  Kraak & Smaak
@@ -3622,6 +3663,7 @@
 1x  Lankum
 1x  Lara Somogyi
 1x  Large Plants
+1x  Larkin Poe
 1x  Larry Williams & Johnny Watson
 1x  Lars Bartkuhn
 1x  Lars Horntveth
@@ -3681,6 +3723,7 @@
 1x  Lingua Ignota
 1x  Linn Frøkedal
 1x  Lionel Limiñana
+1x  Lionel Richie
 1x  Liquid Bloom
 1x  Liquify
 1x  Lisa Li-Lund
@@ -3691,6 +3734,7 @@
 1x  Little People
 1x  Little Richard
 1x  Little Willie John
+1x  Live
 1x  Liz Lawrence
 1x  Lo Moon
 1x  Lo-Fi Sugar
@@ -3822,6 +3866,7 @@
 1x  Mark Lettieri
 1x  Mark Morriss
 1x  Mark Morton
+1x  Mark Ronson
 1x  Mark Sherry
 1x  Mark Sixma
 1x  Marlena Shaw
@@ -3838,6 +3883,7 @@
 1x  Mass Gothic
 1x  Mastodon
 1x  Mat Zo
+1x  Matchbox Twenty
 1x  Mathilde Bataillé
 1x  Matilda Wiezell
 1x  Matt Haimovitz
@@ -3873,6 +3919,7 @@
 1x  Melllo
 1x  Mellowdine
 1x  MEMORIALS
+1x  Men At Work
 1x  Menace Beach
 1x  Menke
 1x  Mental Minority
@@ -3895,6 +3942,7 @@
 1x  Michael Chapman
 1x  Michael Garrison
 1x  Michael Head & The Red Elastic Band
+1x  Michael Jackson
 1x  Michael Kiwanuka
 1x  Michael Krohn
 1x  Michael Rault
@@ -4014,6 +4062,7 @@
 1x  Naked Raygun
 1x  Nakhane
 1x  Nancy Sinatra
+1x  Nat King Cole
 1x  Natalia Avelon
 1x  Nathaniel Timoney
 1x  National Philharmonic Orchestra
@@ -4059,11 +4108,9 @@
 1x  Nihil Young
 1x  Nik Turner
 1x  Nikonn
-1x  Nile Rodgers
 1x  Nils Davidse
 1x  Nils Petter Molvær
 1x  Nina Persson
-1x  Nina Simone
 1x  Nine Horses
 1x  Ninos Du Brasil
 1x  Niteppl
@@ -4141,8 +4188,10 @@
 1x  Orville Peck
 1x  OSPHOR
 1x  Otherkin
+1x  Otis Redding
 1x  Ott
 1x  Ought
+1x  Outkast
 1x  Outrun The Sunlight
 1x  Ouzo Bazooka
 1x  Overmono
@@ -4285,6 +4334,7 @@
 1x  Pretty Girls Make Graves
 1x  Pretty Pink
 1x  Priests
+1x  Prince
 1x  Princess Goes
 1x  Principe Valiente
 1x  Principleasure
@@ -4308,6 +4358,7 @@
 1x  Q-Tip
 1x  Q.U.A.K.E
 1x  Quart
+1x  Queen
 1x  Queen of Japan
 1x  Quest For Fire
 1x  QUINQUIS
@@ -4474,7 +4525,6 @@
 1x  Samantha Ohlanders
 1x  Samaris
 1x  Samavayo
-1x  Sama’ Abdulhadi
 1x  Samuel Gallo
 1x  Samuel Hope
 1x  Samuel T. Herring
@@ -4525,6 +4575,7 @@
 1x  Seefeel
 1x  SeeMeNot
 1x  Sef Lemelin
+1x  Semisonic
 1x  Sensitizer
 1x  Sentre
 1x  Sequoyah Tiger
@@ -4566,6 +4617,7 @@
 1x  Silver Apples
 1x  Silver Synthetic
 1x  Silverbacks
+1x  Silverchair
 1x  Sim Nagai
 1x  Simon Posford
 1x  Simonne Jones
@@ -4580,7 +4632,6 @@
 1x  Sirens
 1x  Sissi Rada
 1x  Sister Crayon
-1x  Sister Sledge
 1x  Sisters of Mercy
 1x  Sithu Aye
 1x  Six Organs Of Admittance
@@ -4623,6 +4674,7 @@
 1x  Solkatt
 1x  Solvent
 1x  Somebody's Child
+1x  Something For Kate
 1x  Son Little
 1x  Song Sung
 1x  Sonic Boom
@@ -4650,11 +4702,13 @@
 1x  Spada
 1x  Sparklehorse
 1x  SPARKLING
+1x  Speakman
 1x  Special Interest
 1x  Special Request
 1x  SpectraSoul
 1x  Spencer Elliott
 1x  Spencer Krug
+1x  Spiderbait
 1x  Spielbergs
 1x  Spike Fuck
 1x  Spindrift
@@ -4688,7 +4742,6 @@
 1x  Stephen Brodsky
 1x  Stephen O'Malley
 1x  Stephen Rea
-1x  Stereophonics
 1x  Steve Moore
 1x  Steve Osborne
 1x  Steve Roach
@@ -4859,6 +4912,7 @@
 1x  The Dogs
 1x  The Dramatics
 1x  The Dreamlanders
+1x  The Drifters
 1x  The Drums
 1x  The DSM IV
 1x  The Dubliners
@@ -4876,6 +4930,7 @@
 1x  The Flirtations
 1x  The Flying Eyes
 1x  The Folk Implosion
+1x  The Foundations
 1x  The Four Seasons
 1x  The Frank And Walters
 1x  The Futureheads
@@ -4884,6 +4939,7 @@
 1x  The Georgia Jays
 1x  The Glove
 1x  The GOASTT (The Ghost Of A Saber Tooth Tiger)
+1x  The Goo Goo Dolls
 1x  The Good The Bad and The Zugly
 1x  The Good, the Bad & the Queen
 1x  The Goon Sax
@@ -4899,7 +4955,7 @@
 1x  The Impressions
 1x  The Invaders Of The Heart
 1x  The Irresistible Force
-1x  The Isley Brothers
+1x  The Jackson 5
 1x  The Jaynetts
 1x  The Jon Spencer Blues Explosion
 1x  The Karminsky Experience Inc.
@@ -4910,6 +4966,7 @@
 1x  The Legendary Pink Dots
 1x  The Leisure Society
 1x  The Lemonheads
+1x  The Living End
 1x  The Long Winters
 1x  The Longcut
 1x  The Lounge Society
@@ -5008,6 +5065,7 @@
 1x  The Strangeloves
 1x  The String Theory
 1x  The Stroppies
+1x  The Superjesus
 1x  The Surfing Magazines
 1x  The Surrealist
 1x  The Swayback
@@ -5018,8 +5076,8 @@
 1x  The Tangent
 1x  The Tazers
 1x  The Teardrop Explodes
-1x  The Temptations
 1x  The Three Degrees
+1x  The Time & Space Machine
 1x  The Tomangoes
 1x  The Tornados
 1x  The Tragically Hip
@@ -5035,6 +5093,8 @@
 1x  The Walker Brothers
 1x  The Walking Who
 1x  The Walkmen
+1x  The Weeknd
+1x  The Whitlams
 1x  The Wipers
 1x  The Woolen Men
 1x  The Wrecking Queens
@@ -5042,6 +5102,7 @@
 1x  The Yardbirds
 1x  The Young Gods
 1x  The Zombies
+1x  Thee Sacred Souls
 1x  Their Dogs Were Astronauts
 1x  Them
 1x  Theo Alexander
@@ -5051,6 +5112,7 @@
 1x  TheRio
 1x  Thermostatic
 1x  Thievery Corporation
+1x  Third Eye Blind
 1x  This Be The Verse
 1x  This Is The Kit
 1x  This Mortal Coil
@@ -5199,6 +5261,7 @@
 1x  VER:WEST
 1x  Vero
 1x  Verstärker
+1x  Vertical Horizon
 1x  Vibrasphere
 1x  Vicky Jackson
 1x  Vicky Webb
@@ -5270,6 +5333,7 @@
 1x  White Hills
 1x  White Noise Sound
 1x  Whiteroom
+1x  Whitney Houston
 1x  Whoopie Cat
 1x  Whores
 1x  WHY?
@@ -5282,6 +5346,7 @@
 1x  William Bell
 1x  Williams Fairey Brass Band
 1x  Willie J Healey
+1x  Wilson Pickett
 1x  Windy & Carl
 1x  Wings of Desire
 1x  Winter Kills

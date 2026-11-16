@@ -5,7 +5,7 @@
     "name": "Your All-Time Top Songs",
     "desc": "Spotify presents: your most-played, now playing.",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAAD98jLIQrq9npzyGihEotJT5ezYw"
+    "snapshot_id": "AAAAAJ5KEfITDGGBH9lRXU80Rr+uhgps"
   },
   "tracks": [
     {
@@ -930,7 +930,7 @@
         "secs": 177,
         "nanos": 200000000
       },
-      "explicit": false
+      "explicit": true
     },
     {
       "id": "53PkA8aXiwH4ppa0V0iO7o",
@@ -2738,7 +2738,7 @@
         "secs": 191,
         "nanos": 533000000
       },
-      "explicit": false
+      "explicit": true
     },
     {
       "id": "0c0U4NnHDNfv70Zfjlpwtw",

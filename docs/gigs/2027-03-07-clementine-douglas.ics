@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2027-03-07-clementine-douglas@spotify_data
+DTSTAMP:20261116T005329Z
+DTSTART:20270307T030000Z
+DTEND:20270307T060000Z
+SUMMARY:Clementine Douglas / Tara Kumar / Jimi the Kween
+LOCATION:The Beresford and Hill Street Laneway\, 354 Bourke St\, Surry Hill
+ s
+DESCRIPTION:Clementine Douglas / Tara Kumar / Jimi the Kween\n\nClementine 
+ Douglas: favourite #172\n\nhttps://www.moshtix.com.au/v2/event/laneway/200
+ 936
+URL:https://www.moshtix.com.au/v2/event/laneway/200936
+END:VEVENT
+END:VCALENDAR

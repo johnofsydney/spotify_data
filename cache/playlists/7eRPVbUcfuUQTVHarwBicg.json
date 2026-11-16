@@ -5,7 +5,7 @@
     "name": "Wedding playlist ",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAADEmSGAVXBn9tXmSCdUYvr4EWaEHm"
+    "snapshot_id": "AAAAETaVFZK68mqb0UG+RvbYWYzMrTxZ"
   },
   "tracks": [
     {
@@ -317,6 +317,146 @@
       "duration": {
         "secs": 300,
         "nanos": 34000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "29U7stRjqHU6rMiS8BfaI9",
+      "name": "What A Wonderful World",
+      "artists": [
+        {
+          "id": "19eLuQmk9aCobbVDHc6eek",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "album": {
+        "id": "6mmv0gwumlFGWDGJXF4yEv",
+        "release_date": "1968-01-01",
+        "name": "What A Wonderful World",
+        "artists": [
+          {
+            "id": "19eLuQmk9aCobbVDHc6eek",
+            "name": "Louis Armstrong"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 139,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4Hhv2vrOTy89HFRcjU3QOx",
+      "name": "At Last",
+      "artists": [
+        {
+          "id": "0iOVhN3tnSvgDbcg25JoJb",
+          "name": "Etta James"
+        }
+      ],
+      "album": {
+        "id": "7rd4PorIOPjPTy7qdUeeCt",
+        "release_date": "1960",
+        "name": "At Last!",
+        "artists": [
+          {
+            "id": "0iOVhN3tnSvgDbcg25JoJb",
+            "name": "Etta James"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 179,
+        "nanos": 693000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4EyzhvYqC5uDA8iYTZNKiw",
+      "name": "Wonderful World",
+      "artists": [
+        {
+          "id": "6hnWRPzGGKiapVX1UCdEAC",
+          "name": "Sam Cooke"
+        }
+      ],
+      "album": {
+        "id": "5gThgG5LPRzL8Egdm2Izpm",
+        "release_date": "2017-02-03",
+        "name": "Dinner with My Darling",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ],
+        "typ": "compilation",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 125,
+        "nanos": 840000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "6rLqjzGV5VMLDWEnuUqi8q",
+      "name": "Dancing In The Street",
+      "artists": [
+        {
+          "id": "1Pe5hlKMCTULjosqZ6KanP",
+          "name": "Martha Reeves & The Vandellas"
+        }
+      ],
+      "album": {
+        "id": "3lFGAL3WruNTdBXfct7ZbZ",
+        "release_date": "1965-01-01",
+        "name": "Dance Party",
+        "artists": [
+          {
+            "id": "1Pe5hlKMCTULjosqZ6KanP",
+            "name": "Martha Reeves & The Vandellas"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 165,
+        "nanos": 226000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "4IvZLDtwBHmBmwgDIUbuwa",
+      "name": "Here Comes Your Man",
+      "artists": [
+        {
+          "id": "6zvul52xwTWzilBZl6BUbT",
+          "name": "Pixies"
+        }
+      ],
+      "album": {
+        "id": "0DQyTVcDhK9wm0f6RaErWO",
+        "release_date": "1989-04-17",
+        "name": "Doolittle",
+        "artists": [
+          {
+            "id": "6zvul52xwTWzilBZl6BUbT",
+            "name": "Pixies"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 201,
+        "nanos": 186000000
       },
       "explicit": false
     }
