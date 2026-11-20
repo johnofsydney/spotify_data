@@ -47,6 +47,7 @@ python3 gigs/score.py
 python3 gigs/calendar.py
 ./bin/record_history.sh
 python3 bin/artist_stories.py
+./bin/check_ai_artists.sh
 ./bin/build_page.sh
 # Changes Spotify, not this repository, so a failure is logged rather than
 # allowed to cost the week's commit.

@@ -30,6 +30,9 @@ disc=$(jq -c --argjson n "$disc_n" '[.[0:$n][] |
   {rank, score, votes, name, from: (.from | join(", "))}]' "$root/discover_artists.json")
 
 albums=$( [ -f "$root/album_pool.json" ] && jq -c '[.[] | {k: .key, a: .artist_id, artist, album, id, year, source, hits, new, score, from: (.from | join(", "))}]' "$root/album_pool.json" || echo '[]')
+
+# Flagged by bin/check_ai_artists.sh against ai_artists_watchlist.json.
+ai_flags=$( [ -f "$root/ai_artists_flagged.json" ] && jq -c '.' "$root/ai_artists_flagged.json" || echo '[]')
 # Gigs: the scored sections in full, the no-data list trimmed to what the
 # collapsed list shows. Absent until the first gig run.
 gigs=$( [ -f "$root/gig_recs.json" ] && jq -c '
@@ -239,6 +242,14 @@ footer { margin-top: 56px; color: var(--muted); font-size: 13px; border-top: 1px
   <div class="sub" id="clubkey" hidden><span class="clubkey"></span>Tinted rows include an artist from $club_name.</div>
 </header>
 
+<section id="aisection" hidden>
+<h2>Rumoured AI artists on your playlists</h2>
+<p class="note">Checked weekly against a watchlist of artists reported elsewhere as
+AI-generated or AI personas (see <code>ai_artists_watchlist.json</code>). Not a
+detector &mdash; only catches a name already reported.</p>
+<div class="list" id="aiflags"></div>
+</section>
+
 <h2>Favourite artists</h2>
 <p class="note">Scored across ten years of Spotify's yearly top songs, current top
 tracks, playlist breadth and depth, a hand-kept favourites playlist, dedicated
@@ -295,6 +306,7 @@ and see what it measures; tap again to reverse.</p>
 const favs = $favs;
 const disc = $disc;
 const albumPool = $albums;
+const aiFlags = $ai_flags;
 const albumPer = $per_artist, albumCount = $album_count, albumStamp = '$generated';
 const brk = $brk;
 const weights = $weights;
@@ -469,6 +481,14 @@ if (unfollowed.length) {
   el.innerHTML = '<b>Not followed yet (' + unfollowed.length + '):</b> ' +
     unfollowed.map(a => artistLink(a.name) + ' <span class="rank">#' + a.rank + '</span>').join(', ') +
     '. Follow them in Spotify and they drop off this list.';
+}
+if (aiFlags.length) {
+  document.getElementById('aisection').hidden = false;
+  document.getElementById('aiflags').innerHTML = aiFlags.map(a =>
+    '<div class="row"><div></div><div><div class="name">' + artistLink(a.name) +
+    '</div><div class="meta">on ' + a.playlists.map(esc).join(', ') + ' &middot; ' + esc(a.note) +
+    (a.source ? ' &middot; <a href="' + esc(a.source) + '">source</a>' : '') + '</div></div><div></div></div>'
+  ).join('');
 }
 document.getElementById('disc').innerHTML = disc.map(a =>
   '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
