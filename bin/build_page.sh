@@ -55,6 +55,13 @@ club_id=$(jq -r --arg n "$club_name" 'to_entries[] | select(.value.name == $n) |
 club=$( [ -n "$club_id" ] && [ -f "$root/cache/playlists/$club_id.json" ] &&
   jq -c '[.tracks[].artists[].name] | unique' "$root/cache/playlists/$club_id.json" || echo '[]')
 
+# Every distinct album on the club playlist, for the full list at the foot of
+# the page. One row per album, not per track.
+club_albums=$( [ -n "$club_id" ] && [ -f "$root/cache/playlists/$club_id.json" ] &&
+  jq -c '[.tracks[].album] | unique_by(.id) |
+    map({id, album: .name, artist: (.artists | map(.name) | join(", ")), date: .release_date})' \
+    "$root/cache/playlists/$club_id.json" || echo '[]')
+
 # Spotify ids by artist name, for linking names in every table to the artist's
 # page. Known artists come from their cached details, discovery artists from the
 # discovery list; gig acts carry their own ids.
@@ -299,6 +306,13 @@ first few tracks earn far more than the fortieth. Tap a heading to sort by it
 and see what it measures; tap again to reverse.</p>
 <div class="tablewrap"><table class="brk" id="brk"></table></div>
 
+<section id="clubalbums">
+<h2>$club_name: every album</h2>
+<p class="note">Every distinct album on the club playlist, numbered in release
+order. Tap a heading to sort by it; tap again to reverse.</p>
+<div class="tablewrap"><table class="brk" id="clubtable"></table></div>
+</section>
+
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <footer>Built from Spotify data by <code>bin/build_page.sh</code>.</footer>
 </div>
@@ -309,6 +323,7 @@ const albumPool = $albums;
 const aiFlags = $ai_flags;
 const albumPer = $per_artist, albumCount = $album_count, albumStamp = '$generated';
 const brk = $brk;
+const clubAlbums = $club_albums;
 const weights = $weights;
 const tuning = $tuning;
 const stories = $stories;
@@ -693,6 +708,54 @@ table.addEventListener('click', e => {
   render();
 });
 render();
+
+// Numbered in release order (oldest first) and fixed there regardless of how
+// the table is currently sorted, same as the favourites rank column above.
+{
+  const byDate = clubAlbums.slice().sort((x, y) => (x.date || '') < (y.date || '') ? -1 : (x.date || '') > (y.date || '') ? 1 : 0);
+  const numbered = byDate.map((a, i) => Object.assign({n: i + 1}, a));
+  const columns = [
+    {key: 'n', label: '#', cls: 'pin r', value: a => a.n, asc: true},
+    {key: 'album', label: 'Album', cls: 'pin n', value: a => a.album.toLowerCase(), asc: true},
+    {key: 'artist', label: 'Artist', value: a => a.artist.toLowerCase(), asc: true},
+    {key: 'date', label: 'Release date', value: a => a.date || '', asc: true}
+  ];
+  let sort = {key: 'n', asc: true};
+  const header = () => '<thead><tr>' + columns.map(c => {
+    const on = sort.key === c.key;
+    const arrow = on ? (sort.asc === !!c.asc ? '▾' : '▴') : '';
+    return '<th' + (c.cls ? ' class="' + c.cls + '"' : '') +
+      (on ? ' aria-sort="' + (sort.asc ? 'ascending' : 'descending') + '"' : '') +
+      '><button type="button" data-key="' + c.key + '">' +
+      (c.cls ? '' : '<span class="arrow">' + arrow + '</span>') + c.label +
+      (c.cls ? '<span class="arrow">' + arrow + '</span>' : '') + '</button></th>';
+  }).join('') + '</tr></thead>';
+  const sorted = () => {
+    const col = columns.find(c => c.key === sort.key);
+    const dir = sort.asc ? 1 : -1;
+    return numbered.slice().sort((x, y) => {
+      const a = col.value(x), b = col.value(y);
+      if (a < b) return -dir;
+      if (a > b) return dir;
+      return x.n - y.n;
+    });
+  };
+  const rows = list => '<tbody>' + list.map(a =>
+    '<tr><td class="pin r">' + a.n + '</td>' +
+    '<td class="pin n" title="' + esc(a.album) + '">' + esc(a.album) + '</td>' +
+    '<td style="text-align:left">' + artistLink(a.artist) + '</td>' +
+    '<td>' + esc(a.date || '') + '</td></tr>').join('') + '</tbody>';
+  const table = document.getElementById('clubtable');
+  const render = () => { table.innerHTML = header() + rows(sorted()); };
+  table.addEventListener('click', e => {
+    const btn = e.target.closest('button[data-key]');
+    if (!btn) return;
+    const col = columns.find(c => c.key === btn.dataset.key);
+    sort = sort.key === col.key ? {key: col.key, asc: !sort.asc} : {key: col.key, asc: !!col.asc};
+    render();
+  });
+  render();
+}
 </script>
 </body>
 </html>
