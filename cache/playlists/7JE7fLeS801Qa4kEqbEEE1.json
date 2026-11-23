@@ -5,7 +5,7 @@
     "name": "Sparse Guitars",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAAIB8Q6h6EaSeT2iepbM5XzcZ2q9vj"
+    "snapshot_id": "AAAAIdW8CfCn4HuVQOtuONZM6MSGaOEg"
   },
   "tracks": [
     {
@@ -821,6 +821,34 @@
       "duration": {
         "secs": 187,
         "nanos": 616000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1s0EhxGMlnR0E47dRmwFZe",
+      "name": "Yes",
+      "artists": [
+        {
+          "id": "2uUXIzIj1xEIyauiajWeyo",
+          "name": "Room Service"
+        }
+      ],
+      "album": {
+        "id": "5kR8QkF6vQ2M8eFsiRiWSg",
+        "release_date": "2023-07-06",
+        "name": "Things Left to Do",
+        "artists": [
+          {
+            "id": "2uUXIzIj1xEIyauiajWeyo",
+            "name": "Room Service"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 220,
+        "nanos": 373000000
       },
       "explicit": false
     }

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//spotify_data//gig picker//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2026-12-01-rise-against@spotify_data
+DTSTAMP:20261123T002646Z
+DTSTART:20261201T070000Z
+DTEND:20261201T100000Z
+SUMMARY:Rise Against (USA) / Dropkick Murphys (USA) / Haywire (USA)
+LOCATION:Sydney Opera House Forecourt\, Bennelong Point\, Sydney
+DESCRIPTION:Rise Against (USA) / Dropkick Murphys (USA) / Haywire (USA)\n\n
+ Rise Against (USA): like Dropkick Murphys\nDropkick Murphys (USA): favouri
+ te #225\n\nhttps://www.sydneyoperahouse.com/on-the-steps/rise-against
+URL:https://www.sydneyoperahouse.com/on-the-steps/rise-against
+END:VEVENT
+END:VCALENDAR

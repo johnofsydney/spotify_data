@@ -31,8 +31,9 @@ def call(*args):
             raise SpotifyError(f"spotify_player {' '.join(args)}: timed out after 60s")
         if p.returncode == 0:
             return json.loads(p.stdout) if p.stdout.strip() else None
-        if "429" in p.stderr and attempt < retries:
-            print(f"spotify: rate limited, waiting {wait}s (retry {attempt + 1} of {retries})",
+        transient = "429" in p.stderr or "json parse error" in p.stderr or "error sending request" in p.stderr
+        if transient and attempt < retries:
+            print(f"spotify: transient error, waiting {wait}s (retry {attempt + 1} of {retries}): {p.stderr.strip()}",
                   file=sys.stderr)
             time.sleep(wait)
             wait *= 2

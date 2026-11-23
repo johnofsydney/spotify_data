@@ -25,6 +25,7 @@
 29x  sleepmakeswaves
 29x  The Fall
 29x  The Flaming Lips
+29x  The Stone Roses
 29x  Tides From Nebula
 27x  65daysofstatic
 27x  Gary Numan
@@ -88,7 +89,6 @@
 16x  October Drift
 16x  Pale Honey
 16x  Solarstone
-16x  The Stone Roses
 16x  Thee Oh Sees
 16x  Ulrich Schnauss
 15x  Amon Tobin
@@ -101,17 +101,19 @@
 15x  The Jesus and Mary Chain
 15x  Them Crooked Vultures
 15x  Tor
-15x  Triangle Singular
 15x  You Am I
 14x  Death From Above 1979
+14x  Elliott Smith
 14x  Fuck Buttons
 14x  Regurgitator
+14x  Sufjan Stevens
 14x  Taylor Swift
 14x  The House of Love
 14x  Underground Lovers
 14x  YOTTO
 13x  Daniel Avery
 13x  Explosions In The Sky
+13x  Fiona Apple
 13x  Gotye
 13x  HALEY
 13x  Haley Bonar
@@ -131,6 +133,7 @@
 12x  Interpol
 12x  Jean-Michel Jarre
 12x  The Cure
+12x  Triangle Singular
 12x  Ty Segall
 11x  Björk
 11x  Bon Iver
@@ -141,6 +144,7 @@
 11x  Earthless
 11x  Estiva
 11x  Green Lung
+11x  Neutral Milk Hotel
 11x  Placebo
 11x  Psychlona
 11x  The Orb
@@ -192,6 +196,7 @@
 9x  Snarky Puppy
 9x  Supergrass
 9x  Tapes
+9x  Television
 9x  The Horrors
 9x  TVAM
 9x  Wolf Alice
@@ -374,6 +379,7 @@
 6x  Yo La Tengo
 6x  Yuri Gagarin (SWE)
 5x  A Certain Ratio
+5x  Abakus
 5x  Air
 5x  Alcest
 5x  Amtrac
@@ -506,7 +512,6 @@
 5x  Wire
 5x  Your Favorite Enemies
 4x  ...And You Will Know Us by the Trail of Dead
-4x  Abakus
 4x  Adam Hurt
 4x  Adebisi Shank
 4x  Aiming for Enrike
@@ -943,6 +948,7 @@
 3x  Martin Roth
 3x  Marvin Gaye
 3x  Massive Attack
+3x  Masters Of Reality
 3x  Maximo Park
 3x  Maximum Love
 3x  Maya Jane Coles
@@ -964,6 +970,7 @@
 3x  Miracle Of Sound
 3x  Moaning
 3x  Modeselektor
+3x  Mondo Drag
 3x  Monolord
 3x  Moonlit Sailor
 3x  Morcheeba
@@ -1058,7 +1065,6 @@
 3x  Stereo MC's
 3x  Steve Dekay
 3x  Stoned Jesus
-3x  Sufjan Stevens
 3x  Sumac
 3x  Sébastien Tellier
 3x  Takeshi's Cashew
@@ -1395,7 +1401,6 @@
 2x  Electric Youth
 2x  Elephant Stone
 2x  Eli Brown
-2x  Elliott Smith
 2x  Elton John
 2x  Elvis Costello
 2x  Emancipator
@@ -1515,6 +1520,7 @@
 2x  International Music
 2x  IST IST
 2x  J-Walk
+2x  Jack Tully & The Seers
 2x  Jackie Wilson
 2x  Jagwar Ma
 2x  Jake Chudnow
@@ -1653,7 +1659,6 @@
 2x  Martin Gore
 2x  Martin Kohlstedt
 2x  Martyn Heyne
-2x  Masters Of Reality
 2x  Mastersystem
 2x  Matt Berninger
 2x  Matthew Dear
@@ -1678,7 +1683,6 @@
 2x  MK
 2x  Mollono.Bass
 2x  Moloko
-2x  Mondo Drag
 2x  Mondo Generator
 2x  Morphine
 2x  Morrissey
@@ -1803,6 +1807,7 @@
 2x  Rodrigo y Gabriela
 2x  Rolo Tomassi
 2x  Ron Flatter
+2x  Room Service
 2x  Roosevelt
 2x  Rosa Damask
 2x  Rowland S. Howard
@@ -4831,7 +4836,6 @@
 1x  Teho Teardo
 1x  Telefís
 1x  Telegram
-1x  Television
 1x  Tella Viv
 1x  Tempo Giusto
 1x  Ten Fé

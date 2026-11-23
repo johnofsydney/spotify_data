@@ -5,7 +5,7 @@
     "name": "BO Discover Weekly",
     "desc": "",
     "current_folder_id": 0,
-    "snapshot_id": "AAAEBC82F/YC5iFlSV1Hr74qwXQ9mH4Y"
+    "snapshot_id": "AAAECAzzpD480hfJiIyLfDgY+QsivNYU"
   },
   "tracks": [
     {
@@ -28005,6 +28005,118 @@
       "duration": {
         "secs": 432,
         "nanos": 262000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "1WpicPrrNxhieVpthKUb5i",
+      "name": "Vox Fur Drone",
+      "artists": [
+        {
+          "id": "6gsBw4t8TrthXud4nC0Iba",
+          "name": "Jack Tully & The Seers"
+        }
+      ],
+      "album": {
+        "id": "0sLB4v6wEqGjovK8MIAL8p",
+        "release_date": "2018-09-21",
+        "name": "Harkness Lane",
+        "artists": [
+          {
+            "id": "6gsBw4t8TrthXud4nC0Iba",
+            "name": "Jack Tully & The Seers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 323,
+        "nanos": 491000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "5SszTLNxHKW9Di0i6ga7em",
+      "name": "DCA",
+      "artists": [
+        {
+          "id": "6gsBw4t8TrthXud4nC0Iba",
+          "name": "Jack Tully & The Seers"
+        }
+      ],
+      "album": {
+        "id": "0sLB4v6wEqGjovK8MIAL8p",
+        "release_date": "2018-09-21",
+        "name": "Harkness Lane",
+        "artists": [
+          {
+            "id": "6gsBw4t8TrthXud4nC0Iba",
+            "name": "Jack Tully & The Seers"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 211,
+        "nanos": 963000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "3ynD22ynkid3rFW8IcNgVu",
+      "name": "Shifting Sands",
+      "artists": [
+        {
+          "id": "3r1b9pqXbTCfPejZtghkKV",
+          "name": "Mondo Drag"
+        }
+      ],
+      "album": {
+        "id": "0AiSnZ5ab6GMxHSIIoXoGm",
+        "release_date": "2015-05-12",
+        "name": "Self Titled",
+        "artists": [
+          {
+            "id": "3r1b9pqXbTCfPejZtghkKV",
+            "name": "Mondo Drag"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 324,
+        "nanos": 600000000
+      },
+      "explicit": false
+    },
+    {
+      "id": "762LxB2wGb2T9c20I3eGQc",
+      "name": "Third Man On The Moon",
+      "artists": [
+        {
+          "id": "6I96egIonnFBY26MprKYKb",
+          "name": "Masters Of Reality"
+        }
+      ],
+      "album": {
+        "id": "4wRpeG8DIlW93IQUCiYyDd",
+        "release_date": "2001-04-05",
+        "name": "Deep In The Hole",
+        "artists": [
+          {
+            "id": "6I96egIonnFBY26MprKYKb",
+            "name": "Masters Of Reality"
+          }
+        ],
+        "typ": "album",
+        "added_at": 0
+      },
+      "duration": {
+        "secs": 312,
+        "nanos": 826000000
       },
       "explicit": false
     }
