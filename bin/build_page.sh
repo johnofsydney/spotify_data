@@ -374,16 +374,16 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':
 document.getElementById('favs').innerHTML = favs.map(a => {
   const chips = [
     a.fav === 'Y' ? '<span class="chip">favourite</span>' : '',
-    a.ded === 'y' ? '<span class="chip">best of</span>' : '',
-    a.top > 0 ? '<span class="chip">playing now</span>' : '',
-    a.years >= 3 ? '<span class="chip">long haul</span>' : '',
-    a.act >= 0.75 ? '<span class="chip">active</span>' : ''
+    (weights.dedicated && a.ded === 'y') ? '<span class="chip">best of</span>' : '',
+    (weights.top && a.top > 0) ? '<span class="chip">playing now</span>' : '',
+    (weights.yearly && a.years >= 3) ? '<span class="chip">long haul</span>' : '',
+    (weights.activity && a.act >= 0.75) ? '<span class="chip">active</span>' : ''
   ].join('');
   const bits = [];
-  if (a.spread > 0) bits.push(a.spread + ' playlists');
-  if (a.tracks > 0) bits.push(a.tracks + ' tracks');
-  if (a.top > 0) bits.push(a.top + ' in top 50');
-  if (a.years > 0) bits.push('top songs in ' + a.years + (a.years === 1 ? ' year' : ' years'));
+  if (weights.spread && a.spread > 0) bits.push(a.spread + ' playlists');
+  if (weights.tracks && a.tracks > 0) bits.push(a.tracks + ' tracks');
+  if (weights.top && a.top > 0) bits.push(a.top + ' in top 50');
+  if (weights.yearly && a.years > 0) bits.push('top songs in ' + a.years + (a.years === 1 ? ' year' : ' years'));
   return '<div class="row' + clubCls(a.name) + '"><div class="rank">' + a.rank + '</div>' +
     '<div><div class="name">' + artistLink(a.name) + chips + '</div>' +
     '<div class="meta">' + bits.join(' &middot; ') + '</div></div>' +
