@@ -212,21 +212,22 @@ commit; it says nothing about when a playlist was touched before then.
 
 ## The favourites ranking
 
-Nine signals disagree about what a favourite is, and none is trustworthy alone.
-Seven carry weight; `followed` and `alltime` are kept wired in at zero. `favourite_artists.sh`
-combines them into a single 0-100 score.
+Ten signals disagree about what a favourite is, and none is trustworthy alone.
+Four carry weight; `spread`, `tracks`, `followed`, `dedicated`, `activity` and
+`alltime` are kept wired in at zero. `favourite_artists.sh` combines them into
+a single 0-100 score.
 
 | Signal | Column | Weight | What it means |
 | --- | --- | --- | --- |
-| Yearly wraps | `yearly` | 0.33 | Their tracks across every "Your Top Songs &lt;year&gt;" playlist, each year weighted by recency. Ten years of Spotify's own measurement of what I actually played — the deepest evidence in the data, and the signal that gets my reference cases right unprompted. |
-| Top tracks | `top` | 0.20 | How many of my 50 top tracks are theirs. `spotify_player` asks for Spotify's default window, which is **medium term, about six months** (not four weeks, as this table said until November 2026), so it reflects the last half-year rather than *now*. Weighted to keep the chart moving between wraps. |
-| Playlist spread | `spread` | 0.18 | How many *different* playlists hold two or more of their tracks. One track in a 4,577-track bucket is not evidence of anything. |
-| Playlist tracks | `tracks` | 0.10 | Track credits across my playlists, capped at `track_cap` (5) per playlist. Uncapped it measured catalogue size and how thorough a compilation felt on the day: a 41-track Best Of outvoted ten years of listening. The cap is the same idea as `spread` requiring two tracks before a playlist counts. |
-| Favourites playlist | `FAV` | 0.12 | Whether they are in the playlist I keep by hand. The one place I can tell the ranking something the data does not record. |
-| Dedicated playlist | `ded` | 0.04 | Whether more than half of a playlist of five or more tracks is theirs. Binary and undated: three Best Ofs score the same as one, and one built in 2018 scores the same as one built last month. Priced against `yearly` it is worth about one decent year of charting — at 0.09 it was worth a decade of it, which put artists I rarely play above ones I play constantly. |
-| Followed | `fol` | 0.00 | Off since 2 November 2026. The aim is to follow every artist I like, and once that is true a follow stops telling liked artists apart: it only docks the ones not followed yet, which is housekeeping, not taste. Half the follows were also ranked below #100. Its 0.07 went to `yearly` (+0.03), `top` (+0.02) and `spread` (+0.02). Still exported, and the page lists top-50 artists I do not follow yet. |
-| Recording activity | `rel3y` | 0.03 | New albums and singles over three years, reissues excluded. Nearly off — see below. |
-| Top artists | `artists` | 0.00 | Spotify's own top 50 artists in three windows (four weeks, six months, a year and more), each position worth (51 − rank) / 50 and the windows blended 0.5 / 0.3 / 0.2. Artist-level, so breadth across a catalogue and long tracks count as listening, which the per-track signals cannot see. Fetched by `bin/top_artists.py` from the Web API with `spotify_player`'s cached login, since the CLI has no top-artists key. Wired in at zero until there is data to choose a weight from. |
+| Yearly wraps | `yearly` | 0.50 | Their tracks across every "Your Top Songs &lt;year&gt;" playlist, each year weighted by recency. Ten years of Spotify's own measurement of what I actually played — the deepest evidence in the data, and the signal that gets my reference cases right unprompted. |
+| Top tracks | `top` | 0.25 | How many of my 50 top tracks are theirs. `spotify_player` asks for Spotify's default window, which is **medium term, about six months** (not four weeks, as this table said until November 2026), so it reflects the last half-year rather than *now*. Weighted to keep the chart moving between wraps. |
+| Favourites playlist | `FAV` | 0.125 | Whether they are in a hand-kept favourites playlist — now just Formative Years. The one place I can tell the ranking something the data does not record. |
+| Top artists | `artists` | 0.125 | Spotify's own top 50 artists in three windows (four weeks, six months, a year and more), each position worth (51 − rank) / 50 and the windows blended 0.5 / 0.3 / 0.2. Artist-level, so breadth across a catalogue and long tracks count as listening, which the per-track signals cannot see. Fetched by `bin/top_artists.py` from the Web API with `spotify_player`'s cached login, since the CLI has no top-artists key. |
+| Playlist spread | `spread` | 0.00 | How many *different* playlists hold two or more of their tracks. Off: at 0.18 it let breadth across playlists substitute for actual listening evidence. |
+| Playlist tracks | `tracks` | 0.00 | Track credits across my playlists, capped at `track_cap` (5) per playlist. Off, for the same reason as `spread`: track volume in playlists is a weaker signal than the four above. |
+| Followed | `fol` | 0.00 | Off since 2 November 2026. The aim is to follow every artist I like, and once that is true a follow stops telling liked artists apart: it only docks the ones not followed yet, which is housekeeping, not taste. Half the follows were also ranked below #100. Still exported, and the page lists top-50 artists I do not follow yet. |
+| Dedicated playlist | `ded` | 0.00 | Whether more than half of a playlist of five or more tracks is theirs. Off: binary and undated, so three Best Ofs score the same as one, and one built in 2018 scores the same as one built last month. |
+| Recording activity | `rel3y` | 0.00 | New albums and singles over three years, reissues excluded. Off — see below. |
 | All-time top songs | `alltime` | 0.00 | Off. Spotify does not keep it current — two readings a day apart returned an identical snapshot id, and `history/alltime_snapshots.csv` watches whether that ever changes. The yearly wraps say the same thing with dates attached, so this is exported but not scored. |
 
 ### The yearly wraps
@@ -335,9 +336,9 @@ Weights live in `weights.json`, one line per signal, and nowhere else:
 ```json
 {
   "weights": {
-    "yearly": 0.33, "top": 0.20, "spread": 0.18, "favourite": 0.12,
-    "tracks": 0.10, "followed": 0.00, "dedicated": 0.04,
-    "activity": 0.03, "alltime": 0.00, "artists": 0.00
+    "yearly": 0.50, "top": 0.25, "spread": 0.00, "favourite": 0.125,
+    "tracks": 0.00, "followed": 0.00, "dedicated": 0.00,
+    "activity": 0.00, "alltime": 0.00, "artists": 0.125
   },
   "tuning": {
     "yearly_half_life_years": 3, "track_cap": 5, "min_playlist_tracks": 3,
@@ -362,7 +363,7 @@ they are not shares of anything. `dedicated_min_share` (0.5) and
 `min_playlist_tracks` (3) sets how many playlist appearances an artist needs to
 appear at all, absent any other signal. Without a floor the ranking is mostly
 noise: most artists in my playlists appear exactly once. After the zero-weighted
-playlists and that floor, 723 artists are ranked.
+playlists and that floor, 721 artists are ranked.
 
 ### Liked tracks are not a signal
 
@@ -378,23 +379,13 @@ have already heard and liked.
 
 ### The favourites playlist
 
-One playlist is flagged `"favourites": true` in `playlist_weights.json`, and the
-artists on it score for it. It is the only route by which I can tell the ranking
-something my listening does not record — King Buffalo have been my favourite
-band for years, tour constantly, and have ten deliberately-placed tracks and no
-studio album since 2021, so nothing else in this data knows it.
-
-At 0.12 it lifts an artist who already has other evidence rather than carrying
-one alone: an artist present *only* through it, with a single track there, scores
-about 14 and lands around 250th. Raising the
-weight, or making it a floor rather than an addition, would change that.
-
-### Formative Years
+One playlist is flagged `"favourites": true` in `playlist_weights.json` —
+"Formative Years" — and the artists on it score for it. It is the only route
+by which I can tell the ranking something my listening does not record.
 
 The wraps only see what was played on Spotify, so bands loved for decades but
-rarely streamed (New Order, Pixies, The Cure) rank far below how they are felt.
-"Formative Years" is a second favourites playlist for them: everyone on it gets
-the favourites points, like the hand-kept favourites playlist.
+rarely streamed (New Order, Pixies, The Cure) would otherwise rank far below
+how they are felt. Formative Years exists for them.
 
 `playlists/formative.txt` lists the seed tracks, one per band.
 `bin/seed_playlist.sh "Formative Years" playlists/formative.txt --favourite`
@@ -402,35 +393,43 @@ creates the playlist if needed, adds any listed track that is missing (never
 removes anything, so tracks added by hand stay), and flags it in
 `playlist_weights.json`. It is a one-off, not part of the weekly refresh.
 
-### Why these weights, and why they should stay put
+A second hand-kept playlist, "BO All Music", carried the `favourites` flag
+until it was dropped: it mixed deliberate favourites in with tracks that were
+just collected there, so an artist with one track on it was scoring on the
+strength of a playlist membership rather than a real signal.
 
-They are not the best weights. No weighting of this data is right, because the
-measurement that would settle it — sustained listening over time — does not
-exist yet.
+At 0.125 the flag lifts an artist who already has other evidence rather than
+carrying one alone.
 
-Two reference points make the limit concrete. GB3 AU is a niche producer I
-played heavily for a few weeks after years away; top tracks is a short-term
-window, so that binge reads as the strongest signal in the data. King Buffalo
-have been my favourite band for years and tour constantly, but they have ten
-deliberately-placed tracks in my playlists, no Best Of, and no studio album
-since 2021 — so almost nothing records the fact. Every weighting either ranks
-the binge above the favourite or buries both under deep back catalogues.
+### Why these weights, and why they should change
 
-Top tracks is therefore weighted *low* on purpose. One reading of fifty tracks
-is noise. As dated snapshots accumulate it becomes the only honest measure of
-what I actually listen to, and its weight should rise as the evidence does.
+No weighting of this data is right, because the measurement that would settle
+it — sustained listening over time — does not exist yet. The weights below are
+not meant to be final; they are what currently reads best against reference
+cases like King Buffalo (a years-long favourite who tours constantly but has
+no studio album since 2021, so almost nothing else in this data records the
+fact) and GB3 AU (a short binge that `top` alone would overrate).
 
-The weights stay fixed in the meantime. The point of accumulating snapshots is
-to see the ranking move; if the model moves too, a change cannot be attributed
-to either.
+`spread`, `tracks`, `dedicated`, `followed`, `activity` and `alltime` are
+wired in at zero for now: each was either redundant with a stronger signal
+(`spread`/`tracks` with `yearly`/`top`), too coarse to trust (`dedicated`,
+`followed`), or actively wrong for the purpose (`activity` — see below).
+`yearly`, `top`, `favourite` and `artists` carry the full weight between them.
 
-### An activity signal exists and is nearly switched off
+Past versions of this README argued the weights should stay fixed so
+snapshots stay comparable over time. That no longer holds: they have changed
+several times since, and will again as the signals above get re-evaluated.
+Treat `history/rankings.csv`'s `weights` hash column as the record of when a
+comparison is and isn't valid, not the weights file as something to leave
+alone.
 
-`activity` scores recent non-reissue releases. It sits at 0.03 because it is
-wrong for the purpose. King Buffalo tour relentlessly and have not released a
-studio album since 2021, so a release-based measure of activity demotes exactly
-the artist I would most want a gig alert for. Spotify exposes no touring data
-at all; this is a proxy that its own reference case disproves.
+### An activity signal exists and is switched off
+
+`activity` scores recent non-reissue releases. It is wrong for the purpose:
+King Buffalo tour relentlessly and have not released a studio album since
+2021, so a release-based measure of activity demotes exactly the artist I
+would most want a gig alert for. Spotify exposes no touring data at all; this
+is a proxy that its own reference case disproves.
 
 ### Per-playlist weights
 

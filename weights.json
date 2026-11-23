@@ -1,15 +1,15 @@
 {
   "weights": {
-    "yearly": 0.4315,
-    "top": 0.2616,
+    "yearly": 0.50,
+    "top": 0.25,
     "spread": 0.00,
-    "favourite": 0.1569,
+    "favourite": 0.125,
     "tracks": 0.00,
     "followed": 0.00,
     "dedicated": 0.00,
     "activity": 0.00,
     "alltime": 0.00,
-    "artists": 0.15
+    "artists": 0.125
   },
   "tuning": {
     "yearly_half_life_years": 3,
