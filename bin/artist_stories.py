@@ -97,7 +97,7 @@ PHRASES = {
 }
 
 
-def story(a, wraps, latest, n_wraps, runs, move):
+def story(a, wraps, latest, n_wraps, runs, move, active):
     w = wraps_of(wraps.get(a["name"], {}).get("years"))
     years = sorted(w)
     n_years = len(years)
@@ -129,7 +129,8 @@ def story(a, wraps, latest, n_wraps, runs, move):
                 f"biggest in {peak}; {now}.")
     elif n_years >= 2 and last <= latest - GAP_YEARS and top == 0:
         archetype = "faded"
-        held = max((k for k in PHRASES if k != "yearly"), key=lambda k: share.get(k, 0))
+        candidates = [k for k in PHRASES if k != "yearly" and k in active] or ["yearly"]
+        held = max(candidates, key=lambda k: share.get(k, 0))
         when = (f"last in a wrap in {last}" if peak == last
                 else f"biggest in {peak}, not in a wrap since {last}")
         text = f"Faded: {when}. Kept up here by {PHRASES[held]}."
@@ -137,7 +138,7 @@ def story(a, wraps, latest, n_wraps, runs, move):
         archetype = "rising"
         text = (f"Rising: first wrap {first}, and {plural(top, 'track')} in your top 50 now.")
     elif share.get("yearly", 0) < COLLECTED_YEARLY_SHARE and top == 0 and \
-            sum(share.get(k, 0) for k in ("spread", "tracks", "favourite", "dedicated")) > COLLECTED_FILED_SHARE:
+            sum(share.get(k, 0) for k in ("spread", "tracks", "favourite", "dedicated") if k in active) > COLLECTED_FILED_SHARE:
         archetype = "collected"
         where = plural(a.get("spread", 0), "playlist")
         fav = ", and on your favourites list" if a.get("favourite") else ""
@@ -152,7 +153,7 @@ def story(a, wraps, latest, n_wraps, runs, move):
         text = f"New: {plural(top, 'track')} in your top 50, nothing in the wraps yet."
     else:
         # No single story: say what carries them, in that signal's own terms.
-        big = max(PHRASES, key=lambda k: share.get(k, 0))
+        big = max((k for k in PHRASES if k in active), key=lambda k: share.get(k, 0))
         archetype = "steady"
         if big == "yearly" and n_years == 1:
             text = f"One big year: {plural(w[first], 'track')} in the {first} wrap."
@@ -182,9 +183,9 @@ def story(a, wraps, latest, n_wraps, runs, move):
             extra = f"Down {cur - prev} places this week."
     if not extra and len(runs) >= 4 and archetype == "binge" and weeks >= 4:
         extra = f"In your top 50 {weeks} weeks running, so maybe not a phase."
-    if not extra and a.get("dedicated") and archetype not in ("collected",):
+    if not extra and "dedicated" in active and a.get("dedicated") and archetype not in ("collected",):
         extra = "Has a playlist that is mostly theirs."
-    if not extra and (a.get("activity") or 0) >= 0.75 and archetype in ("long haul", "steady", "hand-picked", "riding high"):
+    if not extra and "activity" in active and (a.get("activity") or 0) >= 0.75 and archetype in ("long haul", "steady", "hand-picked", "riding high"):
         extra = "Releasing a lot lately."
     # Most stories open "Label: …". The label is shown on its own above the
     # story, so it moves out of the text; the archetype stays as a stable key.
@@ -196,7 +197,10 @@ def story(a, wraps, latest, n_wraps, runs, move):
 
 
 def main():
-    favs = load(os.path.join(root, "favourite_artists.json"), {"artists": []})["artists"]
+    data = load(os.path.join(root, "favourite_artists.json"), {"artists": []})
+    favs = data["artists"]
+    weights = data.get("config", {}).get("weights", {})
+    active = {k for k, v in weights.items() if v}
     wraps = load(os.path.join(root, "yearly_artists.json"), {})
     wrap_years = sorted(int(os.path.basename(f)[:4]) for f in glob.glob(os.path.join(root, "cache", "yearly", "*.json")))
     latest = wrap_years[-1] if wrap_years else 0
@@ -204,7 +208,7 @@ def main():
     moves = rank_moves()
     out = {}
     for a in favs:
-        archetype, label, text = story(a, wraps, latest, len(wrap_years), runs, moves.get(a["name"]))
+        archetype, label, text = story(a, wraps, latest, len(wrap_years), runs, moves.get(a["name"]), active)
         out[a["name"]] = {"archetype": archetype, "label": label, "story": text}
     with open(os.path.join(root, "artist_stories.json"), "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
