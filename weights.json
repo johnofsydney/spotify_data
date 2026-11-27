@@ -17,6 +17,7 @@
     "min_playlist_tracks": 3,
     "dedicated_min_playlist": 5,
     "dedicated_min_share": 0.5,
-    "activity_years": 3
+    "activity_years": 3,
+    "favourite_taper": 25
   }
 }

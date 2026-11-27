@@ -7,27 +7,22 @@
  "Taylor Swift": {
   "archetype": "long haul",
   "label": "The long haul",
-  "story": "In 5 of your 10 wraps since 2017, biggest in 2023; quiet right now. Up 7 places this week."
+  "story": "In 5 of your 10 wraps since 2017, biggest in 2023; quiet right now."
  },
  "Les Big Byrd": {
   "archetype": "riding high",
   "label": "Riding high",
   "story": "8 of your top 50 now, on top of 4 wraps since 2016."
  },
- "New Order": {
-  "archetype": "rising",
-  "label": "Rising",
-  "story": "First wrap 2024, and 1 track in your top 50 now. Up 9 places this week."
- },
  "Eco": {
   "archetype": "comeback",
   "label": "Back after a gap",
-  "story": "Last in a wrap in 2022, now 3 tracks in your top 50. Up 17 places this week."
+  "story": "Last in a wrap in 2022, now 3 tracks in your top 50."
  },
  "Perry Farrell": {
   "archetype": "rising",
   "label": "Rising",
-  "story": "First wrap 2024, and 2 tracks in your top 50 now. Up 18 places this week."
+  "story": "First wrap 2024, and 2 tracks in your top 50 now."
  },
  "Fuck Buttons": {
   "archetype": "steady",
@@ -37,32 +32,22 @@
  "Khan": {
   "archetype": "rising",
   "label": "Rising",
-  "story": "First wrap 2025, and 1 track in your top 50 now. Up 24 places this week."
+  "story": "First wrap 2025, and 1 track in your top 50 now."
  },
  "The Beach Boys": {
   "archetype": "steady",
   "label": "One big year",
-  "story": "13 tracks in the 2025 wrap. Up 12 places this week."
- },
- "Spiritualized": {
-  "archetype": "faded",
-  "label": "Faded",
-  "story": "Last in a wrap in 2022. Kept up here by your hand-kept favourites playlist."
+  "story": "13 tracks in the 2025 wrap."
  },
  "Papa M": {
   "archetype": "binge",
   "label": "A binge",
-  "story": "5 of your top 50 right now, but in only the 2019 wrap. Could fade as fast as it came. Down 7 places this week."
+  "story": "5 of your top 50 right now, but in only the 2019 wrap. Could fade as fast as it came. In your top 50 7 weeks running, so maybe not a phase."
  },
  "GB3 AU": {
   "archetype": "binge",
   "label": "A binge",
-  "story": "10 of your top 50 right now, but never in a wrap. Could fade as fast as it came. Up 33 places this week."
- },
- "Pink Floyd": {
-  "archetype": "hand-picked",
-  "label": "Hand-picked",
-  "story": "Your favourites playlist is 42% of the score. Up 14 places this week."
+  "story": "10 of your top 50 right now, but never in a wrap. Could fade as fast as it came. In your top 50 7 weeks running, so maybe not a phase."
  },
  "Paul van Dyk": {
   "archetype": "long haul",
@@ -72,7 +57,7 @@
  "Tides From Nebula": {
   "archetype": "riding high",
   "label": "Riding high",
-  "story": "5 of your top 50 now, on top of 2 wraps since 2018. Up 5 places this week."
+  "story": "5 of your top 50 now, on top of 2 wraps since 2018."
  },
  "Chicane": {
   "archetype": "long haul",
@@ -82,52 +67,57 @@
  "All Them Witches": {
   "archetype": "faded",
   "label": "Faded",
-  "story": "Biggest in 2021, not in a wrap since 2022. Kept up here by being among Spotify's top artists for you. New to the top 50 this week."
+  "story": "Biggest in 2021, not in a wrap since 2022. Kept up here by being among Spotify's top artists for you."
+ },
+ "New Order": {
+  "archetype": "rising",
+  "label": "Rising",
+  "story": "First wrap 2024, and 1 track in your top 50 now. Down 11 places this week."
  },
  "ZZ Top": {
   "archetype": "steady",
   "label": "A wraps regular",
-  "story": "In 2 of them, most recently 2025. Down 16 places this week."
+  "story": "In 2 of them, most recently 2025."
  },
  "Steve Kilbey": {
   "archetype": "binge",
   "label": "A binge",
-  "story": "10 of your top 50 right now, but never in a wrap. Could fade as fast as it came. Up 15 places this week."
+  "story": "10 of your top 50 right now, but never in a wrap. Could fade as fast as it came. In your top 50 7 weeks running, so maybe not a phase."
  },
  "The Brian Jonestown Massacre": {
   "archetype": "new",
   "label": "New",
-  "story": "3 tracks in your top 50, nothing in the wraps yet. New to the top 50 this week."
+  "story": "3 tracks in your top 50, nothing in the wraps yet."
  },
  "Maserati": {
   "archetype": "comeback",
   "label": "Back after a gap",
-  "story": "Last in a wrap in 2020, now 1 track in your top 50. Up 8 places this week."
- },
- "The Stone Roses": {
-  "archetype": "faded",
-  "label": "Faded",
-  "story": "Biggest in 2016, not in a wrap since 2017. Kept up here by your hand-kept favourites playlist. Up 14 places this week."
+  "story": "Last in a wrap in 2020, now 1 track in your top 50."
  },
  "sleepmakeswaves": {
   "archetype": "comeback",
   "label": "Back after a gap",
-  "story": "Last in a wrap in 2018, now 2 tracks in your top 50. Down 13 places this week."
+  "story": "Last in a wrap in 2018, now 2 tracks in your top 50."
  },
  "Neutral Milk Hotel": {
   "archetype": "new",
   "label": "New",
-  "story": "3 tracks in your top 50, nothing in the wraps yet. New to the top 50 this week."
+  "story": "3 tracks in your top 50, nothing in the wraps yet."
+ },
+ "Spiritualized": {
+  "archetype": "faded",
+  "label": "Faded",
+  "story": "Last in a wrap in 2022. Kept up here by being among Spotify's top artists for you. Down 12 places this week."
  },
  "The Parks": {
   "archetype": "steady",
   "label": "A wraps regular",
-  "story": "In 3 of them, most recently 2025. New to the top 50 this week."
+  "story": "In 3 of them, most recently 2025."
  },
  "Barry Can't Swim": {
   "archetype": "steady",
   "label": "One big year",
-  "story": "6 tracks in the 2025 wrap. New to the top 50 this week."
+  "story": "6 tracks in the 2025 wrap."
  },
  "Causa Sui": {
   "archetype": "comeback",
@@ -142,87 +132,82 @@
  "Booka Shade": {
   "archetype": "steady",
   "label": "A wraps regular",
-  "story": "In 4 of them, most recently 2025. Down 15 places this week."
+  "story": "In 4 of them, most recently 2025."
  },
  "Billy F Gibbons": {
   "archetype": "new",
   "label": "New",
-  "story": "3 tracks in your top 50, nothing in the wraps yet. New to the top 50 this week."
+  "story": "3 tracks in your top 50, nothing in the wraps yet."
+ },
+ "Pink Floyd": {
+  "archetype": "new",
+  "label": "New",
+  "story": "1 track in your top 50, nothing in the wraps yet. Down 16 places this week."
  },
  "The Chemical Brothers": {
   "archetype": "rising",
   "label": "Rising",
-  "story": "First wrap 2024, and 1 track in your top 50 now. Down 26 places this week."
+  "story": "First wrap 2024, and 1 track in your top 50 now."
  },
  "Arcade Fire": {
   "archetype": "steady",
   "label": "A wraps regular",
-  "story": "In 2 of them, most recently 2024. Up 10 places this week."
- },
- "Led Zeppelin": {
-  "archetype": "hand-picked",
-  "label": "Hand-picked",
-  "story": "Your favourites playlist is 61% of the score. New to the top 50 this week."
+  "story": "In 2 of them, most recently 2024."
  },
  "Elder": {
   "archetype": "comeback",
   "label": "Back after a gap",
-  "story": "Last in a wrap in 2022, now 1 track in your top 50. Up 5 places this week."
+  "story": "Last in a wrap in 2022, now 1 track in your top 50."
  },
  "Columbia Mills": {
   "archetype": "steady",
   "label": "One big year",
-  "story": "6 tracks in the 2025 wrap. New to the top 50 this week."
+  "story": "6 tracks in the 2025 wrap."
  },
  "Greenleaf": {
   "archetype": "long haul",
   "label": "The long haul",
-  "story": "In 5 of your 10 wraps since 2017, biggest in 2017; quiet right now. Down 10 places this week."
+  "story": "In 5 of your 10 wraps since 2017, biggest in 2017; quiet right now."
  },
  "Beyond The Wizards Sleeve": {
   "archetype": "steady",
   "label": "A wraps regular",
-  "story": "In 2 of them, most recently 2024. Down 7 places this week."
+  "story": "In 2 of them, most recently 2024."
  },
  "Green Lung": {
   "archetype": "steady",
   "label": "One big year",
-  "story": "5 tracks in the 2023 wrap. New to the top 50 this week."
- },
- "Black Sabbath": {
-  "archetype": "faded",
-  "label": "Faded",
-  "story": "Last in a wrap in 2017. Kept up here by your hand-kept favourites playlist. Down 24 places this week."
+  "story": "5 tracks in the 2023 wrap."
  },
  "Beasts Of Bourbon": {
   "archetype": "new",
   "label": "New",
-  "story": "1 track in your top 50, nothing in the wraps yet. New to the top 50 this week."
+  "story": "1 track in your top 50, nothing in the wraps yet."
  },
  "Bon Iver": {
   "archetype": "new",
   "label": "New",
-  "story": "4 tracks in your top 50, nothing in the wraps yet. New to the top 50 this week."
+  "story": "4 tracks in your top 50, nothing in the wraps yet."
+ },
+ "The Stone Roses": {
+  "archetype": "faded",
+  "label": "Faded",
+  "story": "Biggest in 2016, not in a wrap since 2017. Kept up here by your hand-kept favourites playlist. Down 17 places this week."
  },
  "Still Corners": {
   "archetype": "steady",
   "label": "A wraps regular",
-  "story": "In 3 of them, most recently 2025. Up 7 places this week."
+  "story": "In 3 of them, most recently 2025."
  },
  "Jon Hopkins": {
   "archetype": "rising",
   "label": "Rising",
-  "story": "First wrap 2024, and 1 track in your top 50 now. Down 26 places this week."
+  "story": "First wrap 2024, and 1 track in your top 50 now."
  },
  "October Drift": {
   "archetype": "steady",
   "label": "One big year",
   "story": "4 tracks in the 2025 wrap."
- },
- "The Clash": {
-  "archetype": "hand-picked",
-  "label": "Hand-picked",
-  "story": "Your favourites playlist is 73% of the score. New to the top 50 this week."
  },
  "GHOSTWOMAN": {
   "archetype": "steady",
@@ -232,52 +217,42 @@
  "God Is An Astronaut": {
   "archetype": "faded",
   "label": "Faded",
-  "story": "Biggest in 2017, not in a wrap since 2018. Kept up here by what you are playing right now. Down 31 places this week."
+  "story": "Biggest in 2017, not in a wrap since 2018. Kept up here by what you are playing right now."
+ },
+ "Led Zeppelin": {
+  "archetype": "hand-picked",
+  "label": "Hand-picked",
+  "story": "Your favourites playlist is 52% of the score. Down 12 places this week."
  },
  "Dusty Springfield": {
   "archetype": "steady",
   "label": "A wraps regular",
-  "story": "In 3 of them, most recently 2025. Down 30 places this week."
+  "story": "In 3 of them, most recently 2025."
  },
  "Mattiel": {
   "archetype": "steady",
   "label": "One big year",
-  "story": "12 tracks in the 2020 wrap. New to the top 50 this week."
+  "story": "12 tracks in the 2020 wrap."
  },
  "Valley of the Sun": {
   "archetype": "faded",
   "label": "Faded",
-  "story": "Last in a wrap in 2023. Kept up here by what you are playing right now. Down 17 places this week."
- },
- "Pixies": {
-  "archetype": "hand-picked",
-  "label": "Hand-picked",
-  "story": "Your favourites playlist is 79% of the score."
+  "story": "Last in a wrap in 2023. Kept up here by what you are playing right now."
  },
  "Swan Valley Heights": {
   "archetype": "faded",
   "label": "Faded",
-  "story": "Biggest in 2022, not in a wrap since 2023. Kept up here by what you are playing right now."
+  "story": "Biggest in 2022, not in a wrap since 2023. Kept up here by what you are playing right now. New to the top 50 this week."
  },
  "Carcass": {
   "archetype": "new",
   "label": "New",
-  "story": "2 tracks in your top 50, nothing in the wraps yet."
+  "story": "2 tracks in your top 50, nothing in the wraps yet. New to the top 50 this week."
  },
- "Dinosaur Jr.": {
-  "archetype": "hand-picked",
-  "label": "Hand-picked",
-  "story": "Your favourites playlist is 81% of the score."
- },
- "The Cure": {
-  "archetype": "hand-picked",
-  "label": "Hand-picked",
-  "story": "Your favourites playlist is 81% of the score."
- },
- "U2": {
-  "archetype": "hand-picked",
-  "label": "Hand-picked",
-  "story": "Your favourites playlist is 81% of the score."
+ "Black Sabbath": {
+  "archetype": "faded",
+  "label": "Faded",
+  "story": "Last in a wrap in 2017. Kept up here by your hand-kept favourites playlist."
  },
  "Kadavar": {
   "archetype": "steady",
@@ -303,6 +278,11 @@
   "archetype": "steady",
   "label": "One big year",
   "story": "2 tracks in the 2025 wrap."
+ },
+ "The Clash": {
+  "archetype": "hand-picked",
+  "label": "Hand-picked",
+  "story": "Your favourites playlist is 69% of the score."
  },
  "Katoff": {
   "archetype": "steady",
@@ -334,10 +314,30 @@
   "label": "New",
   "story": "2 tracks in your top 50, nothing in the wraps yet."
  },
+ "Pixies": {
+  "archetype": "hand-picked",
+  "label": "Hand-picked",
+  "story": "Your favourites playlist is 76% of the score."
+ },
  "Andy Bell": {
   "archetype": "faded",
   "label": "Faded",
   "story": "Biggest in 2021, not in a wrap since 2022. Kept up here by being among Spotify's top artists for you."
+ },
+ "Dinosaur Jr.": {
+  "archetype": "hand-picked",
+  "label": "Hand-picked",
+  "story": "Your favourites playlist is 79% of the score."
+ },
+ "The Cure": {
+  "archetype": "hand-picked",
+  "label": "Hand-picked",
+  "story": "Your favourites playlist is 79% of the score."
+ },
+ "U2": {
+  "archetype": "hand-picked",
+  "label": "Hand-picked",
+  "story": "Your favourites playlist is 79% of the score."
  },
  "Psychlona": {
   "archetype": "steady",

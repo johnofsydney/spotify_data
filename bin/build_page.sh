@@ -221,7 +221,8 @@ table.brk { border-collapse: collapse; font-size: 12px; line-height: 1.25; width
 .brk thead button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .brk thead th[aria-sort] { color: var(--fg); }
 .brk thead .arrow { display: inline-block; width: 0.9em; text-align: center; color: var(--accent); }
-.brk .pin { position: sticky; background: var(--bg); z-index: 1; text-align: left; }
+.brk .pin, .brk .left { text-align: left; }
+.brk .pin { position: sticky; background: var(--bg); z-index: 1; }
 .brk .pin.r { left: 0; width: 30px; min-width: 30px; color: var(--muted); }
 .brk .pin.n { left: 30px; max-width: 150px; overflow: hidden; text-overflow: ellipsis; font-weight: 550; box-shadow: inset -1px 0 0 var(--line); }
 .brk thead th.pin { z-index: 3; }
@@ -717,7 +718,7 @@ render();
   const columns = [
     {key: 'n', label: '#', cls: 'pin r', value: a => a.n, asc: true},
     {key: 'album', label: 'Album', cls: 'pin n', value: a => a.album.toLowerCase(), asc: true},
-    {key: 'artist', label: 'Artist', value: a => a.artist.toLowerCase(), asc: true},
+    {key: 'artist', label: 'Artist', cls: 'left', value: a => a.artist.toLowerCase(), asc: true},
     {key: 'date', label: 'Release date', value: a => a.date || '', asc: true}
   ];
   let sort = {key: 'n', asc: true};
@@ -743,7 +744,7 @@ render();
   const rows = list => '<tbody>' + list.map(a =>
     '<tr><td class="pin r">' + a.n + '</td>' +
     '<td class="pin n" title="' + esc(a.album) + '">' + esc(a.album) + '</td>' +
-    '<td style="text-align:left">' + artistLink(a.artist) + '</td>' +
+    '<td class="left">' + artistLink(a.artist) + '</td>' +
     '<td>' + esc(a.date || '') + '</td></tr>').join('') + '</tbody>';
   const table = document.getElementById('clubtable');
   const render = () => { table.innerHTML = header() + rows(sorted()); };

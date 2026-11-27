@@ -32,6 +32,7 @@ ded_share=$(t dedicated_min_share)
 ded_size=$(t dedicated_min_playlist)
 track_cap=$(t track_cap)
 activity_years=$(t activity_years)
+favourite_taper=$(t favourite_taper)
 
 top_file=$(ls -1 "$root"/top_tracks_artists_*.md | sort | tail -1)
 
@@ -110,7 +111,8 @@ jq -n -r \
   --argjson topart "$top_artists" \
   --argjson w "$w" \
   --argjson cfg "$config" \
-  --argjson min "$min_tracks" '
+  --argjson min "$min_tracks" \
+  --argjson taper "$favourite_taper" '
   def norm($n; $max): if $max > 0 then (($n / $max) | sqrt) else 0 end;
 
   ($followed | map({key: ., value: true}) | from_entries) as $fol
@@ -148,8 +150,14 @@ jq -n -r \
          followed: (100 * $w.followed * $f),
          dedicated: (100 * $w.dedicated * $d),
          activity: (100 * $w.activity * norm($act; $maxact)),
-         favourite: (100 * $w.favourite * $fv),
-         artists: (100 * ($w.artists // 0) * $ta)} as $pts
+         artists: (100 * ($w.artists // 0) * $ta)} as $other_pts
+      # favourite is a floor, not an addition: full weight when every other
+      # signal is silent, tapering to nothing by $taper points of other
+      # evidence, so it only lifts artists the rest of the data cannot see.
+      | ([$other_pts[]] | add) as $other
+      | (100 * $w.favourite) as $fav_floor
+      | ($fv * ([0, $fav_floor * (1 - ($other / $taper))] | max)) as $fav_pts
+      | ($other_pts + {favourite: $fav_pts}) as $pts
       | [([$pts[]] | add), $n, $at, $t, $ps, $pt, $f, $d, $fv, $act, $yr, $yn, $pts, $ta])
   | sort_by(-.[0], (.[1] | ascii_downcase))
   | to_entries

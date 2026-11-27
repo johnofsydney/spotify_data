@@ -398,8 +398,13 @@ until it was dropped: it mixed deliberate favourites in with tracks that were
 just collected there, so an artist with one track on it was scoring on the
 strength of a playlist membership rather than a real signal.
 
-At 0.125 the flag lifts an artist who already has other evidence rather than
-carrying one alone.
+It is a floor, not a flat addition: an artist with nothing else going for
+them gets the full 12.5 points; as their score from `yearly`, `top` and
+`artists` rises, the favourite bonus tapers off linearly, reaching zero once
+that other score hits `tuning.favourite_taper` (25). Spiritualized and Pink
+Floyd, both flagged and both already scoring well on other evidence, pick up
+only a couple of points from it; Jimi Hendrix, Joy Division and the rest of
+the catalogue the wraps cannot see get the full floor.
 
 ### Why these weights, and why they should change
 

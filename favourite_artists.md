@@ -3,71 +3,71 @@
    1    67.1  King Buffalo                             36.26     2     4.0    13.0    y    n    -   0.08
    2    45.7  Taylor Swift                             27.09     0     1.0     6.0    y    y    -   1.00
    3    45.3  Les Big Byrd                              4.21     8     5.0    16.0    y    n    -   1.00
-   4    37.9  New Order                                 0.79     1     3.0    17.0    y    n    Y   0.17
-   5    36.9  Eco                                       6.37     3     2.0     7.0    y    n    -   0.17
-   6    34.8  Perry Farrell                             2.38     2     3.0    16.0    y    n    -   0.25
-   7    33.7  Fuck Buttons                              4.64     2     2.0    10.0    y    n    -   0.00
-   8    32.3  Khan                                      7.00     1     1.0     7.0    y    n    -   0.50
-   9    32.3  The Beach Boys                           13.00     0     3.0    12.0    n    n    -   1.00
-  10    32.3  Spiritualized                             2.56     0     6.0    26.0    y    n    Y   0.50
-  11    30.2  Papa M                                    0.75     5     2.0    13.0    y    n    -   0.75
-  12    29.9  GB3 AU                                    0.00    10     1.0     5.0    y    n    -   0.00
-  13    29.5  Pink Floyd                                0.00     1     2.0    12.0    y    n    Y   0.58
-  14    29.1  Paul van Dyk                             10.25     0     5.0    21.0    y    n    -   1.00
-  15    28.3  Tides From Nebula                         0.83     5     3.0    15.0    y    n    -   1.00
-  16    27.9  Chicane                                  10.55     0     5.0    19.0    y    n    -   1.00
-  17    26.4  All Them Witches                          5.48     0     1.0     6.0    y    n    -   0.75
-  18    25.1  ZZ Top                                    2.25     1     5.0    19.0    y    y    -   0.50
-  19    25.0  Steve Kilbey                              0.00    10     1.0     5.0    n    n    -   1.00
-  20    24.9  The Brian Jonestown Massacre              0.00     3     2.0     8.0    y    n    -   0.17
-  21    23.5  Maserati                                  3.42     1     3.0    15.0    y    n    -   0.00
-  22    23.4  The Stone Roses                           0.66     0     3.0    20.0    y    n    Y   0.00
-  23    23.1  sleepmakeswaves                           0.20     2     3.0    15.0    y    n    -   0.75
-  24    22.8  Neutral Milk Hotel                        0.00     3     1.0     5.0    n    n    -   0.00
-  25    22.2  The Parks                                 7.17     0     1.0     3.0    y    n    -   0.00
-  26    21.8  Barry Can't Swim                          6.00     0     1.0     4.0    y    n    -   1.00
-  27    21.8  Causa Sui                                 1.95     1     4.0    21.0    y    n    -   1.00
-  28    21.3  Night Beats                               0.50     2     5.0    21.0    y    n    -   0.08
-  29    21.2  Booka Shade                               5.11     0     7.0    29.0    y    n    -   1.00
-  30    21.2  Billy F Gibbons                           0.00     3     2.0     9.0    n    n    -   1.00
-  31    20.9  The Chemical Brothers                     0.79     1     5.0    24.0    y    n    -   1.00
-  32    20.4  Arcade Fire                               4.79     0     2.0    13.0    y    n    -   1.00
-  33    20.4  Led Zeppelin                              0.00     1     0.0     1.0    y    n    Y   0.08
-  34    20.4  Elder                                     2.26     1     2.0     9.0    y    n    -   0.75
-  35    20.3  Columbia Mills                            6.00     0     1.0     5.0    y    n    -   0.00
-  36    19.7  Greenleaf                                 4.88     0     5.0    16.0    y    n    -   0.58
-  37    19.3  Beyond The Wizards Sleeve                 3.49     0     1.0     7.0    y    n    -   0.17
-  38    18.9  Green Lung                                3.15     0     1.0     7.0    y    n    -   0.75
-  39    18.9  Black Sabbath                             0.60     0     4.0    18.0    y    y    Y   0.17
-  40    18.5  Beasts Of Bourbon                         0.00     1     1.0     5.0    n    n    -   0.00
-  41    18.5  Bon Iver                                  0.00     4     1.0     5.0    n    n    -   0.75
-  42    17.8  Still Corners                             4.57     0     2.0     9.0    y    n    -   1.00
-  43    17.5  Jon Hopkins                               0.79     1     7.0    25.0    y    n    -   1.00
-  44    17.2  October Drift                             4.00     0     3.0    10.0    y    n    -   0.75
-  45    17.1  The Clash                                 0.31     0     1.0     4.0    n    n    Y   0.00
-  46    16.8  GHOSTWOMAN                                3.17     0     3.0    12.0    y    n    -   1.00
-  47    16.6  God Is An Astronaut                       4.01     0     5.0    26.0    y    y    -   1.00
-  48    16.4  Dusty Springfield                         3.91     0     5.0    25.0    y    y    -   0.50
-  49    16.1  Mattiel                                   3.78     0     2.0    11.0    y    n    -   0.17
-  50    15.9  Valley of the Sun                         3.66     0     4.0    17.0    y    n    -   0.75
-  51    15.8  Pixies                                    0.16     0     2.0    12.0    y    n    Y   1.00
-  52    15.8  Swan Valley Heights                       3.63     0     1.0     6.0    y    n    -   0.00
-  53    15.8  Carcass                                   0.00     2     0.0     0.0    n    n    -   0.00
-  54    15.5  Dinosaur Jr.                              0.13     0     1.0     8.0    n    n    Y   0.75
-  55    15.5  The Cure                                  0.13     0     1.0     6.0    y    n    Y   1.00
-  56    15.5  U2                                        0.13     0     1.0     5.0    n    n    Y   1.00
-  57    15.3  Kadavar                                   3.40     0     0.0     1.0    y    n    -   1.00
-  58    15.3  UNKLE                                     0.79     1     2.0    13.0    n    n    -   0.42
-  59    15.2  Röyksopp                                 3.05     0     5.0    18.0    y    n    -   1.00
-  60    15.1  LCD Soundsystem                           3.30     0     4.0    20.0    y    y    -   0.25
-  61    15.0  The National                              2.00     0     3.0    12.0    y    n    -   0.67
-  62    14.8  Katoff                                    3.17     0     0.0     1.0    n    n    -   1.00
-  63    14.4  Kolonie                                   3.01     0     0.0     0.0    n    n    -   0.00
-  64    14.4  delving                                   3.00     0     0.0     2.0    n    n    -   0.67
-  65    14.4  Wings of Desire                           3.00     0     0.0     1.0    n    n    -   1.00
-  66    14.2  Golden Features                           0.00     3     0.0     0.0    n    n    -   0.00
-  67    14.2  Nils Frahm                                0.00     2     1.0     6.0    y    n    -   1.00
-  68    14.1  Andy Bell                                 2.48     0     3.0    10.0    y    n    -   1.00
+   4    36.9  Eco                                       6.37     3     2.0     7.0    y    n    -   0.17
+   5    34.8  Perry Farrell                             2.38     2     3.0    16.0    y    n    -   0.25
+   6    33.7  Fuck Buttons                              4.64     2     2.0    10.0    y    n    -   0.00
+   7    32.3  Khan                                      7.00     1     1.0     7.0    y    n    -   0.50
+   8    32.3  The Beach Boys                           13.00     0     3.0    12.0    n    n    -   1.00
+   9    30.2  Papa M                                    0.75     5     2.0    13.0    y    n    -   0.75
+  10    29.9  GB3 AU                                    0.00    10     1.0     5.0    y    n    -   0.00
+  11    29.1  Paul van Dyk                             10.25     0     5.0    21.0    y    n    -   1.00
+  12    28.3  Tides From Nebula                         0.83     5     3.0    15.0    y    n    -   1.00
+  13    27.9  Chicane                                  10.55     0     5.0    19.0    y    n    -   1.00
+  14    26.4  All Them Witches                          5.48     0     1.0     6.0    y    n    -   0.75
+  15    25.4  New Order                                 0.79     1     3.0    17.0    y    n    Y   0.17
+  16    25.1  ZZ Top                                    2.25     1     5.0    19.0    y    y    -   0.50
+  17    25.0  Steve Kilbey                              0.00    10     1.0     5.0    n    n    -   1.00
+  18    24.9  The Brian Jonestown Massacre              0.00     3     2.0     8.0    y    n    -   0.17
+  19    23.5  Maserati                                  3.42     1     3.0    15.0    y    n    -   0.00
+  20    23.1  sleepmakeswaves                           0.20     2     3.0    15.0    y    n    -   0.75
+  21    22.8  Neutral Milk Hotel                        0.00     3     1.0     5.0    n    n    -   0.00
+  22    22.4  Spiritualized                             2.56     0     6.0    26.0    y    n    Y   0.50
+  23    22.2  The Parks                                 7.17     0     1.0     3.0    y    n    -   0.00
+  24    21.8  Barry Can't Swim                          6.00     0     1.0     4.0    y    n    -   1.00
+  25    21.8  Causa Sui                                 1.95     1     4.0    21.0    y    n    -   1.00
+  26    21.3  Night Beats                               0.50     2     5.0    21.0    y    n    -   0.08
+  27    21.2  Booka Shade                               5.11     0     7.0    29.0    y    n    -   1.00
+  28    21.2  Billy F Gibbons                           0.00     3     2.0     9.0    n    n    -   1.00
+  29    21.0  Pink Floyd                                0.00     1     2.0    12.0    y    n    Y   0.58
+  30    20.9  The Chemical Brothers                     0.79     1     5.0    24.0    y    n    -   1.00
+  31    20.4  Arcade Fire                               4.79     0     2.0    13.0    y    n    -   1.00
+  32    20.4  Elder                                     2.26     1     2.0     9.0    y    n    -   0.75
+  33    20.3  Columbia Mills                            6.00     0     1.0     5.0    y    n    -   0.00
+  34    19.7  Greenleaf                                 4.88     0     5.0    16.0    y    n    -   0.58
+  35    19.3  Beyond The Wizards Sleeve                 3.49     0     1.0     7.0    y    n    -   0.17
+  36    18.9  Green Lung                                3.15     0     1.0     7.0    y    n    -   0.75
+  37    18.5  Beasts Of Bourbon                         0.00     1     1.0     5.0    n    n    -   0.00
+  38    18.5  Bon Iver                                  0.00     4     1.0     5.0    n    n    -   0.75
+  39    17.9  The Stone Roses                           0.66     0     3.0    20.0    y    n    Y   0.00
+  40    17.8  Still Corners                             4.57     0     2.0     9.0    y    n    -   1.00
+  41    17.5  Jon Hopkins                               0.79     1     7.0    25.0    y    n    -   1.00
+  42    17.2  October Drift                             4.00     0     3.0    10.0    y    n    -   0.75
+  43    16.8  GHOSTWOMAN                                3.17     0     3.0    12.0    y    n    -   0.75
+  44    16.6  God Is An Astronaut                       4.01     0     5.0    26.0    y    y    -   1.00
+  45    16.5  Led Zeppelin                              0.00     1     0.0     1.0    y    n    Y   0.08
+  46    16.4  Dusty Springfield                         3.91     0     5.0    25.0    y    y    -   0.50
+  47    16.1  Mattiel                                   3.78     0     2.0    11.0    y    n    -   0.17
+  48    15.9  Valley of the Sun                         3.66     0     4.0    17.0    y    n    -   0.75
+  49    15.8  Swan Valley Heights                       3.63     0     1.0     6.0    y    n    -   0.00
+  50    15.8  Carcass                                   0.00     2     0.0     0.0    n    n    -   0.00
+  51    15.7  Black Sabbath                             0.60     0     4.0    18.0    y    y    Y   0.17
+  52    15.3  Kadavar                                   3.40     0     0.0     1.0    y    n    -   1.00
+  53    15.3  UNKLE                                     0.79     1     2.0    13.0    n    n    -   0.42
+  54    15.2  Röyksopp                                 3.05     0     5.0    18.0    y    n    -   1.00
+  55    15.1  LCD Soundsystem                           3.30     0     4.0    20.0    y    y    -   0.25
+  56    15.0  The National                              2.00     0     3.0    12.0    y    n    -   0.67
+  57    14.8  The Clash                                 0.31     0     1.0     4.0    n    n    Y   0.00
+  58    14.8  Katoff                                    3.17     0     0.0     1.0    n    n    -   1.00
+  59    14.4  Kolonie                                   3.01     0     0.0     0.0    n    n    -   0.00
+  60    14.4  delving                                   3.00     0     0.0     2.0    n    n    -   0.67
+  61    14.4  Wings of Desire                           3.00     0     0.0     1.0    n    n    -   1.00
+  62    14.2  Golden Features                           0.00     3     0.0     0.0    n    n    -   0.00
+  63    14.2  Nils Frahm                                0.00     2     1.0     6.0    y    n    -   1.00
+  64    14.2  Pixies                                    0.16     0     2.0    12.0    y    n    Y   1.00
+  65    14.1  Andy Bell                                 2.48     0     3.0    10.0    y    n    -   1.00
+  66    14.0  Dinosaur Jr.                              0.13     0     1.0     8.0    n    n    Y   0.75
+  67    14.0  The Cure                                  0.13     0     1.0     6.0    y    n    Y   1.00
+  68    14.0  U2                                        0.13     0     1.0     5.0    n    n    Y   1.00
   69    13.9  Psychlona                                 2.38     0     2.0    10.0    y    n    -   0.58
   70    13.9  The Atomic Bitchwax                       2.80     0     1.0     5.0    n    n    -   0.00
   71    13.5  Alex M.O.R.P.H.                           2.66     0     0.0     1.0    n    n    -   1.00
@@ -81,7 +81,7 @@
   79    12.8  Maps                                      2.39     0     3.0    15.0    y    y    -   0.67
   80    12.8  Daniel Norgren                            2.38     0     1.0     5.0    n    n    -   0.17
   81    12.8  Caesars                                   2.37     0     3.0    11.0    y    y    -   0.00
-  82    12.7  Jimi Hendrix                              0.00     0     0.0     2.0    y    n    Y   1.00
+  82    12.6  Jimi Hendrix                              0.00     0     0.0     2.0    y    n    Y   1.00
   83    12.6  Hannah Peel                               2.30     0     0.0     6.0    n    n    -   1.00
   84    12.5  Dire Straits                              0.00     0     0.0     1.0    n    n    Y   0.00
   85    12.5  Joy Division                              0.00     0     1.0     6.0    n    n    Y   0.83
@@ -214,7 +214,7 @@
  212     7.4  Blackbelt Andersen                        0.79     0     0.0     2.0    n    n    -   0.00
  213     7.4  Cara Melín                               0.79     0     0.0     0.0    n    n    -   0.42
  214     7.4  Chase & Status                            0.79     0     0.0     0.0    n    n    -   1.00
- 215     7.4  Chris Bekker                              0.79     0     0.0     1.0    n    n    -   0.42
+ 215     7.4  Chris Bekker                              0.79     0     0.0     1.0    n    n    -   0.33
  216     7.4  Christian Burns                           0.79     0     0.0     0.0    n    n    -   1.00
  217     7.4  Clementine Douglas                        0.79     0     1.0     2.0    n    n    -   1.00
  218     7.4  Cosmic Gate                               0.79     0     0.0     1.0    n    n    -   1.00
@@ -281,7 +281,7 @@
  279     6.6  A.L.F                                     0.63     0     0.0     0.0    n    n    -   0.33
  280     6.6  Alex Sonata                               0.63     0     0.0     1.0    n    n    -   0.00
  281     6.6  Aly & Fila                                0.63     0     0.0     0.0    n    n    -   1.00
- 282     6.6  Amelia Fox                                0.63     0     0.0     0.0    n    n    -   1.00
+ 282     6.6  Amelia Fox                                0.63     0     0.0     0.0    n    n    -   0.75
  283     6.6  bailey                                    0.63     0     0.0     3.0    n    n    -   1.00
  284     6.6  Blufeld                                   0.63     0     0.0     0.0    n    n    -   1.00
  285     6.6  Bound to Divide                           0.63     0     0.0     0.0    n    n    -   1.00
@@ -292,7 +292,7 @@
  290     6.6  Dezza                                     0.63     0     0.0     0.0    n    n    -   0.00
  291     6.6  Dozer                                     0.63     0     0.0     1.0    n    n    -   0.25
  292     6.6  Durante                                   0.63     0     1.0     4.0    n    n    -   1.00
- 293     6.6  Eli Spiral                                0.63     0     0.0     0.0    n    n    -   1.00
+ 293     6.6  Eli Spiral                                0.63     0     0.0     0.0    n    n    -   0.92
  294     6.6  Enfant Sauvage                            0.63     0     0.0     1.0    n    n    -   0.33
  295     6.6  F4T4L3RR0R                                0.63     0     0.0     0.0    n    n    -   1.00
  296     6.6  Faces on TV                               0.63     0     1.0     3.0    y    n    -   0.00
@@ -304,7 +304,7 @@
  302     6.6  Jordan Gill                               0.63     0     0.0     0.0    n    n    -   0.67
  303     6.6  Junip                                     0.63     0     2.0    10.0    n    n    -   0.00
  304     6.6  Kidnap                                    0.63     0     1.0     3.0    n    n    -   1.00
- 305     6.6  Kri Samadhi                               0.63     0     0.0     0.0    n    n    -   0.33
+ 305     6.6  Kri Samadhi                               0.63     0     0.0     0.0    n    n    -   0.25
  306     6.6  Lana Del Rey                              0.63     0     0.0     0.0    n    n    -   0.67
  307     6.6  Mars Red Sky                              0.63     0     0.0     0.0    n    n    -   0.67
  308     6.6  Martin Roth                               0.63     0     0.0     1.0    n    n    -   1.00
@@ -363,7 +363,7 @@
  361     5.3  Adam Young                                0.40     0     0.0     0.0    n    n    -   0.00
  362     5.3  Andy Moor                                 0.40     0     0.0     0.0    n    n    -   0.25
  363     5.3  Ariah Noetzel                             0.40     0     0.0     0.0    n    n    -   0.00
- 364     5.3  Cassian                                   0.40     0     0.0     3.0    n    n    -   0.58
+ 364     5.3  Cassian                                   0.40     0     0.0     3.0    n    n    -   0.50
  365     5.3  Chris Severe                              0.40     0     0.0     0.0    n    n    -   0.00
  366     5.3  Driftmoon                                 0.40     0     0.0     1.0    n    n    -   1.00
  367     5.3  Erland Cooper                             0.40     0     0.0     4.0    n    n    -   1.00
@@ -445,7 +445,7 @@
  443     4.2  The Jam                                   0.25     0     1.0     5.0    n    n    -   0.00
  444     4.2  The Observers                             0.25     0     0.0     2.0    n    n    -   0.00
  445     4.2  The Supremes                              0.25     0     1.0     3.0    n    n    -   1.00
- 446     4.2  Tiësto                                   0.25     0     0.0     2.0    n    n    -   0.67
+ 446     4.2  Tiësto                                   0.25     0     0.0     2.0    n    n    -   0.58
  447     4.2  Ty Segall                                 0.25     0     1.0     6.0    n    n    -   1.00
  448     3.9  Dappled Cities                            0.00     0     1.0     5.0    n    n    -   0.75
  449     3.7  1000mods                                  0.20     0     3.0     6.0    n    n    -   0.83
@@ -493,7 +493,7 @@
  491     3.0  James Bay                                 0.13     0     0.0     1.0    n    n    -   0.83
  492     3.0  Johnny Cash                               0.13     0     0.0     0.0    y    n    -   1.00
  493     3.0  Keaton Henson                             0.13     0     0.0     0.0    n    n    -   1.00
- 494     3.0  Moya Brennan                              0.13     0     0.0     2.0    n    n    -   1.00
+ 494     3.0  Moya Brennan                              0.13     0     0.0     2.0    n    n    -   0.75
  495     3.0  Mr. Irish Bastard                         0.13     0     0.0     0.0    n    n    -   1.00
  496     3.0  Mumford & Sons                            0.13     0     0.0     2.0    n    n    -   1.00
  497     3.0  Of Monsters and Men                       0.13     0     0.0     1.0    n    n    -   0.83
@@ -581,14 +581,14 @@
  579     0.0  Eli & Fur                                 0.00     0     0.0     3.0    n    n    -   1.00
  580     0.0  Elmore James                              0.00     0     1.0     6.0    n    n    -   0.00
  581     0.0  Endless Boogie                            0.00     0     0.0     0.0    y    n    -   0.00
- 582     0.0  English Teacher                           0.00     0     0.0     1.0    y    n    -   0.83
+ 582     0.0  English Teacher                           0.00     0     0.0     1.0    y    n    -   0.75
  583     0.0  Enoch Rawk                                0.00     0     1.0     3.0    n    n    -   1.00
  584     0.0  Erol Alkan                                0.00     0     1.0     4.0    n    n    -   0.33
  585     0.0  Fat Sushi                                 0.00     0     0.0     3.0    n    n    -   0.00
  586     0.0  FEWS                                      0.00     0     1.0     3.0    n    n    -   0.00
  587     0.0  Firefriend                                0.00     0     1.0     3.0    y    n    -   1.00
  588     0.0  Floating Points                           0.00     0     1.0     5.0    y    n    -   1.00
- 589     0.0  Fomies                                    0.00     0     1.0     3.0    n    n    -   1.00
+ 589     0.0  Fomies                                    0.00     0     1.0     3.0    n    n    -   0.67
  590     0.0  Freddie King                              0.00     0     1.0     4.0    n    n    -   0.00
  591     0.0  Freedom Hawk                              0.00     0     0.0     0.0    y    n    -   0.00
  592     0.0  Full Fathom 5                             0.00     0     0.0     1.0    y    n    -   0.00
